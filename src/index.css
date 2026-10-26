@@ -104,8 +104,16 @@ a:hover {
 .issue-date {
   margin: 0;
   font-size: 0.8rem;
-  text-transform: capitalize;
   color: var(--ink-muted);
+}
+
+.masthead--compact {
+  padding-bottom: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.back-row {
+  margin: 0 0 1rem;
 }
 
 .lang-toggle {
@@ -282,15 +290,7 @@ a:hover {
 }
 
 /* Story detail */
-.detail-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 0.75rem;
-  padding: 0.5rem 0 1rem;
-  border-bottom: 1px solid var(--line);
-  margin-bottom: 1rem;
-}
+/* .detail-header replaced by shared SiteHeader on story pages */
 
 .back-link {
   font-size: 0.9rem;

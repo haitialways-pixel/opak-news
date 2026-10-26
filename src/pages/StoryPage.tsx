@@ -1,6 +1,6 @@
 import { Link, useParams } from "react-router-dom";
 import { AdPlaceholder } from "../components/AdPlaceholder";
-import { LanguageToggle } from "../components/LanguageToggle";
+import { SiteHeader } from "../components/SiteHeader";
 import { getStoryById } from "../data/stories";
 import { topicLabel } from "../data/topics";
 import { useLanguage } from "../context/LanguageContext";
@@ -14,12 +14,14 @@ export function StoryPage() {
   if (!story) {
     return (
       <div className="page page-story">
-        <header className="detail-header">
+        <header className="masthead masthead--compact">
+          <SiteHeader />
+        </header>
+        <p className="back-row">
           <Link to="/" className="back-link">
             ← {ui.backToFeed}
           </Link>
-          <LanguageToggle />
-        </header>
+        </p>
         <main>
           <p>Atik la pa jwenn / Article introuvable.</p>
         </main>
@@ -31,12 +33,15 @@ export function StoryPage() {
 
   return (
     <div className="page page-story">
-      <header className="detail-header">
+      <header className="masthead masthead--compact">
+        <SiteHeader />
+      </header>
+
+      <p className="back-row">
         <Link to="/" className="back-link">
           ← {ui.backToFeed}
         </Link>
-        <LanguageToggle />
-      </header>
+      </p>
 
       <main className="story-detail">
         <div className="story-meta">

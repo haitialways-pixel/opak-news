@@ -34,7 +34,7 @@ export function obelikaFeaturedEmbedUrl(): string {
 
 export const SITE = {
   name: "Opak News",
-  taglineHt: "Nouvèl Ayiti, kout e klè",
+  taglineHt: "Nouvel Ayiti Kout e klè",
   taglineFr: "L'actualité haïtienne, courte et claire",
   defaultLang: "ht" as const,
 };
