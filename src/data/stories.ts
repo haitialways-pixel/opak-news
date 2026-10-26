@@ -2,7 +2,7 @@ import type { Story } from "../types";
 
 /**
  * Curated Haiti digest — real stories with multi-source credits.
- * Slot 3 (need-to-know) is reserved for Steeve's forthcoming piece.
+ * Slot 3 (need-to-know) is Steeve's editor-pushed piece (isManual).
  * Set isManual: true for editor-pushed stories.
  */
 export const STORIES: Story[] = [
@@ -37,18 +37,18 @@ export const STORIES: Story[] = [
     sources: ["AP News", "The Washington Post", "UN News"],
   },
   {
-    id: "ntk-steeve-forthcoming",
+    id: "ntk-ona-jij-elisee-2026-10",
     tier: "need-to-know",
-    topic: "society",
+    topic: "politics",
     publishedAt: "2026-10-26",
     isManual: true,
     headline: {
-      ht: "Istwa Steeve ap prepare — ap vini byento",
-      fr: "L’histoire que prépare Steeve — bientôt disponible",
+      ht: "Jistis: Jij ki kenbe ansyen DG ONA nan prizon pwal fè fas a lajistis",
+      fr: "Justice : le juge qui maintient l’ancien DG de l’ONA en prison devra faire face à la justice",
     },
     brief: {
-      ht: "Espas sa a rezève pou yon istwa Steeve ap ekri li menm. Nou pap envante nouvèl la — lè li pare, li pral ranplase plas sa a ak yon atik Opak News orijinal (Kreyòl + Franse).",
-      fr: "Cet emplacement est réservé à une histoire que Steeve rédige lui-même. Nous n’inventons pas la nouvelle — dès qu’elle sera prête, elle remplacera ce créneau par un article original Opak News (créole + français).",
+      ht: "Jis Loubens Elisée nan miray lajistis. Kou Kasasyon pral tande yon plent pou refi jistis kont li, sou fason li mennen ankèt sou akizasyon koripsyon kont ansyen Direktè Jeneral ONA a, Jemley Jean Baptiste. Kritik yo di jij la kenbe ansyen chèf ONA a nan prizon san vrè motif. Defans lan di tou jij la kenbe dosye a pandan li pa gen dwa trete dosye a ankò. Anpil moun kwè ke jij la ap aji ak mechansete alye li swiv manman lwa peyi a. Dosye a. Se tribinal la k ap deside l.",
+      fr: "Le juge Loubens Elisée est au pied du mur. La Cour de cassation va entendre une plainte pour déni de justice à son encontre, relative à la façon dont il mène l’enquête sur les accusations de corruption visant l’ancien directeur général de l’ONA, Jemley Jean Baptiste. Les critiques affirment que le juge maintient l’ex-chef de l’ONA en prison sans motif réel. La défense soutient également que le juge conserve le dossier alors qu’il n’a plus le droit de le traiter. Beaucoup estiment que le juge agit avec malveillance, loin de suivre l’esprit de la loi du pays. L’affaire reste entre les mains du tribunal.",
     },
     sources: ["Opak News — edisyon Steeve"],
   },
