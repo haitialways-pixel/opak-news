@@ -1,0 +1,27 @@
+import { Link } from "react-router-dom";
+import { topicLabel } from "../data/topics";
+import { useLanguage } from "../context/LanguageContext";
+import type { Story } from "../types";
+
+interface Props {
+  story: Story;
+  variant?: "lead" | "hit";
+}
+
+export function StoryCard({ story, variant = "hit" }: Props) {
+  const { lang, t, ui } = useLanguage();
+
+  return (
+    <article className={`story-card story-card--${variant}`}>
+      <div className="story-meta">
+        <span className="topic-chip">{topicLabel(story.topic, lang)}</span>
+        {story.isSample && <span className="badge">{ui.sampleBadge}</span>}
+        {story.isManual && <span className="badge badge-manual">{ui.manualBadge}</span>}
+      </div>
+      <h3 className="story-headline">
+        <Link to={`/story/${story.id}`}>{t(story.headline)}</Link>
+      </h3>
+      <p className="story-brief">{t(story.brief)}</p>
+    </article>
+  );
+}

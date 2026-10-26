@@ -1,0 +1,40 @@
+/**
+ * Opak News site configuration.
+ * Change OBELIKA_YOUTUBE_* here (or override via Vite env) without touching UI code.
+ */
+
+const env = import.meta.env;
+
+/** Public channel URL — linked from Featured Video and masthead. */
+export const OBELIKA_YOUTUBE_URL: string =
+  (env.VITE_OBELIKA_YOUTUBE_URL as string | undefined) ??
+  "https://www.youtube.com/@Obelika";
+
+/** Channel ID for embeds (UC…). */
+export const OBELIKA_YOUTUBE_CHANNEL_ID: string =
+  (env.VITE_OBELIKA_YOUTUBE_CHANNEL_ID as string | undefined) ??
+  "UCRii3A1yALqUcgYj4ZcssBQ";
+
+/**
+ * YouTube "uploads" playlist id: replace leading UC with UU.
+ * Used to embed the channel's latest uploads without picking a single video id.
+ */
+export function youtubeUploadsPlaylistId(
+  channelId: string = OBELIKA_YOUTUBE_CHANNEL_ID,
+): string {
+  if (channelId.startsWith("UC")) return `UU${channelId.slice(2)}`;
+  return channelId;
+}
+
+/** Embed URL for the channel's upload playlist (latest-first). */
+export function obelikaFeaturedEmbedUrl(): string {
+  const list = youtubeUploadsPlaylistId();
+  return `https://www.youtube.com/embed/videoseries?list=${encodeURIComponent(list)}`;
+}
+
+export const SITE = {
+  name: "Opak News",
+  taglineHt: "Nouvèl Ayiti, kout e klè",
+  taglineFr: "L'actualité haïtienne, courte et claire",
+  defaultLang: "ht" as const,
+};

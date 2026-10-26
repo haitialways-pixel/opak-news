@@ -1,0 +1,12 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "opak-news",
+  // Compatibility date for Workers runtime
+  "compatibility_date": "2026-10-26",
+  "assets": {
+    // Vite build output
+    "directory": "./dist",
+    // SPA client routing ( /story/:id )
+    "not_found_handling": "single-page-application"
+  }
+}
