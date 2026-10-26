@@ -1,154 +1,161 @@
 import type { Story } from "../types";
 
 /**
- * Sample Haiti digest content for v1.
- * Replace / extend via curation automation later.
+ * Curated Haiti digest — real stories with multi-source credits.
+ * Slot 3 (need-to-know) is reserved for Steeve's forthcoming piece.
  * Set isManual: true for editor-pushed stories.
  */
 export const STORIES: Story[] = [
   {
-    id: "ntk-cp-transition-2026-10",
+    id: "ntk-cep-elections-hold-2026-10",
     tier: "need-to-know",
     topic: "politics",
     publishedAt: "2026-10-26",
-    isSample: true,
     headline: {
-      ht: "Konsèy Prezidansyèl: nouvo kalandriye tranzisyon an nan diskisyon",
-      fr: "Conseil présidentiel : un nouveau calendrier de transition en discussion",
+      ht: "Eleksyon 13 desanm yo an rete: CEP ap revize kalandriye a",
+      fr: "Élections du 13 décembre en suspens : le CEP révise le calendrier",
     },
     brief: {
-      ht: "Lidè politik ak reprezantan sosyete sivil yo ap chèche yon antant sou dat eleksyon yo. Plizyè sous nan Pòtoprens di kalandriye a ka chanje nan semèn kap vini yo, san yon dat final pibliye ankò.",
-      fr: "Des dirigeants politiques et des représentants de la société civile cherchent un accord sur le calendrier électoral. Plusieurs sources à Port-au-Prince indiquent qu’il pourrait évoluer dans les prochaines semaines, sans date finale encore publiée.",
+      ht: "Apre amandman dekrè elektoral 6 oktòb la, Konsèy Elektoral Pwovizwa a pwolonje enskripsyon kandida jiska 31 oktòb epi li ranvwaye kanpay la. Nasyonzini di premye tou prezidansyèl ak lejislatif yo te ranvwaye san nouvo dat. Kan Ruiz Massieu avèti: pa fikse nouvo dat san yon evalyasyon reyalis sou sekirite ak lojistik.",
+      fr: "Après l’amendement du décret électoral du 6 octobre, le Conseil électoral provisoire a prolongé l’inscription des candidatures jusqu’au 31 octobre et reporté la campagne. L’ONU indique que le premier tour présidentiel et législatif a été reporté sans nouvelle date. Carlos Ruiz Massieu met en garde : ne pas fixer de nouvelles dates sans une évaluation réaliste de la sécurité et de la logistique.",
     },
-    sources: ["Sample: Agence locale", "Sample: Radio digests"],
+    sources: ["ONU Info / UN News", "BINUH S/2026/800", "Security Council Report"],
   },
   {
-    id: "ntk-port-cap-haiti-trade",
+    id: "ntk-gsf-salvador-attack-2026-10",
     tier: "need-to-know",
-    topic: "commerce",
+    topic: "security",
     publishedAt: "2026-10-26",
-    isSample: true,
     headline: {
-      ht: "Pò Kap Ayisyen: ogmantasyon trafik kago pou sezon fèt yo",
-      fr: "Port du Cap-Haïtien : hausse du trafic de fret pour la saison des fêtes",
+      ht: "Atak sou Fòs Represyon Gang yo: kat sòlda salvadorien yo toujou manke",
+      fr: "Attaque contre la Force de répression des gangs : quatre soldats salvadoriens toujours portés disparus",
     },
     brief: {
-      ht: "Operatè pò yo rapòte plis kontenè ki ap antre pou pwovizyon ak machandiz konsomatè. Komèsan nan Nò a di pri transpò a rete wo, men livrezon yo pi regilye pase nan mwa pase yo.",
-      fr: "Les opérateurs portuaires signalent davantage de conteneurs entrants pour l’approvisionnement et les biens de consommation. Les commerçants du Nord indiquent que les coûts de transport restent élevés, mais que les livraisons sont plus régulières que les mois précédents.",
+      ht: "Gang yo te tire sou yon machin blende nan Kwadesboukè nan fen semèn nan — pi gwo atak depi Fòs la kòmanse operasyon. Kat teknisyen avyasyon salvadorien rete san nouvèl. Washington Post rapòte kèk rès yo jwenn pa sanble pa t pou yo; Prezidan Bukele te di deja « se pa mesye nou yo ».",
+      fr: "Des gangs ont ouvert le feu sur un véhicule blindé à Croix-des-Bouquets en fin de semaine — la plus grave attaque depuis le début des opérations de la Force. Quatre techniciens d’aviation salvadoriens restent sans nouvelles. Le Washington Post indique que certains restes retrouvés ne semblent pas leur appartenir ; le président Bukele avait déjà affirmé « ce ne sont pas nos hommes ».",
     },
-    sources: ["Sample: Port authority brief", "Sample: Chamber digest"],
+    sources: ["AP News", "The Washington Post", "UN News"],
   },
   {
-    id: "ntk-solar-microgrid-artibonite",
+    id: "ntk-steeve-forthcoming",
     tier: "need-to-know",
-    topic: "development",
-    publishedAt: "2026-10-25",
-    isSample: true,
-    headline: {
-      ht: "Mikro-rezo solè: twa komin nan Latibonit resevwa nouvo enstalasyon",
-      fr: "Micro-réseaux solaires : trois communes de l’Artibonite reçoivent de nouvelles installations",
-    },
-    brief: {
-      ht: "Yon pwojè patenarya ap mete panno solè ak batri pou klinik ak mache lokal. Rezidan yo di limyè a ap ede biznis ti jan yo rete ouvè pi ta nan aswè.",
-      fr: "Un projet de partenariat installe des panneaux solaires et des batteries pour des cliniques et des marchés locaux. Des habitants indiquent que l’éclairage aide les petites entreprises à rester ouvertes plus tard le soir.",
-    },
-    sources: ["Sample: NGO field note", "Sample: Energy desk"],
-  },
-  {
-    id: "qh-fintech-mobile-money",
-    tier: "quick-hit",
-    topic: "tech",
+    topic: "society",
     publishedAt: "2026-10-26",
-    isSample: true,
+    isManual: true,
     headline: {
-      ht: "Fintech lokal: nouvo API pou peman mobil ant bank ak machann",
-      fr: "Fintech locale : une nouvelle API de paiement mobile entre banques et commerçants",
+      ht: "Istwa Steeve ap prepare — ap vini byento",
+      fr: "L’histoire que prépare Steeve — bientôt disponible",
     },
     brief: {
-      ht: "Plizyè konpayi teknoloji ap teste yon lyen ki pèmèt machann yo resevwa peman pi rapid. Pilot la kòmanse nan Pòtoprens ak Okap.",
-      fr: "Plusieurs entreprises tech testent une passerelle permettant aux commerçants de recevoir des paiements plus rapidement. Le pilote démarre à Port-au-Prince et au Cap-Haïtien.",
+      ht: "Espas sa a rezève pou yon istwa Steeve ap ekri li menm. Nou pap envante nouvèl la — lè li pare, li pral ranplase plas sa a ak yon atik Opak News orijinal (Kreyòl + Franse).",
+      fr: "Cet emplacement est réservé à une histoire que Steeve rédige lui-même. Nous n’inventons pas la nouvelle — dès qu’elle sera prête, elle remplacera ce créneau par un article original Opak News (créole + français).",
     },
-    sources: ["Sample: Tech roundup"],
+    sources: ["Opak News — edisyon Steeve"],
   },
   {
-    id: "qh-road-gonaives",
-    tier: "quick-hit",
-    topic: "development",
-    publishedAt: "2026-10-25",
-    isSample: true,
-    headline: {
-      ht: "Wout Gonayiv–Ench: reparasyon ijan apre gwo lapli",
-      fr: "Route Gonaïves–Hinche : réparations urgentes après de fortes pluies",
-    },
-    brief: {
-      ht: "Ekip minisipal yo ap ranje seksyon ki te bloke. Chofè transpò piblik mande pi bon drenaj anvan sezon lapli a fini.",
-      fr: "Des équipes municipales réparent des tronçons bloqués. Les transporteurs publics demandent un meilleur drainage avant la fin de la saison des pluies.",
-    },
-    sources: ["Sample: Local desk"],
-  },
-  {
-    id: "qh-export-mango",
-    tier: "quick-hit",
-    topic: "commerce",
-    publishedAt: "2026-10-25",
-    isSample: true,
-    headline: {
-      ht: "Ekspòtasyon mango: ekspè avèti sou kalite ak chèn frèt",
-      fr: "Exportation de mangues : les experts alertent sur la qualité et la chaîne du froid",
-    },
-    brief: {
-      ht: "Pwodiktè yo di mache etranje a mande plis kontwòl tanperati. Envestisman nan depo frèt ka deside volim sezon an.",
-      fr: "Les producteurs indiquent que les marchés étrangers exigent davantage de contrôle de la température. L’investissement dans le froid pourrait déterminer les volumes de la saison.",
-    },
-    sources: ["Sample: Agri trade note"],
-  },
-  {
-    id: "qh-security-corridor",
+    id: "qh-gangs-rural-violence-un",
     tier: "quick-hit",
     topic: "security",
-    publishedAt: "2026-10-24",
-    isSample: true,
+    publishedAt: "2026-10-19",
     headline: {
-      ht: "Koridò Sid: patwouy konjwen pou sekirize wout machandiz",
-      fr: "Corridor Sud : patrouilles conjointes pour sécuriser les axes commerciaux",
+      ht: "Vyolans gang yo gaye nan kanpay: 1 123 mouri depi jiyè",
+      fr: "La violence des gangs gagne les campagnes : 1 123 morts depuis juillet",
     },
     brief: {
-      ht: "Otorite lokal yo rapòte plis prezans sou wout kle yo. Komèsan yo di livrezon yo pi previsib, men yo mande kontinwite.",
-      fr: "Les autorités locales signalent une présence accrue sur les axes clés. Les commerçants jugent les livraisons plus prévisibles, mais demandent de la continuité.",
+      ht: "BINUH di gang yo ap adapte taktik yo: otaj, reprezal, e atak nan zòn riral (Kenskòf, Sen Michèl Lataye, Marigo, Leyogàn). 241 moun te mouri nan Lwès ak Latibonit paske yo te reziste. Fòs la gen 1 563 inifòm sou 5 550 otorize.",
+      fr: "Le BINUH indique que les gangs adaptent leurs tactiques : otages, représailles et attaques en zones rurales (Kenscoff, Saint-Michel-de-l’Atalaye, Marigot, Léogâne). 241 personnes ont été tuées dans l’Ouest et l’Artibonite pour avoir résisté. La Force compte 1 563 uniformes sur 5 550 autorisés.",
     },
-    sources: ["Sample: Security brief"],
+    sources: ["ONU Info", "UN News", "Rapò Sekretè Jeneral"],
   },
   {
-    id: "qh-school-reopen",
-    tier: "quick-hit",
-    topic: "society",
-    publishedAt: "2026-10-24",
-    isSample: true,
-    headline: {
-      ht: "Lekòl nan zòn metwopòl: retounen klas ak orè fleksib",
-      fr: "Écoles de la zone métropolitaine : reprise des cours avec horaires flexibles",
-    },
-    brief: {
-      ht: "Direktè lekòl yo ap ajiste orè pou elèv ki gen pwoblèm transpò. Paran yo mande plis sipò pou materyèl ak sekirite lakou lekòl.",
-      fr: "Des directions d’école adaptent les horaires pour les élèves confrontés aux difficultés de transport. Les parents demandent davantage de soutien pour le matériel et la sécurité des cours.",
-    },
-    sources: ["Sample: Education desk"],
-  },
-  {
-    id: "qh-diaspora-remit",
+    id: "qh-commerce-caravan-5000",
     tier: "quick-hit",
     topic: "commerce",
-    publishedAt: "2026-10-23",
-    isSample: true,
+    publishedAt: "2026-10-18",
     headline: {
-      ht: "Transfè dyaspora: volim rete wo malgre frè ki wo",
-      fr: "Transferts de la diaspora : des volumes élevés malgré des frais importants",
+      ht: "Karavàn komès: objektif 5 000 antrepriz fòmèl nan 10 depatman",
+      fr: "Caravane du commerce : objectif 5 000 entreprises formelles dans les 10 départements",
     },
     brief: {
-      ht: "Analis yo note fanmi yo kontinye voye lajan pou manje ak lwaye. Konkirans ant platfòm yo ka bese frè yo nan mwa kap vini yo.",
-      fr: "Les analystes notent que les familles continuent d’envoyer de l’argent pour la nourriture et le loyer. La concurrence entre plateformes pourrait faire baisser les frais dans les mois à venir.",
+      ht: "Minis James Monazard lanse yon pwogram rejyonal nan Montana (16 oktòb) pou ede ti biznis enskri non komèsyal ak kat pwofesyonèl. Biwo depatmantal yo ap resevwa òdinatè; platfòm enskripsyon sou entènèt lan te lanse nan fen 2024.",
+      fr: "Le ministre James Monazard a lancé un programme régional à l’Hôtel Montana (16 octobre) pour aider les petites entreprises à enregistrer leurs noms commerciaux et cartes professionnelles. Les bureaux départementaux recevront du matériel informatique ; la plateforme d’enregistrement en ligne date de fin 2024.",
     },
-    sources: ["Sample: Remittance watch"],
+    sources: ["Le Soulouquois", "Ministère du Commerce"],
+  },
+  {
+    id: "qh-aiesu-startups-uni",
+    tier: "quick-hit",
+    topic: "tech",
+    publishedAt: "2026-10-11",
+    headline: {
+      ht: "AIESU: 20 pwojè inivèsitè chwazi pou sipò inovasyon",
+      fr: "AIESU : 20 projets universitaires sélectionnés pour l’appui à l’innovation",
+    },
+    brief: {
+      ht: "MCI lanse Pwojè Sipò Inovasyon Antreprenarya ak Startup Inivèsitè nan Inivèsite Kiskeya (9 oktòb). Premye kwòt: 20 pwojè apre yon konpetisyon pitch. Enkubatè deja nan Kiskeya; yon lòt ap louvri nan Okay, ak objektif yon enkubatè pa depatman.",
+      fr: "Le MCI a lancé le Projet d’appui à l’innovation entrepreneuriale et aux startups universitaires à l’Université Quisqueya (9 octobre). Première cohorte : 20 projets après un concours de pitch. Un incubateur existe déjà à Quisqueya ; un autre ouvrira aux Cayes, avec l’objectif d’un incubateur par département.",
+    },
+    sources: ["HaitiLibre", "MCI / Université Quisqueya"],
+  },
+  {
+    id: "qh-remittances-tps-risk",
+    tier: "quick-hit",
+    topic: "commerce",
+    publishedAt: "2026-10-02",
+    headline: {
+      ht: "Transfè dyaspora: sere TPS ta ka souke estabilite ekonomik",
+      fr: "Transferts de la diaspora : un durcissement du TPS pourrait fragiliser la stabilité économique",
+    },
+    brief: {
+      ht: "Chèchè BRH (Blaise, Victor, Cayemitte) di yon sere TPS kapab vin yon chòk sou to chanje, rezèv ak bidjè — men pa otomatikman imedyat. Diminisyon transfè ta afekte konsomasyon, rezèv devis, e antre fiskal Eta a.",
+      fr: "Des chercheurs de la BRH (Blaise, Victor, Cayemitte) estiment qu’un durcissement du TPS pourrait devenir un choc sur le taux de change, les réserves et le budget — sans transmission automatique ni immédiate. Une baisse des transferts affecterait la consommation, les réserves de devises et les recettes fiscales.",
+    },
+    sources: ["Le Nouvelliste", "NAGO.TV", "BRH / DREF"],
+  },
+  {
+    id: "qh-frg-launch-tabarre",
+    tier: "quick-hit",
+    topic: "security",
+    publishedAt: "2026-10-09",
+    headline: {
+      ht: "FRG ofisyèlman lanse nan baz Vètyè, Tabar",
+      fr: "La FRG officiellement lancée à la base Vertières, Tabarre",
+    },
+    brief: {
+      ht: "Premye Minis Alix Didier Fils-Aimé te lanse deplwaman Fòs Represyon Gang yo 8 oktòb, ak peyi kontribitè, kò diplomatik ak Nasyonzini. Jack Christofides di Fòs la la sou demann Ayiti, ansanm ak PNH ak FAd’H.",
+      fr: "Le Premier ministre Alix Didier Fils-Aimé a lancé le déploiement de la Force de répression des gangs le 8 octobre, avec les pays contributeurs, le corps diplomatique et l’ONU. Jack Christofides affirme que la Force est présente à la demande d’Haïti, aux côtés de la PNH et des FAd’H.",
+    },
+    sources: ["Le National", "Primature"],
+  },
+  {
+    id: "qh-humanitarian-idp-15m",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-10-19",
+    headline: {
+      ht: "Prèske 1,5 milyon deplase: plan imanitè 2026 a mwatye finanse",
+      fr: "Près de 1,5 million de déplacés : le plan humanitaire 2026 à moitié financé",
+    },
+    brief: {
+      ht: "BINUH rapòte plis pase 17 000 nouvo deplase nan twa mwa ki sot pase yo; total la prèske 1,5 milyon, mwatye se timoun. Ekonomi an prevwa kontrakte pou setyèm ane konsèktif; bezwen imanitè yo depase mwayen yo genyen.",
+      fr: "Le BINUH rapporte plus de 17 000 nouveaux déplacés sur les trois derniers mois ; le total approche 1,5 million, dont la moitié d’enfants. L’économie devrait se contracter pour une septième année consécutive ; les besoins humanitaires dépassent les moyens disponibles.",
+    },
+    sources: ["UN News", "BINUH", "WFP"],
+  },
+  {
+    id: "qh-brh-digital-payments",
+    tier: "quick-hit",
+    topic: "tech",
+    publishedAt: "2026-10-20",
+    headline: {
+      ht: "BRH: pilòt peman machann ak enklizyon finansye dijital",
+      fr: "BRH : pilote de paiement marchand et inclusion financière numérique",
+    },
+    brief: {
+      ht: "Gouvènè Ronald Gabriel di bank santral la ap pouse yon ekosistèm peman aksesib, entèoperab e sekirize. Yon pwojè peman machann ap prepare yon faz pilòt pou ti komèsan antre nan ekonomi fòmèl, ak sipò Bank Mondyal sou inovasyon.",
+      fr: "Le gouverneur Ronald Gabriel indique que la banque centrale pousse un écosystème de paiements accessible, interopérable et sécurisé. Un projet de paiement marchand prépare une phase pilote pour intégrer les petits commerçants à l’économie formelle, avec l’appui de la Banque mondiale sur l’innovation.",
+    },
+    sources: ["BRH", "Banque mondiale (LAC)"],
   },
 ];
 
