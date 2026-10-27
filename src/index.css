@@ -406,6 +406,7 @@ a:hover {
 }
 
 .promo-banner--cpcredo .promo-tagline {
+  white-space: pre-line;
   color: #3a4f3d;
 }
 

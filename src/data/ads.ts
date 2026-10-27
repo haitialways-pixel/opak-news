@@ -28,7 +28,7 @@ export interface PromoAd {
 export const CPCREDO_AD: PromoAd = {
   id: "cpcredo",
   brand: "CPCREDO",
-  tagline: "Jwen eskont ou bezswen an nan kès popilè paw la.",
+  tagline: "Jwenn eskont ou bezwen an nan men kès popilè paw la!\nPou plis enfòmasyon, rele nou.",
   phoneDisplay: "+509-4108-1537",
   phoneHref: "tel:+50941081537",
   webDisplay: "cpcredo.com",
