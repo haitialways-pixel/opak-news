@@ -31,7 +31,7 @@ export const TOPICS: TopicMeta[] = [
   },
   {
     id: "society",
-    label: { ht: "Sosyete", fr: "Society" },
+    label: { ht: "Sosyete", fr: "Société" },
   },
   {
     id: "gossip",
