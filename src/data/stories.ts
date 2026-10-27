@@ -96,6 +96,52 @@ export const STORIES: Story[] = [
     },
     sources: ["Haiti Chronicle", "CSPJ"],
   },
+
+  {
+    id: "qh-gov-gonave-mict-2026-10",
+    tier: "quick-hit",
+    topic: "governance",
+    publishedAt: "2026-10-26",
+    headline: {
+      ht: "MICT: La Gonav, sekirite ak sèvis de baz nan mitan priyorite yo",
+      fr: "MICT : La Gonâve, sécurité et services de base au centre des priorités",
+    },
+    brief: {
+      ht: "Minis Enteryè Paul Antoine Bien-Aimé te prezide yon sesyon travay sou sitiyasyon awondisman La Gonav. Yo pale de ensekirite, aksè limite a sèvis de baz, difikilte ekonomik ak feblès kowòdinasyon ant sèvis leta ak otorite lokal yo. Sekretè deta Sharina Lochard mande pi bon kominikasyon; patisipan yo separe pwoblèm rapid ak sa ki bezwen swivi.",
+      fr: "Le ministre de l’Intérieur Paul Antoine Bien-Aimé a présidé une session de travail sur la situation de l’arrondissement de La Gonâve. Au menu: insécurité, accès limité aux services de base, difficultés économiques et faible coordination entre services de l’État et autorités locales. La secrétaire d’État Sharina Lochard a plaidé pour une meilleure communication; les participants ont séparé les problèmes réglables rapidement de ceux qui exigent un suivi.",
+    },
+    sources: ["Le Soulouquois", "iciHaïti"],
+  },
+  {
+    id: "qh-gov-sipdec-data-2026-10",
+    tier: "quick-hit",
+    topic: "governance",
+    publishedAt: "2026-10-21",
+    headline: {
+      ht: "SIPDEC: done lokal pou desantralizasyon; pa gen resansman depi 2003",
+      fr: "SIPDEC : des données locales pour la décentralisation ; pas de recensement depuis 2003",
+    },
+    brief: {
+      ht: "Dezyèm konferans SIPDEC (16-18 oktòb, Villa Thérèse) mete kolektivite teritoryal yo nan sant la. Ayiti pa fè resansman depi 2003 epi li depann sou pwojeksyon. Enstitisyon piblik ak prive, pratisyen ak chèchè diskite kijan pou pase de done a desizyon pou otorite lokal yo.",
+      fr: "La 2e conférence SIPDEC (16-18 octobre, Villa Thérèse) a placé les collectivités territoriales au centre. Haïti n’a pas tenu de recensement depuis 2003 et s’appuie sur des projections. Institutions publiques et privées, praticiens et chercheurs ont débattu comment passer des données à la décision pour les autorités locales.",
+    },
+    sources: ["Le Nouvelliste"],
+  },
+  {
+    id: "qh-gov-casec-territoire-2026-10",
+    tier: "quick-hit",
+    topic: "governance",
+    publishedAt: "2026-10-10",
+    headline: {
+      ht: "CASEC ak Eta santral: ki wòl pou devlopman teritoryal?",
+      fr: "CASEC et État central : quel rôle pour le développement territorial ?",
+    },
+    brief: {
+      ht: "Agronòm Bonhomme Jeannel (Radio Principal FM) raple CASEC yo se otorite pwoksimite nan seksyon kominal yo, men yo bezwen mwayen ak klète sou konpetans. Devlopman teritoryal pa ka rete sou yo sèlman: Eta santral la kenbe politik nasyonal, gwo enfrastrikti ak redistribisyon. Li mande pi bon kowòdinasyon ak alokasyon ekitab.",
+      fr: "L’agronome Bonhomme Jeannel (Radio Principal FM) rappelle que les CASEC sont des autorités de proximité dans les sections communales, mais qu’ils manquent de moyens et de clarté sur les compétences. Le développement territorial ne peut reposer sur eux seuls: l’État central garde les politiques nationales, les grandes infrastructures et la redistribution. Il appelle à une meilleure coordination et à une allocation équitable des ressources.",
+    },
+    sources: ["Radio Principal FM"],
+  },
   {
     id: "qh-metronome-corvington-guerrier-2026-10",
     tier: "quick-hit",
