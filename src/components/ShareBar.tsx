@@ -18,10 +18,10 @@ function storyAbsoluteUrl(storyId: string): string {
 
 function IconX({ className }: { className?: string }) {
   return (
-    <svg className={className} viewBox="002424" aria-hidden="true" focusable="false">
+    <svg className={className} viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path
         fill="currentColor"
-        d="M18.2442.25h3.308l-7.2278.268.50211.24H16.17l-5.214-6.817L4.9921.75H1.68l7.73-8.835L1.2542.25H8.08l4.7136.231zm-1.16117.52h1.833L7.0844.126H5.117z"
+        d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"
       />
     </svg>
   );
@@ -29,10 +29,10 @@ function IconX({ className }: { className?: string }) {
 
 function IconFacebook({ className }: { className?: string }) {
   return (
-    <svg className={className} viewBox="002424" aria-hidden="true" focusable="false">
+    <svg className={className} viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path
         fill="currentColor"
-        d="M2212.06C226.50517.5232122S26.505212.06c05.0163.6579.1768.4389.94v-7.03H7.898v-2.91h2.54V9.845c0-2.5221.492-3.9153.777-3.9151.09402.238.1972.238.197v2.48h-1.26c-1.2430-1.63.778-1.631.577v1.896h2.773l-.4432.91h-2.33V22c4.781-.7648.438-4.9248.438-9.94z"
+        d="M22 12.06C22 6.505 17.523 2 12 2S2 6.505 2 12.06c0 5.016 3.657 9.176 8.438 9.94v-7.03H7.898v-2.91h2.54V9.845c0-2.522 1.492-3.915 3.777-3.915 1.094 0 2.238.197 2.238.197v2.48h-1.26c-1.243 0-1.63.778-1.63 1.577v1.896h2.773l-.443 2.91h-2.33V22c4.781-.764 8.438-4.924 8.438-9.94z"
       />
     </svg>
   );
@@ -40,10 +40,10 @@ function IconFacebook({ className }: { className?: string }) {
 
 function IconInstagram({ className }: { className?: string }) {
   return (
-    <svg className={className} viewBox="002424" aria-hidden="true" focusable="false">
+    <svg className={className} viewBox="0 0 24 24" aria-hidden="true" focusable="false">
       <path
         fill="currentColor"
-        d="M7.752h8.5A5.755.75001227.75v8.5A5.755.7500116.2522h-8.5A5.755.75001216.25v-8.5A5.755.750017.752zm01.5A4.254.250003.57.75v8.5a4.254.250004.254.25h8.5a4.254.250004.25-4.25v-8.5a4.254.25000-4.25-4.25h-8.5zm8.751.75a1.1251.12501102.251.1251.1250010-2.25zM127a55011010550010-10zm01.5a3.53.5010073.53.50000-7z"
+        d="M7.75 2h8.5A5.75 5.75 0 0 1 22 7.75v8.5A5.75 5.75 0 0 1 16.25 22h-8.5A5.75 5.75 0 0 1 2 16.25v-8.5A5.75 5.75 0 0 1 7.75 2zm0 1.5A4.25 4.25 0 0 0 3.5 7.75v8.5a4.25 4.25 0 0 0 4.25 4.25h8.5a4.25 4.25 0 0 0 4.25-4.25v-8.5a4.25 4.25 0 0 0-4.25-4.25h-8.5zm8.75 1.75a1.125 1.125 0 1 1 0 2.25 1.125 1.125 0 0 1 0-2.25zM12 7a5 5 0 1 1 0 10 5 5 0 0 1 0-10zm0 1.5a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7z"
       />
     </svg>
   );
