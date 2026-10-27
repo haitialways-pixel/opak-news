@@ -1,4 +1,3 @@
-import { useCallback, useState } from "react";
 import { useLanguage } from "../context/LanguageContext";
 import type { LocalizedText } from "../types";
 
@@ -38,51 +37,14 @@ function IconFacebook({ className }: { className?: string }) {
   );
 }
 
-function IconInstagram({ className }: { className?: string }) {
-  return (
-    <svg className={className} viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path
-        fill="currentColor"
-        d="M7.75 2h8.5A5.75 5.75 0 0 1 22 7.75v8.5A5.75 5.75 0 0 1 16.25 22h-8.5A5.75 5.75 0 0 1 2 16.25v-8.5A5.75 5.75 0 0 1 7.75 2zm0 1.5A4.25 4.25 0 0 0 3.5 7.75v8.5a4.25 4.25 0 0 0 4.25 4.25h8.5a4.25 4.25 0 0 0 4.25-4.25v-8.5a4.25 4.25 0 0 0-4.25-4.25h-8.5zm8.75 1.75a1.125 1.125 0 1 1 0 2.25 1.125 1.125 0 0 1 0-2.25zM12 7a5 5 0 1 1 0 10 5 5 0 0 1 0-10zm0 1.5a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7z"
-      />
-    </svg>
-  );
-}
-
 export function ShareBar({ storyId, headline, variant = "detail" }: Props) {
   const { ui } = useLanguage();
-  const [copied, setCopied] = useState(false);
 
   const url = storyAbsoluteUrl(storyId);
-  // Prefer Creole headline for share text
-  const shareText = headline.ht || headline.fr;
+  const shareText = headline.fr || headline.ht;
 
   const xHref = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(url)}`;
   const facebookHref = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`;
-
-  const copyForInstagram = useCallback(async () => {
-    try {
-      await navigator.clipboard.writeText(url);
-      setCopied(true);
-      window.setTimeout(() => setCopied(false), 2500);
-    } catch {
-      // Fallback for older browsers
-      const ta = document.createElement("textarea");
-      ta.value = url;
-      ta.setAttribute("readonly", "");
-      ta.style.position = "absolute";
-      ta.style.left = "-9999px";
-      document.body.appendChild(ta);
-      ta.select();
-      try {
-        document.execCommand("copy");
-        setCopied(true);
-        window.setTimeout(() => setCopied(false), 2500);
-      } finally {
-        document.body.removeChild(ta);
-      }
-    }
-  }, [url]);
 
   return (
     <div
@@ -118,29 +80,7 @@ export function ShareBar({ storyId, headline, variant = "detail" }: Props) {
             <span className="share-btn-text">Facebook</span>
           )}
         </a>
-        <button
-          type="button"
-          className="share-btn share-btn--instagram"
-          onClick={copyForInstagram}
-          aria-label={ui.shareOnInstagram}
-          title={ui.instagramHint}
-        >
-          <IconInstagram className="share-icon" />
-          {variant === "detail" && (
-            <span className="share-btn-text">Instagram</span>
-          )}
-        </button>
       </div>
-      {variant === "detail" && (
-        <p className="share-hint" aria-live="polite">
-          {copied ? ui.linkCopied : ui.instagramHint}
-        </p>
-      )}
-      {variant === "card" && copied && (
-        <span className="share-copied-toast" aria-live="polite">
-          {ui.linkCopied}
-        </span>
-      )}
     </div>
   );
 }

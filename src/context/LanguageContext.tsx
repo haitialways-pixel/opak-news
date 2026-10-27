@@ -30,9 +30,6 @@ interface LanguageContextValue {
     shareLabel: string;
     shareOnX: string;
     shareOnFacebook: string;
-    shareOnInstagram: string;
-    instagramHint: string;
-    linkCopied: string;
     sendNote: string;
   };
 }
@@ -56,9 +53,6 @@ const UI = {
     shareLabel: "Pataje",
     shareOnX: "Pataje sou X",
     shareOnFacebook: "Pataje sou Facebook",
-    shareOnInstagram: "Kopye lyen pou Instagram",
-    instagramHint: "Instagram pa gen pataj sou entènèt. Kopye lyen an, epi kole l nan Instagram.",
-    linkCopied: "Lyen kopi!",
     sendNote: "Voye nou yon nòt",
   },
   fr: {
@@ -77,9 +71,6 @@ const UI = {
     shareLabel: "Partager",
     shareOnX: "Partager sur X",
     shareOnFacebook: "Partager sur Facebook",
-    shareOnInstagram: "Copier le lien pour Instagram",
-    instagramHint: "Instagram n'a pas de partage web. Copiez le lien, puis collez-le dans Instagram.",
-    linkCopied: "Lien copié!",
     sendNote: "Envoyez-nous une note",
   },
 } as const;
