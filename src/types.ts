@@ -22,8 +22,10 @@ export interface Story {
   tier: "need-to-know" | "quick-hit";
   topic: TopicId;
   headline: LocalizedText;
-  /** Short blurb / brief body. */
+  /** Short blurb / teaser on the feed. */
   brief: LocalizedText;
+  /** Optional full article body (story page only). */
+  body?: LocalizedText;
   /** Optional source credit shown under the brief. */
   sources?: string[];
   /** ISO date YYYY-MM-DD */

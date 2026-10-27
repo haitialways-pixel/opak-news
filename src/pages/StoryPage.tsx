@@ -59,6 +59,16 @@ export function StoryPage() {
 
         <h1 className="detail-headline">{t(story.headline)}</h1>
         <p className="detail-brief">{t(story.brief)}</p>
+        {story.body && (
+          <div className="detail-body">
+            {t(story.body)
+              .split(/\n\n+/)
+              .filter(Boolean)
+              .map((para, i) => (
+                <p key={i}>{para}</p>
+              ))}
+          </div>
+        )}
 
         <ShareBar storyId={story.id} headline={story.headline} variant="detail" />
 
@@ -74,6 +84,16 @@ export function StoryPage() {
           </summary>
           <h2 className="detail-headline alt">{story.headline[otherLang]}</h2>
           <p className="detail-brief">{story.brief[otherLang]}</p>
+          {story.body && (
+            <div className="detail-body">
+              {story.body[otherLang]
+                .split(/\n\n+/)
+                .filter(Boolean)
+                .map((para, i) => (
+                  <p key={i}>{para}</p>
+                ))}
+            </div>
+          )}
         </details>
 
         <AdPlaceholder />

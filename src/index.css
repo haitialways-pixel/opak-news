@@ -690,3 +690,16 @@ a:hover {
   hyphens: none;
 }
 .nowrap-num, a[href^="tel:"] { white-space: nowrap; }
+
+.detail-body {
+  margin: 1rem 0 1.25rem;
+  font-size: 1.02rem;
+  line-height: 1.55;
+  color: var(--text, #1a1a1a);
+}
+.detail-body p {
+  margin: 0 0 0.9rem;
+}
+.detail-body p:last-child {
+  margin-bottom: 0;
+}
