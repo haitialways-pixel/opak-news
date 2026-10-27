@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { ShareBar } from "./ShareBar";
 import { topicLabel } from "../data/topics";
 import { useLanguage } from "../context/LanguageContext";
 import type { Story } from "../types";
@@ -22,6 +23,7 @@ export function StoryCard({ story, variant = "hit" }: Props) {
         <Link to={`/story/${story.id}`}>{t(story.headline)}</Link>
       </h3>
       <p className="story-brief">{t(story.brief)}</p>
+      <ShareBar storyId={story.id} headline={story.headline} variant="card" />
     </article>
   );
 }

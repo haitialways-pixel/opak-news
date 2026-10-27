@@ -565,3 +565,110 @@ a:hover {
     font-size: 1.4rem;
   }
 }
+
+
+/* Social share */
+.share-bar {
+  margin: 0.85rem 0 1rem;
+}
+
+.share-bar--card {
+  margin: 0.65rem 0 0;
+  position: relative;
+}
+
+.share-bar-label {
+  display: block;
+  margin-bottom: 0.4rem;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-muted);
+}
+
+.share-bar-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.share-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  min-height: 2.4rem;
+  min-width: 2.4rem;
+  padding: 0.4rem 0.7rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--bg-card);
+  color: var(--brand);
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-decoration: none;
+  cursor: pointer;
+  line-height: 1;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.share-btn:hover {
+  border-color: var(--accent-deep);
+  color: var(--accent-deep);
+}
+
+.share-btn:focus-visible {
+  outline: 2px solid var(--accent-deep);
+  outline-offset: 2px;
+}
+
+.share-icon {
+  width: 1.05rem;
+  height: 1.05rem;
+  flex: 0 0 auto;
+}
+
+.share-btn--x {
+  color: #0f1419;
+}
+
+.share-btn--facebook {
+  color: #1877f2;
+}
+
+.share-btn--instagram {
+  color: #c13584;
+}
+
+.share-btn-text {
+  display: none;
+}
+
+@media (min-width: 420px) {
+  .share-bar--detail .share-btn-text {
+    display: inline;
+  }
+}
+
+.share-hint {
+  margin: 0.45rem 0 0;
+  font-size: 0.78rem;
+  color: var(--ink-muted);
+  line-height: 1.35;
+}
+
+.share-copied-toast {
+  display: inline-block;
+  margin-top: 0.35rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #0f6b3c;
+}
+
+.share-bar--card .share-btn {
+  min-height: 2.1rem;
+  min-width: 2.1rem;
+  padding: 0.35rem;
+}

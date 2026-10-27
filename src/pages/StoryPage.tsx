@@ -1,5 +1,6 @@
 import { Link, useParams } from "react-router-dom";
 import { AdPlaceholder } from "../components/AdPlaceholder";
+import { ShareBar } from "../components/ShareBar";
 import { SiteHeader } from "../components/SiteHeader";
 import { getStoryById } from "../data/stories";
 import { topicLabel } from "../data/topics";
@@ -55,6 +56,8 @@ export function StoryPage() {
 
         <h1 className="detail-headline">{t(story.headline)}</h1>
         <p className="detail-brief">{t(story.brief)}</p>
+
+        <ShareBar storyId={story.id} headline={story.headline} variant="detail" />
 
         {story.sources && story.sources.length > 0 && (
           <p className="sources">
