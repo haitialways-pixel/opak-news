@@ -19,6 +19,9 @@ export interface PromoAd {
   webDisplay: string;
   webHref: string;
   theme: PromoTheme;
+  /** Optional logo path under public/ (shown on the right). */
+  logoSrc?: string;
+  logoAlt?: string;
 }
 
 /** CPCREDO — copy as provided by sponsor. */
@@ -37,6 +40,7 @@ export const CPCREDO_AD: PromoAd = {
  * Group Delmas 91 — from groupdelmas91.org (501(c)(3), est. 2021).
  * Tagline summarizes Mission page: mobile clinic, food bank, backpack drive for Delmas.
  * Contact: contact@groupdelmas91.org
+ * Logo: official mark from groupdelmas91.org (saved to public/delmas91-logo.png).
  */
 export const DELMAS91_AD: PromoAd = {
   id: "delmas91",
@@ -48,6 +52,8 @@ export const DELMAS91_AD: PromoAd = {
   webDisplay: "groupdelmas91.org",
   webHref: "https://www.groupdelmas91.org/",
   theme: "delmas91",
+  logoSrc: "/delmas91-logo.png",
+  logoAlt: "Group Delmas 91 — Ansyen Zanmi Nouvo Fanmi",
 };
 
 /** Rotating story-page promos (under brief). */

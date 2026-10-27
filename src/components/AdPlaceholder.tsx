@@ -39,20 +39,29 @@ function PromoBanner({ ad }: { ad: PromoAd }) {
 
   return (
     <div className={`promo-banner promo-banner--${ad.theme}`}>
-      <p className="promo-brand">{ad.brand}</p>
-      <p className="promo-tagline">{ad.tagline}</p>
-      <p className="promo-contact">
-        {contacts.map((node, i) => (
-          <span key={i} className="promo-contact-item">
-            {i > 0 && (
-              <span className="promo-sep" aria-hidden="true">
-                ·
+      <div className="promo-banner-body">
+        <div className="promo-banner-copy">
+          <p className="promo-brand">{ad.brand}</p>
+          <p className="promo-tagline">{ad.tagline}</p>
+          <p className="promo-contact">
+            {contacts.map((node, i) => (
+              <span key={i} className="promo-contact-item">
+                {i > 0 && (
+                  <span className="promo-sep" aria-hidden="true">
+                    ·
+                  </span>
+                )}
+                {node}
               </span>
-            )}
-            {node}
-          </span>
-        ))}
-      </p>
+            ))}
+          </p>
+        </div>
+        {ad.logoSrc ? (
+          <div className="promo-banner-logo" aria-hidden={false}>
+            <img src={ad.logoSrc} alt={ad.logoAlt ?? ad.brand} />
+          </div>
+        ) : null}
+      </div>
     </div>
   );
 }
