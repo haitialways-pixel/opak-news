@@ -35,8 +35,8 @@ export const STORIES: Story[] = [
     publishedAt: "2026-10-27",
     isBreaking: true,
     headline: {
-      ht: "BREAKING: ~1000 sòlda Salvador nan Ayiti; kat teknisyen toujou manke",
-      fr: "BREAKING : environ 1000 soldats salvadoriens en Haïti ; quatre techniciens toujours manquants",
+      ht: "~1000 sòlda Salvador nan Ayiti; kat teknisyen toujou manke",
+      fr: "Environ 1000 soldats salvadoriens en Haïti ; quatre techniciens toujours manquants",
     },
     brief: {
       ht: "Yon sous sekirite nan Ayiti di Reuters (madi 27 oktòb) ke anviwon 1000 sòlda Salvador te rive nan dènye jou yo, apre anbiskad 18 oktòb nan Kwadesboukè kote kat teknisyen avyasyon FRG yo rete san nouvèl. Pa klè ki moun k ap kòmande nouvo kontenjan an ni konbyen tan. US Southern Command te ede ak avyon C-130; Dominikani ofri sipò lojistik. Gang 400 Mawozo demanti yo kenbe yo; rechèch la kontinye.",
