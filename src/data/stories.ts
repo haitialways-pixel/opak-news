@@ -35,14 +35,14 @@ export const STORIES: Story[] = [
     publishedAt: "2026-10-27",
     isBreaking: true,
     headline: {
-      ht: "FRG: kat teknisyen salvadorien toujou manke; Bukele voye fòs espesyal",
-      fr: "FRG : quatre techniciens salvadoriens toujours manquants ; Bukele envoie des forces spéciales",
+      ht: "BREAKING: ~1000 sòlda Salvador nan Ayiti; kat teknisyen toujou manke",
+      fr: "BREAKING : environ 1000 soldats salvadoriens en Haïti ; quatre techniciens toujours manquants",
     },
     brief: {
-      ht: "Depi anbiskad 18 oktòb nan Kwadesboukè, kat teknisyen avyasyon salvadorien nan Fòs Represyon Gang yo rete san nouvèl. Salvador te deplwaye plizyè santèn sòlda espesyal pou yo chèche yo. Rès yo te remèt Fòs la, men GSF di li poko konfime idantite yo. Prezidan Bukele di « se pa mesye nou yo » epi li menase plis aksyon si otaj yo pa tounen vivan.",
-      fr: "Depuis l’embuscade du 18 octobre à Croix-des-Bouquets, quatre techniciens d’aviation salvadoriens de la Force de répression des gangs restent sans nouvelles. El Salvador a déployé plusieurs centaines de soldats des forces spéciales pour les rechercher. Des restes ont été remis à la Force, mais la GSF dit ne pas encore pouvoir confirmer leur identité. Le président Bukele affirme « ce ne sont pas nos hommes » et menace d’agir davantage si les otages ne sont pas rendus vivants.",
+      ht: "Yon sous sekirite nan Ayiti di Reuters (madi 27 oktòb) ke anviwon 1000 sòlda Salvador te rive nan dènye jou yo, apre anbiskad 18 oktòb nan Kwadesboukè kote kat teknisyen avyasyon FRG yo rete san nouvèl. Pa klè ki moun k ap kòmande nouvo kontenjan an ni konbyen tan. US Southern Command te ede ak avyon C-130; Dominikani ofri sipò lojistik. Gang 400 Mawozo demanti yo kenbe yo; rechèch la kontinye.",
+      fr: "Une source sécuritaire en Haïti indique à Reuters (mardi 27 octobre) qu’environ 1000 soldats salvadoriens sont arrivés ces derniers jours, après l’embuscade du 18 octobre à Croix-des-Bouquets où quatre techniciens d’aviation de la FRG restent introuvables. Le commandement du nouveau contingent et sa durée restent flous. Le US Southern Command a aidé avec des C-130; la République dominicaine offre un soutien logistique. Le gang 400 Mawozo nie les détenir; les recherches continuent.",
     },
-    sources: ["AP News", "Miami Herald", "The Washington Post", "BBC", "UN News"],
+    sources: ["Reuters", "Miami Herald", "BBC Mundo", "AP News"],
   },
   {
     id: "qh-repatriation-trump-tps-2026-10",
