@@ -387,38 +387,38 @@ a:hover {
   object-fit: contain;
 }
 
-/* CPCREDO — warm gold / green (kept colorful) */
+/* CPCREDO — soft cream / sage (muted, easier on eyes) */
 .promo-banner--cpcredo {
-  border: 1px solid #c9a227;
-  border-left: 5px solid #2f9e44;
+  border: 1px solid #c5c8a8;
+  border-left: 5px solid #6a9a6e;
   background: linear-gradient(
     135deg,
-    #fff8e1 0%,
-    #ffe082 38%,
-    #c8e6c9 100%
+    #fbfaf4 0%,
+    #f3f0e4 45%,
+    #e8efe6 100%
   );
-  color: #1b3a1f;
+  color: #2a3d2c;
 }
 
 .promo-banner--cpcredo .promo-brand {
-  color: #1b5e20;
-  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+  color: #2f5c35;
+  text-shadow: none;
 }
 
 .promo-banner--cpcredo .promo-tagline {
-  color: #24362a;
+  color: #3a4f3d;
 }
 
 .promo-banner--cpcredo .promo-contact a {
-  color: #0d47a1;
+  color: #2a5f7a;
 }
 
 .promo-banner--cpcredo .promo-contact a:hover {
-  color: #e65100;
+  color: #1a3d52;
 }
 
 .promo-banner--cpcredo .promo-sep {
-  color: #6d4c41;
+  color: #8a9080;
 }
 
 /* Group Delmas 91 — muted pastel blues (not blinding); dark text for contrast */
