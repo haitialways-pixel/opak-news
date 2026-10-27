@@ -6,6 +6,14 @@ export const TOPICS: TopicMeta[] = [
     label: { ht: "Politik", fr: "Politique" },
   },
   {
+    id: "governance",
+    label: { ht: "Gouvènans ak teritwa", fr: "Gouvernance et territoire" },
+  },
+  {
+    id: "justice",
+    label: { ht: "Ayiti ak Jistis", fr: "Haiti and Justice" },
+  },
+  {
     id: "development",
     label: { ht: "Devlopman", fr: "Développement" },
   },
@@ -23,7 +31,7 @@ export const TOPICS: TopicMeta[] = [
   },
   {
     id: "society",
-    label: { ht: "Sosyal", fr: "Société" },
+    label: { ht: "Sosyete", fr: "Society" },
   },
   {
     id: "gossip",

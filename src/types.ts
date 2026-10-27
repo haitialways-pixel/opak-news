@@ -2,6 +2,8 @@ export type Lang = "ht" | "fr";
 
 export type TopicId =
   | "politics"
+  | "governance"
+  | "justice"
   | "development"
   | "tech"
   | "commerce"
