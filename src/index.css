@@ -388,6 +388,17 @@ a:hover {
   color: var(--ink-muted);
 }
 
+.footer-contact {
+  margin: 0.35rem 0 0;
+  font-size: 0.9rem;
+}
+
+.footer-contact a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
 .site-footer .muted {
   margin: 0.25rem 0 0;
   font-size: 0.78rem;

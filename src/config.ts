@@ -37,4 +37,6 @@ export const SITE = {
   taglineHt: "Nouvel Ayiti Kout e klè",
   taglineFr: "L'actualité haïtienne, courte et claire",
   defaultLang: "ht" as const,
+  /** Editorial / redaction contact */
+  contactEmail: "Haitialways@gmail.com",
 };

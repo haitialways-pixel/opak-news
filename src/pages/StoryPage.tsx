@@ -77,6 +77,10 @@ export function StoryPage() {
         <Link to="/" className="brand-inline">
           {SITE.name}
         </Link>
+        <p className="footer-contact">
+          Redaction:{" "}
+          <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>
+        </p>
       </footer>
     </div>
   );
