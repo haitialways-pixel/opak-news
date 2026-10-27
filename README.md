@@ -68,7 +68,7 @@ Topics: `src/data/topics.ts`.
 | Path | What |
 | --- | --- |
 | `/` | Masthead, Need to Know, Featured Video, In the Know |
-| `/story/:id` | Brief + language toggle + **ad placeholder under brief** |
+| `/story/:id` | Brief + language toggle + **sponsored CPCREDO banner under brief** |
 
 ## Still placeholder
 

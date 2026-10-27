@@ -24,7 +24,6 @@ interface LanguageContextValue {
     manualBadge: string;
     backToFeed: string;
     adLabel: string;
-    adPlaceholder: string;
     today: string;
     dualHint: string;
   };
@@ -43,8 +42,6 @@ const UI = {
     manualBadge: "Editè",
     backToFeed: "Tounen nan nouvèl yo",
     adLabel: "Piblisite",
-    adPlaceholder:
-      "Espas piblisite (AdMob / anons entènèt) — plase anba rezime a",
     today: "Jodi a",
     dualHint: "Kreyòl · Franse",
   },
@@ -58,8 +55,6 @@ const UI = {
     manualBadge: "Éditeur",
     backToFeed: "Retour au fil",
     adLabel: "Publicité",
-    adPlaceholder:
-      "Emplacement publicitaire (AdMob / web) — sous le résumé",
     today: "Aujourd’hui",
     dualHint: "Créole · Français",
   },
