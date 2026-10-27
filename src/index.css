@@ -681,5 +681,12 @@ a:hover {
 }
 
 /* Keep numbers together (no mid-number wraps) */
-.story-brief, .detail-brief, .promo-tagline { word-break: normal; overflow-wrap: break-word; hyphens: manual; }
+.story-brief,
+.detail-brief,
+.promo-tagline {
+  white-space: pre-line;
+  word-break: normal;
+  overflow-wrap: break-word;
+  hyphens: none;
+}
 .nowrap-num, a[href^="tel:"] { white-space: nowrap; }
