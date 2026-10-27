@@ -59,7 +59,7 @@ export const STORIES: Story[] = [
     publishedAt: "2026-10-26",
     isManual: true,
     headline: {
-      ht: "Tripotay: Corvington ak Guerrier nan miray lajistis pou Radio Télé Metronome",
+      ht: "Tripotay: Corvington ak Guerrier devan lajist pou Radio Télé Metronome",
       fr: "Rumeurs : Corvington et Guerrier s’affrontent en justice autour de Radio Télé Metronome",
     },
     brief: {
