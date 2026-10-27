@@ -55,7 +55,7 @@ a:hover {
 
 /* Masthead */
 .masthead {
-  padding: 0.75rem 0 1rem;
+  padding: 0.75rem 01rem;
   border-bottom: 3px solid var(--brand);
   margin-bottom: 1.25rem;
 }
@@ -96,7 +96,7 @@ a:hover {
 }
 
 .tagline {
-  margin: 0.55rem 0 0.15rem;
+  margin: 0.55rem 00.15rem;
   color: var(--ink-muted);
   font-size: 0.95rem;
 }
@@ -113,7 +113,7 @@ a:hover {
 }
 
 .back-row {
-  margin: 0 0 1rem;
+  margin: 001rem;
 }
 
 .lang-toggle {
@@ -145,7 +145,7 @@ a:hover {
 }
 
 .section-label {
-  margin: 0 0 0.85rem;
+  margin: 000.85rem;
   font-size: 0.72rem;
   font-weight: 800;
   letter-spacing: 0.08em;
@@ -242,7 +242,7 @@ a:hover {
 }
 
 .story-headline {
-  margin: 0 0 0.45rem;
+  margin: 000.45rem;
   font-family: var(--serif);
   font-size: 1.15rem;
   line-height: 1.25;
@@ -271,7 +271,7 @@ a:hover {
 }
 
 .topic-heading {
-  margin: 0 0 0.55rem;
+  margin: 000.55rem;
   font-size: 0.95rem;
   font-weight: 800;
   color: var(--brand);
@@ -307,7 +307,7 @@ a:hover {
 }
 
 .detail-headline {
-  margin: 0.35rem 0 0.75rem;
+  margin: 0.35rem 00.75rem;
   font-family: var(--serif);
   font-size: 1.55rem;
   line-height: 1.2;
@@ -319,18 +319,18 @@ a:hover {
 }
 
 .detail-brief {
-  margin: 0 0 1rem;
+  margin: 001rem;
   font-size: 1.02rem;
 }
 
 .sources {
-  margin: 0 0 1rem;
+  margin: 001rem;
   font-size: 0.85rem;
   color: var(--ink-muted);
 }
 
 .alt-lang {
-  margin: 0 0 1.25rem;
+  margin: 001.25rem;
   border: 1px dashed var(--line);
   border-radius: var(--radius);
   padding: 0.65rem 0.85rem;
@@ -362,7 +362,7 @@ a:hover {
 .promo-banner {
   border-radius: var(--radius);
   padding: 1rem 1.05rem;
-  box-shadow: 0 6px 18px rgba(20, 32, 51, 0.12);
+  box-shadow: 06px 18px rgba(20, 32, 51, 0.12);
   transition: background 0.35s ease, box-shadow 0.35s ease;
 }
 
@@ -373,12 +373,12 @@ a:hover {
 }
 
 .promo-banner-copy {
-  flex: 1 1 auto;
+  flex: 11 auto;
   min-width: 0;
 }
 
 .promo-banner-logo {
-  flex: 0 0 auto;
+  flex: 00 auto;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -400,9 +400,9 @@ a:hover {
   border-left: 5px solid #6a9a6e;
   background: linear-gradient(
     135deg,
-    #fbfaf4 0%,
-    #f3f0e4 45%,
-    #e8efe6 100%
+    #fbfaf40%,
+    #f3f0e445%,
+    #e8efe6100%
   );
   color: #2a3d2c;
 }
@@ -436,7 +436,7 @@ a:hover {
   background: linear-gradient(
     135deg,
     #f4f8fb 0%,
-    #e4eef5 45%,
+    #e4eef545%,
     #d5e4ef 100%
   );
   color: #1a3d52;
@@ -467,7 +467,7 @@ a:hover {
   background: #ffffff;
   border-radius: 0.55rem;
   padding: 0.3rem 0.35rem;
-  box-shadow: 0 1px 4px rgba(22, 56, 76, 0.12);
+  box-shadow: 01px 4px rgba(22, 56, 76, 0.12);
 }
 
 .promo-brand {
@@ -479,7 +479,7 @@ a:hover {
 }
 
 .promo-tagline {
-  margin: 0.4rem 0 0.7rem;
+  margin: 0.4rem 00.7rem;
   font-size: 0.95rem;
   line-height: 1.4;
   font-weight: 500;
@@ -541,7 +541,7 @@ a:hover {
 }
 
 .footer-contact {
-  margin: 0.35rem 0 0;
+  margin: 0.35rem 00;
   font-size: 0.9rem;
 }
 
@@ -552,7 +552,7 @@ a:hover {
 }
 
 .site-footer .muted {
-  margin: 0.25rem 0 0;
+  margin: 0.25rem 00;
   font-size: 0.78rem;
 }
 
@@ -576,11 +576,11 @@ a:hover {
 
 /* Social share */
 .share-bar {
-  margin: 0.85rem 0 1rem;
+  margin: 0.85rem 01rem;
 }
 
 .share-bar--card {
-  margin: 0.65rem 0 0;
+  margin: 0.65rem 00;
   position: relative;
 }
 
@@ -634,7 +634,7 @@ a:hover {
 .share-icon {
   width: 1.05rem;
   height: 1.05rem;
-  flex: 0 0 auto;
+  flex: 00 auto;
 }
 
 .share-btn--x {
@@ -660,7 +660,7 @@ a:hover {
 }
 
 .share-hint {
-  margin: 0.45rem 0 0;
+  margin: 0.45rem 00;
   font-size: 0.78rem;
   color: var(--ink-muted);
   line-height: 1.35;
