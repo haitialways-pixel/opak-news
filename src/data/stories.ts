@@ -300,11 +300,11 @@ export const STORIES: Story[] = [
     publishedAt: "2026-10-27",
     isManual: true,
     headline: {
-      ht: "Priz a pati ak atik 470: sa arete 2 jen 2026 di vre",
+      ht: "Prise à partie et article 470 : ce que dit réellement l’arrêt du 2 juin 2026",
       fr: "Prise à partie et article 470 : ce que dit réellement l’arrêt du 2 juin 2026",
     },
     brief: {
-      ht: "Sou 2 jen 2026, Kou Kasasyon an admèt yon priz a pati kont jij Loubens Elisée, sou demann Mesye Jemley Marc Jean-Baptiste. Arete a te siyifye 8 jen. Kesyon an: èske jij la dwe sispann trete dosye a? Atik 470 ak presedan 1997 bay repons dwa a.",
+      ht: "Le 2 juin 2026, la Cour de cassation a admis une prise à partie contre le juge Loubens Elisée, sur requête de M. Jemley Marc Jean-Baptiste. L’arrêt a été signifié le 8 juin. Enjeu: le magistrat doit-il s’abstenir? L’article 470 et le précédent de 1997 fixent la réponse en droit.",
       fr: "Le 2 juin 2026, la Cour de cassation a admis une prise à partie contre le juge Loubens Elisée, sur requête de M. Jemley Marc Jean-Baptiste. L’arrêt a été signifié le 8 juin. Enjeu: le magistrat doit-il s’abstenir? L’article 470 et le précédent de 1997 fixent la réponse en droit.",
     },
     body: {
