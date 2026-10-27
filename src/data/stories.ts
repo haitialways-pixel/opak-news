@@ -53,6 +53,22 @@ export const STORIES: Story[] = [
     sources: ["Opak News — edisyon Steeve"],
   },
   {
+    id: "qh-metronome-corvington-guerrier-2026-10",
+    tier: "quick-hit",
+    topic: "gossip",
+    publishedAt: "2026-10-26",
+    isManual: true,
+    headline: {
+      ht: "Tripotay: Corvington ak Guerrier nan miray lajistis pou Radio Télé Metronome",
+      fr: "Rumeurs : Corvington et Guerrier s’affrontent en justice autour de Radio Télé Metronome",
+    },
+    brief: {
+      ht: "Difè ap boule nan Radio Télé Metronome. Jean Corvington (Me Hantz Ludwig Joseph) ak CEO Guerrier Dieuseul (Me Mario Delcy) ap ale nan tribinal ayisyen. Selon Infos Partage, yo akize Corvington li pran paj X ak YouTube medya a pou zafè pèsonèl — deyò nòm jounalis. Guerrier anboche Me Delcy pou bloke li sou rezo yo. Yo di Corvington deja resevwa de konvokasyon.",
+      fr: "Le conflit enfle à Radio Télé Metronome. Jean Corvington (Me Hantz Ludwig Joseph) et le CEO Guerrier Dieuseul (Me Mario Delcy) se retrouvent devant la justice haïtienne. Selon Infos Partage, Corvington est accusé d’avoir détourné les pages X et YouTube du média pour des affaires personnelles — hors des normes journalistiques. Guerrier a engagé Me Delcy pour lui interdire l’usage de ces pages. Corvington aurait déjà reçu deux convocations.",
+    },
+    sources: ["Infos Partage (@infospartagesos)", "Opak News — Tripotay"],
+  },
+  {
     id: "qh-gangs-rural-violence-un",
     tier: "quick-hit",
     topic: "security",

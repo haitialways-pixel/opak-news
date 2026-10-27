@@ -25,6 +25,10 @@ export const TOPICS: TopicMeta[] = [
     id: "society",
     label: { ht: "Sosyal", fr: "Société" },
   },
+  {
+    id: "gossip",
+    label: { ht: "Tripotay", fr: "Rumeurs" },
+  },
 ];
 
 export function topicLabel(

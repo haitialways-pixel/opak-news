@@ -6,7 +6,8 @@ export type TopicId =
   | "tech"
   | "commerce"
   | "security"
-  | "society";
+  | "society"
+  | "gossip";
 
 export interface LocalizedText {
   ht: string;
