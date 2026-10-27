@@ -50,7 +50,7 @@ export const STORIES: Story[] = [
       ht: "Jis Loubens Elisée nan miray lajistis. Kou Kasasyon pral tande yon plent pou refi jistis kont li, sou fason li mennen ankèt sou akizasyon koripsyon kont ansyen Direktè Jeneral ONA a, Jemley Jean Baptiste. Kritik yo di jij la kenbe ansyen chèf ONA a nan prizon san vrè motif. Defans lan di tou jij la kenbe dosye a pandan li pa gen dwa trete dosye a ankò. Anpil moun kwè ke jij la ap aji ak mechansete alye li swiv manman lwa peyi a. Dosye a. Se tribinal la k ap deside l.",
       fr: "Le juge Loubens Elisée est au pied du mur. La Cour de cassation va entendre une plainte pour déni de justice à son encontre, relative à la façon dont il mène l’enquête sur les accusations de corruption visant l’ancien directeur général de l’ONA, Jemley Jean Baptiste. Les critiques affirment que le juge maintient l’ex-chef de l’ONA en prison sans motif réel. La défense soutient également que le juge conserve le dossier alors qu’il n’a plus le droit de le traiter. Beaucoup estiment que le juge agit avec malveillance, loin de suivre l’esprit de la loi du pays. L’affaire reste entre les mains du tribunal.",
     },
-    sources: ["Opak News — Sitwayen Angaje"],
+    sources: ["Opak News — Blaise Antoine Joseph (BAJ)"],
   },
   {
     id: "qh-metronome-corvington-guerrier-2026-10",
