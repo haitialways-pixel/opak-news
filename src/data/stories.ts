@@ -2,39 +2,45 @@ import type { Story } from "../types";
 
 /**
  * Curated Haiti digest — real stories with multi-source credits.
- * Slot 3 (need-to-know) is Steeve's editor-pushed piece (isManual).
+ * Slot 3 (need-to-know) is the editor-pushed ONA piece (isManual).
  * Set isManual: true for editor-pushed stories.
  */
 export const STORIES: Story[] = [
   {
-    id: "ntk-cep-elections-hold-2026-10",
-    tier: "need-to-know",
-    topic: "politics",
-    publishedAt: "2026-10-26",
-    headline: {
-      ht: "Eleksyon 13 desanm yo an rete: CEP ap revize kalandriye a",
-      fr: "Élections du 13 décembre en suspens : le CEP révise le calendrier",
-    },
-    brief: {
-      ht: "Apre amandman dekrè elektoral 6 oktòb la, Konsèy Elektoral Pwovizwa a pwolonje enskripsyon kandida jiska 31 oktòb epi li ranvwaye kanpay la. Nasyonzini di premye tou prezidansyèl ak lejislatif yo te ranvwaye san nouvo dat. Kan Ruiz Massieu avèti: pa fikse nouvo dat san yon evalyasyon reyalis sou sekirite ak lojistik.",
-      fr: "Après l’amendement du décret électoral du 6 octobre, le Conseil électoral provisoire a prolongé l’inscription des candidatures jusqu’au 31 octobre et reporté la campagne. L’ONU indique que le premier tour présidentiel et législatif a été reporté sans nouvelle date. Carlos Ruiz Massieu met en garde : ne pas fixer de nouvelles dates sans une évaluation réaliste de la sécurité et de la logistique.",
-    },
-    sources: ["ONU Info / UN News", "BINUH S/2026/800", "Security Council Report"],
-  },
-  {
     id: "ntk-gsf-salvador-attack-2026-10",
     tier: "need-to-know",
     topic: "security",
-    publishedAt: "2026-10-26",
+    publishedAt: "2026-10-27",
     headline: {
-      ht: "Atak sou Fòs Represyon Gang yo: kat sòlda salvadorien yo toujou manke",
-      fr: "Attaque contre la Force de répression des gangs : quatre soldats salvadoriens toujours portés disparus",
+      ht: "FRG: kat teknisyen salvadorien toujou manke; Bukele voye fòs espesyal",
+      fr: "FRG : quatre techniciens salvadoriens toujours manquants ; Bukele envoie des forces spéciales",
     },
     brief: {
-      ht: "Gang yo te tire sou yon machin blende nan Kwadesboukè nan fen semèn nan; se pi gwo atak depi Fòs la kòmanse operasyon. Kat teknisyen avyasyon salvadorien rete san nouvèl. Washington Post rapòte kèk rès yo jwenn pa sanble pa t pou yo; Prezidan Bukele te di deja « se pa mesye nou yo ».",
-      fr: "Des gangs ont ouvert le feu sur un véhicule blindé à Croix-des-Bouquets en fin de semaine; c’est la plus grave attaque depuis le début des opérations de la Force. Quatre techniciens d’aviation salvadoriens restent sans nouvelles. Le Washington Post indique que certains restes retrouvés ne semblent pas leur appartenir ; le président Bukele avait déjà affirmé « ce ne sont pas nos hommes ».",
+      ht: "Depi anbiskad 18 oktòb nan Kwadesboukè, kat teknisyen avyasyon salvadorien nan Fòs Represyon Gang yo rete san nouvèl. Salvador te deplwaye plizyè santèn sòlda espesyal pou yo chèche yo. Rès yo te remèt Fòs la, men GSF di li poko konfime idantite yo. Prezidan Bukele di « se pa mesye nou yo » epi li menase plis aksyon si otaj yo pa tounen vivan.",
+      fr: "Depuis l’embuscade du 18 octobre à Croix-des-Bouquets, quatre techniciens d’aviation salvadoriens de la Force de répression des gangs restent sans nouvelles. El Salvador a déployé plusieurs centaines de soldats des forces spéciales pour les rechercher. Des restes ont été remis à la Force, mais la GSF dit ne pas encore pouvoir confirmer leur identité. Le président Bukele affirme « ce ne sont pas nos hommes » et menace d’agir davantage si les otages ne sont pas rendus vivants.",
     },
-    sources: ["AP News", "The Washington Post", "UN News"],
+    sources: ["AP News", "Miami Herald", "The Washington Post", "BBC", "UN News"],
+  },
+  {
+    id: "ntk-repatriation-trump-tps-2026-10",
+    tier: "need-to-know",
+    topic: "society",
+    publishedAt: "2026-10-27",
+    headline: {
+      ht: "Trump: deportasyon ayisyen yo kontinye apre fen TPS; HBA mande sispansyon",
+      fr: "Trump : les déportations d’Haïtiens continuent après la fin du TPS ; HBA demande une suspension",
+    },
+    brief: {
+      ht: "Administrasyon Trump kontinye voye ayisyen tounen, sitou nan Kap Ayisyen. Haitian Bridge Alliance denonse yon vòl rapòte 22 oktòb epi li mande Sena a retabli TPS pou plis pase 300 000 ayisyen. TPS ak otòrizasyon travay te sispann 27 jiyè 2026. GARR di Etazini te voye tounen omwen 1 187 ayisyen ane sa a; HRW te konte plizyè vòl depi 20 out. Retounen yo jwenn vyolans gang, deplase, e ti sipò reentegrasyon.",
+      fr: "L’administration Trump continue de renvoyer des Haïtiens, surtout vers Cap-Haïtien. Haitian Bridge Alliance dénonce un vol rapporté le 22 octobre et demande au Sénat de rétablir le TPS pour plus de 300 000 Haïtiens. Le TPS et l’autorisation de travail ont pris fin le 27 juillet 2026. Le GARR indique qu’au moins 1 187 Haïtiens ont été renvoyés des États-Unis cette année ; HRW a compté plusieurs vols depuis le 20 août. Les rapatriés retrouvent violence des gangs, déplacements et peu de soutien à la réintégration.",
+    },
+    sources: [
+      "Haitian Bridge Alliance",
+      "Jamaica Observer / CMC",
+      "USA TODAY",
+      "El País",
+      "GARR",
+    ],
   },
   {
     id: "ntk-ona-jij-elisee-2026-10",
@@ -69,6 +75,51 @@ export const STORIES: Story[] = [
     sources: ["Infos Partage (@infospartagesos)", "Opak News — Tripotay"],
   },
   {
+    id: "qh-gossip-ulcc-martelly-return-2026-10",
+    tier: "quick-hit",
+    topic: "gossip",
+    publishedAt: "2026-10-27",
+    headline: {
+      ht: "Tripotay: apre ULCC, Martelly ak Céant tounen; avoka yo nan afè Metronome",
+      fr: "Rumeurs : après l’ULCC, Martelly et Céant reviennent ; leurs avocats dans l’affaire Métronome",
+    },
+    brief: {
+      ht: "Depi 2 jiyè, Hans Ludwig Joseph pa DG ULCC ankò. Nan jou sa yo, Jean-Henry Céant ak Michel Martelly tounen nan peyi a; tou de te nan rapò ULCC. Koulye a, nan lit Metronome a, Corvington gen Me Joseph kòm avoka, pandan Guerrier gen Me Mario Delcy, ke plizyè medya prezante kòm avoka Martelly. Sou rezo yo, moun ap mande si lit medya a pa gen koulè politik tou.",
+      fr: "Depuis le 2 juillet, Hans Ludwig Joseph n’est plus DG de l’ULCC. Dans la foulée, Jean-Henry Céant et Michel Martelly sont revenus au pays ; tous deux figuraient dans des rapports de l’ULCC. Dans le litige Métronome, Corvington a Me Joseph pour avocat, tandis que Guerrier a Me Mario Delcy, présenté par plusieurs médias comme avocat de Martelly. Sur les réseaux, on se demande si le conflit médiatique n’a pas aussi une couleur politique.",
+    },
+    sources: ["Mag2News", "Lakay Info", "Rezo Nòdwès", "Satellite509", "Opak News — Tripotay"],
+  },
+  {
+    id: "qh-gossip-rutshelle-teddy-2026-10",
+    tier: "quick-hit",
+    topic: "gossip",
+    publishedAt: "2026-10-27",
+    headline: {
+      ht: "Tripotay: Rutshelle ak Teddy Hashtag ofisyèlman ansanm",
+      fr: "Rumeurs : Rutshelle et Teddy Hashtag officialisent leur couple",
+    },
+    brief: {
+      ht: "Apre mwa tripotay sou rezo yo, Rutshelle Guillaume ak Teddy Hashtag pibliye foto koup la. Fanatik yo te deja soupsonen depi kolaborasyon « Ou banm lanmou ». An kèk èdtan, pòs yo gaye sou Instagram, Facebook, TikTok ak X. Anpil moun mande si yo pral fè plis mizik ansanm.",
+      fr: "Après des mois de rumeurs sur les réseaux, Rutshelle Guillaume et Teddy Hashtag ont publié des photos de couple. Les fans soupçonnaient déjà une histoire depuis la collaboration « Ou banm lanmou ». En quelques heures, les posts ont envahi Instagram, Facebook, TikTok et X. Beaucoup se demandent s’ils feront davantage de musique ensemble.",
+    },
+    sources: ["Lakay Info 509", "Opak News — Tripotay"],
+  },
+  {
+    id: "qh-cep-elections-hold-2026-10",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-10-26",
+    headline: {
+      ht: "Eleksyon 13 desanm yo an rete: CEP ap revize kalandriye a",
+      fr: "Élections du 13 décembre en suspens : le CEP révise le calendrier",
+    },
+    brief: {
+      ht: "Apre amandman dekrè elektoral 6 oktòb la, Konsèy Elektoral Pwovizwa a pwolonje enskripsyon kandida jiska 31 oktòb epi li ranvwaye kanpay la. Nasyonzini di premye tou prezidansyèl ak lejislatif yo te ranvwaye san nouvo dat. Kan Ruiz Massieu avèti: pa fikse nouvo dat san yon evalyasyon reyalis sou sekirite ak lojistik.",
+      fr: "Après l’amendement du décret électoral du 6 octobre, le Conseil électoral provisoire a prolongé l’inscription des candidatures jusqu’au 31 octobre et reporté la campagne. L’ONU indique que le premier tour présidentiel et législatif a été reporté sans nouvelle date. Carlos Ruiz Massieu met en garde : ne pas fixer de nouvelles dates sans une évaluation réaliste de la sécurité et de la logistique.",
+    },
+    sources: ["ONU Info / UN News", "BINUH S/2026/800", "Security Council Report"],
+  },
+  {
     id: "qh-gangs-rural-violence-un",
     tier: "quick-hit",
     topic: "security",
@@ -82,6 +133,36 @@ export const STORIES: Story[] = [
       fr: "Le BINUH indique que les gangs adaptent leurs tactiques : otages, représailles et attaques en zones rurales (Kenscoff, Saint-Michel-de-l’Atalaye, Marigot, Léogâne). 241 personnes ont été tuées dans l’Ouest et l’Artibonite pour avoir résisté. La Force compte 1 563 uniformes sur 5 550 autorisés.",
     },
     sources: ["ONU Info", "UN News", "Rapò Sekretè Jeneral"],
+  },
+  {
+    id: "qh-humanitarian-idp-15m",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-10-19",
+    headline: {
+      ht: "Prèske 1,5 milyon deplase: plan imanitè 2026 a mwatye finanse",
+      fr: "Près de 1,5 million de déplacés : le plan humanitaire 2026 à moitié financé",
+    },
+    brief: {
+      ht: "BINUH rapòte plis pase 17 000 nouvo deplase nan twa mwa ki sot pase yo; total la prèske 1,5 milyon, mwatye se timoun. Ekonomi an prevwa kontrakte pou setyèm ane konsèktif; bezwen imanitè yo depase mwayen yo genyen.",
+      fr: "Le BINUH rapporte plus de 17 000 nouveaux déplacés sur les trois derniers mois ; le total approche 1,5 million, dont la moitié d’enfants. L’économie devrait se contracter pour une septième année consécutive ; les besoins humanitaires dépassent les moyens disponibles.",
+    },
+    sources: ["UN News", "BINUH", "WFP"],
+  },
+  {
+    id: "qh-brh-digital-payments",
+    tier: "quick-hit",
+    topic: "tech",
+    publishedAt: "2026-10-20",
+    headline: {
+      ht: "BRH: pilòt peman machann ak enklizyon finansye dijital",
+      fr: "BRH : pilote de paiement marchand et inclusion financière numérique",
+    },
+    brief: {
+      ht: "Gouvènè Ronald Gabriel di bank santral la ap pouse yon ekosistèm peman aksesib, entèoperab e sekirize. Yon pwojè peman machann ap prepare yon faz pilòt pou ti komèsan antre nan ekonomi fòmèl, ak sipò Bank Mondyal sou inovasyon.",
+      fr: "Le gouverneur Ronald Gabriel indique que la banque centrale pousse un écosystème de paiements accessible, interopérable et sécurisé. Un projet de paiement marchand prépare une phase pilote pour intégrer les petits commerçants à l’économie formelle, avec l’appui de la Banque mondiale sur l’innovation.",
+    },
+    sources: ["BRH", "Banque mondiale (LAC)"],
   },
   {
     id: "qh-commerce-caravan-5000",
@@ -114,64 +195,19 @@ export const STORIES: Story[] = [
     sources: ["HaitiLibre", "MCI / Université Quisqueya"],
   },
   {
-    id: "qh-remittances-tps-risk",
+    id: "qh-soley-etzer-decret-2026-10",
     tier: "quick-hit",
-    topic: "commerce",
-    publishedAt: "2026-10-02",
+    topic: "politics",
+    publishedAt: "2026-10-15",
     headline: {
-      ht: "Transfè dyaspora: sere TPS ta ka souke estabilite ekonomik",
-      fr: "Transferts de la diaspora : un durcissement du TPS pourrait fragiliser la stabilité économique",
+      ht: "Solèy / Etzer Émile: dekrè elektoral la ta favorize moun sanksyone",
+      fr: "Solèy / Etzer Émile : le décret électoral favoriserait des personnalités sanctionnées",
     },
     brief: {
-      ht: "Chèchè BRH (Blaise, Victor, Cayemitte) di yon sere TPS kapab vin yon chòk sou to chanje, rezèv ak bidjè, men pa otomatikman imedyat. Diminisyon transfè ta afekte konsomasyon, rezèv devis, e antre fiskal Eta a.",
-      fr: "Des chercheurs de la BRH (Blaise, Victor, Cayemitte) estiment qu’un durcissement du TPS pourrait devenir un choc sur le taux de change, les réserves et le budget, sans transmission automatique ni immédiate. Une baisse des transferts affecterait la consommation, les réserves de devises et les recettes fiscales.",
+      ht: "Platfòm Solèy, ak Etzer Émile kòm figi prezidansyèl, denonse amandman dekrè elektoral yo. Yo di chanjman yo ta ka louvri pòt pou enterè patikilye e pou pèsonalite sanksyone. Yo mande yon CEP endepandan, yon kalandriye reyalis, ak garanti sekirite anvan vòt la.",
+      fr: "La plateforme Solèy, avec Etzer Émile comme figure présidentielle, dénonce les amendements au décret électoral. Elle estime que ces changements pourraient ouvrir la voie à des intérêts particuliers et à des personnalités sanctionnées. Elle réclame un CEP indépendant, un calendrier réaliste et des garanties de sécurité avant le scrutin.",
     },
-    sources: ["Le Nouvelliste", "NAGO.TV", "BRH / DREF"],
-  },
-  {
-    id: "qh-frg-launch-tabarre",
-    tier: "quick-hit",
-    topic: "security",
-    publishedAt: "2026-10-09",
-    headline: {
-      ht: "FRG ofisyèlman lanse nan baz Vètyè, Tabar",
-      fr: "La FRG officiellement lancée à la base Vertières, Tabarre",
-    },
-    brief: {
-      ht: "Premye Minis Alix Didier Fils-Aimé te lanse deplwaman Fòs Represyon Gang yo 8 oktòb, ak peyi kontribitè, kò diplomatik ak Nasyonzini. Jack Christofides di Fòs la la sou demann Ayiti, ansanm ak PNH ak FAd’H.",
-      fr: "Le Premier ministre Alix Didier Fils-Aimé a lancé le déploiement de la Force de répression des gangs le 8 octobre, avec les pays contributeurs, le corps diplomatique et l’ONU. Jack Christofides affirme que la Force est présente à la demande d’Haïti, aux côtés de la PNH et des FAd’H.",
-    },
-    sources: ["Le National", "Primature"],
-  },
-  {
-    id: "qh-humanitarian-idp-15m",
-    tier: "quick-hit",
-    topic: "society",
-    publishedAt: "2026-10-19",
-    headline: {
-      ht: "Prèske 1,5 milyon deplase: plan imanitè 2026 a mwatye finanse",
-      fr: "Près de 1,5 million de déplacés : le plan humanitaire 2026 à moitié financé",
-    },
-    brief: {
-      ht: "BINUH rapòte plis pase 17 000 nouvo deplase nan twa mwa ki sot pase yo; total la prèske 1,5 milyon, mwatye se timoun. Ekonomi an prevwa kontrakte pou setyèm ane konsèktif; bezwen imanitè yo depase mwayen yo genyen.",
-      fr: "Le BINUH rapporte plus de 17 000 nouveaux déplacés sur les trois derniers mois ; le total approche 1,5 million, dont la moitié d’enfants. L’économie devrait se contracter pour une septième année consécutive ; les besoins humanitaires dépassent les moyens disponibles.",
-    },
-    sources: ["UN News", "BINUH", "WFP"],
-  },
-  {
-    id: "qh-brh-digital-payments",
-    tier: "quick-hit",
-    topic: "tech",
-    publishedAt: "2026-10-20",
-    headline: {
-      ht: "BRH: pilòt peman machann ak enklizyon finansye dijital",
-      fr: "BRH : pilote de paiement marchand et inclusion financière numérique",
-    },
-    brief: {
-      ht: "Gouvènè Ronald Gabriel di bank santral la ap pouse yon ekosistèm peman aksesib, entèoperab e sekirize. Yon pwojè peman machann ap prepare yon faz pilòt pou ti komèsan antre nan ekonomi fòmèl, ak sipò Bank Mondyal sou inovasyon.",
-      fr: "Le gouverneur Ronald Gabriel indique que la banque centrale pousse un écosystème de paiements accessible, interopérable et sécurisé. Un projet de paiement marchand prépare une phase pilote pour intégrer les petits commerçants à l’économie formelle, avec l’appui de la Banque mondiale sur l’innovation.",
-    },
-    sources: ["BRH", "Banque mondiale (LAC)"],
+    sources: ["Métronome Haiti", "Hebdo24", "Alternance Media"],
   },
 ];
 
