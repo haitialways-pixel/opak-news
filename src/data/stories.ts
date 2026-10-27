@@ -103,7 +103,7 @@ export const STORIES: Story[] = [
     topic: "justice",
     publishedAt: "2026-10-05",
     headline: {
-      ht: "CSPJ: 119 majistra sètifye, 17 refize apre 159 dosye",
+      ht: "CSPJ: 119 majistra sètifye, 17 pran kat wouj apre analiz 159 dosye",
       fr: "CSPJ : 119 magistrats certifiés, 17 refusés après examen de 159 dossiers",
     },
     brief: {
