@@ -1,3 +1,4 @@
+import { SITE } from "../config";
 import { useLanguage } from "../context/LanguageContext";
 import type { LocalizedText } from "../types";
 
@@ -38,13 +39,16 @@ function IconFacebook({ className }: { className?: string }) {
 }
 
 export function ShareBar({ storyId, headline, variant = "detail" }: Props) {
-  const { ui } = useLanguage();
+  const { ui, t } = useLanguage();
 
   const url = storyAbsoluteUrl(storyId);
   const shareText = headline.fr || headline.ht;
 
   const xHref = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(url)}`;
   const facebookHref = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`;
+  const noteHref = `mailto:${SITE.contactEmail}?subject=${encodeURIComponent(
+    `${SITE.name}: ${t(headline)}`,
+  )}`;
 
   return (
     <div
@@ -80,6 +84,11 @@ export function ShareBar({ storyId, headline, variant = "detail" }: Props) {
             <span className="share-btn-text">Facebook</span>
           )}
         </a>
+        {variant === "detail" && (
+          <a className="share-note-link" href={noteHref}>
+            {ui.sendNote}
+          </a>
+        )}
       </div>
     </div>
   );
