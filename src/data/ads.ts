@@ -46,7 +46,7 @@ export const DELMAS91_AD: PromoAd = {
   id: "delmas91",
   brand: "Group Delmas 91",
   tagline:
-    "Òganizasyon san bi likratif pou Delmas — klinik mobil, bank manje, backpack drive.",
+    "Òganizasyon san bi likratif pou Delmas: klinik mobil, bank manje, backpack drive.",
   emailDisplay: "contact@groupdelmas91.org",
   emailHref: "mailto:contact@groupdelmas91.org",
   webDisplay: "groupdelmas91.org",

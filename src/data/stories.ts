@@ -31,8 +31,8 @@ export const STORIES: Story[] = [
       fr: "Attaque contre la Force de répression des gangs : quatre soldats salvadoriens toujours portés disparus",
     },
     brief: {
-      ht: "Gang yo te tire sou yon machin blende nan Kwadesboukè nan fen semèn nan — pi gwo atak depi Fòs la kòmanse operasyon. Kat teknisyen avyasyon salvadorien rete san nouvèl. Washington Post rapòte kèk rès yo jwenn pa sanble pa t pou yo; Prezidan Bukele te di deja « se pa mesye nou yo ».",
-      fr: "Des gangs ont ouvert le feu sur un véhicule blindé à Croix-des-Bouquets en fin de semaine — la plus grave attaque depuis le début des opérations de la Force. Quatre techniciens d’aviation salvadoriens restent sans nouvelles. Le Washington Post indique que certains restes retrouvés ne semblent pas leur appartenir ; le président Bukele avait déjà affirmé « ce ne sont pas nos hommes ».",
+      ht: "Gang yo te tire sou yon machin blende nan Kwadesboukè nan fen semèn nan; se pi gwo atak depi Fòs la kòmanse operasyon. Kat teknisyen avyasyon salvadorien rete san nouvèl. Washington Post rapòte kèk rès yo jwenn pa sanble pa t pou yo; Prezidan Bukele te di deja « se pa mesye nou yo ».",
+      fr: "Des gangs ont ouvert le feu sur un véhicule blindé à Croix-des-Bouquets en fin de semaine; c’est la plus grave attaque depuis le début des opérations de la Force. Quatre techniciens d’aviation salvadoriens restent sans nouvelles. Le Washington Post indique que certains restes retrouvés ne semblent pas leur appartenir ; le président Bukele avait déjà affirmé « ce ne sont pas nos hommes ».",
     },
     sources: ["AP News", "The Washington Post", "UN News"],
   },
@@ -63,8 +63,8 @@ export const STORIES: Story[] = [
       fr: "Rumeurs : Corvington et Guerrier s’affrontent en justice autour de Radio Télé Metronome",
     },
     brief: {
-      ht: "Difè ap boule nan Radio Télé Metronome. Jean Corvington (Me Hantz Ludwig Joseph) ak CEO Guerrier Dieuseul (Me Mario Delcy) ap ale nan tribinal ayisyen. Selon Infos Partage, yo akize Corvington li pran paj X ak YouTube medya a pou zafè pèsonèl — deyò nòm jounalis. Guerrier anboche Me Delcy pou bloke li sou rezo yo. Yo di Corvington deja resevwa de konvokasyon.",
-      fr: "Le conflit enfle à Radio Télé Metronome. Jean Corvington (Me Hantz Ludwig Joseph) et le CEO Guerrier Dieuseul (Me Mario Delcy) se retrouvent devant la justice haïtienne. Selon Infos Partage, Corvington est accusé d’avoir détourné les pages X et YouTube du média pour des affaires personnelles — hors des normes journalistiques. Guerrier a engagé Me Delcy pour lui interdire l’usage de ces pages. Corvington aurait déjà reçu deux convocations.",
+      ht: "Difè ap boule nan Radio Télé Metronome. Jean Corvington (Me Hantz Ludwig Joseph) ak CEO Guerrier Dieuseul (Me Mario Delcy) ap ale nan tribinal ayisyen. Selon Infos Partage, yo akize Corvington li pran paj X ak YouTube medya a pou zafè pèsonèl, deyò nòm jounalis. Guerrier anboche Me Delcy pou bloke li sou rezo yo. Yo di Corvington deja resevwa de konvokasyon.",
+      fr: "Le conflit enfle à Radio Télé Metronome. Jean Corvington (Me Hantz Ludwig Joseph) et le CEO Guerrier Dieuseul (Me Mario Delcy) se retrouvent devant la justice haïtienne. Selon Infos Partage, Corvington est accusé d’avoir détourné les pages X et YouTube du média pour des affaires personnelles, hors des normes journalistiques. Guerrier a engagé Me Delcy pour lui interdire l’usage de ces pages. Corvington aurait déjà reçu deux convocations.",
     },
     sources: ["Infos Partage (@infospartagesos)", "Opak News — Tripotay"],
   },
@@ -123,8 +123,8 @@ export const STORIES: Story[] = [
       fr: "Transferts de la diaspora : un durcissement du TPS pourrait fragiliser la stabilité économique",
     },
     brief: {
-      ht: "Chèchè BRH (Blaise, Victor, Cayemitte) di yon sere TPS kapab vin yon chòk sou to chanje, rezèv ak bidjè — men pa otomatikman imedyat. Diminisyon transfè ta afekte konsomasyon, rezèv devis, e antre fiskal Eta a.",
-      fr: "Des chercheurs de la BRH (Blaise, Victor, Cayemitte) estiment qu’un durcissement du TPS pourrait devenir un choc sur le taux de change, les réserves et le budget — sans transmission automatique ni immédiate. Une baisse des transferts affecterait la consommation, les réserves de devises et les recettes fiscales.",
+      ht: "Chèchè BRH (Blaise, Victor, Cayemitte) di yon sere TPS kapab vin yon chòk sou to chanje, rezèv ak bidjè, men pa otomatikman imedyat. Diminisyon transfè ta afekte konsomasyon, rezèv devis, e antre fiskal Eta a.",
+      fr: "Des chercheurs de la BRH (Blaise, Victor, Cayemitte) estiment qu’un durcissement du TPS pourrait devenir un choc sur le taux de change, les réserves et le budget, sans transmission automatique ni immédiate. Une baisse des transferts affecterait la consommation, les réserves de devises et les recettes fiscales.",
     },
     sources: ["Le Nouvelliste", "NAGO.TV", "BRH / DREF"],
   },

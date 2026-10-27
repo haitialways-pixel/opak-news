@@ -20,7 +20,7 @@ export function HomePage() {
           <a href={`mailto:${SITE.contactEmail}`}>{SITE.contactEmail}</a>
         </p>
         <p className="muted">
-          Kontni egzanp pou vèsyon 1 — otomatizasyon ak AdMob ap vini.
+          Kontni egzanp pou vèsyon 1; otomatizasyon ak AdMob ap vini.
         </p>
       </footer>
     </div>
