@@ -13,12 +13,12 @@ export const STORIES: Story[] = [
     publishedAt: "2026-10-27",
     isBreaking: true,
     headline: {
-      ht: "Gwo lapli: 4 mouri, plis pase 3 200 fanmi sinistre; metewo ap kalme",
-      fr: "Fortes pluies : 4 morts, plus de 3 200 familles sinistrées ; la météo s’apaise",
+      ht: "Gwo lapli: 4 mouri, plis pase 3 200 fanmi sinistre; metewo ap kalme",
+      fr: "Fortes pluies : 4 morts, plus de 3 200 familles sinistrées ; la météo s’apaise",
     },
     brief: {
-      ht: "Depi fen semèn nan, gwo lapli ak loraj frape peyi a, sitou Grand Sid, Nip, Grandans ak Lwès. DGPC (26 oktòb) di omwen 4 moun mouri, 2 disparèt, 3 blese, ak plis pase 3 200 fanmi afekte nan 21 komin. Yo konte 2 130 kay inonde, 847 detwi, 219 domaje. Baradè anba dlo; dig Ravine Sid tonbe; RN7 te bloke yon moman nan Grandans. UHM te kenbe vijilans oranj nan 5 depatman. Pou Pòtoprens: jodi a (madi) chalè ak loraj izole, 30 °C konsa; mèkredi-jedi toujou posib ti loraj apremidi; vandredi-samdi lapli a ta dwe diminye, toujou cho ak imid.",
-      fr: "Depuis le week-end, de fortes pluies et orages frappent le pays, surtout le Grand Sud, les Nippes, la Grand’Anse et l’Ouest. La DGPC (26 octobre) fait état d’au moins 4 morts, 2 disparus, 3 blessés et plus de 3 200 familles touchées dans 21 communes. Bilan matériel : 2 130 maisons inondées, 847 détruites, 219 endommagées. Baradères sous les eaux ; digue de la Ravine du Sud effondrée ; RN7 brièvement bloquée en Grand’Anse. L’UHM maintenait la vigilance orange sur 5 départements. À Port-au-Prince : mardi, chaleur et orages isolés autour de 30 °C ; mercredi-jeudi, averses orageuses encore possibles l’après-midi ; vendredi-samedi, pluie en baisse, toujours chaud et humide.",
+      ht: "Depi fen semèn nan, gwo lapli ak loraj frape peyi a, sitou Grand Sid, Nip, Grandans ak Lwès. DGPC (26 oktòb) di omwen 4 moun mouri, 2 disparèt, 3 blese, ak plis pase 3 200 fanmi afekte nan 21 komin. Yo konte 2 130 kay inonde, 847 detwi, 219 domaje. Baradè anba dlo; dig Ravine Sid tonbe; RN7 te bloke yon moman nan Grandans. UHM te kenbe vijilans oranj nan 5 depatman. Pou Pòtoprens: jodi a (madi) chalè ak loraj izole, 30 °C konsa; mèkredi-jedi toujou posib ti loraj apremidi; vandredi-samdi lapli a ta dwe diminye, toujou cho ak imid.",
+      fr: "Depuis le week-end, de fortes pluies et orages frappent le pays, surtout le Grand Sud, les Nippes, la Grand’Anse et l’Ouest. La DGPC (26 octobre) fait état d’au moins 4 morts, 2 disparus, 3 blessés et plus de 3 200 familles touchées dans 21 communes. Bilan matériel : 2 130 maisons inondées, 847 détruites, 219 endommagées. Baradères sous les eaux ; digue de la Ravine du Sud effondrée ; RN7 brièvement bloquée en Grand’Anse. L’UHM maintenait la vigilance orange sur 5 départements. À Port-au-Prince : mardi, chaleur et orages isolés autour de 30 °C ; mercredi-jeudi, averses orageuses encore possibles l’après-midi ; vendredi-samedi, pluie en baisse, toujours chaud et humide.",
     },
     sources: [
       "DGPC / Protection civile",
@@ -70,8 +70,8 @@ export const STORIES: Story[] = [
       fr: "Trump : les déportations d’Haïtiens continuent après la fin du TPS ; HBA demande une suspension",
     },
     brief: {
-      ht: "Administrasyon Trump kontinye voye ayisyen tounen, sitou nan Kap Ayisyen. Haitian Bridge Alliance denonse yon vòl rapòte 22 oktòb epi li mande Sena a retabli TPS pou plis pase 300 000 ayisyen. TPS ak otòrizasyon travay te sispann 27 jiyè 2026. GARR di Etazini te voye tounen omwen 1 187 ayisyen ane sa a; HRW te konte plizyè vòl depi 20 out. Retounen yo jwenn vyolans gang, deplase, e ti sipò reentegrasyon.",
-      fr: "L’administration Trump continue de renvoyer des Haïtiens, surtout vers Cap-Haïtien. Haitian Bridge Alliance dénonce un vol rapporté le 22 octobre et demande au Sénat de rétablir le TPS pour plus de 300 000 Haïtiens. Le TPS et l’autorisation de travail ont pris fin le 27 juillet 2026. Le GARR indique qu’au moins 1 187 Haïtiens ont été renvoyés des États-Unis cette année ; HRW a compté plusieurs vols depuis le 20 août. Les rapatriés retrouvent violence des gangs, déplacements et peu de soutien à la réintégration.",
+      ht: "Administrasyon Trump kontinye voye ayisyen tounen, sitou nan Kap Ayisyen. Haitian Bridge Alliance denonse yon vòl rapòte 22 oktòb epi li mande Sena a retabli TPS pou plis pase 300 000 ayisyen. TPS ak otòrizasyon travay te sispann 27 jiyè 2026. GARR di Etazini te voye tounen omwen 1 187 ayisyen ane sa a; HRW te konte plizyè vòl depi 20 out. Retounen yo jwenn vyolans gang, deplase, e ti sipò reentegrasyon.",
+      fr: "L’administration Trump continue de renvoyer des Haïtiens, surtout vers Cap-Haïtien. Haitian Bridge Alliance dénonce un vol rapporté le 22 octobre et demande au Sénat de rétablir le TPS pour plus de 300 000 Haïtiens. Le TPS et l’autorisation de travail ont pris fin le 27 juillet 2026. Le GARR indique qu’au moins 1 187 Haïtiens ont été renvoyés des États-Unis cette année ; HRW a compté plusieurs vols depuis le 20 août. Les rapatriés retrouvent violence des gangs, déplacements et peu de soutien à la réintégration.",
     },
     sources: [
       "Haitian Bridge Alliance",
@@ -148,12 +148,12 @@ export const STORIES: Story[] = [
     topic: "security",
     publishedAt: "2026-10-19",
     headline: {
-      ht: "Vyolans gang yo gaye nan kanpay: 1 123 mouri depi jiyè",
-      fr: "La violence des gangs gagne les campagnes : 1 123 morts depuis juillet",
+      ht: "Vyolans gang yo gaye nan kanpay: 1 123 mouri depi jiyè",
+      fr: "La violence des gangs gagne les campagnes : 1 123 morts depuis juillet",
     },
     brief: {
-      ht: "BINUH di gang yo ap adapte taktik yo: otaj, reprezal, e atak nan zòn riral (Kenskòf, Sen Michèl Lataye, Marigo, Leyogàn). 241 moun te mouri nan Lwès ak Latibonit paske yo te reziste. Fòs la gen 1 563 inifòm sou 5 550 otorize.",
-      fr: "Le BINUH indique que les gangs adaptent leurs tactiques : otages, représailles et attaques en zones rurales (Kenscoff, Saint-Michel-de-l’Atalaye, Marigot, Léogâne). 241 personnes ont été tuées dans l’Ouest et l’Artibonite pour avoir résisté. La Force compte 1 563 uniformes sur 5 550 autorisés.",
+      ht: "BINUH di gang yo ap adapte taktik yo: otaj, reprezal, e atak nan zòn riral (Kenskòf, Sen Michèl Lataye, Marigo, Leyogàn). 241 moun te mouri nan Lwès ak Latibonit paske yo te reziste. Fòs la gen 1 563 inifòm sou 5 550 otorize.",
+      fr: "Le BINUH indique que les gangs adaptent leurs tactiques : otages, représailles et attaques en zones rurales (Kenscoff, Saint-Michel-de-l’Atalaye, Marigot, Léogâne). 241 personnes ont été tuées dans l’Ouest et l’Artibonite pour avoir résisté. La Force compte 1 563 uniformes sur 5 550 autorisés.",
     },
     sources: ["ONU Info", "UN News", "Rapò Sekretè Jeneral"],
   },
@@ -167,8 +167,8 @@ export const STORIES: Story[] = [
       fr: "Près de 1,5 million de déplacés : le plan humanitaire 2026 à moitié financé",
     },
     brief: {
-      ht: "BINUH rapòte plis pase 17 000 nouvo deplase nan twa mwa ki sot pase yo; total la prèske 1,5 milyon, mwatye se timoun. Ekonomi an prevwa kontrakte pou setyèm ane konsèktif; bezwen imanitè yo depase mwayen yo genyen.",
-      fr: "Le BINUH rapporte plus de 17 000 nouveaux déplacés sur les trois derniers mois ; le total approche 1,5 million, dont la moitié d’enfants. L’économie devrait se contracter pour une septième année consécutive ; les besoins humanitaires dépassent les moyens disponibles.",
+      ht: "BINUH rapòte plis pase 17 000 nouvo deplase nan twa mwa ki sot pase yo; total la prèske 1,5 milyon, mwatye se timoun. Ekonomi an prevwa kontrakte pou setyèm ane konsèktif; bezwen imanitè yo depase mwayen yo genyen.",
+      fr: "Le BINUH rapporte plus de 17 000 nouveaux déplacés sur les trois derniers mois ; le total approche 1,5 million, dont la moitié d’enfants. L’économie devrait se contracter pour une septième année consécutive ; les besoins humanitaires dépassent les moyens disponibles.",
     },
     sources: ["UN News", "BINUH", "WFP"],
   },
@@ -193,8 +193,8 @@ export const STORIES: Story[] = [
     topic: "commerce",
     publishedAt: "2026-10-18",
     headline: {
-      ht: "Karavàn komès: objektif 5 000 antrepriz fòmèl nan 10 depatman",
-      fr: "Caravane du commerce : objectif 5 000 entreprises formelles dans les 10 départements",
+      ht: "Karavàn komès: objektif 5 000 antrepriz fòmèl nan 10 depatman",
+      fr: "Caravane du commerce : objectif 5 000 entreprises formelles dans les 10 départements",
     },
     brief: {
       ht: "Minis James Monazard lanse yon pwogram rejyonal nan Montana (16 oktòb) pou ede ti biznis enskri non komèsyal ak kat pwofesyonèl. Biwo depatmantal yo ap resevwa òdinatè; platfòm enskripsyon sou entènèt lan te lanse nan fen 2024.",

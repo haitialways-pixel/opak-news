@@ -679,3 +679,7 @@ a:hover {
   min-width: 2.1rem;
   padding: 0.35rem;
 }
+
+/* Keep numbers together (no mid-number wraps) */
+.story-brief, .detail-brief, .promo-tagline { word-break: normal; overflow-wrap: break-word; hyphens: manual; }
+.nowrap-num, a[href^="tel:"] { white-space: nowrap; }
