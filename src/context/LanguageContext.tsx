@@ -33,6 +33,7 @@ interface LanguageContextValue {
     shareOnInstagram: string;
     instagramHint: string;
     linkCopied: string;
+    sendNote: string;
   };
 }
 
@@ -58,6 +59,7 @@ const UI = {
     shareOnInstagram: "Kopye lyen pou Instagram",
     instagramHint: "Instagram pa gen pataj sou entènèt. Kopye lyen an, epi kole l nan Instagram.",
     linkCopied: "Lyen kopi!",
+    sendNote: "Voye nou yon nòt",
   },
   fr: {
     needToKnow: "À retenir",
@@ -78,6 +80,7 @@ const UI = {
     shareOnInstagram: "Copier le lien pour Instagram",
     instagramHint: "Instagram n'a pas de partage web. Copiez le lien, puis collez-le dans Instagram.",
     linkCopied: "Lien copié!",
+    sendNote: "Envoyez-nous une note",
   },
 } as const;
 

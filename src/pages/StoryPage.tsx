@@ -78,6 +78,16 @@ export function StoryPage() {
           </p>
         )}
 
+        <p className="send-note">
+          <a
+            href={`mailto:${SITE.contactEmail}?subject=${encodeURIComponent(
+              `${SITE.name}: ${t(story.headline)}`,
+            )}`}
+          >
+            {ui.sendNote}
+          </a>
+        </p>
+
         <details className="alt-lang">
           <summary>
             {otherLang === "fr" ? "Français" : "Kreyòl"} — {ui.dualHint}
