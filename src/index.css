@@ -229,6 +229,13 @@ a:hover {
   border-radius: 999px;
 }
 
+.badge-breaking {
+  background: #c62828;
+  color: #fff;
+  letter-spacing: 0.04em;
+  font-weight: 700;
+}
+
 .badge-manual {
   background: #e7f6ee;
   color: #0f6b3c;

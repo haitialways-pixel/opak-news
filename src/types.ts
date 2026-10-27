@@ -30,6 +30,8 @@ export interface Story {
   isManual?: boolean;
   /** Sample / placeholder content flag. */
   isSample?: boolean;
+  /** Breaking news badge (label always BREAKING). */
+  isBreaking?: boolean;
 }
 
 export interface TopicMeta {

@@ -47,6 +47,9 @@ export function StoryPage() {
       <main className="story-detail">
         <div className="story-meta">
           <span className="topic-chip">{topicLabel(story.topic, lang)}</span>
+          {story.isBreaking && (
+            <span className="badge badge-breaking">{ui.breakingBadge}</span>
+          )}
           {story.isSample && <span className="badge">{ui.sampleBadge}</span>}
           {story.isManual && (
             <span className="badge badge-manual">{ui.manualBadge}</span>

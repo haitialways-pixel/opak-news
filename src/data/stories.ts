@@ -11,6 +11,7 @@ export const STORIES: Story[] = [
     tier: "need-to-know",
     topic: "society",
     publishedAt: "2026-10-27",
+    isBreaking: true,
     headline: {
       ht: "Gwo lapli: 4 mouri, plis pase 3 200 fanmi sinistre; metewo ap kalme",
       fr: "Fortes pluies : 4 morts, plus de 3 200 familles sinistrées ; la météo s’apaise",
@@ -32,6 +33,7 @@ export const STORIES: Story[] = [
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-10-27",
+    isBreaking: true,
     headline: {
       ht: "FRG: kat teknisyen salvadorien toujou manke; Bukele voye fòs espesyal",
       fr: "FRG : quatre techniciens salvadoriens toujours manquants ; Bukele envoie des forces spéciales",

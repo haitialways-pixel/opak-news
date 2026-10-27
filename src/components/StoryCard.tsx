@@ -16,6 +16,9 @@ export function StoryCard({ story, variant = "hit" }: Props) {
     <article className={`story-card story-card--${variant}`}>
       <div className="story-meta">
         <span className="topic-chip">{topicLabel(story.topic, lang)}</span>
+        {story.isBreaking && (
+          <span className="badge badge-breaking">{ui.breakingBadge}</span>
+        )}
         {story.isSample && <span className="badge">{ui.sampleBadge}</span>}
         {story.isManual && <span className="badge badge-manual">{ui.manualBadge}</span>}
       </div>
