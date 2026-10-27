@@ -47,7 +47,7 @@ export const STORIES: Story[] = [
   {
     id: "ntk-ona-jij-elisee-2026-10",
     tier: "need-to-know",
-    topic: "politics",
+    topic: "justice",
     publishedAt: "2026-10-26",
     isManual: true,
     headline: {
@@ -80,6 +80,37 @@ export const STORIES: Story[] = [
       "El País",
       "GARR",
     ],
+  },
+
+  {
+    id: "qh-cassation-18-dossiers-2026-10",
+    tier: "quick-hit",
+    topic: "justice",
+    publishedAt: "2026-10-21",
+    headline: {
+      ht: "Kou Kasasyon: 18 dosye nan premye odyans ane jidisyè 2026-2027",
+      fr: "Cour de cassation : 18 dossiers à la reprise des audiences 2026-2027",
+    },
+    brief: {
+      ht: "Lendi 19 oktòb, Kou Kasasyon an rekòmanse odyans yo ak 18 dosye: 10 òdinè (ki genyen 3 demann resizasyon) ak 8 ijan. Prezidan Jean-Joseph Lebrun te prezide; Yves Altidor te reprezante ministè piblik la. Tribinal la di li vle trete plis dosye pase ane pase a.",
+      fr: "Lundi 19 octobre, la Cour de cassation a repris ses audiences avec 18 dossiers: 10 ordinaires (dont 3 demandes de récusation) et 8 urgents. Le président Jean-Joseph Lebrun a présidé; Yves Altidor représentait le ministère public. La haute juridiction affirme vouloir traiter plus de dossiers que lors de l’exercice précédent.",
+    },
+    sources: ["Le Nouvelliste", "L’Observatoire"],
+  },
+  {
+    id: "qh-cspj-certification-2026-10",
+    tier: "quick-hit",
+    topic: "justice",
+    publishedAt: "2026-10-05",
+    headline: {
+      ht: "CSPJ: 119 majistra sètifye, 17 refize apre 159 dosye",
+      fr: "CSPJ : 119 magistrats certifiés, 17 refusés après examen de 159 dossiers",
+    },
+    brief: {
+      ht: "Konsèy Siperyè Pouvwa Jidisyè a te egzamine 159 dosye (7-10 septanm). Li sètifye 119 majistra epi li refize 17 lòt, sitou sou entegrite pwofesyonèl ak moral. 2 te abandone pòs yo, 7 ale nan retrèt, e 14 dosye rete anba ankèt. Nan lis yo ki pa sètifye: Nivrose Alexis, Carl Giovanny Aubourg, Choubert Baptiste ak plizyè lòt.",
+      fr: "Le Conseil supérieur du pouvoir judiciaire a examiné 159 dossiers (7-10 septembre). Il a certifié 119 magistrats et refusé 17 autres, notamment pour des motifs d’intégrité professionnelle et morale. 2 ont abandonné leur poste, 7 partent à la retraite, et 14 dossiers restent sous enquête. Parmi les non-certifiés: Nivrose Alexis, Carl Giovanny Aubourg, Choubert Baptiste et d’autres.",
+    },
+    sources: ["Haiti Chronicle", "CSPJ"],
   },
   {
     id: "qh-metronome-corvington-guerrier-2026-10",

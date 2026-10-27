@@ -46,9 +46,7 @@ export function StoryPage() {
 
       <main className="story-detail">
         <div className="story-meta">
-          {story.topic !== "society" && story.topic !== "security" && (
           <span className="topic-chip">{topicLabel(story.topic, lang)}</span>
-        )}
           {story.isBreaking && (
             <span className="badge badge-breaking">{ui.breakingBadge}</span>
           )}

@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import { ShareBar } from "./ShareBar";
-import { topicLabel } from "../data/topics";
 import { useLanguage } from "../context/LanguageContext";
 import type { Story } from "../types";
 
@@ -10,14 +9,11 @@ interface Props {
 }
 
 export function StoryCard({ story, variant = "hit" }: Props) {
-  const { lang, t, ui } = useLanguage();
+  const { t, ui } = useLanguage();
 
   return (
     <article className={`story-card story-card--${variant}`}>
       <div className="story-meta">
-        {story.topic !== "society" && story.topic !== "security" && (
-          <span className="topic-chip">{topicLabel(story.topic, lang)}</span>
-        )}
         {story.isBreaking && (
           <span className="badge badge-breaking">{ui.breakingBadge}</span>
         )}
