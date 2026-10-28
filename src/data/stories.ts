@@ -11,6 +11,51 @@ import type { Story } from "../types";
  */
 export const STORIES: Story[] = [
   {
+    id: "ntk-grand-sud-downpours-2026-10-28",
+    tier: "need-to-know",
+    topic: "society",
+    publishedAt: "2026-10-28",
+    isBreaking: true,
+    headline: {
+      ht: "Grand Sid : gwo lapli ak vijilans oranj, Nip pi frape",
+      fr: "Grand Sud : fortes averses et vigilance orange, Nippes le plus touché",
+    },
+    brief: {
+      ht: "Gwo lapli ap tonbe nan Grand Sid depi 24 oktòb. OCHA di Nip gen 1920 fanmi afekte; plizyè dyk Ravine du Sud tonbe nan Okay.",
+      fr: "Fortes averses sur le Grand Sud depuis le 24 octobre. OCHA compte 1920 familles touchées dans les Nippes; plusieurs digues de la Ravine du Sud se sont effondrées aux Cayes.",
+    },
+    body: {
+      ht: "Depi 24 oktòb, gwo lapli ap frape Sid, Nip ak Grandans. Nan yon Flash Update 28 oktòb, OCHA di DGPC kenbe tout Grand Sid nan vijilans oranj (kèk medya te di alèt la leve 27 oktòb nan kèk depatman).\n\nNip pi frape: 1920 fanmi afekte, 1767 kay inonde, 48 ti kay detwi. Nan Grandans, 630 kay inonde; lopital kominotè Koray, lekòl nasyonal Fondikaques ak mache piblik Chanbelan inonde. Nan Okay, anviwon 200 kay inonde epi plizyè seksyon dyk Ravine du Sud tonbe.\n\nBilten an: 4 moun mouri (3 nan Nip, 1 nan Sidès) epi 2 pechè disparèt nan Abriko (Grandans).",
+      fr: "Depuis le 24 octobre, de fortes averses frappent le Sud, les Nippes et la Grand'Anse. Dans un Flash Update du 28 octobre, OCHA indique que la DGPC maintient tout le Grand Sud en vigilance orange (certains médias avaient annoncé une levée le 27 octobre dans certains départements).\n\nLes Nippes sont les plus touchées: 1920 familles affectées, 1767 maisons inondées, 48 petites maisons détruites. En Grand'Anse, 630 maisons inondées; l'hôpital communautaire de Corail, l'école nationale de Fond'Icaques et le marché public de Chambellan sont inondés. Aux Cayes, environ 200 maisons inondées et plusieurs sections de digues de la Ravine du Sud se sont effondrées.\n\nBilan: 4 morts (3 dans les Nippes, 1 dans le Sud-Est) et 2 pêcheurs disparus à Abricots (Grand'Anse).",
+    },
+    sources: [
+      "OCHA",
+      "DGPC / Protection civile",
+    ],
+  },
+  {
+    id: "ntk-msf-plaine-cul-de-sac-2026-10",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-10-28",
+    isBreaking: true,
+    headline: {
+      ht: "Plèn Kildesak : MSF tire alam sou vyolans k ap monte, plis blese rive lopital",
+      fr: "Plaine du Cul-de-Sac : MSF alerte sur une flambée de violence et des blessés en hausse",
+    },
+    brief: {
+      ht: "Depi 18 oktòb, MSF trete 30 moun blese nan zam oswa dron nan lopital Tabarre ak Site Solèy. Klinik mobil ak dlo trete sispann nan katye yo.",
+      fr: "Depuis le 18 octobre, MSF a traité 30 blessés par balles ou drones dans ses hôpitaux de Tabarre et Cité Soleil. Cliniques mobiles et distribution d'eau suspendues dans les quartiers touchés.",
+    },
+    body: {
+      ht: "MSF tire alam sou yon flanbe vyolans nan Plèn Kildesak, nan nòdès Pòtoprens. Depi plizyè manm Gang Suppression Force disparèt apre yon atak sou machin yo 18 oktòb, tire ak eksplozyon dron ogmante nan zòn nan.\n\nAnt 18 ak 26 oktòb, lopital MSF nan Tabarre ak Site Solèy trete 30 moun ki blese nan tire oswa eksplozyon dron, ki gen fanm ak timoun. MSF sispann klinik mobil yo ak distribisyon dlo trete nan katye ki afekte yo.\n\nÒganizasyon an mande otorite yo ak tout pati yo pou yo epanye sivil yo ak enstalasyon medikal yo, epi pèmèt aksè nan swen pou blese yo.",
+      fr: "MSF alerte sur une flambée de violence dans la Plaine du Cul-de-Sac, dans le nord-est de Port-au-Prince. Depuis la disparition de plusieurs membres de la Gang Suppression Force après une attaque contre leur véhicule le 18 octobre, les tirs et les explosions de drones ont augmenté dans la zone.\n\nEntre le 18 et le 26 octobre, les hôpitaux MSF de Tabarre et de Cité Soleil ont traité 30 personnes blessées par balles ou explosions de drones, dont des femmes et des enfants. MSF a suspendu ses cliniques mobiles et la distribution d'eau traitée dans les quartiers touchés.\n\nL'organisation demande aux autorités et à toutes les parties d'épargner les civils et les installations médicales, et de garantir l'accès aux soins pour les blessés.",
+    },
+    sources: [
+      "MSF",
+    ],
+  },
+  {
     id: "ntk-thomazeau-ambassador-summoned-2026-10",
     tier: "need-to-know",
     topic: "governance",
