@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import { ShareBar } from "./ShareBar";
 import { useLanguage } from "../context/LanguageContext";
+import { KeepNumbers } from "../lib/keepNumbers";
 import type { Story } from "../types";
 
 interface Props {
@@ -21,9 +22,13 @@ export function StoryCard({ story, variant = "hit" }: Props) {
         {story.isManual && <span className="badge badge-manual">{ui.manualBadge}</span>}
       </div>
       <h3 className="story-headline">
-        <Link to={`/story/${story.id}`}>{t(story.headline)}</Link>
+        <Link to={`/story/${story.id}`}>
+          <KeepNumbers text={t(story.headline)} />
+        </Link>
       </h3>
-      <p className="story-brief">{t(story.brief)}</p>
+      <p className="story-brief">
+        <KeepNumbers text={t(story.brief)} />
+      </p>
       <ShareBar storyId={story.id} headline={story.headline} variant="card" />
     </article>
   );

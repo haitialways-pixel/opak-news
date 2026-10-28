@@ -5,6 +5,7 @@ import { SiteHeader } from "../components/SiteHeader";
 import { getStoryById } from "../data/stories";
 import { topicLabel } from "../data/topics";
 import { useLanguage } from "../context/LanguageContext";
+import { KeepNumbers } from "../lib/keepNumbers";
 import { SITE } from "../config";
 
 export function StoryPage() {
@@ -57,15 +58,21 @@ export function StoryPage() {
           <time dateTime={story.publishedAt}>{story.publishedAt}</time>
         </div>
 
-        <h1 className="detail-headline">{t(story.headline)}</h1>
-        <p className="detail-brief">{t(story.brief)}</p>
+        <h1 className="detail-headline">
+          <KeepNumbers text={t(story.headline)} />
+        </h1>
+        <p className="detail-brief">
+          <KeepNumbers text={t(story.brief)} />
+        </p>
         {story.body && (
           <div className="detail-body">
             {t(story.body)
               .split(/\n\n+/)
               .filter(Boolean)
               .map((para, i) => (
-                <p key={i}>{para}</p>
+                <p key={i}>
+                  <KeepNumbers text={para} />
+                </p>
               ))}
           </div>
         )}
@@ -82,15 +89,21 @@ export function StoryPage() {
           <summary>
             {otherLang === "fr" ? "Français" : "Kreyòl"} — {ui.dualHint}
           </summary>
-          <h2 className="detail-headline alt">{story.headline[otherLang]}</h2>
-          <p className="detail-brief">{story.brief[otherLang]}</p>
+          <h2 className="detail-headline alt">
+            <KeepNumbers text={story.headline[otherLang]} />
+          </h2>
+          <p className="detail-brief">
+            <KeepNumbers text={story.brief[otherLang]} />
+          </p>
           {story.body && (
             <div className="detail-body">
               {story.body[otherLang]
                 .split(/\n\n+/)
                 .filter(Boolean)
                 .map((para, i) => (
-                  <p key={i}>{para}</p>
+                  <p key={i}>
+                    <KeepNumbers text={para} />
+                  </p>
                 ))}
             </div>
           )}

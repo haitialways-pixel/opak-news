@@ -681,15 +681,26 @@ a:hover {
 }
 
 /* Keep numbers together (no mid-number wraps) */
+.story-headline,
+.detail-headline,
 .story-brief,
 .detail-brief,
+.detail-body,
 .promo-tagline {
-  white-space: pre-line;
   word-break: normal;
   overflow-wrap: break-word;
   hyphens: none;
 }
-.nowrap-num, a[href^="tel:"] { white-space: nowrap; }
+.story-brief,
+.detail-brief,
+.promo-tagline {
+  white-space: pre-line;
+}
+/* Durable: KeepNumbers wraps digit groups in .nowrap-num */
+.nowrap-num,
+a[href^="tel:"] {
+  white-space: nowrap;
+}
 
 .detail-body {
   margin: 1rem 0 1.25rem;

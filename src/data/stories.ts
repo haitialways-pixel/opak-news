@@ -4,6 +4,10 @@ import type { Story } from "../types";
  * Curated Haiti digest — real stories with multi-source credits.
  * Need to Know leads; quick hits by topic. Set isManual for editor pushes.
  * Feed shows brief only; full detail belongs in body on the story page.
+ *
+ * Credit rule (Steeve): "Blaise Antoine Joseph (BAJ)" only when Steeve
+ * uploaded/wrote the text himself. Wire/aggregate teasers credit the
+ * named outlets (Reuters, HaitiLibre, DGPC, etc.), never BAJ.
  */
 export const STORIES: Story[] = [
   {
@@ -21,13 +25,12 @@ export const STORIES: Story[] = [
       fr: "Environ 1 000 soldats salvadoriens arrivent en Haïti après la disparition de quatre membres de la mission onusienne dans une embuscade de gangs. Commandement, durée et lien avec la GSF restent flous.",
     },
     body: {
-      ht: "Yon sous sekirite ayisyen di Reuters ke El Salvador voye anviwon 1 000 sòlda ann Ayiti apre kat manm salvadoryen nan fòs siprèsyon gang yo (misyon sipòte pa ONU) disparèt nan yon anbiskad gang toupre Pòtoprens, 18 oktòb.\n\nLi poko klè ki moun k ap kòmande kontenjan sa a, konbyen tan yo pral rete, ni si yo ap opere andeyò Gang Suppression Force la. Etazini te prete avyon kago C-130 pou mennen yo. Fòs la gen anviwon 2 000 pèsonèl sou efèktif li te planifye a.\n\nSiyen : Blaise Antoine Joseph (BAJ)",
-      fr: "Une source sécuritaire haïtienne indique à Reuters qu'El Salvador a dépêché environ 1 000 soldats en Haïti après la disparition de quatre membres salvadoriens de la force de répression des gangs (mission soutenue par l'ONU) dans une embuscade de gangs près de Port-au-Prince, le 18 octobre.\n\nIl n'est pas encore clair qui commandera ce contingent, combien de temps il restera, ni s'il opérera en dehors de la Gang Suppression Force. Les États-Unis ont prêté des avions cargo C-130 pour les transporter. La force compte environ 2 000 personnels sur l'effectif prévu.\n\nSigné : Blaise Antoine Joseph (BAJ)",
+      ht: "Yon sous sekirite ayisyen di Reuters ke El Salvador voye anviwon 1 000 sòlda ann Ayiti apre kat manm salvadoryen nan fòs siprèsyon gang yo (misyon sipòte pa ONU) disparèt nan yon anbiskad gang toupre Pòtoprens, 18 oktòb.\n\nLi poko klè ki moun k ap kòmande kontenjan sa a, konbyen tan yo pral rete, ni si yo ap opere andeyò Gang Suppression Force la. Etazini te prete avyon kago C-130 pou mennen yo. Fòs la gen anviwon 2 000 pèsonèl sou efèktif li te planifye a.",
+      fr: "Une source sécuritaire haïtienne indique à Reuters qu'El Salvador a dépêché environ 1 000 soldats en Haïti après la disparition de quatre membres salvadoriens de la force de répression des gangs (mission soutenue par l'ONU) dans une embuscade de gangs près de Port-au-Prince, le 18 octobre.\n\nIl n'est pas encore clair qui commandera ce contingent, combien de temps il restera, ni s'il opérera en dehors de la Gang Suppression Force. Les États-Unis ont prêté des avions cargo C-130 pour les transporter. La force compte environ 2 000 personnels sur l'effectif prévu.",
     },
     sources: [
       "Reuters",
       "Devdiscourse",
-      "Blaise Antoine Joseph (BAJ)",
     ],
   },
   {
@@ -45,8 +48,8 @@ export const STORIES: Story[] = [
       fr: "La DGPC compte au moins 4 morts, 2 pêcheurs disparus, 3 209 familles touchées et 847 maisons détruites. Alerte orange levée le 27 octobre; les besoins urgents demeurent.",
     },
     body: {
-      ht: "Apre plizyè jou gwo lapli, DGPC fè yon bilten lou nan Grand Sid la: omwen 4 moun mouri (kèk medya di 5), 2 pechè disparèt, 3 209 fanmi afekte, ak 847 kay detwi. Nip, Grandans ak Sid yo te pi frape.\n\nVijilans oranj te leve 27 oktòb, men otorite yo mande moun yo rete vijilan. Bezwen ijan yo enkli kit ijyèn, dyezèl, ekipman lou, ak reparasyon wout sou segman Jérémie–Chambellan.\n\nSiyen : Blaise Antoine Joseph (BAJ)",
-      fr: "Après plusieurs jours de fortes pluies, la DGPC dresse un bilan lourd dans le Grand Sud: au moins 4 morts (certains médias disent 5), 2 pêcheurs disparus, 3 209 familles touchées et 847 maisons détruites. Les Nippes, la Grand'Anse et le Sud ont été les plus durement touchés.\n\nL'alerte orange a été levée le 27 octobre, mais les autorités appellent encore à la prudence. Parmi les besoins urgents: kits d'hygiène, diesel, engins lourds, et réparations sur le tronçon Jérémie–Chambellan.\n\nSigné : Blaise Antoine Joseph (BAJ)",
+      ht: "Apre plizyè jou gwo lapli, DGPC fè yon bilten lou nan Grand Sid la: omwen 4 moun mouri (kèk medya di 5), 2 pechè disparèt, 3 209 fanmi afekte, ak 847 kay detwi. Nip, Grandans ak Sid yo te pi frape.\n\nVijilans oranj te leve 27 oktòb, men otorite yo mande moun yo rete vijilan. Bezwen ijan yo enkli kit ijyèn, dyezèl, ekipman lou, ak reparasyon wout sou segman Jérémie–Chambellan.",
+      fr: "Après plusieurs jours de fortes pluies, la DGPC dresse un bilan lourd dans le Grand Sud: au moins 4 morts (certains médias disent 5), 2 pêcheurs disparus, 3 209 familles touchées et 847 maisons détruites. Les Nippes, la Grand'Anse et le Sud ont été les plus durement touchés.\n\nL'alerte orange a été levée le 27 octobre, mais les autorités appellent encore à la prudence. Parmi les besoins urgents: kits d'hygiène, diesel, engins lourds, et réparations sur le tronçon Jérémie–Chambellan.",
     },
     sources: [
       "DGPC / Protection civile",
@@ -54,7 +57,6 @@ export const STORIES: Story[] = [
       "Le Placentin",
       "HaitiLibre",
       "AP News",
-      "Blaise Antoine Joseph (BAJ)",
     ],
   },
   {
@@ -71,12 +73,11 @@ export const STORIES: Story[] = [
       fr: "La DGM dominicaine dit avoir arrêté 4 618 étrangers en situation irrégulière et expulsé 4 173 personnes sur le week-end. Les contrôles à la frontière se renforcent.",
     },
     body: {
-      ht: "Sou fen semèn 23–25 oktòb, Direksyon Jeneral Migrasyon Dominikani (DGM) rapòte li arete 4 618 etranje ki pa t gen papye regilye, epi li ekspilse 4 173 moun. Otorite yo di yo ap sere kontwòl sou fwontyè a.\n\nSiyen : Blaise Antoine Joseph (BAJ)",
-      fr: "Sur le week-end des 23–25 octobre, la Direction générale de la migration dominicaine (DGM) rapporte avoir arrêté 4 618 étrangers en situation migratoire irrégulière et expulsé 4 173 personnes. Les autorités indiquent qu'elles renforcent les contrôles à la frontière.\n\nSigné : Blaise Antoine Joseph (BAJ)",
+      ht: "Sou fen semèn 23–25 oktòb, Direksyon Jeneral Migrasyon Dominikani (DGM) rapòte li arete 4 618 etranje ki pa t gen papye regilye, epi li ekspilse 4 173 moun. Otorite yo di yo ap sere kontwòl sou fwontyè a.",
+      fr: "Sur le week-end des 23–25 octobre, la Direction générale de la migration dominicaine (DGM) rapporte avoir arrêté 4 618 étrangers en situation migratoire irrégulière et expulsé 4 173 personnes. Les autorités indiquent qu'elles renforcent les contrôles à la frontière.",
     },
     sources: [
       "DGM République dominicaine",
-      "Blaise Antoine Joseph (BAJ)",
     ],
   },
   {
@@ -93,12 +94,11 @@ export const STORIES: Story[] = [
       fr: "Mardi, dans les camps Argentine Bellegarde, Ministère de la Communication et OAVCT, des déplacés ont dressé des barricades et brûlé des pneus pour réclamer aide et sécurité.",
     },
     body: {
-      ht: "Madi, moun ki nan kan Argentine Bellegarde, Ministè Kominikasyon ak OAVCT nan Pòtoprens te mete barikad epi boule kawotchou. Yo mande peman relokasyon 100 000 goud (anviwon 763 dola ameriken) nan men Eta a ak Òganizasyon Entènasyonal pou Migrasyon (OIM), ansanm ak garanti sekirite pou yo ka tounen lakay.\n\nPrèske 1,5 milyon moun deplase nan peyi a.\n\nSiyen : Blaise Antoine Joseph (BAJ)",
-      fr: "Mardi, des personnes hébergées dans les camps Argentine Bellegarde, Ministère de la Communication et OAVCT à Port-au-Prince ont dressé des barricades et brûlé des pneus. Elles réclament le paiement de relocalisation de 100 000 gourdes (environ 763 dollars américains) de la part de l'État et de l'Organisation internationale pour les migrations (OIM), ainsi que des garanties de sécurité pour pouvoir rentrer chez elles.\n\nPrès de 1,5 million de personnes sont déplacées dans le pays.\n\nSigné : Blaise Antoine Joseph (BAJ)",
+      ht: "Madi, moun ki nan kan Argentine Bellegarde, Ministè Kominikasyon ak OAVCT nan Pòtoprens te mete barikad epi boule kawotchou. Yo mande peman relokasyon 100 000 goud (anviwon 763 dola ameriken) nan men Eta a ak Òganizasyon Entènasyonal pou Migrasyon (OIM), ansanm ak garanti sekirite pou yo ka tounen lakay.\n\nPrèske 1,5 milyon moun deplase nan peyi a.",
+      fr: "Mardi, des personnes hébergées dans les camps Argentine Bellegarde, Ministère de la Communication et OAVCT à Port-au-Prince ont dressé des barricades et brûlé des pneus. Elles réclament le paiement de relocalisation de 100 000 gourdes (environ 763 dollars américains) de la part de l'État et de l'Organisation internationale pour les migrations (OIM), ainsi que des garanties de sécurité pour pouvoir rentrer chez elles.\n\nPrès de 1,5 million de personnes sont déplacées dans le pays.",
     },
     sources: [
       "ERM Digital / EFE",
-      "Blaise Antoine Joseph (BAJ)",
     ],
   },
 
