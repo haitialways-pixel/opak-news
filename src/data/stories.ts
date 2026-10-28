@@ -2,48 +2,106 @@ import type { Story } from "../types";
 
 /**
  * Curated Haiti digest — real stories with multi-source credits.
- * Slot 3 (need-to-know) is the editor-pushed ONA piece (isManual).
- * Set isManual: true for editor-pushed stories.
+ * Need to Know leads; quick hits by topic. Set isManual for editor pushes.
+ * Feed shows brief only; full detail belongs in body on the story page.
  */
 export const STORIES: Story[] = [
-  {
-    id: "ntk-intemperies-pluie-2026-10",
-    tier: "need-to-know",
-    topic: "society",
-    publishedAt: "2026-10-27",
-    isBreaking: true,
-    headline: {
-      ht: "Gwo lapli: 4 mouri, plis pase 3200 fanmi sinistre; metewo ap kalme",
-      fr: "Fortes pluies : 4 morts, plus de 3200 familles sinistrées ; la météo s’apaise",
-    },
-    brief: {
-      ht: "Depi fen semèn nan, gwo lapli ak loraj frape peyi a, sitou Grand Sid, Nip, Grandans ak Lwès. DGPC (26 oktòb) di omwen 4 moun mouri, 2 disparèt, 3 blese, ak plis pase 3200 fanmi afekte nan 21 komin. Yo konte 2130 kay inonde, 847 detwi, 219 domaje. Baradè anba dlo; dig Ravine Sid tonbe; RN7 te bloke yon moman nan Grandans. UHM te kenbe vijilans oranj nan 5 depatman. Pou Pòtoprens: jodi a (madi) chalè ak loraj izole, 30 °C konsa; mèkredi-jedi toujou posib ti loraj apremidi; vandredi-samdi lapli a ta dwe diminye, toujou cho ak imid.",
-      fr: "Depuis le week-end, de fortes pluies et orages frappent le pays, surtout le Grand Sud, les Nippes, la Grand’Anse et l’Ouest. La DGPC (26 octobre) fait état d’au moins 4 morts, 2 disparus, 3 blessés et plus de 3200 familles touchées dans 21 communes. Bilan matériel : 2130 maisons inondées, 847 détruites, 219 endommagées. Baradères sous les eaux ; digue de la Ravine du Sud effondrée ; RN7 brièvement bloquée en Grand’Anse. L’UHM maintenait la vigilance orange sur 5 départements. À Port-au-Prince : mardi, chaleur et orages isolés autour de 30 °C ; mercredi-jeudi, averses orageuses encore possibles l’après-midi ; vendredi-samedi, pluie en baisse, toujours chaud et humide.",
-    },
-    sources: [
-      "DGPC / Protection civile",
-      "Le Nouvelliste",
-      "L’Observatoire",
-      "UHM / FICOM",
-      "HaitiLibre",
-    ],
-  },
   {
     id: "ntk-gsf-salvador-attack-2026-10",
     tier: "need-to-know",
     topic: "security",
-    publishedAt: "2026-10-27",
+    publishedAt: "2026-10-28",
     isBreaking: true,
     headline: {
-      ht: "~1000 sòlda Salvador nan Ayiti; kat teknisyen toujou manke",
-      fr: "Environ 1000 soldats salvadoriens en Haïti ; quatre techniciens toujours manquants",
+      ht: "Salvadò voye anviwon 1 000 sòlda ann Ayiti apre anbiskad 18 oktòb la",
+      fr: "Le Salvador dépêche environ 1 000 soldats en Haïti après l'embuscade du 18 octobre",
     },
     brief: {
-      ht: "Yon sous sekirite nan Ayiti di Reuters (madi 27 oktòb) ke anviwon 1000 sòlda Salvador te rive nan dènye jou yo, apre anbiskad 18 oktòb nan Kwadesboukè kote kat teknisyen avyasyon FRG yo rete san nouvèl. Pa klè ki moun k ap kòmande nouvo kontenjan an ni konbyen tan. US Southern Command te ede ak avyon C-130; Dominikani ofri sipò lojistik. Gang 400 Mawozo demanti yo kenbe yo; rechèch la kontinye.",
-      fr: "Une source sécuritaire en Haïti indique à Reuters (mardi 27 octobre) qu’environ 1000 soldats salvadoriens sont arrivés ces derniers jours, après l’embuscade du 18 octobre à Croix-des-Bouquets où quatre techniciens d’aviation de la FRG restent introuvables. Le commandement du nouveau contingent et sa durée restent flous. Le US Southern Command a aidé avec des C-130; la République dominicaine offre un soutien logistique. Le gang 400 Mawozo nie les détenir; les recherches continuent.",
+      ht: "Anviwon 1 000 sòlda Salvador rive ann Ayiti apre kat manm misyon ONU a disparèt nan yon anbiskad gang. Kòmandman, dire ak lyen ak GSF toujou pa klè.",
+      fr: "Environ 1 000 soldats salvadoriens arrivent en Haïti après la disparition de quatre membres de la mission onusienne dans une embuscade de gangs. Commandement, durée et lien avec la GSF restent flous.",
     },
-    sources: ["Reuters", "Miami Herald", "BBC Mundo", "AP News"],
+    body: {
+      ht: "Yon sous sekirite ayisyen di Reuters ke El Salvador voye anviwon 1 000 sòlda ann Ayiti apre kat manm salvadoryen nan fòs siprèsyon gang yo (misyon sipòte pa ONU) disparèt nan yon anbiskad gang toupre Pòtoprens, 18 oktòb.\n\nLi poko klè ki moun k ap kòmande kontenjan sa a, konbyen tan yo pral rete, ni si yo ap opere andeyò Gang Suppression Force la. Etazini te prete avyon kago C-130 pou mennen yo. Fòs la gen anviwon 2 000 pèsonèl sou efèktif li te planifye a.\n\nSiyen : Blaise Antoine Joseph (BAJ)",
+      fr: "Une source sécuritaire haïtienne indique à Reuters qu'El Salvador a dépêché environ 1 000 soldats en Haïti après la disparition de quatre membres salvadoriens de la force de répression des gangs (mission soutenue par l'ONU) dans une embuscade de gangs près de Port-au-Prince, le 18 octobre.\n\nIl n'est pas encore clair qui commandera ce contingent, combien de temps il restera, ni s'il opérera en dehors de la Gang Suppression Force. Les États-Unis ont prêté des avions cargo C-130 pour les transporter. La force compte environ 2 000 personnels sur l'effectif prévu.\n\nSigné : Blaise Antoine Joseph (BAJ)",
+    },
+    sources: [
+      "Reuters",
+      "Devdiscourse",
+      "Blaise Antoine Joseph (BAJ)",
+    ],
   },
+  {
+    id: "ntk-intemperies-pluie-2026-10",
+    tier: "need-to-know",
+    topic: "society",
+    publishedAt: "2026-10-28",
+    isBreaking: true,
+    headline: {
+      ht: "Inondasyon : omwen 4 moun mouri, 847 kay kraze nan Grand Sid",
+      fr: "Inondations : au moins 4 morts et 847 maisons détruites dans le Grand Sud",
+    },
+    brief: {
+      ht: "DGPC konte omwen 4 mouri, 2 pechè disparèt, 3 209 fanmi afekte ak 847 kay detwi. Vijilans oranj leve 27 oktòb; bezwen ijan rete.",
+      fr: "La DGPC compte au moins 4 morts, 2 pêcheurs disparus, 3 209 familles touchées et 847 maisons détruites. Alerte orange levée le 27 octobre; les besoins urgents demeurent.",
+    },
+    body: {
+      ht: "Apre plizyè jou gwo lapli, DGPC fè yon bilten lou nan Grand Sid la: omwen 4 moun mouri (kèk medya di 5), 2 pechè disparèt, 3 209 fanmi afekte, ak 847 kay detwi. Nip, Grandans ak Sid yo te pi frape.\n\nVijilans oranj te leve 27 oktòb, men otorite yo mande moun yo rete vijilan. Bezwen ijan yo enkli kit ijyèn, dyezèl, ekipman lou, ak reparasyon wout sou segman Jérémie–Chambellan.\n\nSiyen : Blaise Antoine Joseph (BAJ)",
+      fr: "Après plusieurs jours de fortes pluies, la DGPC dresse un bilan lourd dans le Grand Sud: au moins 4 morts (certains médias disent 5), 2 pêcheurs disparus, 3 209 familles touchées et 847 maisons détruites. Les Nippes, la Grand'Anse et le Sud ont été les plus durement touchés.\n\nL'alerte orange a été levée le 27 octobre, mais les autorités appellent encore à la prudence. Parmi les besoins urgents: kits d'hygiène, diesel, engins lourds, et réparations sur le tronçon Jérémie–Chambellan.\n\nSigné : Blaise Antoine Joseph (BAJ)",
+    },
+    sources: [
+      "DGPC / Protection civile",
+      "Le Nouvelliste",
+      "Le Placentin",
+      "HaitiLibre",
+      "AP News",
+      "Blaise Antoine Joseph (BAJ)",
+    ],
+  },
+  {
+    id: "ntk-dr-deportations-weekend-2026-10",
+    tier: "need-to-know",
+    topic: "society",
+    publishedAt: "2026-10-28",
+    headline: {
+      ht: "Dominikani ekspilse 4 173 moun nan fen semèn 23–25 oktòb",
+      fr: "La République dominicaine a expulsé 4 173 personnes le week-end des 23–25 octobre",
+    },
+    brief: {
+      ht: "DGM Dominikani di li arete 4 618 etranje san papye epi ekspilse 4 173 nan fen semèn nan. Kontwòl fwontyè yo ap sere.",
+      fr: "La DGM dominicaine dit avoir arrêté 4 618 étrangers en situation irrégulière et expulsé 4 173 personnes sur le week-end. Les contrôles à la frontière se renforcent.",
+    },
+    body: {
+      ht: "Sou fen semèn 23–25 oktòb, Direksyon Jeneral Migrasyon Dominikani (DGM) rapòte li arete 4 618 etranje ki pa t gen papye regilye, epi li ekspilse 4 173 moun. Otorite yo di yo ap sere kontwòl sou fwontyè a.\n\nSiyen : Blaise Antoine Joseph (BAJ)",
+      fr: "Sur le week-end des 23–25 octobre, la Direction générale de la migration dominicaine (DGM) rapporte avoir arrêté 4 618 étrangers en situation migratoire irrégulière et expulsé 4 173 personnes. Les autorités indiquent qu'elles renforcent les contrôles à la frontière.\n\nSigné : Blaise Antoine Joseph (BAJ)",
+    },
+    sources: [
+      "DGM République dominicaine",
+      "Blaise Antoine Joseph (BAJ)",
+    ],
+  },
+  {
+    id: "qh-idp-protest-pap-2026-10",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-10-28",
+    headline: {
+      ht: "Moun ki deplase yo manifeste Pòtoprens pou mande èd ak sekirite pou retounen lakay",
+      fr: "Les déplacés manifestent à Port-au-Prince pour réclamer aide et retour sécurisé",
+    },
+    brief: {
+      ht: "Madi, nan kan Argentine Bellegarde, Ministè Kominikasyon ak OAVCT, deplase yo mete barikad epi yo boule kawotchou pou mande èd ak sekirite.",
+      fr: "Mardi, dans les camps Argentine Bellegarde, Ministère de la Communication et OAVCT, des déplacés ont dressé des barricades et brûlé des pneus pour réclamer aide et sécurité.",
+    },
+    body: {
+      ht: "Madi, moun ki nan kan Argentine Bellegarde, Ministè Kominikasyon ak OAVCT nan Pòtoprens te mete barikad epi boule kawotchou. Yo mande peman relokasyon 100 000 goud (anviwon 763 dola ameriken) nan men Eta a ak Òganizasyon Entènasyonal pou Migrasyon (OIM), ansanm ak garanti sekirite pou yo ka tounen lakay.\n\nPrèske 1,5 milyon moun deplase nan peyi a.\n\nSiyen : Blaise Antoine Joseph (BAJ)",
+      fr: "Mardi, des personnes hébergées dans les camps Argentine Bellegarde, Ministère de la Communication et OAVCT à Port-au-Prince ont dressé des barricades et brûlé des pneus. Elles réclament le paiement de relocalisation de 100 000 gourdes (environ 763 dollars américains) de la part de l'État et de l'Organisation internationale pour les migrations (OIM), ainsi que des garanties de sécurité pour pouvoir rentrer chez elles.\n\nPrès de 1,5 million de personnes sont déplacées dans le pays.\n\nSigné : Blaise Antoine Joseph (BAJ)",
+    },
+    sources: [
+      "ERM Digital / EFE",
+      "Blaise Antoine Joseph (BAJ)",
+    ],
+  },
+
   {
     id: "qh-repatriation-trump-tps-2026-10",
     tier: "quick-hit",
