@@ -6,7 +6,6 @@ import { getStoryById } from "../data/stories";
 import { topicLabel } from "../data/topics";
 import { useLanguage } from "../context/LanguageContext";
 import { KeepNumbers } from "../lib/keepNumbers";
-import { SITE } from "../config";
 
 export function StoryPage() {
   const { id } = useParams<{ id: string }>();
