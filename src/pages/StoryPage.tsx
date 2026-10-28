@@ -1,3 +1,4 @@
+import { SiteFooter } from "../components/SiteFooter";
 import { Link, useParams } from "react-router-dom";
 import { AdPlaceholder } from "../components/AdPlaceholder";
 import { ShareBar } from "../components/ShareBar";
@@ -111,11 +112,7 @@ export function StoryPage() {
         <AdPlaceholder />
       </main>
 
-      <footer className="site-footer">
-        <Link to="/" className="brand-inline">
-          Opak News · Ayiti
-        </Link>
-      </footer>
+      <SiteFooter />
     </div>
   );
 }

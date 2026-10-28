@@ -1,3 +1,4 @@
+import { SiteFooter } from "../components/SiteFooter";
 import { FeaturedVideo } from "../components/FeaturedVideo";
 import { InTheKnow } from "../components/InTheKnow";
 import { Masthead } from "../components/Masthead";
@@ -12,9 +13,7 @@ export function HomePage() {
         <FeaturedVideo />
         <InTheKnow />
       </main>
-      <footer className="site-footer">
-        <p>Opak News · Ayiti</p>
-      </footer>
+      <SiteFooter />
     </div>
   );
 }
