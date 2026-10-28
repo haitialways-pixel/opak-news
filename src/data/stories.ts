@@ -148,6 +148,29 @@ export const STORIES: Story[] = [
     ],
   },
   {
+    id: "qh-ipc-hunger-2026-10-28",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-10-28",
+    headline: {
+      ht: "Grangou ann Ayiti : 6,35 milyon moun an danje anvan mitan 2027, dapre IPC",
+      fr: "Faim en Haïti : 6,35 millions de personnes menacées d'ici mi-2027, selon l'IPC",
+    },
+    brief: {
+      ht: "Dapre FAO ak IPC, 5,94 milyon Ayisyen ap fè fas ak ensekirite alimantè egi. Chif la ta ka rive 6,35 milyon ant mas ak jen 2027, ki plis pase mwatye popilasyon an.",
+      fr: "Selon la FAO et l'IPC, 5,94 millions d'Haïtiens font face à une insécurité alimentaire aiguë. Le chiffre pourrait atteindre 6,35 millions de mars à juin 2027, soit plus de la moitié de la population.",
+    },
+    body: {
+      ht: "Dapre yon nouvo rapò IPC, pibliye ak FAO, 5,94 milyon Ayisyen ap fè fas kounye a ak ensekirite alimantè egi, youn nan nivo ki pi wo nan mond lan. Ant mas ak jen 2027, chif la prevwa rive 6,35 milyon, ki plis pase mwatye popilasyon an epi plis pase 500000 moun anplis pase menm peryòd 2026 la.\n\nPrèske 2 milyon moun ta nan faz Ijans (IPC Phase 4). Kòz yo site se vyolans gang yo, plis pase 1,5 milyon moun deplase, ogmantasyon pri manje ak gazolin, ansanm ak sechrès ak inondasyon ki gen rapò ak El Niño, ki ajoute sou lapli Grand Sid yo.\n\nWFP di li bezwen 78 milyon dola ameriken pou kontinye opere jouk mas.",
+      fr: "Selon un nouveau rapport de l'IPC, publié avec la FAO, 5,94 millions d'Haïtiens font actuellement face à une insécurité alimentaire aiguë, l'un des niveaux les plus élevés au monde. De mars à juin 2027, ce chiffre est projeté à 6,35 millions, soit plus de la moitié de la population et plus de 500000 personnes de plus que sur la même période en 2026.\n\nPrès de 2 millions de personnes seraient alors en phase d'Urgence (IPC Phase 4). Les causes citées sont la violence des gangs, plus de 1,5 million de déplacés, la hausse des prix des denrées et du carburant, ainsi que les sécheresses et inondations liées à El Niño, qui s'ajoutent aux pluies du Grand Sud.\n\nLe PAM indique qu'il a besoin de 78 millions de dollars américains pour poursuivre ses opérations jusqu'en mars.",
+    },
+    sources: [
+      "AP News",
+      "WFP",
+    ],
+  },
+
+  {
     id: "qh-idp-protest-pap-2026-10",
     tier: "quick-hit",
     topic: "society",
