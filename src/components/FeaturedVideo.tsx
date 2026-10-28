@@ -1,5 +1,5 @@
 import {
-  OBELIKA_YOUTUBE_URL,
+  OBELIKA_FEATURED_WATCH_URL,
   obelikaFeaturedEmbedUrl,
 } from "../config";
 import { useLanguage } from "../context/LanguageContext";
@@ -16,7 +16,7 @@ export function FeaturedVideo() {
         </h2>
         <a
           className="text-link"
-          href={OBELIKA_YOUTUBE_URL}
+          href={OBELIKA_FEATURED_WATCH_URL}
           target="_blank"
           rel="noopener noreferrer"
         >

@@ -40,6 +40,7 @@ Edit `src/config.ts` (or set Vite env vars):
 | --- | --- |
 | `OBELIKA_YOUTUBE_URL` / `VITE_OBELIKA_YOUTUBE_URL` | `https://www.youtube.com/@Obelika` |
 | `OBELIKA_YOUTUBE_CHANNEL_ID` / `VITE_OBELIKA_YOUTUBE_CHANNEL_ID` | `UCRii3A1yALqUcgYj4ZcssBQ` |
+| `OBELIKA_FEATURED_VIDEO_ID` / `VITE_OBELIKA_FEATURED_VIDEO_ID` | `s6VXqWWAs4U` (Featured Video embeds this pinned video; set empty to fall back to the uploads playlist) |
 
 The front page embeds the channel **uploads playlist** (`UC…` → `UU…`) so the latest uploads appear without hard-coding a video id.
 

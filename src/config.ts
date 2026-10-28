@@ -26,8 +26,19 @@ export function youtubeUploadsPlaylistId(
   return channelId;
 }
 
-/** Embed URL for the channel's upload playlist (latest-first). */
+/** Pinned featured video id (empty string = fall back to uploads playlist). */
+export const OBELIKA_FEATURED_VIDEO_ID: string =
+  (env.VITE_OBELIKA_FEATURED_VIDEO_ID as string | undefined) ?? "s6VXqWWAs4U";
+
+/** Watch URL for the pinned video, or the channel URL if none. */
+export const OBELIKA_FEATURED_WATCH_URL: string = OBELIKA_FEATURED_VIDEO_ID
+  ? `https://www.youtube.com/watch?v=${encodeURIComponent(OBELIKA_FEATURED_VIDEO_ID)}`
+  : OBELIKA_YOUTUBE_URL;
+
+/** Embed URL: pinned video if set, else the channel's uploads playlist. */
 export function obelikaFeaturedEmbedUrl(): string {
+  if (OBELIKA_FEATURED_VIDEO_ID)
+    return `https://www.youtube.com/embed/${encodeURIComponent(OBELIKA_FEATURED_VIDEO_ID)}`;
   const list = youtubeUploadsPlaylistId();
   return `https://www.youtube.com/embed/videoseries?list=${encodeURIComponent(list)}`;
 }
