@@ -35,7 +35,7 @@ export const TOPICS: TopicMeta[] = [
   },
   {
     id: "gossip",
-    label: { ht: "Tripotay", fr: "Rumeurs" },
+    label: { ht: "Nan Koulis yo", fr: "Les Coulisses" },
   },
 ];
 
