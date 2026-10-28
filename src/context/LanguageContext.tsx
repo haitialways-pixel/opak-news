@@ -53,7 +53,7 @@ const UI = {
     shareLabel: "Pataje",
     shareOnX: "Pataje sou X",
     shareOnFacebook: "Pataje sou Facebook",
-    sendNote: "Voye nou yon nòt",
+    sendNote: "Pou Redaksyon an, klike isit.",
   },
   fr: {
     needToKnow: "À retenir",
@@ -71,7 +71,7 @@ const UI = {
     shareLabel: "Partager",
     shareOnX: "Partager sur X",
     shareOnFacebook: "Partager sur Facebook",
-    sendNote: "Envoyez-nous une note",
+    sendNote: "Pour la Redaction, cliquer ici.",
   },
 } as const;
 

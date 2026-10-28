@@ -696,10 +696,16 @@ a:hover {
 .promo-tagline {
   white-space: pre-line;
 }
-/* Durable: KeepNumbers wraps digit groups in .nowrap-num */
+/* Durable: KeepNumbers wraps digit groups in .nowrap-num.
+   inline-block makes an atomic box so parent overflow-wrap:break-word
+   cannot split "1 000" on mobile WebKit. */
 .nowrap-num,
 a[href^="tel:"] {
+  display: inline-block;
   white-space: nowrap;
+  overflow-wrap: normal;
+  word-break: normal;
+  hyphens: none;
 }
 
 .detail-body {
@@ -718,11 +724,15 @@ a[href^="tel:"] {
 .share-note-link {
   align-self: center;
   margin-left: 0.35rem;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   font-weight: 600;
   color: var(--accent, #1a5f4a);
   text-decoration: none;
-  white-space: nowrap;
+  /* Longer "Pour la Redaction…" copy: stay on the share row, allow soft wrap */
+  white-space: normal;
+  flex: 1 1 auto;
+  min-width: 0;
+  line-height: 1.25;
 }
 .share-note-link:hover {
   text-decoration: underline;
