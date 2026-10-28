@@ -2,7 +2,6 @@
 
 Mobile-first Haiti news digest (**Opak News**): 1440-style *Need to Know* + *In the Know*, Haitian Creole primary with French on every story, featured video from Obelika’s YouTube channel, and a story detail page with an ad slot under the brief.
 
-> Sample content only in v1. Curation automation and live AdMob come later.
 
 ## Stack
 
