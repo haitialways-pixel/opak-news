@@ -1,5 +1,5 @@
 /** Regex-level check mirroring src/lib/keepNumbers.tsx */
-const SPACE_SEP = "[\u00A0\u202F\u2007\u2009 ]";
+const SPACE_SEP = "[ \u202F\u2007\u2009 ]";
 const DIGIT_GROUP = new RegExp(
   `\\d{1,3}(?:${SPACE_SEP}\\d{3})+(?:[.,]\\d+)?|\\d{4,}(?:[.,]\\d+)?`,
   "g",
@@ -13,7 +13,7 @@ function wrap(text) {
   for (const match of text.matchAll(re)) {
     const start = match.index ?? 0;
     if (start > last) parts.push(["text", text.slice(last, start)]);
-    const normalized = match[0].replace(SEP_RE, "\u00A0");
+    const normalized = match[0].replace(SEP_RE, "");
     parts.push(["nowrap", normalized]);
     last = start + match[0].length;
   }
@@ -25,17 +25,17 @@ const cases = [
   {
     name: "regular space 1 000",
     input: "environ 1 000 soldats",
-    expectNowrap: ["1\u00A0000"],
+    expectNowrap: ["1000"],
   },
   {
     name: "existing NBSP",
-    input: "Environ 1\u00A0000 soldats",
-    expectNowrap: ["1\u00A0000"],
+    input: "Environ 1000 soldats",
+    expectNowrap: ["1000"],
   },
   {
     name: "narrow NBSP",
     input: "environ 1\u202F000 soldats",
-    expectNowrap: ["1\u00A0000"],
+    expectNowrap: ["1000"],
   },
   {
     name: "unspaced 17000",
@@ -45,13 +45,13 @@ const cases = [
   {
     name: "100 000",
     input: "100 000 gourdes",
-    expectNowrap: ["100\u00A0000"],
+    expectNowrap: ["100000"],
   },
   {
     name: "Salvador headline",
     input:
       "Le Salvador dépêche environ 1 000 soldats en Haïti après l'embuscade du 18 octobre",
-    expectNowrap: ["1\u00A0000"],
+    expectNowrap: ["1000"],
   },
   {
     name: "no numbers",

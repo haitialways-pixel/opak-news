@@ -114,7 +114,7 @@ export function StoryPage() {
 
       <footer className="site-footer">
         <Link to="/" className="brand-inline">
-          {SITE.name}
+          Opak News · Ayiti
         </Link>
       </footer>
     </div>

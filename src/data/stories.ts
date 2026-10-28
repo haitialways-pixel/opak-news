@@ -17,16 +17,16 @@ export const STORIES: Story[] = [
     publishedAt: "2026-10-28",
     isBreaking: true,
     headline: {
-      ht: "Salvadò voye anviwon 1 000 sòlda ann Ayiti apre anbiskad 18 oktòb la",
-      fr: "Le Salvador dépêche environ 1 000 soldats en Haïti après l'embuscade du 18 octobre",
+      ht: "Salvadò voye anviwon 1000 sòlda ann Ayiti apre anbiskad 18 oktòb la",
+      fr: "Le Salvador dépêche environ 1000 soldats en Haïti après l'embuscade du 18 octobre",
     },
     brief: {
-      ht: "Anviwon 1 000 sòlda Salvador rive ann Ayiti apre kat manm misyon ONU a disparèt nan yon anbiskad gang. Kòmandman, dire ak lyen ak GSF toujou pa klè.",
-      fr: "Environ 1 000 soldats salvadoriens arrivent en Haïti après la disparition de quatre membres de la mission onusienne dans une embuscade de gangs. Commandement, durée et lien avec la GSF restent flous.",
+      ht: "Anviwon 1000 sòlda Salvador rive ann Ayiti apre kat manm misyon ONU a disparèt nan yon anbiskad gang. Kòmandman, dire ak lyen ak GSF toujou pa klè.",
+      fr: "Environ 1000 soldats salvadoriens arrivent en Haïti après la disparition de quatre membres de la mission onusienne dans une embuscade de gangs. Commandement, durée et lien avec la GSF restent flous.",
     },
     body: {
-      ht: "Yon sous sekirite ayisyen di Reuters ke El Salvador voye anviwon 1 000 sòlda ann Ayiti apre kat manm salvadoryen nan fòs siprèsyon gang yo (misyon sipòte pa ONU) disparèt nan yon anbiskad gang toupre Pòtoprens, 18 oktòb.\n\nLi poko klè ki moun k ap kòmande kontenjan sa a, konbyen tan yo pral rete, ni si yo ap opere andeyò Gang Suppression Force la. Etazini te prete avyon kago C-130 pou mennen yo. Fòs la gen anviwon 2 000 pèsonèl sou efèktif li te planifye a.",
-      fr: "Une source sécuritaire haïtienne indique à Reuters qu'El Salvador a dépêché environ 1 000 soldats en Haïti après la disparition de quatre membres salvadoriens de la force de répression des gangs (mission soutenue par l'ONU) dans une embuscade de gangs près de Port-au-Prince, le 18 octobre.\n\nIl n'est pas encore clair qui commandera ce contingent, combien de temps il restera, ni s'il opérera en dehors de la Gang Suppression Force. Les États-Unis ont prêté des avions cargo C-130 pour les transporter. La force compte environ 2 000 personnels sur l'effectif prévu.",
+      ht: "Yon sous sekirite ayisyen di Reuters ke El Salvador voye anviwon 1000 sòlda ann Ayiti apre kat manm salvadoryen nan fòs siprèsyon gang yo (misyon sipòte pa ONU) disparèt nan yon anbiskad gang toupre Pòtoprens, 18 oktòb.\n\nLi poko klè ki moun k ap kòmande kontenjan sa a, konbyen tan yo pral rete, ni si yo ap opere andeyò Gang Suppression Force la. Etazini te prete avyon kago C-130 pou mennen yo. Fòs la gen anviwon 2000 pèsonèl sou efèktif li te planifye a.",
+      fr: "Une source sécuritaire haïtienne indique à Reuters qu'El Salvador a dépêché environ 1000 soldats en Haïti après la disparition de quatre membres salvadoriens de la force de répression des gangs (mission soutenue par l'ONU) dans une embuscade de gangs près de Port-au-Prince, le 18 octobre.\n\nIl n'est pas encore clair qui commandera ce contingent, combien de temps il restera, ni s'il opérera en dehors de la Gang Suppression Force. Les États-Unis ont prêté des avions cargo C-130 pour les transporter. La force compte environ 2000 personnels sur l'effectif prévu.",
     },
     sources: [
       "Reuters",
@@ -44,12 +44,12 @@ export const STORIES: Story[] = [
       fr: "Inondations : au moins 4 morts et 847 maisons détruites dans le Grand Sud",
     },
     brief: {
-      ht: "DGPC konte omwen 4 mouri, 2 pechè disparèt, 3 209 fanmi afekte ak 847 kay detwi. Vijilans oranj leve 27 oktòb; bezwen ijan rete.",
-      fr: "La DGPC compte au moins 4 morts, 2 pêcheurs disparus, 3 209 familles touchées et 847 maisons détruites. Alerte orange levée le 27 octobre; les besoins urgents demeurent.",
+      ht: "DGPC konte omwen 4 mouri, 2 pechè disparèt, 3209 fanmi afekte ak 847 kay detwi. Vijilans oranj leve 27 oktòb; bezwen ijan rete.",
+      fr: "La DGPC compte au moins 4 morts, 2 pêcheurs disparus, 3209 familles touchées et 847 maisons détruites. Alerte orange levée le 27 octobre; les besoins urgents demeurent.",
     },
     body: {
-      ht: "Apre plizyè jou gwo lapli, DGPC fè yon bilten lou nan Grand Sid la: omwen 4 moun mouri (kèk medya di 5), 2 pechè disparèt, 3 209 fanmi afekte, ak 847 kay detwi. Nip, Grandans ak Sid yo te pi frape.\n\nVijilans oranj te leve 27 oktòb, men otorite yo mande moun yo rete vijilan. Bezwen ijan yo enkli kit ijyèn, dyezèl, ekipman lou, ak reparasyon wout sou segman Jérémie–Chambellan.",
-      fr: "Après plusieurs jours de fortes pluies, la DGPC dresse un bilan lourd dans le Grand Sud: au moins 4 morts (certains médias disent 5), 2 pêcheurs disparus, 3 209 familles touchées et 847 maisons détruites. Les Nippes, la Grand'Anse et le Sud ont été les plus durement touchés.\n\nL'alerte orange a été levée le 27 octobre, mais les autorités appellent encore à la prudence. Parmi les besoins urgents: kits d'hygiène, diesel, engins lourds, et réparations sur le tronçon Jérémie–Chambellan.",
+      ht: "Apre plizyè jou gwo lapli, DGPC fè yon bilten lou nan Grand Sid la: omwen 4 moun mouri (kèk medya di 5), 2 pechè disparèt, 3209 fanmi afekte, ak 847 kay detwi. Nip, Grandans ak Sid yo te pi frape.\n\nVijilans oranj te leve 27 oktòb, men otorite yo mande moun yo rete vijilan. Bezwen ijan yo enkli kit ijyèn, dyezèl, ekipman lou, ak reparasyon wout sou segman Jérémie–Chambellan.",
+      fr: "Après plusieurs jours de fortes pluies, la DGPC dresse un bilan lourd dans le Grand Sud: au moins 4 morts (certains médias disent 5), 2 pêcheurs disparus, 3209 familles touchées et 847 maisons détruites. Les Nippes, la Grand'Anse et le Sud ont été les plus durement touchés.\n\nL'alerte orange a été levée le 27 octobre, mais les autorités appellent encore à la prudence. Parmi les besoins urgents: kits d'hygiène, diesel, engins lourds, et réparations sur le tronçon Jérémie–Chambellan.",
     },
     sources: [
       "DGPC / Protection civile",
@@ -65,16 +65,16 @@ export const STORIES: Story[] = [
     topic: "society",
     publishedAt: "2026-10-28",
     headline: {
-      ht: "Dominikani ekspilse 4 173 moun nan fen semèn 23–25 oktòb",
-      fr: "La République dominicaine a expulsé 4 173 personnes le week-end des 23–25 octobre",
+      ht: "Dominikani ekspilse 4173 moun nan fen semèn 23–25 oktòb",
+      fr: "La République dominicaine a expulsé 4173 personnes le week-end des 23–25 octobre",
     },
     brief: {
-      ht: "DGM Dominikani di li arete 4 618 etranje san papye epi ekspilse 4 173 nan fen semèn nan. Kontwòl fwontyè yo ap sere.",
-      fr: "La DGM dominicaine dit avoir arrêté 4 618 étrangers en situation irrégulière et expulsé 4 173 personnes sur le week-end. Les contrôles à la frontière se renforcent.",
+      ht: "DGM Dominikani di li arete 4618 etranje san papye epi ekspilse 4173 nan fen semèn nan. Kontwòl fwontyè yo ap sere.",
+      fr: "La DGM dominicaine dit avoir arrêté 4618 étrangers en situation irrégulière et expulsé 4173 personnes sur le week-end. Les contrôles à la frontière se renforcent.",
     },
     body: {
-      ht: "Sou fen semèn 23–25 oktòb, Direksyon Jeneral Migrasyon Dominikani (DGM) rapòte li arete 4 618 etranje ki pa t gen papye regilye, epi li ekspilse 4 173 moun. Otorite yo di yo ap sere kontwòl sou fwontyè a.",
-      fr: "Sur le week-end des 23–25 octobre, la Direction générale de la migration dominicaine (DGM) rapporte avoir arrêté 4 618 étrangers en situation migratoire irrégulière et expulsé 4 173 personnes. Les autorités indiquent qu'elles renforcent les contrôles à la frontière.",
+      ht: "Sou fen semèn 23–25 oktòb, Direksyon Jeneral Migrasyon Dominikani (DGM) rapòte li arete 4618 etranje ki pa t gen papye regilye, epi li ekspilse 4173 moun. Otorite yo di yo ap sere kontwòl sou fwontyè a.",
+      fr: "Sur le week-end des 23–25 octobre, la Direction générale de la migration dominicaine (DGM) rapporte avoir arrêté 4618 étrangers en situation migratoire irrégulière et expulsé 4173 personnes. Les autorités indiquent qu'elles renforcent les contrôles à la frontière.",
     },
     sources: [
       "DGM République dominicaine",
@@ -94,8 +94,8 @@ export const STORIES: Story[] = [
       fr: "Mardi, dans les camps Argentine Bellegarde, Ministère de la Communication et OAVCT, des déplacés ont dressé des barricades et brûlé des pneus pour réclamer aide et sécurité.",
     },
     body: {
-      ht: "Madi, moun ki nan kan Argentine Bellegarde, Ministè Kominikasyon ak OAVCT nan Pòtoprens te mete barikad epi boule kawotchou. Yo mande peman relokasyon 100 000 goud (anviwon 763 dola ameriken) nan men Eta a ak Òganizasyon Entènasyonal pou Migrasyon (OIM), ansanm ak garanti sekirite pou yo ka tounen lakay.\n\nPrèske 1,5 milyon moun deplase nan peyi a.",
-      fr: "Mardi, des personnes hébergées dans les camps Argentine Bellegarde, Ministère de la Communication et OAVCT à Port-au-Prince ont dressé des barricades et brûlé des pneus. Elles réclament le paiement de relocalisation de 100 000 gourdes (environ 763 dollars américains) de la part de l'État et de l'Organisation internationale pour les migrations (OIM), ainsi que des garanties de sécurité pour pouvoir rentrer chez elles.\n\nPrès de 1,5 million de personnes sont déplacées dans le pays.",
+      ht: "Madi, moun ki nan kan Argentine Bellegarde, Ministè Kominikasyon ak OAVCT nan Pòtoprens te mete barikad epi boule kawotchou. Yo mande peman relokasyon 100000 goud (anviwon 763 dola ameriken) nan men Eta a ak Òganizasyon Entènasyonal pou Migrasyon (OIM), ansanm ak garanti sekirite pou yo ka tounen lakay.\n\nPrèske 1,5 milyon moun deplase nan peyi a.",
+      fr: "Mardi, des personnes hébergées dans les camps Argentine Bellegarde, Ministère de la Communication et OAVCT à Port-au-Prince ont dressé des barricades et brûlé des pneus. Elles réclament le paiement de relocalisation de 100000 gourdes (environ 763 dollars américains) de la part de l'État et de l'Organisation internationale pour les migrations (OIM), ainsi que des garanties de sécurité pour pouvoir rentrer chez elles.\n\nPrès de 1,5 million de personnes sont déplacées dans le pays.",
     },
     sources: [
       "ERM Digital / EFE",

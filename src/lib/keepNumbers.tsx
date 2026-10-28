@@ -17,9 +17,9 @@ const DIGIT_GROUP = new RegExp(
 /** Spaces that may separate thousand groups. */
 const SEP_RE = /[\u00A0\u202F\u2007\u2009 ]/g;
 
-/** Normalize thousand separators inside a matched group to NBSP. */
+/** Strip thousand separators: "1 000" -> "1000" (no spaces/NBSP). */
 export function nbspDigitGroups(text: string): string {
-  return text.replace(DIGIT_GROUP, (m) => m.replace(SEP_RE, "\u00A0"));
+  return text.replace(DIGIT_GROUP, (m) => m.replace(SEP_RE, ""));
 }
 
 /**
@@ -38,7 +38,7 @@ export function KeepNumbers({ text }: { text: string }): ReactNode {
     if (start > last) {
       nodes.push(text.slice(last, start));
     }
-    const normalized = match[0].replace(SEP_RE, "\u00A0");
+    const normalized = match[0].replace(SEP_RE, "");
     nodes.push(
       <span key={`n${key++}`} className="nowrap-num">
         {normalized}
