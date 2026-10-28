@@ -17,16 +17,16 @@ export const STORIES: Story[] = [
     publishedAt: "2026-10-28",
     isBreaking: true,
     headline: {
-      ht: "Grand Sid : gwo lapli ak vijilans oranj, Nip pi frape",
-      fr: "Grand Sud : fortes averses et vigilance orange, Nippes le plus touché",
+      ht: "Grand Sid : gwo lapli ap kontinye, vijilans oranj kenbe",
+      fr: "Grand Sud : les averses continuent, vigilance orange maintenue",
     },
     brief: {
-      ht: "Gwo lapli ap tonbe nan Grand Sid depi 24 oktòb. OCHA di Nip gen 1920 fanmi afekte; plizyè dyk Ravine du Sud tonbe nan Okay.",
-      fr: "Fortes averses sur le Grand Sud depuis le 24 octobre. OCHA compte 1920 familles touchées dans les Nippes; plusieurs digues de la Ravine du Sud se sont effondrées aux Cayes.",
+      ht: "Kounye a, lapli ap kontinye tonbe sou Grand Sid e vijilans oranj la toujou an fòs. Selon OCHA ak DGPC, Nip gen 1920 fanmi afekte; plizyè dyk Ravine du Sud tonbe nan Okay.",
+      fr: "En ce moment, la pluie continue de tomber sur le Grand Sud et la vigilance orange reste en vigueur. Selon OCHA et la DGPC, on compte 1920 familles touchées dans les Nippes; plusieurs digues de la Ravine du Sud se sont effondrées aux Cayes.",
     },
     body: {
-      ht: "Depi 24 oktòb, gwo lapli ap frape Sid, Nip ak Grandans. Nan yon Flash Update 28 oktòb, OCHA di DGPC kenbe tout Grand Sid nan vijilans oranj (kèk medya te di alèt la leve 27 oktòb nan kèk depatman).\n\nNip pi frape: 1920 fanmi afekte, 1767 kay inonde, 48 ti kay detwi. Nan Grandans, 630 kay inonde; lopital kominotè Koray, lekòl nasyonal Fondikaques ak mache piblik Chanbelan inonde. Nan Okay, anviwon 200 kay inonde epi plizyè seksyon dyk Ravine du Sud tonbe.\n\nBilten an: 4 moun mouri (3 nan Nip, 1 nan Sidès) epi 2 pechè disparèt nan Abriko (Grandans).",
-      fr: "Depuis le 24 octobre, de fortes averses frappent le Sud, les Nippes et la Grand'Anse. Dans un Flash Update du 28 octobre, OCHA indique que la DGPC maintient tout le Grand Sud en vigilance orange (certains médias avaient annoncé une levée le 27 octobre dans certains départements).\n\nLes Nippes sont les plus touchées: 1920 familles affectées, 1767 maisons inondées, 48 petites maisons détruites. En Grand'Anse, 630 maisons inondées; l'hôpital communautaire de Corail, l'école nationale de Fond'Icaques et le marché public de Chambellan sont inondés. Aux Cayes, environ 200 maisons inondées et plusieurs sections de digues de la Ravine du Sud se sont effondrées.\n\nBilan: 4 morts (3 dans les Nippes, 1 dans le Sud-Est) et 2 pêcheurs disparus à Abricots (Grand'Anse).",
+      ht: "Gwo lapli ap kontinye frape Sid, Nip ak Grandans kounye a, depi 24 oktòb. Nan Flash Update 28 oktòb la, OCHA di DGPC kenbe tout Grand Sid nan vijilans oranj, malgre kèk medya te di alèt la te leve 27 oktòb nan kèk depatman.\n\nSitiyasyon an jodi a: Nip pi frape: 1920 fanmi afekte, 1767 kay inonde, 48 ti kay detwi. Nan Grandans, 630 kay inonde; lopital kominotè Koray, lekòl nasyonal Fondikaques ak mache piblik Chanbelan inonde. Nan Okay, anviwon 200 kay inonde epi plizyè seksyon dyk Ravine du Sud tonbe.\n\nBilan provizwa: 4 moun mouri (3 nan Nip, 1 nan Sidès) epi 2 pechè disparèt nan Abriko (Grandans).",
+      fr: "De fortes averses continuent de frapper le Sud, les Nippes et la Grand'Anse en ce moment, depuis le 24 octobre. Dans son Flash Update du 28 octobre, OCHA indique que la DGPC maintient tout le Grand Sud en vigilance orange, alors que certains médias avaient annoncé une levée le 27 octobre dans certains départements.\n\nLa situation aujourd'hui: les Nippes sont les plus touchées: 1920 familles affectées, 1767 maisons inondées, 48 petites maisons détruites. En Grand'Anse, 630 maisons inondées; l'hôpital communautaire de Corail, l'école nationale de Fond'Icaques et le marché public de Chambellan sont inondés. Aux Cayes, environ 200 maisons inondées et plusieurs sections de digues de la Ravine du Sud se sont effondrées.\n\nBilan provisoire: 4 morts (3 dans les Nippes, 1 dans le Sud-Est) et 2 pêcheurs disparus à Abricots (Grand'Anse).",
     },
     sources: [
       "OCHA",
