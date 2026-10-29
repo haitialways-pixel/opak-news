@@ -42,7 +42,7 @@ const pageId = process.env.FB_PAGE_ID || read("/home/box/.secrets/fb_page_id");
 let failed = 0;
 for (const s of pending) {
   const body = new URLSearchParams({
-    message: `${s.headline.fr}\n\n${s.brief.fr}`,
+    message: `${s.headline.fr}\n\n${s.brief.fr}\n\nPlus d’actualités sur opak-news.haitialways.workers.dev`,
     link: `${SITE}/story/${s.id}`,
     access_token: token,
   });
