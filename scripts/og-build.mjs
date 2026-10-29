@@ -36,6 +36,23 @@ for (const s of stories) {
     "(", "-background", "none", "-size", "940x", `pango:<span font="DejaVu Sans 23" foreground="#d6deea">${esc(bt)}</span>`, ")", "-geometry", `+60+${130 + hh}`, "-composite",
     "(", "-background", "none", "-size", "900x", `pango:<span font="DejaVu Sans 18" foreground="#8fa3bd">opak-news.haitialways.workers.dev</span>`, ")", "-geometry", "+60+580", "-composite",
     logo, "-gravity", "southeast", "-geometry", "+40+30", "-composite", png]);
+  // Portrait 1080x1350 (4:5) card for phone feeds
+  { const W = 960; let ph = 84; while (ph > 52 && mh(`<span font="Gelasio Bold ${ph}">${esc(h)}</span>`, W) > 560) ph -= 4;
+    const phh = mh(`<span font="Gelasio Bold ${ph}">${esc(h)}</span>`, W);
+    const ty = 200 + phh + 50, troom = 1190 - ty;
+    let ts = 34; while (ts > 26 && mh(`<span font="DejaVu Sans ${ts}">${esc(b)}</span>`, W) > troom) ts -= 2;
+    let pt = b; while (pt.length > 20 && mh(`<span font="DejaVu Sans ${ts}">${esc(pt)}</span>`, W) > troom) pt = pt.slice(0, -12).replace(/\s+\S*$/, "").replace(/[\s,;:.…]+$/, "") + "…";
+    execFileSync("convert", ["-size", "1080x1350", "xc:#0b1f33",
+      "(", "-size", "1080x14", "xc:#00209f", ")", "-geometry", "+0+0", "-composite",
+      "(", "-size", "1080x14", "xc:#d21034", ")", "-geometry", "+0+14", "-composite",
+      "(", "-background", "none", "-size", `${W}x`, `pango:<span font="DejaVu Sans Bold 24" foreground="#8fb3ff" letter_spacing="2500">${esc(sec.toUpperCase())}</span>`, ")", "-geometry", "+60+110", "-composite",
+      "(", "-size", "90x5", "xc:#d21034", ")", "-geometry", "+60+165", "-composite",
+      "(", "-background", "none", "-size", `${W}x`, `pango:<span font="Gelasio Bold ${ph}" foreground="#ffffff">${esc(h)}</span>`, ")", "-geometry", "+60+200", "-composite",
+      "(", "-background", "none", "-size", `${W}x`, `pango:<span font="DejaVu Sans ${ts}" foreground="#d6deea">${esc(pt)}</span>`, ")", "-geometry", `+60+${ty}`, "-composite",
+      "(", "-size", "960x2", "xc:#22384f", ")", "-geometry", "+60+1225", "-composite",
+      "(", "-background", "none", "-size", "800x", `pango:<span font="DejaVu Sans 24" foreground="#8fa3bd">opak-news.haitialways.workers.dev</span>`, ")", "-geometry", "+60+1262", "-composite",
+      "(", logo, "-resize", "x64", ")", "-gravity", "southeast", "-geometry", "+60+50", "-composite",
+      path.join(dist, "og", `${s.id}-portrait.png`)]); }
   const url = `${SITE}/story/${s.id}`, img = `${SITE}/og/${s.id}.png`;
   const meta = `<meta property="og:type" content="article" /><meta property="og:site_name" content="Opak News" /><meta property="og:locale" content="fr_FR" />
     <meta property="og:url" content="${url}" /><meta property="og:title" content="${esc(h)}" /><meta property="og:description" content="${esc(b)}" />

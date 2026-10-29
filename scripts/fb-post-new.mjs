@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Posts each story not yet in scripts/fb-posted.json to the Opak News Facebook Page.
+// Posts each story not yet in scripts/fb-posted.json to the Opak News Facebook Page as a portrait photo card.
 // Usage: node scripts/fb-post-new.mjs [--dry-run] [--seed]
 // Token: FB_PAGE_TOKEN env or /home/box/.secrets/fb_page_token (never logged).
 import { build } from "esbuild";
@@ -42,11 +42,11 @@ const pageId = process.env.FB_PAGE_ID || read("/home/box/.secrets/fb_page_id");
 let failed = 0;
 for (const s of pending) {
   const body = new URLSearchParams({
-    message: `${s.headline.fr}\n\n${s.brief.fr}\n\nPlus d’actualités sur opak-news.haitialways.workers.dev`,
-    link: `${SITE}/story/${s.id}`,
+    url: `${SITE}/og/${s.id}-portrait.png`,
+    caption: `${s.headline.fr}\n\n${s.brief.fr}\n\n${SITE}/story/${s.id}\n\nPlus d’actualités sur opak-news.haitialways.workers.dev`,
     access_token: token,
   });
-  const res = await fetch(`https://graph.facebook.com/v21.0/${pageId}/feed`, { method: "POST", body });
+  const res = await fetch(`https://graph.facebook.com/v21.0/${pageId}/photos`, { method: "POST", body });
   const j = await res.json().catch(() => ({}));
   if (res.ok && j.id) { done.add(s.id); save(); console.log(`Posted ${s.id} -> ${j.id}`); }
   else { failed++; console.error(`Failed ${s.id}: ${res.status} ${j.error?.message ?? ""}`); }
