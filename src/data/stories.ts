@@ -448,7 +448,7 @@ export const STORIES: Story[] = [
     publishedAt: "2026-10-27",
     isManual: true,
     headline: {
-      ht: "Prise à partie et article 470 : ce que dit réellement l’arrêt du 2 juin 2026",
+      ht: "Prise à partie et l’article 470 du C.P.C. : ce que dit réellement l’arrêt du 2 juin 2026",
       fr: "Prise à partie et l’article 470 du C.P.C. : ce que dit réellement l’arrêt du 2 juin 2026",
     },
     brief: {
