@@ -34,6 +34,52 @@ export const STORIES: Story[] = [
     ],
   },
   {
+    id: "ntk-cep-elections-juillet-2027-2026-10-29",
+    tier: "need-to-know",
+    topic: "governance",
+    publishedAt: "2026-10-29",
+    isBreaking: true,
+    headline: {
+      ht: "CEP la voye eleksyon yo 18 jiyè 2027",
+      fr: "Le CEP reporte les élections au 18 juillet 2027",
+    },
+    brief: {
+      ht: "Premye tou a pa p fèt 13 desanm ankò, men 18 jiyè 2027. Mwens pase 900000 moun sou 6,5 milyon ki gen kat idantite enskri pou kounye a.",
+      fr: "Le premier tour ne se tiendra plus le 13 décembre mais le 18 juillet 2027. Moins de 900000 des 6,5 millions de détenteurs de carte d'identité se sont inscrits à ce jour.",
+    },
+    body: {
+      ht: "Konsèy Elektoral Pwovizwa (CEP) a anonse yon nouvo kalandriye elektoral. Premye tou eleksyon yo, ki te prevwa pou 13 desanm 2026, voye pou 18 jiyè 2027.\n\nDezyèm tou a ak eleksyon lokal yo ap fèt 4 oktòb 2027.\n\nRetadman an rive pandan enskripsyon an ap mache dousman: mwens pase 900000 moun sou 6,5 milyon ki gen kat idantite e ki gen dwa vote enskri pou kounye a. Ensekirite a ak deplasman popilasyon an kontinye fè travay CEP la pi difisil.",
+      fr: "Le Conseil électoral provisoire (CEP) a annoncé un nouveau calendrier électoral. Le premier tour des élections, prévu le 13 décembre 2026, est reporté au 18 juillet 2027.\n\nLe second tour et les élections locales auront lieu le 4 octobre 2027.\n\nCe report intervient alors que les inscriptions avancent lentement: moins de 900000 des 6,5 millions de détenteurs de carte d'identité éligibles se sont inscrits à ce jour. L'insécurité et les déplacements de population continuent de compliquer le travail du CEP.",
+    },
+    sources: [
+      "Al Jazeera",
+      "Xinhua",
+    ],
+  },
+  {
+    id: "ntk-salvador-2000-soldats-2026-10-29",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-10-29",
+    isBreaking: true,
+    headline: {
+      ht: "Salvadò voye plis pase 2000 sòlda an Ayiti",
+      fr: "Le Salvador déploie plus de 2000 soldats en Haïti",
+    },
+    brief: {
+      ht: "Bukele voye yo chèche kat teknisyen salvadoryen ki disparèt depi anbiskad 18 oktòb la epi goumen ak gang yo. Li di kò Ayiti remèt yo pa koresponn ak moun ki disparèt yo.",
+      fr: "Bukele les envoie retrouver quatre techniciens salvadoriens disparus depuis l'embuscade du 18 octobre et combattre les gangs. Il affirme que les corps remis par Haïti ne correspondent pas aux disparus.",
+    },
+    body: {
+      ht: "Prezidan salvadoryen an, Nayib Bukele, anonse li voye plis pase 2000 sòlda an Ayiti. Misyon yo: jwenn kat teknisyen salvadoryen nan Gang Suppression Force la ki disparèt depi anbiskad 18 oktòb la nan Kwadebouke, epi goumen ak gang yo.\n\nBukele di kò otorite ayisyen yo te remèt yo pa koresponn ak moun ki disparèt yo.\n\nLi poko klè si sòlda sa yo ap travay anba Gang Suppression Force la oswa poukont yo. Anons sa a ranplase chif anviwon 1000 sòlda ki te pale anvan an.",
+      fr: "Le président salvadorien Nayib Bukele annonce l'envoi de plus de 2000 soldats en Haïti. Leur mission: retrouver quatre techniciens salvadoriens de la Gang Suppression Force disparus depuis l'embuscade du 18 octobre à Croix-des-Bouquets, et combattre les gangs.\n\nBukele affirme que les corps remis par les autorités haïtiennes ne correspondent pas aux disparus.\n\nIl n'est pas encore clair si ces troupes serviront sous la Gang Suppression Force ou de manière indépendante. Cette annonce remplace le chiffre d'environ 1000 soldats évoqué jusqu'ici.",
+    },
+    sources: [
+      "BBC",
+      "Al Jazeera",
+    ],
+  },
+  {
     id: "ntk-msf-plaine-cul-de-sac-2026-10",
     tier: "need-to-know",
     topic: "security",
@@ -92,8 +138,8 @@ export const STORIES: Story[] = [
       fr: "Environ 1000 soldats salvadoriens arrivent en Haïti après la disparition de quatre membres de la mission onusienne dans une embuscade de gangs. Commandement, durée et lien avec la GSF restent flous.",
     },
     body: {
-      ht: "Yon sous sekirite ayisyen di Reuters ke El Salvador voye anviwon 1000 sòlda ann Ayiti apre kat manm salvadoryen nan fòs siprèsyon gang yo (misyon sipòte pa ONU) disparèt nan yon anbiskad gang toupre Pòtoprens, 18 oktòb.\n\nLi poko klè ki moun k ap kòmande kontenjan sa a, konbyen tan yo pral rete, ni si yo ap opere andeyò Gang Suppression Force la. Etazini te prete avyon kago C-130 pou mennen yo. Fòs la gen anviwon 2000 pèsonèl sou efèktif li te planifye a.",
-      fr: "Une source sécuritaire haïtienne indique à Reuters qu'El Salvador a dépêché environ 1000 soldats en Haïti après la disparition de quatre membres salvadoriens de la force de répression des gangs (mission soutenue par l'ONU) dans une embuscade de gangs près de Port-au-Prince, le 18 octobre.\n\nIl n'est pas encore clair qui commandera ce contingent, combien de temps il restera, ni s'il opérera en dehors de la Gang Suppression Force. Les États-Unis ont prêté des avions cargo C-130 pour les transporter. La force compte environ 2000 personnels sur l'effectif prévu.",
+      ht: "Yon sous sekirite ayisyen di Reuters ke El Salvador voye anviwon 1000 sòlda ann Ayiti apre kat manm salvadoryen nan fòs siprèsyon gang yo (misyon sipòte pa ONU) disparèt nan yon anbiskad gang toupre Pòtoprens, 18 oktòb.\n\nLi poko klè ki moun k ap kòmande kontenjan sa a, konbyen tan yo pral rete, ni si yo ap opere andeyò Gang Suppression Force la. Etazini te prete avyon kago C-130 pou mennen yo. Fòs la gen anviwon 2000 pèsonèl sou efèktif li te planifye a.\n\nMizajou : Salvadò anonse kounye a plis pase 2000 sòlda.",
+      fr: "Une source sécuritaire haïtienne indique à Reuters qu'El Salvador a dépêché environ 1000 soldats en Haïti après la disparition de quatre membres salvadoriens de la force de répression des gangs (mission soutenue par l'ONU) dans une embuscade de gangs près de Port-au-Prince, le 18 octobre.\n\nIl n'est pas encore clair qui commandera ce contingent, combien de temps il restera, ni s'il opérera en dehors de la Gang Suppression Force. Les États-Unis ont prêté des avions cargo C-130 pour les transporter. La force compte environ 2000 personnels sur l'effectif prévu.\n\nMise à jour : le Salvador annonce désormais plus de 2000 soldats.",
     },
     sources: [
       "Reuters",
