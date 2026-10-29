@@ -23,6 +23,7 @@ interface LanguageContextValue {
     sampleBadge: string;
     manualBadge: string;
     breakingBadge: string;
+    newBadge: string;
     backToFeed: string;
     adLabel: string;
     today: string;
@@ -47,6 +48,7 @@ const UI = {
     sampleBadge: "Egzanp",
     manualBadge: "Editè",
     breakingBadge: "BREAKING",
+    newBadge: "NOUVO",
     backToFeed: "Tounen nan nouvèl yo",
     adLabel: "Piblisite",
     today: "Jodi a",
@@ -66,6 +68,7 @@ const UI = {
     sampleBadge: "Exemple",
     manualBadge: "Éditeur",
     breakingBadge: "BREAKING",
+    newBadge: "NOUVEAU",
     backToFeed: "Retour au fil",
     adLabel: "Publicité",
     today: "Aujourd’hui",

@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { ShareBar } from "./ShareBar";
+import { isNewStory } from "../data/stories";
 import { useLanguage } from "../context/LanguageContext";
 import { KeepNumbers } from "../lib/keepNumbers";
 import type { Story } from "../types";
@@ -18,6 +19,7 @@ export function StoryCard({ story, variant = "hit" }: Props) {
         {story.isBreaking && (
           <span className="badge badge-breaking">{ui.breakingBadge}</span>
         )}
+        {isNewStory(story) && <span className="badge badge-new">{ui.newBadge}</span>}
         {story.isSample && <span className="badge">{ui.sampleBadge}</span>}
         {story.isManual && <span className="badge badge-manual">{ui.manualBadge}</span>}
       </div>

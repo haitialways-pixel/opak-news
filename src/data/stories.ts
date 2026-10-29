@@ -513,10 +513,36 @@ export function getStoryById(id: string): Story | undefined {
   return STORIES.find((s) => s.id === id);
 }
 
+/** Newest first by publish date; same date keeps array order. */
+export function sortNewestFirst(list: Story[]): Story[] {
+  return list
+    .map((s, i) => ({ s, i }))
+    .sort((a, b) =>
+      a.s.publishedAt === b.s.publishedAt
+        ? a.i - b.i
+        : a.s.publishedAt < b.s.publishedAt
+          ? 1
+          : -1,
+    )
+    .map((x) => x.s);
+}
+
+/** Today's date (YYYY-MM-DD) in Haiti time. */
+function haitiDate(offsetDays = 0): string {
+  const d = new Date(Date.now() - offsetDays * 86400000);
+  return d.toLocaleDateString("en-CA", { timeZone: "America/Port-au-Prince" });
+}
+
+/** "New" = published today or yesterday (Haiti time), i.e. roughly 24 to 48h. */
+export function isNewStory(story: Story): boolean {
+  const day = story.publishedAt.slice(0, 10);
+  return day === haitiDate(0) || day === haitiDate(1);
+}
+
 export function needToKnowStories(): Story[] {
-  return STORIES.filter((s) => s.tier === "need-to-know");
+  return sortNewestFirst(STORIES.filter((s) => s.tier === "need-to-know"));
 }
 
 export function quickHitStories(): Story[] {
-  return STORIES.filter((s) => s.tier === "quick-hit");
+  return sortNewestFirst(STORIES.filter((s) => s.tier === "quick-hit"));
 }

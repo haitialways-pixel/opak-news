@@ -3,7 +3,7 @@ import { Link, useParams } from "react-router-dom";
 import { AdPlaceholder } from "../components/AdPlaceholder";
 import { ShareBar } from "../components/ShareBar";
 import { SiteHeader } from "../components/SiteHeader";
-import { getStoryById } from "../data/stories";
+import { getStoryById, isNewStory } from "../data/stories";
 import { topicLabel } from "../data/topics";
 import { useLanguage } from "../context/LanguageContext";
 import { KeepNumbers } from "../lib/keepNumbers";
@@ -51,6 +51,7 @@ export function StoryPage() {
           {story.isBreaking && (
             <span className="badge badge-breaking">{ui.breakingBadge}</span>
           )}
+        {isNewStory(story) && <span className="badge badge-new">{ui.newBadge}</span>}
           {story.isSample && <span className="badge">{ui.sampleBadge}</span>}
           {story.isManual && (
             <span className="badge badge-manual">{ui.manualBadge}</span>
