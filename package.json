@@ -9,7 +9,9 @@
     "lint": "oxlint",
     "preview": "vite preview",
     "deploy": "npm run build && wrangler deploy",
-    "cf:dev": "wrangler dev"
+    "cf:dev": "wrangler dev",
+    "fb:post": "node scripts/fb-post-new.mjs",
+    "publish": "npm run build && env -u CLOUDFLARE_API_TOKEN wrangler deploy && npm run fb:post"
   },
   "dependencies": {
     "react": "^19.3.1",
