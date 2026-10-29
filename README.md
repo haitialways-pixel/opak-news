@@ -53,7 +53,7 @@ VITE_OBELIKA_YOUTUBE_CHANNEL_ID=UCRii3A1yALqUcgYj4ZcssBQ
 
 ## Content model
 
-Stories live in `src/data/stories.ts`:
+Stories live in `src/data/stories.ts` (always set `publishedAt` date and `publishedTime` ISO with -04:00; the Nouveau badge lasts 24h after `publishedTime`):
 
 - `tier`: `need-to-know` | `quick-hit`
 - `topic`: politics, development, tech, commerce, security, society

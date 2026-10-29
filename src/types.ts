@@ -30,6 +30,12 @@ export interface Story {
   sources?: string[];
   /** ISO date YYYY-MM-DD */
   publishedAt: string;
+  /**
+   * Exact publish time, ISO with Haiti offset, e.g. "2026-10-29T08:01:49-04:00".
+   * Always set this when adding a story: the blue Nouveau/Nouvo badge shows
+   * for 24h after it. If missing, the badge ends at the end of publishedAt's day.
+   */
+  publishedTime?: string;
   /** Manual editorial push (future: user-submitted). */
   isManual?: boolean;
   /** Sample / placeholder content flag. */

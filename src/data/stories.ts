@@ -8,6 +8,11 @@ import type { Story } from "../types";
  * Credit rule (Steeve): "Blaise Antoine Joseph (BAJ)" only when Steeve
  * uploaded/wrote the text himself. Wire/aggregate teasers credit the
  * named outlets (Reuters, HaitiLibre, DGPC, etc.), never BAJ.
+ *
+ * Adding a story: always set publishedAt ("YYYY-MM-DD") AND publishedTime
+ * (exact ISO time with Haiti offset, e.g. "2026-10-29T08:01:49-04:00").
+ * The blue Nouveau/Nouvo badge shows for 24h after publishedTime, and feeds
+ * sort newest first by it.
  */
 export const STORIES: Story[] = [
   {
@@ -15,6 +20,7 @@ export const STORIES: Story[] = [
     tier: "need-to-know",
     topic: "society",
     publishedAt: "2026-10-28",
+    publishedTime: "2026-10-28T18:10:13-04:00",
     isBreaking: true,
     headline: {
       ht: "Grand Sid : gwo lapli ap kontinye, vijilans oranj kenbe",
@@ -38,6 +44,7 @@ export const STORIES: Story[] = [
     tier: "need-to-know",
     topic: "governance",
     publishedAt: "2026-10-29",
+    publishedTime: "2026-10-29T08:01:49-04:00",
     isBreaking: true,
     headline: {
       ht: "CEP la voye eleksyon yo 18 jiyè 2027",
@@ -61,6 +68,7 @@ export const STORIES: Story[] = [
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-10-29",
+    publishedTime: "2026-10-29T08:01:49-04:00",
     isBreaking: true,
     headline: {
       ht: "Salvadò voye plis pase 2000 sòlda an Ayiti",
@@ -84,6 +92,7 @@ export const STORIES: Story[] = [
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-10-28",
+    publishedTime: "2026-10-28T18:10:13-04:00",
     isBreaking: true,
     headline: {
       ht: "Plèn Kildesak : MSF tire alam sou vyolans k ap monte, plis blese rive lopital",
@@ -106,6 +115,7 @@ export const STORIES: Story[] = [
     tier: "need-to-know",
     topic: "governance",
     publishedAt: "2026-10-28",
+    publishedTime: "2026-10-28T13:01:44-04:00",
     headline: {
       ht: "Swadizan antre sòlda dominiken Thomazeau : Pòtoprens konvoke anbasadè dominiken an",
       fr: "Incursion présumée à Thomazeau : Port-au-Prince convoque l'ambassadeur dominicain",
@@ -128,6 +138,7 @@ export const STORIES: Story[] = [
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-10-28",
+    publishedTime: "2026-10-28T07:00:00-04:00",
     isBreaking: true,
     headline: {
       ht: "Salvadò voye anviwon 1000 sòlda ann Ayiti apre anbiskad 18 oktòb la",
@@ -151,6 +162,7 @@ export const STORIES: Story[] = [
     tier: "need-to-know",
     topic: "society",
     publishedAt: "2026-10-28",
+    publishedTime: "2026-10-28T07:00:00-04:00",
     isBreaking: true,
     headline: {
       ht: "Inondasyon : omwen 4 moun mouri, 847 kay kraze nan Grand Sid",
@@ -177,6 +189,7 @@ export const STORIES: Story[] = [
     tier: "need-to-know",
     topic: "society",
     publishedAt: "2026-10-28",
+    publishedTime: "2026-10-28T07:21:03-04:00",
     headline: {
       ht: "Dominikani ekspilse 4173 moun nan fen semèn 23–25 oktòb",
       fr: "La République dominicaine a expulsé 4173 personnes le week-end des 23–25 octobre",
@@ -198,6 +211,7 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-10-28",
+    publishedTime: "2026-10-28T19:16:06-04:00",
     headline: {
       ht: "Grangou ann Ayiti : 6,35 milyon moun an danje anvan mitan 2027, dapre IPC",
       fr: "Faim en Haïti : 6,35 millions de personnes menacées d'ici mi-2027, selon l'IPC",
@@ -221,6 +235,7 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-10-28",
+    publishedTime: "2026-10-28T07:21:03-04:00",
     headline: {
       ht: "Moun ki deplase yo manifeste Pòtoprens pou mande èd ak sekirite pou retounen lakay",
       fr: "Les déplacés manifestent à Port-au-Prince pour réclamer aide et retour sécurisé",
@@ -243,6 +258,7 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-10-27",
+    publishedTime: "2026-10-27T08:34:09-04:00",
     headline: {
       ht: "Trump: deportasyon ayisyen yo kontinye apre fen TPS; HBA mande sispansyon",
       fr: "Trump : les déportations d’Haïtiens continuent après la fin du TPS ; HBA demande une suspension",
@@ -265,6 +281,7 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "justice",
     publishedAt: "2026-10-21",
+    publishedTime: "2026-10-21T07:00:00-04:00",
     headline: {
       ht: "Kou Kasasyon: 18 dosye nan premye odyans ane jidisyè 2026-2027",
       fr: "Cour de cassation : 18 dossiers à la reprise des audiences 2026-2027",
@@ -280,6 +297,7 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "justice",
     publishedAt: "2026-10-05",
+    publishedTime: "2026-10-05T07:00:00-04:00",
     headline: {
       ht: "CSPJ: 119 majistra sètifye, 17 pran kat wouj apre analiz 159 dosye",
       fr: "CSPJ : 119 magistrats certifiés, 17 refusés après examen de 159 dossiers",
@@ -296,6 +314,7 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "governance",
     publishedAt: "2026-10-26",
+    publishedTime: "2026-10-26T07:00:00-04:00",
     headline: {
       ht: "MICT: La Gonav, sekirite ak sèvis de baz nan mitan priyorite yo",
       fr: "MICT : La Gonâve, sécurité et services de base au centre des priorités",
@@ -311,6 +330,7 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "governance",
     publishedAt: "2026-10-21",
+    publishedTime: "2026-10-21T07:00:00-04:00",
     headline: {
       ht: "SIPDEC: done lokal pou desantralizasyon; pa gen resansman depi 2003",
       fr: "SIPDEC : des données locales pour la décentralisation ; pas de recensement depuis 2003",
@@ -326,6 +346,7 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "governance",
     publishedAt: "2026-10-10",
+    publishedTime: "2026-10-10T07:00:00-04:00",
     headline: {
       ht: "CASEC ak Eta santral: ki wòl pou devlopman teritoryal?",
       fr: "CASEC et État central : quel rôle pour le développement territorial ?",
@@ -341,6 +362,7 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "gossip",
     publishedAt: "2026-10-26",
+    publishedTime: "2026-10-26T20:03:58-04:00",
     isManual: true,
     headline: {
       ht: "Corvington ak Guerrier devan lajist pou Radio Télé Metronome",
@@ -357,6 +379,7 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "gossip",
     publishedAt: "2026-10-27",
+    publishedTime: "2026-10-27T08:32:06-04:00",
     headline: {
       ht: "apre ULCC, Martelly ak Céant tounen; avoka yo nan afè Metronome",
       fr: "après l’ULCC, Martelly et Céant reviennent ; leurs avocats dans l’affaire Métronome",
@@ -372,6 +395,7 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "gossip",
     publishedAt: "2026-10-27",
+    publishedTime: "2026-10-27T08:32:06-04:00",
     headline: {
       ht: "Rutshelle ak Teddy Hashtag ofisyèlman ansanm",
       fr: "Rutshelle et Teddy Hashtag officialisent leur couple",
@@ -387,6 +411,7 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "politics",
     publishedAt: "2026-10-26",
+    publishedTime: "2026-10-26T07:00:00-04:00",
     headline: {
       ht: "Eleksyon 13 desanm yo an rete: CEP ap revize kalandriye a",
       fr: "Élections du 13 décembre en suspens : le CEP révise le calendrier",
@@ -402,6 +427,7 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "security",
     publishedAt: "2026-10-19",
+    publishedTime: "2026-10-19T07:00:00-04:00",
     headline: {
       ht: "Vyolans gang yo gaye nan kanpay: 1123 mouri depi jiyè",
       fr: "La violence des gangs gagne les campagnes : 1123 morts depuis juillet",
@@ -417,6 +443,7 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-10-19",
+    publishedTime: "2026-10-19T07:00:00-04:00",
     headline: {
       ht: "Prèske 1,5 milyon deplase: plan imanitè 2026 a mwatye finanse",
       fr: "Près de 1,5 million de déplacés : le plan humanitaire 2026 à moitié financé",
@@ -432,6 +459,7 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "tech",
     publishedAt: "2026-10-20",
+    publishedTime: "2026-10-20T07:00:00-04:00",
     headline: {
       ht: "BRH: pilòt peman machann ak enklizyon finansye dijital",
       fr: "BRH : pilote de paiement marchand et inclusion financière numérique",
@@ -447,6 +475,7 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "commerce",
     publishedAt: "2026-10-18",
+    publishedTime: "2026-10-18T07:00:00-04:00",
     headline: {
       ht: "Karavàn komès: objektif 5000 antrepriz fòmèl nan 10 depatman",
       fr: "Caravane du commerce : objectif 5000 entreprises formelles dans les 10 départements",
@@ -462,6 +491,7 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "tech",
     publishedAt: "2026-10-11",
+    publishedTime: "2026-10-11T07:00:00-04:00",
     headline: {
       ht: "AIESU: 20 pwojè inivèsitè chwazi pou sipò inovasyon",
       fr: "AIESU : 20 projets universitaires sélectionnés pour l’appui à l’innovation",
@@ -477,6 +507,7 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "politics",
     publishedAt: "2026-10-15",
+    publishedTime: "2026-10-15T07:00:00-04:00",
     headline: {
       ht: "Solèy / Etzer Émile: dekrè elektoral la ta favorize moun sanksyone",
       fr: "Solèy / Etzer Émile : le décret électoral favoriserait des personnalités sanctionnées",
@@ -492,6 +523,7 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "justice",
     publishedAt: "2026-10-27",
+    publishedTime: "2026-10-27T13:21:51-04:00",
     isManual: true,
     headline: {
       ht: "Prise à partie et l’article 470 du C.P.C. : ce que dit réellement l’arrêt du 2 juin 2026",
@@ -513,30 +545,30 @@ export function getStoryById(id: string): Story | undefined {
   return STORIES.find((s) => s.id === id);
 }
 
-/** Newest first by publish date; same date keeps array order. */
+const DAY_MS = 86400000;
+
+/** Publish instant (ms). Date-only stories fall back to that date at 00:00 Haiti time (-04:00), so the badge ends at day's end. */
+function publishMs(story: Story): number {
+  if (story.publishedTime) {
+    const t = Date.parse(story.publishedTime);
+    if (!Number.isNaN(t)) return t;
+  }
+  return Date.parse(`${story.publishedAt.slice(0, 10)}T00:00:00-04:00`);
+}
+
+/** Newest first by publish time; ties keep array order. */
 export function sortNewestFirst(list: Story[]): Story[] {
   return list
-    .map((s, i) => ({ s, i }))
-    .sort((a, b) =>
-      a.s.publishedAt === b.s.publishedAt
-        ? a.i - b.i
-        : a.s.publishedAt < b.s.publishedAt
-          ? 1
-          : -1,
-    )
+    .map((s, i) => ({ s, i, t: publishMs(s) }))
+    .sort((a, b) => (a.t === b.t ? a.i - b.i : b.t - a.t))
     .map((x) => x.s);
 }
 
-/** Today's date (YYYY-MM-DD) in Haiti time. */
-function haitiDate(offsetDays = 0): string {
-  const d = new Date(Date.now() - offsetDays * 86400000);
-  return d.toLocaleDateString("en-CA", { timeZone: "America/Port-au-Prince" });
-}
-
-/** "New" = published today or yesterday (Haiti time), i.e. roughly 24 to 48h. */
-export function isNewStory(story: Story): boolean {
-  const day = story.publishedAt.slice(0, 10);
-  return day === haitiDate(0) || day === haitiDate(1);
+/** "New" = less than 24h since publishedTime (date-only: until end of that day). */
+export function isNewStory(story: Story, now = Date.now()): boolean {
+  const t = publishMs(story);
+  const age = now - t;
+  return age >= 0 && age < DAY_MS;
 }
 
 export function needToKnowStories(): Story[] {
