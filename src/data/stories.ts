@@ -449,7 +449,7 @@ export const STORIES: Story[] = [
     isManual: true,
     headline: {
       ht: "Prise à partie et article 470 : ce que dit réellement l’arrêt du 2 juin 2026",
-      fr: "Prise à partie et article 470 : ce que dit réellement l’arrêt du 2 juin 2026",
+      fr: "Prise à partie et l’article 470 du C.P.C. : ce que dit réellement l’arrêt du 2 juin 2026",
     },
     brief: {
       ht: "Le 2 juin 2026, la Cour de cassation a admis une prise à partie contre le juge Loubens Elisée, sur requête de M. Jemley Marc Jean-Baptiste. L’arrêt a été signifié le 8 juin. Enjeu: le magistrat doit-il s’abstenir? L’article 470 et le précédent de 1997 fixent la réponse en droit.",
