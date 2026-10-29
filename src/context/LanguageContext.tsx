@@ -31,6 +31,7 @@ interface LanguageContextValue {
     shareOnX: string;
     shareOnFacebook: string;
     sendNote: string;
+    archives: string;
   };
 }
 
@@ -54,6 +55,7 @@ const UI = {
     shareOnX: "Pataje sou X",
     shareOnFacebook: "Pataje sou Facebook",
     sendNote: "Pou Redaksyon an, klike isit.",
+    archives: "Achiv",
   },
   fr: {
     needToKnow: "À retenir",
@@ -72,6 +74,7 @@ const UI = {
     shareOnX: "Partager sur X",
     shareOnFacebook: "Partager sur Facebook",
     sendNote: "Pour la Redaction, cliquer ici.",
+    archives: "Archives",
   },
 } as const;
 

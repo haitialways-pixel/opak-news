@@ -9,6 +9,9 @@ export function SiteFooter() {
       <p>
         <Link to="/" className="brand-inline">Opak News · Ayiti</Link>
       </p>
+      <p className="footer-archives">
+        <Link to="/archives">{ui.archives}</Link>
+      </p>
       <p className="footer-redaction">
         <a href={`mailto:${SITE.contactEmail}`}>{ui.sendNote}</a>
       </p>
