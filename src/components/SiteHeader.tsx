@@ -8,6 +8,7 @@ export function SiteHeader() {
     <div className="site-header masthead-top">
       <Link to="/" className="brand">
         <img className="brand-logo" src="/opak-logo-512.png" alt={SITE.name} width="44" height="44" />
+        <span className="brand-name">{SITE.name}</span>
       </Link>
       <LanguageToggle />
     </div>
