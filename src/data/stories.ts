@@ -16,28 +16,50 @@ import type { Story } from "../types";
  */
 export const STORIES: Story[] = [
   {
+    id: "qh-caonabo-richard-alexandre-2026-10-29",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-10-29",
+    publishedTime: "2026-10-29T11:15:00-04:00",
+    headline: {
+      ht: "Jounalis kiltirèl Richard Alexandre, alias Caonabo, mouri anba bal nan Dèlma 83",
+      fr: "Le journaliste culturel Richard Alexandre, dit Caonabo, tué par balles à Delmas 83",
+    },
+    brief: {
+      ht: "Ansyen kolaboratè Ticket Magazine, 38 an, li te pran bal nan Dèlma 83 epi li mouri lopital nan nwit 27 pou 28 oktòb.",
+      fr: "Ancien collaborateur de Ticket Magazine, âgé de 38 ans, il a été blessé par balles à Delmas 83 et a succombé à l'hôpital dans la nuit du 27 au 28 octobre.",
+    },
+    body: {
+      ht: "Richard Alexandre, yo te konnen sou non Caonabo, se te yon jounalis kiltirèl 38 an ki te konn ekri pou Ticket Magazine. Li te pran bal nan Dèlma 83, epi li mouri lopital nan nwit 27 pou 28 oktòb, dapre Le Nouvelliste.",
+      fr: "Richard Alexandre, connu sous le nom de Caonabo, était un journaliste culturel de 38 ans, ancien collaborateur de Ticket Magazine. Atteint par balles à Delmas 83, il a succombé à ses blessures à l'hôpital dans la nuit du 27 au 28 octobre, selon Le Nouvelliste.",
+    },
+    sources: [
+      "Le Nouvelliste",
+    ],
+  },
+  {
     id: "ntk-grand-sud-downpours-2026-10-28",
     tier: "need-to-know",
     topic: "society",
-    publishedAt: "2026-10-28",
-    publishedTime: "2026-10-29T09:19:00-04:00",
+    publishedAt: "2026-10-29",
+    publishedTime: "2026-10-29T11:15:00-04:00",
     isBreaking: true,
     headline: {
-      ht: "Inondasyon nan Grand Sid : gen moun mouri, gen disparèt, plizyè milye kay anba dlo",
-      fr: "Inondations dans le Grand Sud : morts, disparus et des milliers de maisons sous l'eau",
+      ht: "Lapli nan Sid ak Sidès : omwen 5 moun mouri ak 10 disparèt",
+      fr: "Pluies dans le Sud et le Sud-Est : au moins 5 morts et 10 disparus",
     },
     brief: {
-      ht: "Gwo lapli depi 24 oktòb fè moun mouri ak disparèt nan Grand Sid, e plizyè milye kay anba dlo. Bilan an toujou provizwa. DGPC mete tout Grand Sid nan vijilans oranj.",
-      fr: "Les fortes pluies tombées depuis le 24 octobre font des morts et des disparus dans le Grand Sud, et des milliers de maisons sont sous l'eau. Le bilan reste provisoire. La DGPC place tout le Grand Sud en vigilance orange.",
+      ht: "Mizajou : Nan Sid, 2 moun mouri, 9 disparèt e plis pase 7000 kay inonde ant 24 ak 27 oktòb. Nan Sidès, 3 moun mouri ak 1 disparèt nan Kòt-de-Fè ak Tiyòt.",
+      fr: "Mise à jour : Dans le Sud, 2 morts, 9 disparus et plus de 7000 maisons inondées du 24 au 27 octobre. Dans le Sud-Est, 3 morts et 1 disparu à Côtes-de-Fer et Thiotte.",
     },
     body: {
-      ht: "Depi 24 oktòb, gwo lapli ap frape Sid, Nip, Grandans ak Sidès.\n\nBilan an toujou provizwa e sous yo pa bay menm chif. Dapre Flash Update OCHA 28 oktòb la, gen 3 moun mouri nan Nip ak 1 nan Sidès, epi 2 pechè disparèt nan Abriko (Grandans). Le Nouvelliste, bò pa li, rapòte 3 moun mouri ak 1 disparèt nan Sidès, nan Kòt-de-Fè ak Tiyòt.\n\nNip se depatman ki pi frape: 1920 fanmi afekte, 1767 kay inonde e 48 ti kay detwi. Nan Gommiers (Grandans), 630 kay inonde; lopital kominotè Koray, yon lekòl ak mache Chanbelan anba dlo. Nan Okay, anviwon 200 kay inonde e plizyè seksyon dyk Ravine du Sud tonbe.\n\nPeyizan yo pèdi rekòt ak bèt nan yon zòn ki te deja sibi sechrès. Pwoteksyon sivil (DGPC) mete tout Grand Sid nan vijilans oranj.",
-      fr: "Depuis le 24 octobre, de fortes pluies frappent le Sud, les Nippes, la Grand'Anse et le Sud-Est.\n\nLe bilan reste provisoire et les sources divergent. Selon le Flash Update d'OCHA du 28 octobre, on compte 3 morts dans les Nippes et 1 dans le Sud-Est, ainsi que 2 pêcheurs disparus à Abricots (Grand'Anse). Le Nouvelliste fait état, de son côté, de 3 morts et 1 disparu dans le Sud-Est, à Côtes-de-Fer et Thiotte.\n\nLes Nippes sont le département le plus touché: 1920 familles affectées, 1767 maisons inondées et 48 petites maisons détruites. À Gommiers (Grand'Anse), 630 maisons sont inondées; l'hôpital communautaire de Corail, une école et le marché de Chambellan sont sous l'eau. Aux Cayes, environ 200 maisons sont inondées et plusieurs sections des digues de la Ravine du Sud se sont effondrées.\n\nDes récoltes et du bétail sont perdus dans une zone déjà frappée par la sécheresse. La Protection civile (DGPC) place tout le Grand Sud en vigilance orange.",
+      ht: "Mizajou 29 oktòb : bilan gwo lapli yo monte omwen 5 moun mouri ak 10 disparèt nan Sid ak Sidès.\n\nNan Sid, Pwoteksyon sivil rapòte 2 moun mouri, 9 disparèt e plis pase 7000 kay inonde ant 24 ak 27 oktòb. Dlo a anvayi Lasalin (Jeremi) ak Baradè.\n\nNan Sidès, 3 moun mouri ak 1 disparèt nan Kòt-de-Fè ak Tiyòt. Lapli yo fè dega tou nan jaden ak sou wout yo.\n\nDapre Flash Update OCHA 28 oktòb la, Nip se depatman ki pi frape: 1920 fanmi afekte, 1767 kay inonde e 48 ti kay detwi. Nan Gommiers (Grandans), 630 kay inonde. DGPC mete tout Grand Sid nan vijilans oranj.",
+      fr: "Mise à jour du 29 octobre : le bilan des fortes pluies s'élève à au moins 5 morts et 10 disparus dans le Sud et le Sud-Est.\n\nDans le Sud, la Protection civile fait état de 2 morts, 9 disparus et plus de 7000 maisons inondées du 24 au 27 octobre. Les eaux ont envahi Lasaline (Jérémie) et Barradères.\n\nDans le Sud-Est, on compte 3 morts et 1 disparu à Côtes-de-Fer et Thiotte. Les pluies ont aussi endommagé des cultures et des routes.\n\nSelon le Flash Update d'OCHA du 28 octobre, les Nippes sont le département le plus touché: 1920 familles affectées, 1767 maisons inondées et 48 petites maisons détruites. À Gommiers (Grand'Anse), 630 maisons sont inondées. La DGPC place tout le Grand Sud en vigilance orange.",
     },
     sources: [
-      "OCHA / ReliefWeb",
       "Le Nouvelliste",
       "DGPC / Protection civile",
+      "OCHA / ReliefWeb",
     ],
   },
   {
@@ -189,22 +211,23 @@ export const STORIES: Story[] = [
     id: "ntk-dr-deportations-weekend-2026-10",
     tier: "need-to-know",
     topic: "society",
-    publishedAt: "2026-10-28",
-    publishedTime: "2026-10-28T07:21:03-04:00",
+    publishedAt: "2026-10-29",
+    publishedTime: "2026-10-29T11:15:00-04:00",
     headline: {
-      ht: "Dominikani ekspilse 4173 moun nan fen semèn 23–25 oktòb",
-      fr: "La République dominicaine a expulsé 4173 personnes le week-end des 23–25 octobre",
+      ht: "Dominikani arete 4618 Ayisyen epi ekspilse 4173 nan yon sèl fen semèn",
+      fr: "La République dominicaine arrête 4618 Haïtiens et en expulse 4173 en un seul week-end",
     },
     brief: {
-      ht: "DGM Dominikani di li arete 4618 etranje san papye epi ekspilse 4173 nan fen semèn nan. Kontwòl fwontyè yo ap sere.",
-      fr: "La DGM dominicaine dit avoir arrêté 4618 étrangers en situation irrégulière et expulsé 4173 personnes sur le week-end. Les contrôles à la frontière se renforcent.",
+      ht: "Se fen semèn 23–25 oktòb la ki pi chaje ane a. 28 oktòb, malgre lapli, DGM ekspilse 884 lòt moun. Abinader di li p ap tolere gang nan 20 km fwontyè a.",
+      fr: "Le week-end des 23–25 octobre est le plus chargé de l'année. Le 28 octobre, malgré la pluie, la DGM a expulsé 884 personnes de plus. Abinader dit ne tolérer aucun gang à moins de 20 km de la frontière.",
     },
     body: {
-      ht: "Sou fen semèn 23–25 oktòb, Direksyon Jeneral Migrasyon Dominikani (DGM) rapòte li arete 4618 etranje ki pa t gen papye regilye, epi li ekspilse 4173 moun. Otorite yo di yo ap sere kontwòl sou fwontyè a.",
-      fr: "Sur le week-end des 23–25 octobre, la Direction générale de la migration dominicaine (DGM) rapporte avoir arrêté 4618 étrangers en situation migratoire irrégulière et expulsé 4173 personnes. Les autorités indiquent qu'elles renforcent les contrôles à la frontière.",
+      ht: "Sou fen semèn 23–25 oktòb, Direksyon Jeneral Migrasyon Dominikani (DGM) arete 4618 Ayisyen ki pa t gen papye regilye epi li ekspilse 4173 moun. Se fen semèn ki pi chaje depi kòmansman ane a.\n\n28 oktòb, malgre gwo lapli, DGM ekspilse 884 lòt etranje san papye.\n\nPrezidan Luis Abinader di gouvènman li p ap tolere okenn gang nan 20 km fwontyè a, pandan otorite yo ap sere kontwòl sou fwontyè a.",
+      fr: "Sur le week-end des 23–25 octobre, la Direction générale de la migration dominicaine (DGM) a arrêté 4618 Haïtiens en situation migratoire irrégulière et expulsé 4173 personnes. C'est le week-end le plus chargé depuis le début de l'année.\n\nLe 28 octobre, malgré de fortes pluies, la DGM a expulsé 884 autres étrangers sans papiers.\n\nLe président Luis Abinader a déclaré que son gouvernement ne tolérerait aucun gang à moins de 20 km de la frontière, alors que les autorités renforcent les contrôles frontaliers.",
     },
     sources: [
       "DGM République dominicaine",
+      "HaitiLibre",
     ],
   },
   {
