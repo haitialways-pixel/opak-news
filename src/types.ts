@@ -9,6 +9,7 @@ export type TopicId =
   | "commerce"
   | "security"
   | "society"
+  | "moise-trials"
   | "gossip";
 
 export interface LocalizedText {

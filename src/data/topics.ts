@@ -34,6 +34,10 @@ export const TOPICS: TopicMeta[] = [
     label: { ht: "Sosyete", fr: "Société" },
   },
   {
+    id: "moise-trials",
+    label: { ht: "Jistis nan lakou a", fr: "Justice dans l’arrière-cour" },
+  },
+  {
     id: "gossip",
     label: { ht: "Tripotay", fr: "Les Coulisses" },
   },

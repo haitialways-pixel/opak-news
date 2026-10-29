@@ -16,6 +16,26 @@ import type { Story } from "../types";
  */
 export const STORIES: Story[] = [
   {
+    id: "moise-trials-2026-10-29",
+    tier: "quick-hit",
+    topic: "moise-trials",
+    publishedAt: "2026-10-29",
+    publishedTime: "2026-10-29T13:10:00-04:00",
+    headline: {
+      ht: "Asasina Jovenel Moïse: kote pwosè Sanon nan Miami ak ankèt la ann Ayiti rive",
+      fr: "Assassinat de Jovenel Moïse : où en sont le procès Sanon à Miami et l’enquête en Haïti",
+    },
+    brief: {
+      ht: "Nan Miami, pwosè federal Christian Emmanuel Sanon an ap kontinye: ajan FBI ap prezante mesaj telefòn sou lajan pou peye mèsenè yo ak senaryo pou ranplase Moïse, e ansyen senatè John Joël Joseph temwaye 23 oktòb. Ann Ayiti, Paryè Kou Apèl Pòtoprens lan siyale minis Jistis la jij enstriksyon an poko remèt rapò konpleman ankèt la.",
+      fr: "À Miami, le procès fédéral de Christian Emmanuel Sanon se poursuit : des agents du FBI présentent des messages sur l’argent dû aux mercenaires et sur les scénarios de succession, et l’ex-sénateur John Joël Joseph a témoigné le 23 octobre. En Haïti, le parquet de la Cour d’appel de Port-au-Prince signale au ministre de la Justice que le juge du complément d’enquête n’a toujours pas rendu son rapport.",
+    },
+    body: {
+      ht: "MIAMI. Pwosè federal Christian Emmanuel Sanon, pastè ayisyano-ameriken yo akize li te konplote pou kidnape oswa touye prezidan Jovenel Moïse, louvri 28 septanm 2026. Martine Moïse se te premye temwen an, 29 septanm.\n\n13 ak 14 oktòb, ajan FBI Elizabeth Wieder prezante mesaj ki soti nan telefòn akize yo: pwoblèm lajan pou peye mèsenè kolonbyen yo jiska 6 jiyè 2021, ak senaryo pou kiyès ki t ap ranplase Moïse. Okòmansman se Sanon yo te konsidere, apre sa yo mete l sou kote akoz sitwayènte ameriken li. Yon lòt senaryo te mete jij Wendelle Coq Thélot kòm prezidan ak Joseph Lambert kòm Premye minis. Atansyon: non ki parèt nan mesaj sa yo se pa desizyon tribinal; okenn nan moun sa yo pa kondane nan dosye a sou baz mesaj sa yo. Defans Sanon ap eseye montre li pa t nan pati vyolan yo e yo te mete l sou kote.\n\nPwosè a te nan 14yèm oswa 15yèm temwen sou 57. Li antre nan 4yèm semèn li 19 oktòb, ak ajan FBI Bryan Jordan sou done telefòn yo. 21 oktòb, analis FBI Kaitlin Dayton montre jiri a yon videyo 7 minit Sanon te resevwa 3 me 2021, yon kalite gid pou ranvèse yon gouvènman (Miami Herald). Vandredi 23 oktòb, ansyen senatè John Joël Joseph, ki deja kondane a lavi, temwaye li te òganize yon reyinyon ant Sanon ak Pierre Espérance (RNDDH), selon Juno7. Temwayaj sa a pou kont li pa montre Espérance te jwe okenn wòl nan asasina a.\n\nFen septanm, 18 akize te transfere soti Ayiti pou Miami, tankou Joseph Félix Badio ak 17 ansyen sòlda kolonbyen.\n\nAYITI. Nan yon lèt 22 oktòb 2026, Komisè gouvènman an bò Kou Apèl Pòtoprens lan, Claude Jean, di minis Jistis Patrick Pélissier jij Cyprien Jn F. Denis Pierre, ki responsab konpleman ankèt Kou a te bay lòd fè 13 oktòb 2025 (kòmanse an janvye 2026), poko remèt rapò li. Pa gen okenn dat ki fikse.",
+      fr: "MIAMI. Le procès fédéral de Christian Emmanuel Sanon, pasteur haïtiano-américain accusé d’avoir conspiré pour enlever ou tuer le président Jovenel Moïse, s’est ouvert le 28 septembre 2026. Martine Moïse a été le premier témoin, le 29 septembre.\n\nLes 13 et 14 octobre, l’agente du FBI Elizabeth Wieder a présenté des messages extraits des téléphones des accusés : difficultés à payer les mercenaires colombiens jusqu’au 6 juillet 2021, et scénarios de succession. Sanon a d’abord été envisagé, puis écarté en raison de sa citoyenneté américaine. Un autre scénario plaçait la juge Wendelle Coq Thélot à la présidence et Joseph Lambert à la primature. Précision importante : les noms cités dans ces messages ne constituent pas des constats judiciaires ; aucune de ces personnes n’a été reconnue coupable sur la base de ces échanges. La défense cherche à dissocier Sanon des volets violents du complot.\n\nLe procès en était au 14e ou 15e témoin sur 57. Il est entré dans sa 4e semaine le 19 octobre, avec l’agent du FBI Bryan Jordan sur les données téléphoniques. Le 21 octobre, l’analyste du FBI Kaitlin Dayton a montré aux jurés une vidéo de 7 minutes reçue par Sanon le 3 mai 2021, présentée par l’accusation comme un guide pour renverser un gouvernement (Miami Herald). Le vendredi 23 octobre, l’ex-sénateur John Joël Joseph, déjà condamné à la prison à vie, a déclaré avoir organisé une rencontre entre Sanon et Pierre Espérance (RNDDH), selon Juno7. Ce témoignage n’établit pas à lui seul un rôle d’Espérance dans l’assassinat.\n\nFin septembre, 18 accusés ont été transférés d’Haïti vers Miami, dont Joseph Félix Badio et 17 anciens soldats colombiens.\n\nHAÏTI. Dans une lettre du 22 octobre 2026, le commissaire du gouvernement près la Cour d’appel de Port-au-Prince, Claude Jean, a signalé au ministre de la Justice Patrick Pélissier que le juge Cyprien Jn F. Denis Pierre, chargé du complément d’enquête ordonné le 13 octobre 2025 (entamé en janvier 2026), n’a toujours pas remis son rapport. Aucune date n’a été annoncée.",
+    },
+    sources: ["Le National", "InfoNation", "Miami Herald", "Juno7 / Le Soulouquois", "RHINEWS"],
+  },
+  {
     id: "qh-caonabo-richard-alexandre-2026-10-29",
     tier: "quick-hit",
     topic: "society",
