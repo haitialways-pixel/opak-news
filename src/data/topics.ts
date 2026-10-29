@@ -11,7 +11,7 @@ export const TOPICS: TopicMeta[] = [
   },
   {
     id: "justice",
-    label: { ht: "Ayiti ak Jistis", fr: "Haiti and Justice" },
+    label: { ht: "Ayiti ak Jistis", fr: "Justice à l’Haïtienne" },
   },
   {
     id: "development",
