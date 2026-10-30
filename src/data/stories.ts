@@ -16,6 +16,54 @@ import type { Story } from "../types";
  */
 export const STORIES: Story[] = [
   {
+    id: "ntk-plan-electrification-2032-2026-10-30",
+    tier: "need-to-know",
+    topic: "governance",
+    publishedAt: "2026-10-30",
+    publishedTime: "2026-10-30T19:45:00-04:00",
+    headline: {
+      ht: "Kouran: yon plan prèske 6 milya dola pou bay limyè nan peyi a jiska 2032",
+      fr: "Électricité : un plan de près de 6 milliards de dollars pour éclairer Haïti d'ici 2032",
+    },
+    brief: {
+      ht: "Minis TPTC Joseph Almathe Pierre Louis prezante yon fèy wout 2027-2032: 60% aksè ak kouran, 250000 nouvo branchman, 5,7 a 5,9 milya dola. Kiyès ki ap peye? Èske yo ap vann nou yon chato an Espay ankò?",
+      fr: "Le ministre des TPTC Joseph Almathe Pierre Louis présente une feuille de route 2027-2032 : 60% d'accès à l'électricité, 250000 nouveaux branchements, 5,7 à 5,9 milliards de dollars. Qui paiera ? Nous vend-on encore un château en Espagne ?",
+    },
+    body: {
+      ht: "Jedi 29 oktòb, nan otèl Kinam (Petyonvil), Ministè Travay Piblik (MTPTC), ansanm ak UTE Ministè Ekonomi ak Finans ak ANARSE, te òganize yon atelye nasyonal sou planifikasyon sektè elektrisite a. Minis Joseph Almathe Pierre Louis prezante Plan elektrifikasyon Ayiti a ak Fèy wout pou transfòme sektè a.\n\nFèy wout 2027-2032 la vize: 60% aksè ak kouran; 250000 nouvo branchman, ladan yo 150000 ak solisyon desantralize; pèt teknik ak komèsyal anba 35%; 200 megawat kouran fyab pou zòn metwopolitèn nan ak 80 megawat pou rès peyi a; fòmasyon 500 teknisyen ak kad.\n\nPlan an gen 6 rezo rejyonal, apeprè 50 mini-rezo pou prèske 100000 fwaye, ak sistèm solè endividyèl pou 227000 lòt fwaye. Envestisman yo estime ant 5,7 ak 5,9 milya dola ameriken. Sous yo pa di klèman ki jan lajan sa a ap jwenn.\n\nMinis la site de pwojè solè k ap konstwi: 13,4 MW Karakòl ak 4 MW Jakmèl (Monfleury).\n\nKesyon pou lektè yo:\n• Èske yo ap vann nou yon chato an Espay ankò?\n• Kiyès ki ap peye 6 milya dola sa yo, e kilè lajan an ap disponib?\n• Apre tout pwomès kouran nou tande deja, sa k ap fè plan sa a diferan, e ki wòl EDH ap jwe?",
+      fr: "Le jeudi 29 octobre, à l'hôtel Kinam (Pétion-Ville), le ministère des Travaux publics (MTPTC), avec l'UTE du ministère de l'Économie et des Finances et l'ANARSE, a tenu un atelier national sur la planification du secteur de l'électricité. Le ministre Joseph Almathe Pierre Louis y a présenté le Plan d'électrification d'Haïti et la Feuille de route pour la transformation du secteur.\n\nLa feuille de route 2027-2032 vise : un taux d'accès de 60% ; 250000 nouveaux branchements, dont 150000 par des solutions décentralisées ; des pertes techniques et commerciales sous 35% ; 200 mégawatts de production fiable pour la région métropolitaine et 80 mégawatts pour le reste du pays ; la formation de 500 techniciens et cadres.\n\nLe plan prévoit 6 réseaux régionaux, environ 50 mini-réseaux pour près de 100000 ménages et des systèmes solaires individuels pour 227000 autres. Les investissements sont estimés entre 5,7 et 5,9 milliards de dollars américains. Les sources ne précisent pas clairement comment ils seront financés.\n\nLe ministre a cité deux centrales solaires en construction : 13,4 MW à Caracol et 4 MW à Jacmel (Monfleury).\n\nQuestions aux lecteurs :\n• Nous vend-on encore un château en Espagne ?\n• Qui paiera ces 6 milliards, et quand l'argent sera-t-il disponible ?\n• Après tant de promesses d'électricité déjà entendues, qu'est-ce qui rendra ce plan différent, et quel rôle jouera l'EDH ?",
+    },
+    sources: ["Le Nouvelliste", "HaitiLibre"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273445/almathe-pierre-louis-presente-un-plan-delectrification-de-pres-de-6-milliards-de-dollars" },
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/en/news-48778-development-of-the-electricity-sector-in-haiti.html" },
+    ],
+  },
+  {
+    id: "ntk-acra-tribunal-criminel-2026-10-30",
+    tier: "need-to-know",
+    topic: "justice",
+    publishedAt: "2026-10-30",
+    publishedTime: "2026-10-30T19:46:00-04:00",
+    headline: {
+      ht: "Trafik dwòg: Lakou Apèl voye Marc Antoine ak Sébastien Acra devan tribinal kriminèl",
+      fr: "Trafic de drogue : Marc Antoine et Sébastien Acra renvoyés devant le tribunal criminel",
+    },
+    brief: {
+      ht: "26 oktòb, Lakou Apèl Pòtoprens konfime yo ap jije san jiri, ansanm ak Fedner Doliscar « Surpris » pou konplisite, epi li bay lòd arete yo. Èske lòd sa a ap egzekite? Èske jistis ap rive sou pwisan yo osi vit ke sou pòv yo?",
+      fr: "Le 26 octobre, la cour d'appel de Port-au-Prince a confirmé leur procès sans jury, avec Fedner Doliscar « Surpris » pour complicité, et ordonné leur prise de corps. Cet ordre sera-t-il exécuté ? La justice frappera-t-elle les puissants aussi vite que les pauvres ?",
+    },
+    body: {
+      ht: "Nan yon desizyon 26 oktòb 2026, Lakou Apèl Pòtoprens konfime Marc Antoine Acra, Sébastien François Xavier Acra ak Fedner Doliscar, alyas « Surpris », ap pase devan tribinal kriminèl ki chita san jiri. De premye yo akize de trafik ilisit dwòg; twazyèm nan pou konplisite.\n\nLakou a bay lòd « prise de corps » pou yo arete epi mete yo nan prizon si yo pa deja nan detansyon.\n\nTout moun sa yo konsidere inosan toutotan yon tribinal pa kondane yo.\n\nKesyon pou lektè yo:\n• Èske lòd arestasyon an ap egzekite vre, oswa l ap rete sou papye?\n• Èske pwosè san jiri sa a ap fèt vre, e kilè?\n• Èske jistis ap rive sou pwisan yo osi vit ke sou pòv yo?",
+      fr: "Dans un arrêt rendu le 26 octobre 2026, la cour d'appel de Port-au-Prince a confirmé le renvoi de Marc Antoine Acra, Sébastien François Xavier Acra et Fedner Doliscar, alias « Surpris », devant le tribunal criminel siégeant sans assistance de jury. Les deux premiers sont poursuivis pour trafic illicite de drogue, le troisième pour complicité.\n\nLa cour a également ordonné leur prise de corps en vue de leur incarcération, s'ils ne se trouvent pas déjà en détention.\n\nLes personnes citées sont présumées innocentes jusqu'à une éventuelle condamnation.\n\nQuestions aux lecteurs :\n• L'ordre de prise de corps sera-t-il réellement exécuté, ou restera-t-il sur le papier ?\n• Ce procès sans jury aura-t-il vraiment lieu, et quand ?\n• La justice atteindra-t-elle les puissants aussi vite que les pauvres ?",
+    },
+    sources: ["Le Nouvelliste", "Ted'Actu"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273430/trafic-de-drogue-la-cour-dappel-confirme-le-renvoi-de-marc-antoine-acra-sebastien-acra-et-fedner-doliscar-devant-le-tribunal-criminel" },
+      { name: "Ted'Actu", url: "https://tedactu.com/2026/10/27/marc-antoine-acra-renvoye-devant-le-tribunal-criminel-pour-trafic-international-de-drogue/" },
+    ],
+  },
+  {
     id: "qh-onm-deportations-usa-2026-10-30",
     tier: "quick-hit",
     topic: "society",
