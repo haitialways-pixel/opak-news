@@ -65,6 +65,12 @@ export function StoryPage() {
         <p className="detail-brief">
           <KeepNumbers text={t(story.brief)} />
         </p>
+        {story.audio && (
+          <figure className="detail-audio">
+            <figcaption>{story.audio.label}</figcaption>
+            <audio controls preload="metadata" src={story.audio.src} style={{ width: "100%" }} />
+          </figure>
+        )}
         {story.quote && (
           <blockquote className="detail-quote" lang={story.quote.lang}>
             {story.quote.text.split(/\n\n+/).map((para, i) => (
@@ -79,12 +85,6 @@ export function StoryPage() {
             <figcaption>
               {story.video.credit} · <a href={story.video.url} target="_blank" rel="noopener noreferrer">X</a>
             </figcaption>
-          </figure>
-        )}
-        {story.audio && (
-          <figure className="detail-audio">
-            <figcaption>{story.audio.label}</figcaption>
-            <audio controls preload="metadata" src={story.audio.src} style={{ width: "100%" }} />
           </figure>
         )}
         {story.body && (
