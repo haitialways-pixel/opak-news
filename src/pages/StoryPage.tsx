@@ -81,6 +81,12 @@ export function StoryPage() {
             </figcaption>
           </figure>
         )}
+        {story.audio && (
+          <figure className="detail-audio">
+            <figcaption>{story.audio.label}</figcaption>
+            <audio controls preload="metadata" src={story.audio.src} style={{ width: "100%" }} />
+          </figure>
+        )}
         {story.body && (
           <div className="detail-body">
             {t(story.body)
