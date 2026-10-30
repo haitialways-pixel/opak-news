@@ -110,6 +110,44 @@ export const STORIES: Story[] = [
     ],
   },
   {
+    id: "ntk-barrau-candidature-2026-10-28",
+    tier: "need-to-know",
+    topic: "governance",
+    publishedAt: "2026-10-30",
+    publishedTime: "2026-10-30T09:50:00-04:00",
+    isBreaking: true,
+    headline: {
+      ht: "Olivier Barrau depoze kandidati li pou prezidans lan",
+      fr: "Olivier Barrau dépose sa candidature à la présidence",
+    },
+    brief: {
+      ht: "Yon biznisman lanse tèt li nan batay pou prezidans lan. San bri, san spektak, li antre nan kous la an silans. Èske se te plan an depi okòmansman ? Kisa nou panse ?",
+      fr: "Un homme d’affaires se lance dans la course à la présidence. Sans bruit, sans spectacle, il entre discrètement dans la course. Était-ce le plan depuis le début ? Qu’en pensez-vous ?",
+    },
+    body: {
+      ht: "Biznisman Olivier Barrau depoze dosye kandidati li pou eleksyon prezidansyèl la nan Biwo Elektoral Depatmantal (BED) Lwès 1 a mèkredi 28 oktòb 2026, 24 èdtan apre li te enskri sou platfòm anliy CEP a 27 oktòb. Li kandida sou bannyè Mouvman Travayis Ayisyen (MTH).\n\nDepo a fèt nan kalm. Barrau te vini ak avoka li yo, chèf pati a, sekretè jeneral pati a ak sekirite li. De lòt kandida MTH te la tou.\n\nPami priyorite li site yo: sekirite, edikasyon, travay, batay kont koripsyon, epi mete Leta nan sèvis sitwayen yo.\n\nDepoze yon dosye pa vle di li valide: CEP la dwe egzamine l toujou. Premye tou eleksyon yo fikse pou 18 jiyè 2027.",
+      fr: "L’homme d’affaires Olivier Barrau a déposé son dossier de candidature à la présidence au Bureau électoral départemental (BED) de l’Ouest 1 le mercredi 28 octobre 2026, 24 heures après s’être inscrit sur la plateforme en ligne du CEP le 27 octobre. Il est candidat sous la bannière du Mouvement travailliste haïtien (MTH).\n\nLe dépôt s’est fait dans le calme. Barrau était accompagné de ses avocats, du chef du parti, du secrétaire général du parti et de sa sécurité. Deux autres candidats du MTH étaient également présents.\n\nParmi les priorités qu’il cite : la sécurité, l’éducation, l’emploi, la lutte contre la corruption et un État au service des citoyens.\n\nLe dépôt ne vaut pas validation : le CEP doit encore examiner le dossier. Le premier tour est fixé au 18 juillet 2027.",
+    },
+    video: {
+      src: "/video/barrau-2026-10-28.mp4",
+      poster: "/video/barrau-2026-10-28.jpg",
+      credit: "Vidéo : @JRRescape / X",
+      url: "https://x.com/JRRescape/status/2115923281790349484",
+    },
+    sources: [
+      "Le Nouvelliste",
+      "Caramel Haïti",
+      "Lakay Info 509",
+      "Le Concret Info",
+    ],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273408/olivier-barrau-depose-officiellement-sa-candidature-a-la-presidence" },
+      { name: "Caramel Haïti", url: "https://caramelhaiti.com/presidentielle-olivier-barrau-depose-sa-candidature/" },
+      { name: "Lakay Info 509", url: "https://lakayinfo509.com/presidentielle-2026-lhomme-daffaires-olivier-barrau-sinscrit-sur-la-plateforme-du-cep-et-devoile-ses-priorites/" },
+      { name: "Le Concret Info", url: "https://www.leconcretinfo.com/2026/10/28/elections-olivier-barrau-depose-ses-pieces-de-candidature-a-la-presidence/" },
+    ],
+  },
+  {
     id: "ntk-cep-elections-juillet-2027-2026-10-29",
     tier: "need-to-know",
     topic: "governance",
