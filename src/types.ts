@@ -51,6 +51,8 @@ export interface Story {
   audio?: { src: string; label: string };
   /** Optional inline video on the story page. */
   video?: { src: string; poster?: string; credit: string; url: string };
+  /** Optional photo on the story page. */
+  photo?: { src: string; alt: string; credit: string; url: string };
 }
 
 export interface TopicMeta {

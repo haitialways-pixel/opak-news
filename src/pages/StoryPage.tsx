@@ -65,6 +65,14 @@ export function StoryPage() {
         <p className="detail-brief">
           <KeepNumbers text={t(story.brief)} />
         </p>
+        {story.photo && (
+          <figure className="detail-photo">
+            <img src={story.photo.src} alt={story.photo.alt} style={{ width: "100%", height: "auto", display: "block" }} />
+            <figcaption>
+              <a href={story.photo.url} target="_blank" rel="noopener noreferrer">{story.photo.credit}</a>
+            </figcaption>
+          </figure>
+        )}
         {story.audio && (
           <figure className="detail-audio">
             <figcaption>{story.audio.label}</figcaption>
