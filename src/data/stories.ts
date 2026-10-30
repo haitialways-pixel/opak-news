@@ -113,23 +113,35 @@ export const STORIES: Story[] = [
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-10-29",
-    publishedTime: "2026-10-29T08:01:49-04:00",
+    publishedTime: "2026-10-29T17:14:00-04:00",
     isBreaking: true,
     headline: {
-      ht: "Salvadò voye plis pase 2000 sòlda an Ayiti",
-      fr: "Le Salvador déploie plus de 2000 soldats en Haïti",
+      ht: "Bukele bay pèp ayisyen an yon mesaj: « Sa a se pa yon envazyon »",
+      fr: "Bukele s’adresse au peuple haïtien en créole",
     },
     brief: {
-      ht: "Bukele voye yo chèche kat teknisyen salvadoryen ki disparèt depi anbiskad 18 oktòb la epi goumen ak gang yo. Li di kò Ayiti remèt yo pa koresponn ak moun ki disparèt yo.",
-      fr: "Bukele les envoie retrouver quatre techniciens salvadoriens disparus depuis l'embuscade du 18 octobre et combattre les gangs. Il affirme que les corps remis par Haïti ne correspondent pas aux disparus.",
+      ht: "Mizajou : Nan yon mesaj an kreyòl ak yon videyo sou X, 29 oktòb, Bukele pale dirèkteman ak pèp ayisyen an. Bukele voye yo chèche kat teknisyen salvadoryen ki disparèt depi anbiskad 18 oktòb la epi goumen ak gang yo. Li di kò Ayiti remèt yo pa koresponn ak moun ki disparèt yo.",
+      fr: "Mise à jour : Dans un message en créole accompagné d’une vidéo publié sur X le 29 octobre, Bukele s’adresse directement au peuple haïtien. Bukele envoie ses soldats retrouver quatre techniciens salvadoriens disparus depuis l'embuscade du 18 octobre et combattre les gangs. Il affirme que les corps remis par Haïti ne correspondent pas aux disparus.",
     },
     body: {
-      ht: "Prezidan salvadoryen an, Nayib Bukele, anonse li voye plis pase 2000 sòlda an Ayiti. Misyon yo: jwenn kat teknisyen salvadoryen nan Gang Suppression Force la ki disparèt depi anbiskad 18 oktòb la nan Kwadebouke, epi goumen ak gang yo.\n\nBukele di kò otorite ayisyen yo te remèt yo pa koresponn ak moun ki disparèt yo.\n\nLi poko klè si sòlda sa yo ap travay anba Gang Suppression Force la oswa poukont yo. Anons sa a ranplase chif anviwon 1000 sòlda ki te pale anvan an.",
-      fr: "Le président salvadorien Nayib Bukele annonce l'envoi de plus de 2000 soldats en Haïti. Leur mission: retrouver quatre techniciens salvadoriens de la Gang Suppression Force disparus depuis l'embuscade du 18 octobre à Croix-des-Bouquets, et combattre les gangs.\n\nBukele affirme que les corps remis par les autorités haïtiennes ne correspondent pas aux disparus.\n\nIl n'est pas encore clair si ces troupes serviront sous la Gang Suppression Force ou de manière indépendante. Cette annonce remplace le chiffre d'environ 1000 soldats évoqué jusqu'ici.",
+      ht: "Mizajou 29 oktòb, 5:14 PM : Nayib Bukele pibliye sou X yon mesaj an kreyòl ak yon videyo pou pèp ayisyen an (tèks la anwo a, jan li ekri l).\n\nPrezidan salvadoryen an, Nayib Bukele, anonse li voye plis pase 2000 sòlda an Ayiti. Misyon yo: jwenn kat teknisyen salvadoryen nan Gang Suppression Force la ki disparèt depi anbiskad 18 oktòb la nan Kwadebouke, epi goumen ak gang yo.\n\nBukele di kò otorite ayisyen yo te remèt yo pa koresponn ak moun ki disparèt yo.\n\nLi poko klè si sòlda sa yo ap travay anba Gang Suppression Force la oswa poukont yo. Anons sa a ranplase chif anviwon 1000 sòlda ki te pale anvan an.",
+      fr: "Mise à jour du 29 octobre, 17 h 14 : Nayib Bukele a publié sur X un message en créole, accompagné d’une vidéo, adressé au peuple haïtien (texte ci-dessus, tel qu’il l’a écrit).\n\nLe président salvadorien Nayib Bukele annonce l'envoi de plus de 2000 soldats en Haïti. Leur mission: retrouver quatre techniciens salvadoriens de la Gang Suppression Force disparus depuis l'embuscade du 18 octobre à Croix-des-Bouquets, et combattre les gangs.\n\nBukele affirme que les corps remis par les autorités haïtiennes ne correspondent pas aux disparus.\n\nIl n'est pas encore clair si ces troupes serviront sous la Gang Suppression Force ou de manière indépendante. Cette annonce remplace le chiffre d'environ 1000 soldats évoqué jusqu'ici.",
+    },
+    quote: {
+      lang: "ht",
+      author: "Nayib Bukele, sur X, 29 octobre 2026",
+      text: "Pèp ayisyen,\n\nNou prèske fin deplwaye sòlda nou yo ak ekipman nou yo sou tè Ayiti. Sa a se pa yon operasyon kont pèp ayisyen an, ni yon envazyon peyi Ayiti. Nou pa yon gwo pisans. Nou pa gen okenn enterè ni pou nou vin domine pèp ayisyen an, ni pou nou mete men sou richès Ayiti.",
+    },
+    video: {
+      src: "/video/bukele-2026-10-29.mp4",
+      poster: "/video/bukele-2026-10-29.jpg",
+      credit: "Vidéo : Nayib Bukele / X",
+      url: "https://x.com/nayibbukele/status/2115915319134855447",
     },
     sources: [
       "BBC",
       "Al Jazeera",
+      "Nayib Bukele / X",
     ],
   },
   {

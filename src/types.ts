@@ -43,6 +43,10 @@ export interface Story {
   isSample?: boolean;
   /** Breaking news badge (label always BREAKING). */
   isBreaking?: boolean;
+  /** Optional verbatim quote shown as a block quote (not translated). */
+  quote?: { text: string; author: string; lang?: string };
+  /** Optional inline video on the story page. */
+  video?: { src: string; poster?: string; credit: string; url: string };
 }
 
 export interface TopicMeta {

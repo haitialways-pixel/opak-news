@@ -65,6 +65,22 @@ export function StoryPage() {
         <p className="detail-brief">
           <KeepNumbers text={t(story.brief)} />
         </p>
+        {story.quote && (
+          <blockquote className="detail-quote" lang={story.quote.lang}>
+            {story.quote.text.split(/\n\n+/).map((para, i) => (
+              <p key={i}>{para}</p>
+            ))}
+            <footer>— {story.quote.author}</footer>
+          </blockquote>
+        )}
+        {story.video && (
+          <figure className="detail-video">
+            <video controls playsInline preload="metadata" poster={story.video.poster} src={story.video.src} style={{ width: "100%", maxHeight: "80vh", background: "#000" }} />
+            <figcaption>
+              {story.video.credit} · <a href={story.video.url} target="_blank" rel="noopener noreferrer">X</a>
+            </figcaption>
+          </figure>
+        )}
         {story.body && (
           <div className="detail-body">
             {t(story.body)

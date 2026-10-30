@@ -55,6 +55,34 @@ function portrait(P, sec, h, b, out) { const W = 960; let ph = 64; while (ph > 3
       "(", "-background", "none", "-size", "800x", `pango:<span font="DejaVu Sans 24" foreground="${P.url}">opak-news.haitialways.workers.dev</span>`, ")", "-geometry", "+60+1262", "-composite",
       out]);
 }
+// Verbatim quote split across N portrait cards (same font size on each, k/N marker, "Lire la suite" on last only)
+function quoteCards(P, sec, h, q, id) { const W = 960, QF = "DejaVu Sans Oblique 36";
+  const qm = (t) => `<span font="${QF}">${esc(t)}</span>`;
+  const hh = mh(`<span font="Gelasio Bold 52">${esc(h)}</span>`, W);
+  const room1 = 1170 - (390 + hh + 40), roomN = 1170 - 390;
+  const words = q.text.replace(/\n\n+/g, " \n\n ").split(" ").filter(Boolean); const pages = []; let cur = [];
+  const txt = (a) => a.join(" ").replace(/ ?\n\n ?/g, "\n\n").trim();
+  for (const w of words) { const room = pages.length ? roomN : room1; const t = [...cur, w];
+    if (cur.length && mh(qm("« " + txt(t) + " »"), W) > room) { pages.push(txt(cur)); cur = w === "\n\n" ? [] : [w]; } else cur = t; }
+  if (cur.length) pages.push(txt(cur)); const N = pages.length, outs = [];
+  pages.forEach((pg, i) => { const out = path.join(dist, "og", `${id}-quote-${i + 1}.png`); const qy = i === 0 ? 390 + hh + 40 : 390;
+    const shown = (i === 0 ? "« " : "… ") + pg + (i === N - 1 ? " »\n— " + q.author : " …");
+    execFileSync("convert", [...bgArgs(P, "1080x1350"),
+      "(", "-size", "1080x14", "xc:#00209f", ")", "-geometry", "+0+0", "-composite",
+      "(", "-size", "1080x14", "xc:#d21034", ")", "-geometry", "+0+14", "-composite",
+      "(", "-background", "none", "-size", `${W}x`, `pango:<span font="DejaVu Sans Bold 24" foreground="${P.label}" letter_spacing="2500">${esc(sec.toUpperCase())}</span>`, ")", "-geometry", "+60+300", "-composite",
+      "(", "-background", "none", `pango:<span font="DejaVu Sans Bold 28" foreground="${P.label}">${i + 1}/${N}</span>`, ")", "-geometry", "+960+296", "-composite",
+      "(", logo, "-resize", "x140", ")", "-geometry", "+60+64", "-composite",
+      "(", "-background", "none", `pango:<span font="Gelasio Bold 60" foreground="${P.head}">Opak News</span>`, ")", "-geometry", "+272+92", "-composite",
+      "(", "-size", "960x2", `xc:${P.rule}`, ")", "-geometry", "+60+246", "-composite",
+      "(", "-size", "90x5", "xc:#d21034", ")", "-geometry", "+60+355", "-composite",
+      ...(i === 0 ? ["(", "-background", "none", "-size", `${W}x`, `pango:<span font="Gelasio Bold 52" foreground="${P.head}">${esc(h)}</span>`, ")", "-geometry", "+60+390", "-composite"] : []),
+      "(", "-background", "none", "-size", `${W}x`, `pango:<span font="${QF}" foreground="${P.teaser}">${esc(shown)}</span>`, ")", "-geometry", `+60+${qy}`, "-composite",
+      ...(i === N - 1 ? ["(", "-background", "none", `pango:<span font="DejaVu Sans Bold 21" foreground="${P.more}">Lire la suite <span font="Noto Color Emoji">👇🏼</span></span>`, ")", "-geometry", "+790+1188", "-composite"] : []),
+      "(", "-size", "960x2", `xc:${P.rule}`, ")", "-geometry", "+60+1225", "-composite",
+      "(", "-background", "none", "-size", "800x", `pango:<span font="DejaVu Sans 24" foreground="${P.url}">opak-news.haitialways.workers.dev</span>`, ")", "-geometry", "+60+1262", "-composite",
+      out]); outs.push(out); });
+  return outs; }
 for (const s of stories) {
   const sec = topics.find((t) => t.id === s.topic)?.label.fr ?? "";
   const P = PALETTE[s.topic] ?? DEFAULT_PAL;
@@ -79,6 +107,7 @@ for (const s of stories) {
     "(", "-background", "none", "-size", "900x", `pango:<span font="DejaVu Sans 18" foreground="${P.url}">opak-news.haitialways.workers.dev</span>`, ")", "-geometry", "+60+580", "-composite",
     png]);
   portrait(P, sec, h, b, path.join(dist, "og", `${s.id}-portrait.png`));
+  if (s.quote) console.log("quote cards:", quoteCards(P, sec, h, s.quote, s.id).join(" "));
   const url = `${SITE}/story/${s.id}`, img = `${SITE}/og/${s.id}.png`;
   const meta = `<meta property="og:type" content="article" /><meta property="og:site_name" content="Opak News" /><meta property="og:locale" content="fr_FR" />
     <meta property="og:url" content="${url}" /><meta property="og:title" content="${esc(h)}" /><meta property="og:description" content="${esc(b)}" />
