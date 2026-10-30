@@ -151,19 +151,19 @@ export const STORIES: Story[] = [
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-10-29",
-    publishedTime: "2026-10-29T17:14:00-04:00",
+    publishedTime: "2026-10-30T09:30:00-04:00",
     isBreaking: true,
     headline: {
-      ht: "Bukele bay pèp ayisyen an yon mesaj: « Sa a se pa yon envazyon »",
-      fr: "Bukele s’adresse au peuple haïtien en créole",
+      ht: "Sòlda Salvadò an Ayiti : akò signe, Washington di wi",
+      fr: "Troupes salvadoriennes en Haïti : accord bilatéral signé, Washington donne son feu vert",
     },
     brief: {
-      ht: "Mizajou : Nan yon mesaj an kreyòl ak yon videyo sou X, 29 oktòb, Bukele pale dirèkteman ak pèp ayisyen an. Bukele voye yo chèche kat teknisyen salvadoryen ki disparèt depi anbiskad 18 oktòb la epi goumen ak gang yo. Li di kò Ayiti remèt yo pa koresponn ak moun ki disparèt yo.",
-      fr: "Mise à jour : Dans un message en créole accompagné d’une vidéo publié sur X le 29 octobre, Bukele s’adresse directement au peuple haïtien. Bukele envoie ses soldats retrouver quatre techniciens salvadoriens disparus depuis l'embuscade du 18 octobre et combattre les gangs. Il affirme que les corps remis par Haïti ne correspondent pas aux disparus.",
+      ht: "Mizajou 30 oktòb : Yon akò bilateral Ayiti apwouve mèkredi 28 oktòb otorize fòs salvadoryen an opere nan peyi a. Dapre Axios, Donald Trump di Bukele « Fè sa ou gen pou fè » pandan yon apèl madi. Dapre AFP, omwen 2000 sòlda salvadoryen deja rive an Ayiti. Nan yon mesaj an kreyòl ak yon videyo sou X, 29 oktòb, Bukele pale dirèkteman ak pèp ayisyen an. Bukele voye yo chèche kat teknisyen salvadoryen ki disparèt depi anbiskad 18 oktòb la epi goumen ak gang yo. Li di kò Ayiti remèt yo pa koresponn ak moun ki disparèt yo.",
+      fr: "Mise à jour du 30 octobre : Un accord bilatéral approuvé par Haïti le mercredi 28 octobre autorise la force salvadorienne à opérer dans le pays. Selon Axios, Donald Trump a dit à Bukele « Fais ce que tu as à faire » lors d’un appel mardi. Selon l’AFP, au moins 2000 militaires salvadoriens sont déjà arrivés en Haïti. Dans un message en créole accompagné d’une vidéo publié sur X le 29 octobre, Bukele s’adresse directement au peuple haïtien. Bukele envoie ses soldats retrouver quatre techniciens salvadoriens disparus depuis l'embuscade du 18 octobre et combattre les gangs. Il affirme que les corps remis par Haïti ne correspondent pas aux disparus.",
     },
     body: {
-      ht: "Mizajou 29 oktòb, 5:14 PM : Nayib Bukele pibliye sou X yon mesaj an kreyòl ak yon videyo pou pèp ayisyen an (tèks la anwo a, jan li ekri l).\n\nPrezidan salvadoryen an, Nayib Bukele, anonse li voye plis pase 2000 sòlda an Ayiti. Misyon yo: jwenn kat teknisyen salvadoryen nan Gang Suppression Force la ki disparèt depi anbiskad 18 oktòb la nan Kwadebouke, epi goumen ak gang yo.\n\nBukele di kò otorite ayisyen yo te remèt yo pa koresponn ak moun ki disparèt yo.\n\nLi poko klè si sòlda sa yo ap travay anba Gang Suppression Force la oswa poukont yo. Anons sa a ranplase chif anviwon 1000 sòlda ki te pale anvan an.",
-      fr: "Mise à jour du 29 octobre, 17 h 14 : Nayib Bukele a publié sur X un message en créole, accompagné d’une vidéo, adressé au peuple haïtien (texte ci-dessus, tel qu’il l’a écrit).\n\nLe président salvadorien Nayib Bukele annonce l'envoi de plus de 2000 soldats en Haïti. Leur mission: retrouver quatre techniciens salvadoriens de la Gang Suppression Force disparus depuis l'embuscade du 18 octobre à Croix-des-Bouquets, et combattre les gangs.\n\nBukele affirme que les corps remis par les autorités haïtiennes ne correspondent pas aux disparus.\n\nIl n'est pas encore clair si ces troupes serviront sous la Gang Suppression Force ou de manière indépendante. Cette annonce remplace le chiffre d'environ 1000 soldats évoqué jusqu'ici.",
+      ht: "Mizajou 30 oktòb : Yon akò bilateral Ayiti apwouve mèkredi 28 oktòb otorize fòs salvadoryen an opere nan peyi a. Dapre Axios, Bukele rele Donald Trump madi pou asire l Washington pa gen pwoblèm ak operasyon an, e Trump reponn li : « Fè sa ou gen pou fè » (\"Do what you have to do\").\n\nDapre AFP, omwen 2000 sòlda salvadoryen rive an Ayiti nan yon semèn. AFP konte anviwon 20 vòl charter ant San Salvador ak Pòtoprens ant 22 ak 29 oktòb, e imaj satelit montre dis estrikti (petèt tant) yo enstale sou baz militè entènasyonal ayewopò Toussaint-Louverture a.\n\nNan mesaj kreyòl li a, Bukele di se Salvadò k ap peye 90% depans operasyon an. Diego Da Rin, analis Crisis Group, di AFP kounye a gen « senk fòs separe san yon vrè kòmandman inifye ». Depi 18 oktòb, MSF trete 30 moun blese nan tire oswa dron nan lopital li yo nan Tabarre ak Site Solèy.\n\nMizajou 29 oktòb, 5:14 PM : Nayib Bukele pibliye sou X yon mesaj an kreyòl ak yon videyo pou pèp ayisyen an (tèks la anwo a, jan li ekri l).\n\nPrezidan salvadoryen an, Nayib Bukele, anonse li voye plis pase 2000 sòlda an Ayiti. Misyon yo: jwenn kat teknisyen salvadoryen nan Gang Suppression Force la ki disparèt depi anbiskad 18 oktòb la nan Kwadebouke, epi goumen ak gang yo.\n\nBukele di kò otorite ayisyen yo te remèt yo pa koresponn ak moun ki disparèt yo.\n\nLi poko klè si sòlda sa yo ap travay anba Gang Suppression Force la oswa poukont yo. Anons sa a ranplase chif anviwon 1000 sòlda ki te pale anvan an.",
+      fr: "Mise à jour du 30 octobre : Un accord bilatéral approuvé par Haïti le mercredi 28 octobre autorise la force salvadorienne à opérer dans le pays. Selon Axios, Bukele a appelé Donald Trump mardi pour s’assurer que Washington ne s’y opposait pas, et Trump lui a répondu : « Fais ce que tu as à faire » (\"Do what you have to do\").\n\nSelon l’AFP, au moins 2000 militaires salvadoriens sont arrivés en Haïti en une semaine. L’AFP a recensé une vingtaine de vols charter entre San Salvador et Port-au-Prince du 22 au 29 octobre, et des images satellites montrent dix structures, qui pourraient être des tentes, installées sur la base militaire internationale de l’aéroport Toussaint-Louverture.\n\nDans son message en créole, Bukele affirme que le Salvador paie 90% du coût de l’opération. Diego Da Rin, analyste du Crisis Group, s’inquiète auprès de l’AFP de « cinq forces séparées sans réel commandement unifié ». Depuis le 18 octobre, MSF a soigné 30 personnes blessées par balles ou drones dans ses hôpitaux de Tabarre et Cité Soleil.\n\nMise à jour du 29 octobre, 17 h 14 : Nayib Bukele a publié sur X un message en créole, accompagné d’une vidéo, adressé au peuple haïtien (texte ci-dessus, tel qu’il l’a écrit).\n\nLe président salvadorien Nayib Bukele annonce l'envoi de plus de 2000 soldats en Haïti. Leur mission: retrouver quatre techniciens salvadoriens de la Gang Suppression Force disparus depuis l'embuscade du 18 octobre à Croix-des-Bouquets, et combattre les gangs.\n\nBukele affirme que les corps remis par les autorités haïtiennes ne correspondent pas aux disparus.\n\nIl n'est pas encore clair si ces troupes serviront sous la Gang Suppression Force ou de manière indépendante. Cette annonce remplace le chiffre d'environ 1000 soldats évoqué jusqu'ici.",
     },
     quote: {
       lang: "ht",
@@ -184,6 +184,12 @@ export const STORIES: Story[] = [
       "BBC",
       "Al Jazeera",
       "Nayib Bukele / X",
+      "Axios",
+      "AFP",
+    ],
+    sourceLinks: [
+      { name: "Axios", url: "https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge" },
+      { name: "AFP (via Yahoo Actualités)", url: "https://fr.news.yahoo.com/d%C3%A9ploiement-milliers-soldats-salvadoriens-ha%C3%AFti-222631345.html" },
     ],
   },
   {
