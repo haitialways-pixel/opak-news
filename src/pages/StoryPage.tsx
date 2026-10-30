@@ -102,6 +102,17 @@ export function StoryPage() {
           </p>
         )}
 
+        {story.sourceLinks && story.sourceLinks.length > 0 && (
+          <p className="sources source-links">
+            {story.sourceLinks.map((l, i) => (
+              <span key={l.url}>
+                {i > 0 && " · "}
+                <a href={l.url} target="_blank" rel="noopener noreferrer">{l.name}</a>
+              </span>
+            ))}
+          </p>
+        )}
+
         <details className="alt-lang">
           <summary>
             {otherLang === "fr" ? "Français" : "Kreyòl"} — {ui.dualHint}

@@ -43,6 +43,8 @@ export interface Story {
   isSample?: boolean;
   /** Breaking news badge (label always BREAKING). */
   isBreaking?: boolean;
+  /** Optional source links shown on the story page. */
+  sourceLinks?: { name: string; url: string }[];
   /** Optional verbatim quote shown as a block quote (not translated). */
   quote?: { text: string; author: string; lang?: string };
   /** Optional inline video on the story page. */
