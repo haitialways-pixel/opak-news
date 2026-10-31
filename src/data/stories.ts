@@ -16,6 +16,37 @@ import type { Story } from "../types";
  */
 export const STORIES: Story[] = [
   {
+    id: "qh-eau-soldats-salvadoriens-2026-10-31",
+    tier: "quick-hit",
+    topic: "security",
+    publishedAt: "2026-10-31",
+    publishedTime: "2026-10-31T14:45:00-04:00",
+    headline: {
+      ht: "Videyo : moun bay sòlda salvadoryen ak polisye ayisyen dlo",
+      fr: "Vidéo : des Haïtiens offrent de l’eau à des soldats salvadoriens et à des policiers",
+    },
+    brief: {
+      ht: "Yon videyo 27 segonn La Esquina News pibliye samdi 31 oktòb sou X montre, dapre mesaj la, sitwayen ayisyen k ap bay sòlda salvadoryen ak polisye ayisyen boutèy dlo. Ki kote ak ki lè sa te fèt poko verifye.",
+      fr: "Une vidéo de 27 secondes publiée samedi 31 octobre sur X par La Esquina News montrerait, selon sa légende, des citoyens haïtiens offrant des bouteilles d’eau à des soldats salvadoriens et à des policiers haïtiens. Le lieu et la date du tournage ne sont pas vérifiés.",
+    },
+    body: {
+      ht: "Samdi 31 oktòb 2026, a 8 è 28 maten (lè Ayiti), kont X La Esquina News (@Laesquinanews), yon medya ki pale panyòl, pibliye yon videyo 27 segonn ak lejann sa a : « Sitwayen ayisyen ofri sòlda salvadoryen ak polisye ayisyen k ap konbat gang ame yo boutèy dlo. » Videyo a gentan gen plis pase 63 000 vi.\n\nOpak News poko ka verifye ki kote ni ki lè videyo a te filme, ni nan ki operasyon. Sit El Contenido Viral, ki pale de menm sèn nan, di tou pa gen okenn enfòmasyon endepandan ki konfime detay sa yo. Se pou n pran prekosyon : nan dènye jou yo, AFP Factual ak Honduras Verifica demanti plizyè videyo ki t ap sikile kòm imaj sòlda salvadoryen ann Ayiti, men ki te soti an Ekwatè ak an Angola.\n\nSòlda salvadoryen yo ann Ayiti depi 22 oktòb pou chèche kat militè ki disparèt 18 oktòb, dapre AFP ak France 24.\n\nKesyon pou lektè yo : • Yon boutèy dlo se rekonesans oswa se espwa ? • Èske menm moun sa yo ap la toujou si operasyon an fè viktim sivil ? • Poukisa yon videyo konsa sikile pi vit sou kont etranje pase nan medya ayisyen ?",
+      fr: "Samedi 31 octobre 2026, à 8 h 28 (heure d’Haïti), le compte X de La Esquina News (@Laesquinanews), un média hispanophone, a publié une vidéo de 27 secondes avec cette légende : « Des citoyens haïtiens offrent des bouteilles d’eau à des soldats salvadoriens et à des policiers haïtiens qui combattent les gangs armés. » La vidéo dépasse déjà les 63 000 vues.\n\nOpak News n’a pas pu vérifier le lieu, la date du tournage ni l’opération concernée. Le site El Contenido Viral, qui relaie la même scène, note lui aussi qu’aucune information indépendante ne confirme ces détails. Prudence : ces derniers jours, AFP Factual et Honduras Verifica ont démenti plusieurs vidéos présentées comme montrant des soldats salvadoriens en Haïti, mais tournées en Équateur et en Angola.\n\nLes soldats salvadoriens sont en Haïti depuis le 22 octobre pour rechercher quatre militaires portés disparus le 18 octobre, selon l’AFP et France 24.\n\nQuestions aux lecteurs : • Une bouteille d’eau, c’est de la gratitude ou de l’espoir ? • Ces mêmes gens applaudiront-ils encore si l’opération fait des victimes civiles ? • Pourquoi une telle vidéo circule-t-elle plus vite sur des comptes étrangers que dans les médias haïtiens ?",
+    },
+    sources: ["La Esquina News (X)", "El Contenido Viral", "AFP Factual"],
+    sourceLinks: [
+      { name: "La Esquina News (X)", url: "https://x.com/Laesquinanews/status/2116507473221759169" },
+      { name: "El Contenido Viral", url: "https://elcontenidoviral.com/2026/10/31/un-gesto-del-pueblo-haitiano-hacia-unos-militares-llama-la-atencion-que-estaba-pasando-cuando-les-ofrecieron-agua/" },
+      { name: "AFP Factual", url: "https://factual.afp.com/doc.afp.com.D4LH2KE" },
+    ],
+    video: {
+      src: "/video/qh-eau-soldats-salvadoriens-2026-10-31.mp4",
+      poster: "/video/qh-eau-soldats-salvadoriens-2026-10-31.jpg",
+      credit: "Vidéo : La Esquina News",
+      url: "https://x.com/Laesquinanews/status/2116507473221759169",
+    },
+  },
+  {
     id: "sos-pnh-promotion-dessalines-2026-10-31",
     tier: "quick-hit",
     topic: "society",
