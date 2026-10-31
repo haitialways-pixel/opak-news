@@ -301,9 +301,9 @@ a:hover {
 
 .back-link {
   font-size: 0.9rem;
-  font-weight: 600;
+  font-weight: 700;
   text-decoration: none;
-  color: var(--brand);
+  color: #00209f;
 }
 
 .detail-headline {
