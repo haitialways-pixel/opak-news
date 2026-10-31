@@ -28,7 +28,7 @@ export function youtubeUploadsPlaylistId(
 
 /** Pinned featured video id (empty string = fall back to uploads playlist). */
 export const OBELIKA_FEATURED_VIDEO_ID: string =
-  (env.VITE_OBELIKA_FEATURED_VIDEO_ID as string | undefined) ?? "s6VXqWWAs4U";
+  (env.VITE_OBELIKA_FEATURED_VIDEO_ID as string | undefined) ?? "pizXYbI97jc";
 
 /** Watch URL for the pinned video, or the channel URL if none. */
 export const OBELIKA_FEATURED_WATCH_URL: string = OBELIKA_FEATURED_VIDEO_ID
