@@ -23,6 +23,8 @@ export interface Story {
   tier: "need-to-know" | "quick-hit";
   topic: TopicId;
   headline: LocalizedText;
+  /** Optional byline shown under the headline on the story page. */
+  author?: LocalizedText;
   /** Short blurb / teaser on the feed. */
   brief: LocalizedText;
   /** Optional full article body (story page only). */

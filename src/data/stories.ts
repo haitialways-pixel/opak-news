@@ -25,6 +25,7 @@ export const STORIES: Story[] = [
       ht: "Detansyon preventif : lè libète w se anba tab li negosye",
       fr: "Détention préventive : quand la liberté se négocie sous la table",
     },
+    author: { fr: "Par Blaise Antoine Joseph (BAJ)", ht: "Pa Blaise Antoine Joseph (BAJ)" },
     brief: {
       ht: "82 % moun ki nan prizon an Ayiti poko janm jije, dapre BINUH. Pwoblèm nan se pa mank plas : se yon sistèm kote, dapre òganizasyon dwa moun, sa ki peye soti, sa ki pa peye ap tann. Konbyen libète vo devan yon jij ayisyen ?",
       fr: "82 % des détenus en Haïti n'ont jamais été jugés, selon le BINUH. Le problème n'est pas le manque de place : c'est un système où, dénoncent des organisations de droits humains, ceux qui paient sortent et ceux qui ne paient pas attendent. Combien vaut la liberté devant un juge haïtien ?",

@@ -62,6 +62,7 @@ export function StoryPage() {
         <h1 className="detail-headline">
           <KeepNumbers text={t(story.headline)} />
         </h1>
+        {story.author && <p className="detail-byline">{t(story.author)}</p>}
         <p className="detail-brief">
           <KeepNumbers text={t(story.brief)} />
         </p>
