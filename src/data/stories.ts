@@ -16,6 +16,31 @@ import type { Story } from "../types";
  */
 export const STORIES: Story[] = [
   {
+    id: "sos-pnh-promotion-dessalines-2026-10-31",
+    tier: "quick-hit",
+    topic: "society",
+    quiet: true,
+    publishedAt: "2026-10-31",
+    publishedTime: "2026-10-31T10:15:00-04:00",
+    headline: {
+      ht: "1 189 nouvo polisye antre nan PNH",
+      fr: "Haïti : 1 189 nouveaux policiers rejoignent la PNH",
+    },
+    brief: {
+      ht: "Vandredi 30 oktòb, 37yèm pwomosyon PNH a, « Dessalines », gradye Lekòl nasyonal polis la : 1 189 nouvo ajan, 947 gason ak 242 fanm, dapre Juno7 ak HaitiLibre. Se twazyèm gwoup pwogram P4000+ la.",
+      fr: "Vendredi 30 octobre, la 37e promotion de la PNH, « Dessalines », a été graduée à l’École nationale de police : 1 189 nouveaux agents, 947 hommes et 242 femmes, selon Juno7 et HaitiLibre. C’est la troisième cohorte du programme P4000+.",
+    },
+    body: {
+      ht: "Dapre Juno7 ak HaitiLibre, Polis Nasyonal d Ayiti (PNH) resevwa 1 189 nouvo ajan ki soti nan 37yèm pwomosyon li, yo batize « Dessalines » : 947 gason ak 242 fanm (20,3 %, dapre HaitiLibre). Se twazyèm gwoup pwogram P4000+ la. Seremoni gradyasyon an fèt vandredi 30 oktòb 2026 nan Lekòl nasyonal polis la, sou wout Frè, devan Premye minis Alix Didier Fils-Aimé, manm gouvènman an, reprezantan kò diplomatik la ak responsab fòs sekirite yo.\n\nPremye minis la, ki se prezidan Konsèy siperyè Polis nasyonal la (CSPN) tou, mande nouvo polisye yo sèvi ak onè, disiplin, kouraj ak entegrite. Li di gouvènman l vle retabli otorite Leta sou tout teritwa a, sitou nan ranfòse kapasite fòs sekirite yo, kontwòl fwontyè yo ak batay kont koripsyon ak trafik ilegal zam. « Yon Leta ki pa kontwole fwontyè l, se yon Leta ki an feblès », li deklare. Dapre de sous yo, li rann omaj ak polisye, militè ak ofisye ki tonbe nan misyon, epi li pale de kat militè salvadoryen ki disparèt Santo, nan komin Kwadebouke.\n\nDapre HaitiLibre, Anbasad Etazini di pwogram P-4000 la, ki finanse pa Etazini, deja fòme plis pase 3 200 nouvo polisye, e li vize plis pase 4 000 anvan prentan 2027.\n\nKesyon pou lektè yo : • 1 189 polisye anplis, men konbyen ki kite PNH a menm ane a ? • Ki kote yo pral voye yo, e ki moun ki pral di nou sa ? • Si yon Leta ki pa kontwole fwontyè l fèb, konbyen nan nouvo ajan sa yo k ap rive sou fwontyè a ?",
+      fr: "Selon Juno7 et HaitiLibre, la Police nationale d’Haïti (PNH) accueille 1 189 nouveaux agents issus de sa 37e promotion, baptisée « Dessalines » : 947 hommes et 242 femmes (20,3 %, selon HaitiLibre). Il s’agit de la troisième cohorte du programme P4000+. La cérémonie de graduation s’est tenue le vendredi 30 octobre 2026 à l’École nationale de police, sur la route de Frères, en présence du Premier ministre Alix Didier Fils-Aimé, de membres du gouvernement, de représentants du corps diplomatique et de responsables des forces de sécurité.\n\nLe Premier ministre, également président du Conseil supérieur de la Police nationale (CSPN), a exhorté les nouveaux policiers à servir avec honneur, discipline, courage et intégrité. Il a réaffirmé la volonté de son administration de rétablir l’autorité de l’État sur tout le territoire, notamment par le renforcement des capacités des forces de sécurité, le contrôle des frontières et la lutte contre la corruption et le trafic illégal d’armes. « Yon Leta ki pa kontwole fwontyè l, se yon Leta ki an feblès », a-t-il déclaré. Selon les deux médias, il a rendu hommage aux policiers, militaires et officiers tombés en mission, et a évoqué les quatre militaires salvadoriens portés disparus à Santo, dans la commune de Croix-des-Bouquets.\n\nSelon HaitiLibre, l’ambassade des États-Unis indique que le programme P-4000, financé par Washington, a désormais formé plus de 3 200 nouveaux policiers et vise plus de 4 000 d’ici le printemps 2027.\n\nQuestions aux lecteurs : • 1 189 policiers de plus, mais combien ont quitté la PNH cette année ? • Où seront-ils déployés, et qui nous le dira ? • Si un État qui ne contrôle pas ses frontières est faible, combien de ces nouveaux agents iront à la frontière ?",
+    },
+    sources: ["Juno7", "HaitiLibre"],
+    sourceLinks: [
+      { name: "Juno7", url: "https://www.juno7.ht/haiti-pnh-1189-nouveaux-policiers-promotion-dessalines/" },
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/en/news-48786-haiti-37th-promotion-graduation-of-1-189-new-police-officers.html" },
+    ],
+  },
+  {
     id: "qh-u15-haiti-irak-baku-2026-10-31",
     tier: "quick-hit",
     topic: "sports",
