@@ -49,6 +49,8 @@ export interface Story {
   breakingHours?: 6 | 12 | 24;
   /** URGENT / IJAN badge; no expiry unless urgentHours is set (counted from publishedTime). */
   isUrgent?: boolean;
+  /** Pinned stories always sort first (editor's top story). */
+  pinned?: boolean;
   urgentHours?: number;
   /** Optional source links shown on the story page. */
   sourceLinks?: { name: string; url: string }[];

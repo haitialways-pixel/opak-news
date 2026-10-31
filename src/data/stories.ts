@@ -16,8 +16,59 @@ import type { Story } from "../types";
  */
 export const STORIES: Story[] = [
   {
+    id: "ntk-bercy-galaxie-operation-2026-10-31",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-10-31",
+    publishedTime: "2026-10-31T07:30:00-04:00",
+    isBreaking: true,
+    breakingHours: 12,
+    headline: {
+      ht: "Bèsi : polis di li touye chèf gang « Galaxie » nan yon operasyon ant Akayè ak Kabarè",
+      fr: "Bercy : la police dit avoir abattu le chef de gang « Galaxie » lors d’une opération entre Arcahaie et Cabaret",
+    },
+    brief: {
+      ht: "Jedi 29 oktòb, PNH ak Task Force la fè yon operasyon nan Bèsi. Plizyè moun yo prezante kòm bandi mouri, pami yo chèf gang Kabarè yo rele « Galaxie ». Pa gen bilan ofisyèl. Èske Akayè ap kenbe ?",
+      fr: "Jeudi 29 octobre, la PNH et la Task Force ont mené une opération à Bercy. Plusieurs personnes présentées comme des bandits ont été tuées, dont le chef de gang de Cabaret connu sous le nom de « Galaxie ». Aucun bilan officiel. L’Arcahaie tiendra-t-elle ?",
+    },
+    body: {
+      ht: "Dapre Le Nouvelliste, Polis Nasyonal d Ayiti (PNH), avèk sipò Task Force la, touye plizyè bandi jedi 29 oktòb 2026 pandan yon operasyon nan Bèsi, ant Akayè ak Kabarè. Pami yo ta gen chèf gang Kabarè yo rele « Galaxie ». Lòt manm gang nan kouri, sa ki lakòz tansyon nan plizyè zòn toupre, dapre yon sous lokal.\n\nPa gen bilan ofisyèl. Le Quotidien 509 site Pierre Sauvenel Sylvain, yon notab nan Akayè, ki pale sou Radio Kiskeya de « plis pase yon ventèn » moun yo prezante kòm bandi ki mouri, men li presize li pa gen chif egzak. Dapre li, brigadye ki te akonpaye fòs lòd yo detwi plizyè abri gang yo te bati bò wout la. Li mande gwo kòmandman PNH a bay polis sou teren an plis mwayen, tankou gwo machin pou demoli lòt abri ki rete yo.\n\nSa gen plis pase yon ane gwoup ame ap eseye avanse sou Akayè, Vil Drapo a. Bèsi se zòn ki ant Kabarè, kote gang yo gen enfliyans, ak Akayè, ki reziste ak polis la ak gwoup otodefans.\n\nKesyon pou lektè yo : • Si gang lan pèdi chèf li, ki moun ki pran plas li demen maten ? • Konbyen moun ki mouri, e ki moun ki pral konte yo ofisyèlman ? • Poukisa se yon notab, pa Leta, k ap mande bulldozer pou Akayè ?",
+      fr: "Selon Le Nouvelliste, la Police nationale d’Haïti (PNH), appuyée par la Task Force, a éliminé plusieurs bandits le jeudi 29 octobre 2026 lors d’une opération à Bercy, entre Arcahaie et Cabaret, dont le chef de gang de Cabaret connu sous le nom de « Galaxie ». D’autres membres du gang ont pris la fuite, provoquant des tensions dans plusieurs localités avoisinantes, selon une source locale.\n\nAucun bilan officiel n’a été publié. Le Quotidien 509 cite Pierre Sauvenel Sylvain, notable de l’Arcahaie, qui a évoqué sur Radio Kiskeya « plus d’une vingtaine » de morts parmi les individus présentés comme des bandits, tout en précisant ne pas disposer d’un bilan exact. Selon lui, des brigadiers accompagnant les forces de l’ordre ont détruit plusieurs abris construits par les groupes armés le long de la route. Il demande au haut commandement de la PNH davantage de moyens pour les policiers sur le terrain, dont des équipements lourds pour démolir les abris restants.\n\nDepuis plus d’un an, des groupes armés tentent de progresser vers l’Arcahaie, la Cité du Drapeau. Bercy se situe entre Cabaret, où les gangs exercent leur influence, et l’Arcahaie, qui résiste grâce à la police et aux groupes d’autodéfense.\n\nQuestions aux lecteurs : • Si le gang perd son chef, qui prend sa place demain matin ? • Combien de morts, et qui les comptera officiellement ? • Pourquoi est-ce un notable, et non l’État, qui réclame des bulldozers pour l’Arcahaie ?",
+    },
+    sources: ["Le Nouvelliste", "Le Quotidien 509", "Radio Kiskeya"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273482/plusieurs-bandits-tues-dans-une-operation-des-forces-de-lordre-a-bercy" },
+      { name: "Le Quotidien 509", url: "https://lequotidien509.com/haiti-securite-une-vingtaine-de-bandits-dont-le-chef-de-gang-galaxie-abattus-a-bercy/" },
+    ],
+  },
+  {
+    id: "ntk-nrc-humanitaires-tues-2026-10-31",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-10-31",
+    publishedTime: "2026-10-31T07:30:00-04:00",
+    headline: {
+      ht: "De travayè imanitè NRC touye Pòtoprens : ONU mande jistis",
+      fr: "Deux humanitaires du NRC tués à Port-au-Prince : l’ONU réclame justice",
+    },
+    brief: {
+      ht: "Bonaparte Février ak Richard Alexandre, de anplwaye ayisyen Konsèy Nòvejyen pou Refijye (NRC), te touye aswè 27 oktòb. Tom Fletcher (ONU) mande pou otè yo jije. Ki moun ki pwoteje moun k ap pwoteje lòt yo ?",
+      fr: "Bonaparte Février et Richard Alexandre, deux employés haïtiens du Conseil norvégien pour les réfugiés (NRC), ont été tués le soir du 27 octobre. Tom Fletcher (ONU) exige que les auteurs soient jugés. Qui protège ceux qui protègent ?",
+    },
+    body: {
+      ht: "Konsèy Nòvejyen pou Refijye (NRC) anonse lanmò de anplwaye ayisyen li yo, Bonaparte Février ak Richard Alexandre, ki te « touye brital » aswè 27 oktòb Pòtoprens. Nan yon deklarasyon 29 oktòb, sekretè jeneral NRC a, Jan Egeland, di yo te « manm kle » ekip imanitè a an Ayiti, de jèn gason ki te vle ede ak pwoteje kominote vilnerab yo.\n\nEgeland mande otorite ayisyen yo ak kominote entènasyonal la pwoteje sivil yo, respekte dwa entènasyonal e anpeche plis vyolans. « Ni sosyete ayisyen an ni rès mond lan pa ka tolere pou sivil, tankou travayè imanitè, mouri nan enpinite », li di. NRC di l ap kontinye misyon li an Ayiti.\n\nChèf sekou ijans ONU a, Tom Fletcher, di sou X li « choke » e li mande pou otè yo « jije devan jistis ». NRC pa bay katye a, sikonstans yo, ni idantite otè yo.\n\nKesyon pou lektè yo : • Si menm moun k ap pote sekou pa ka rantre lakay yo vivan, ki moun ki an sekirite ? • Konbyen deklarasyon « nou mande jistis » ki deja fini nan yon dosye ki janm louvri ? • Ki lè nou pral konnen kiyès ki touye yo ?",
+      fr: "Le Conseil norvégien pour les réfugiés (NRC) a annoncé la mort de deux de ses employés haïtiens, Bonaparte Février et Richard Alexandre, « brutalement tués » le soir du 27 octobre à Port-au-Prince. Dans une déclaration du 29 octobre, le secrétaire général du NRC, Jan Egeland, les décrit comme des « membres clés » de l’équipe humanitaire en Haïti, deux jeunes hommes qui voulaient seulement aider et protéger des communautés vulnérables.\n\nEgeland appelle les autorités haïtiennes et la communauté internationale à protéger les civils, respecter le droit international et prévenir de nouvelles violences. « Ni la société haïtienne ni le monde extérieur ne peuvent tolérer que des civils, y compris des humanitaires, soient tués en toute impunité », dit-il. Le NRC affirme qu’il poursuivra sa mission en Haïti.\n\nLe chef des secours d’urgence de l’ONU, Tom Fletcher, s’est dit « horrifié » sur X et a exigé que les auteurs « soient traduits en justice ». Le NRC ne précise ni le quartier, ni les circonstances, ni l’identité des auteurs.\n\nQuestions aux lecteurs : • Si même ceux qui apportent l’aide ne rentrent pas vivants chez eux, qui est en sécurité ? • Combien de « nous exigeons justice » ont déjà fini dans un dossier jamais ouvert ? • Quand saura-t-on qui les a tués ?",
+    },
+    sources: ["NRC", "Haitian Globe / Rezonodwes", "EFE"],
+    sourceLinks: [
+      { name: "NRC", url: "https://www.nrc.no/news/2026/statement-on-killing-of-nrc-aid-workers-in-haiti" },
+      { name: "Haitian Globe", url: "https://www.haitianglobe.com/article/ha-ti-deux-humanitaires-du-nrc-tu-s-port-au-prince-l-onu-r-clame-justice" },
+    ],
+  },
+  {
     id: "ntk-detention-preventive-commissariats-2026-10-30",
     isUrgent: true,
+    pinned: true,
     tier: "need-to-know",
     topic: "justice",
     publishedAt: "2026-10-30",
@@ -320,20 +371,20 @@ export const STORIES: Story[] = [
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-10-29",
-    publishedTime: "2026-10-30T09:30:00-04:00",
+    publishedTime: "2026-10-31T07:35:00-04:00",
     isBreaking: true,
     breakingHours: 12,
     headline: {
-      ht: "Sòlda Salvadò an Ayiti : akò signe, Washington di wi",
-      fr: "Troupes salvadoriennes en Haïti : accord bilatéral signé, Washington donne son feu vert",
+      ht: "Sòlda salvadoryen yo kòmanse patwouy Pòtoprens : soulajman oswa souverènte ?",
+      fr: "Les soldats salvadoriens patrouillent Port-au-Prince : soulagement ou souveraineté ?",
     },
     brief: {
-      ht: "Mizajou 30 oktòb : Yon akò bilateral Ayiti apwouve mèkredi 28 oktòb otorize fòs salvadoryen an opere nan peyi a. Dapre Axios, Donald Trump di Bukele « Fè sa ou gen pou fè » pandan yon apèl madi. Dapre AFP, omwen 2000 sòlda salvadoryen deja rive an Ayiti. Nan yon mesaj an kreyòl ak yon videyo sou X, 29 oktòb, Bukele pale dirèkteman ak pèp ayisyen an. Bukele voye yo chèche kat teknisyen salvadoryen ki disparèt depi anbiskad 18 oktòb la epi goumen ak gang yo. Li di kò Ayiti remèt yo pa koresponn ak moun ki disparèt yo.",
-      fr: "Mise à jour du 30 octobre : Un accord bilatéral approuvé par Haïti le mercredi 28 octobre autorise la force salvadorienne à opérer dans le pays. Selon Axios, Donald Trump a dit à Bukele « Fais ce que tu as à faire » lors d’un appel mardi. Selon l’AFP, au moins 2000 militaires salvadoriens sont déjà arrivés en Haïti. Dans un message en créole accompagné d’une vidéo publié sur X le 29 octobre, Bukele s’adresse directement au peuple haïtien. Bukele envoie ses soldats retrouver quatre techniciens salvadoriens disparus depuis l'embuscade du 18 octobre et combattre les gangs. Il affirme que les corps remis par Haïti ne correspondent pas aux disparus.",
+      ht: "Mizajou 31 oktòb : Premye patwouy sòlda salvadoryen yo vandredi 30 oktòb nan Tabar ak Klèsin, toupre ayewopò a, ak machin blende ak elikoptè. Kèk moun bat bravo. Men misyon, kòmandman ak dire yo toujou pa klè. Mizajou 30 oktòb : Yon akò bilateral Ayiti apwouve mèkredi 28 oktòb otorize fòs salvadoryen an opere nan peyi a. Dapre Axios, Donald Trump di Bukele « Fè sa ou gen pou fè » pandan yon apèl madi. Dapre AFP, omwen 2000 sòlda salvadoryen deja rive an Ayiti. Nan yon mesaj an kreyòl ak yon videyo sou X, 29 oktòb, Bukele pale dirèkteman ak pèp ayisyen an. Bukele voye yo chèche kat teknisyen salvadoryen ki disparèt depi anbiskad 18 oktòb la epi goumen ak gang yo. Li di kò Ayiti remèt yo pa koresponn ak moun ki disparèt yo.",
+      fr: "Mise à jour du 31 octobre : Premières patrouilles salvadoriennes vendredi 30 octobre à Tabarre et Clercine, près de l’aéroport, avec blindés et hélicoptère. Des passants ont applaudi. Mais mission, commandement et durée restent flous. Mise à jour du 30 octobre : Un accord bilatéral approuvé par Haïti le mercredi 28 octobre autorise la force salvadorienne à opérer dans le pays. Selon Axios, Donald Trump a dit à Bukele « Fais ce que tu as à faire » lors d’un appel mardi. Selon l’AFP, au moins 2000 militaires salvadoriens sont déjà arrivés en Haïti. Dans un message en créole accompagné d’une vidéo publié sur X le 29 octobre, Bukele s’adresse directement au peuple haïtien. Bukele envoie ses soldats retrouver quatre techniciens salvadoriens disparus depuis l'embuscade du 18 octobre et combattre les gangs. Il affirme que les corps remis par Haïti ne correspondent pas aux disparus.",
     },
     body: {
-      ht: "Mizajou 30 oktòb : Yon akò bilateral Ayiti apwouve mèkredi 28 oktòb otorize fòs salvadoryen an opere nan peyi a. Dapre Axios, Bukele rele Donald Trump madi pou asire l Washington pa gen pwoblèm ak operasyon an, e Trump reponn li : « Fè sa ou gen pou fè » (\"Do what you have to do\").\n\nDapre AFP, omwen 2000 sòlda salvadoryen rive an Ayiti nan yon semèn. AFP konte anviwon 20 vòl charter ant San Salvador ak Pòtoprens ant 22 ak 29 oktòb, e imaj satelit montre dis estrikti (petèt tant) yo enstale sou baz militè entènasyonal ayewopò Toussaint-Louverture a.\n\nNan mesaj kreyòl li a, Bukele di se Salvadò k ap peye 90% depans operasyon an. Diego Da Rin, analis Crisis Group, di AFP kounye a gen « senk fòs separe san yon vrè kòmandman inifye ». Depi 18 oktòb, MSF trete 30 moun blese nan tire oswa dron nan lopital li yo nan Tabarre ak Site Solèy.\n\nMizajou 29 oktòb, 5:14 PM : Nayib Bukele pibliye sou X yon mesaj an kreyòl ak yon videyo pou pèp ayisyen an (tèks la anwo a, jan li ekri l).\n\nPrezidan salvadoryen an, Nayib Bukele, anonse li voye plis pase 2000 sòlda an Ayiti. Misyon yo: jwenn kat teknisyen salvadoryen nan Gang Suppression Force la ki disparèt depi anbiskad 18 oktòb la nan Kwadebouke, epi goumen ak gang yo.\n\nBukele di kò otorite ayisyen yo te remèt yo pa koresponn ak moun ki disparèt yo.\n\nLi poko klè si sòlda sa yo ap travay anba Gang Suppression Force la oswa poukont yo. Anons sa a ranplase chif anviwon 1000 sòlda ki te pale anvan an.",
-      fr: "Mise à jour du 30 octobre : Un accord bilatéral approuvé par Haïti le mercredi 28 octobre autorise la force salvadorienne à opérer dans le pays. Selon Axios, Bukele a appelé Donald Trump mardi pour s’assurer que Washington ne s’y opposait pas, et Trump lui a répondu : « Fais ce que tu as à faire » (\"Do what you have to do\").\n\nSelon l’AFP, au moins 2000 militaires salvadoriens sont arrivés en Haïti en une semaine. L’AFP a recensé une vingtaine de vols charter entre San Salvador et Port-au-Prince du 22 au 29 octobre, et des images satellites montrent dix structures, qui pourraient être des tentes, installées sur la base militaire internationale de l’aéroport Toussaint-Louverture.\n\nDans son message en créole, Bukele affirme que le Salvador paie 90% du coût de l’opération. Diego Da Rin, analyste du Crisis Group, s’inquiète auprès de l’AFP de « cinq forces séparées sans réel commandement unifié ». Depuis le 18 octobre, MSF a soigné 30 personnes blessées par balles ou drones dans ses hôpitaux de Tabarre et Cité Soleil.\n\nMise à jour du 29 octobre, 17 h 14 : Nayib Bukele a publié sur X un message en créole, accompagné d’une vidéo, adressé au peuple haïtien (texte ci-dessus, tel qu’il l’a écrit).\n\nLe président salvadorien Nayib Bukele annonce l'envoi de plus de 2000 soldats en Haïti. Leur mission: retrouver quatre techniciens salvadoriens de la Gang Suppression Force disparus depuis l'embuscade du 18 octobre à Croix-des-Bouquets, et combattre les gangs.\n\nBukele affirme que les corps remis par les autorités haïtiennes ne correspondent pas aux disparus.\n\nIl n'est pas encore clair si ces troupes serviront sous la Gang Suppression Force ou de manière indépendante. Cette annonce remplace le chiffre d'environ 1000 soldats évoqué jusqu'ici.",
+      ht: "Mizajou 31 oktòb : Dapre ajans EFE, rapòte pa The Rio Times, plizyè dizèn sòlda salvadoryen an inifòm konba ak fizi atak fè premye patwouy yo nan lari Pòtoprens vandredi 30 oktòb, nan Tabar ak Klèsin, toupre ayewopò entènasyonal Toussaint Louverture, nan kamyon ak machin blende, ak elikoptè ki t ap kouvri yo. Kèk moun sou wout la bat bravo. Gouvènman Bukele a di li gen plis pase 2000 sòlda an Ayiti; objektif ofisyèl la se jwenn kat teknisyen salvadoryen ki disparèt depi 18 oktòb vivan.\n\nSou RFI, moun Pòtoprens divize. Sephora, etidyan nan Inivèsite Leta, di si Bukele ka ede, « nou akeyi l ak kè kontan ». Castène pi pridan : li pa vle sa sèvi pretèks pou « anvayi peyi a » e mete souverènte Ayiti an kesyon. Ki misyon egzak yo, ki moun ki kòmande yo, e konbyen tan y ap rete : kesyon sa yo poko gen repons. Dapre Axios, kontenjan an sanble ap opere paralèl ak Fòs Siprèsyon Gang (GSF) la, anba yon akò bilateral.\n\nKesyon pou lektè yo : • Si yon sòlda etranje patwouye Tabar, ki moun li reponn : Pòtoprens, San Salvadò oswa Washington ? • Bravo jodi a, men kisa k ap rive si yon bal pèdi touye yon sivil ? • Poukisa se toujou lòt peyi ki vin fè travay Leta ayisyen an ?\n\nAnvan : Mizajou 30 oktòb : Yon akò bilateral Ayiti apwouve mèkredi 28 oktòb otorize fòs salvadoryen an opere nan peyi a. Dapre Axios, Bukele rele Donald Trump madi pou asire l Washington pa gen pwoblèm ak operasyon an, e Trump reponn li : « Fè sa ou gen pou fè » (\"Do what you have to do\").\n\nDapre AFP, omwen 2000 sòlda salvadoryen rive an Ayiti nan yon semèn. AFP konte anviwon 20 vòl charter ant San Salvador ak Pòtoprens ant 22 ak 29 oktòb, e imaj satelit montre dis estrikti (petèt tant) yo enstale sou baz militè entènasyonal ayewopò Toussaint-Louverture a.\n\nNan mesaj kreyòl li a, Bukele di se Salvadò k ap peye 90% depans operasyon an. Diego Da Rin, analis Crisis Group, di AFP kounye a gen « senk fòs separe san yon vrè kòmandman inifye ». Depi 18 oktòb, MSF trete 30 moun blese nan tire oswa dron nan lopital li yo nan Tabarre ak Site Solèy.\n\nMizajou 29 oktòb, 5:14 PM : Nayib Bukele pibliye sou X yon mesaj an kreyòl ak yon videyo pou pèp ayisyen an (tèks la anwo a, jan li ekri l).\n\nPrezidan salvadoryen an, Nayib Bukele, anonse li voye plis pase 2000 sòlda an Ayiti. Misyon yo: jwenn kat teknisyen salvadoryen nan Gang Suppression Force la ki disparèt depi anbiskad 18 oktòb la nan Kwadebouke, epi goumen ak gang yo.\n\nBukele di kò otorite ayisyen yo te remèt yo pa koresponn ak moun ki disparèt yo.\n\nLi poko klè si sòlda sa yo ap travay anba Gang Suppression Force la oswa poukont yo. Anons sa a ranplase chif anviwon 1000 sòlda ki te pale anvan an.",
+      fr: "Mise à jour du 31 octobre : Selon l’agence EFE, reprise par The Rio Times, des dizaines de soldats salvadoriens en tenue de combat et armés de fusils d’assaut ont mené vendredi 30 octobre leurs premières patrouilles dans les rues de Port-au-Prince, à Tabarre et à Clercine, près de l’aéroport international Toussaint-Louverture, à bord de camions et de blindés, sous couverture d’hélicoptère. Des passants ont applaudi. Le gouvernement Bukele dit compter plus de 2000 soldats en Haïti ; l’objectif officiel est de retrouver vivants quatre techniciens salvadoriens disparus depuis le 18 octobre.\n\nSur RFI, les habitants de Port-au-Prince sont partagés. Sephora, étudiante à l’Université d’État, dit que si Bukele peut aider, « nous l’accueillons à cœur joie ». Castène se montre plus prudent : il ne veut pas que cela serve de prétexte pour « envahir le pays » et remettre en question la souveraineté d’Haïti. Quelle est exactement leur mission, qui les commande, combien de temps resteront-ils : ces questions restent sans réponse. Selon Axios, le contingent semble opérer en parallèle de la Force de répression des gangs (FRG/GSF), en vertu d’un accord bilatéral.\n\nQuestions aux lecteurs : • Si un soldat étranger patrouille Tabarre, à qui rend-il des comptes : Port-au-Prince, San Salvador ou Washington ? • On applaudit aujourd’hui, mais que se passera-t-il à la première balle perdue qui tue un civil ? • Pourquoi faut-il toujours un autre pays pour faire le travail de l’État haïtien ?\n\nAuparavant : Mise à jour du 30 octobre : Un accord bilatéral approuvé par Haïti le mercredi 28 octobre autorise la force salvadorienne à opérer dans le pays. Selon Axios, Bukele a appelé Donald Trump mardi pour s’assurer que Washington ne s’y opposait pas, et Trump lui a répondu : « Fais ce que tu as à faire » (\"Do what you have to do\").\n\nSelon l’AFP, au moins 2000 militaires salvadoriens sont arrivés en Haïti en une semaine. L’AFP a recensé une vingtaine de vols charter entre San Salvador et Port-au-Prince du 22 au 29 octobre, et des images satellites montrent dix structures, qui pourraient être des tentes, installées sur la base militaire internationale de l’aéroport Toussaint-Louverture.\n\nDans son message en créole, Bukele affirme que le Salvador paie 90% du coût de l’opération. Diego Da Rin, analyste du Crisis Group, s’inquiète auprès de l’AFP de « cinq forces séparées sans réel commandement unifié ». Depuis le 18 octobre, MSF a soigné 30 personnes blessées par balles ou drones dans ses hôpitaux de Tabarre et Cité Soleil.\n\nMise à jour du 29 octobre, 17 h 14 : Nayib Bukele a publié sur X un message en créole, accompagné d’une vidéo, adressé au peuple haïtien (texte ci-dessus, tel qu’il l’a écrit).\n\nLe président salvadorien Nayib Bukele annonce l'envoi de plus de 2000 soldats en Haïti. Leur mission: retrouver quatre techniciens salvadoriens de la Gang Suppression Force disparus depuis l'embuscade du 18 octobre à Croix-des-Bouquets, et combattre les gangs.\n\nBukele affirme que les corps remis par les autorités haïtiennes ne correspondent pas aux disparus.\n\nIl n'est pas encore clair si ces troupes serviront sous la Gang Suppression Force ou de manière indépendante. Cette annonce remplace le chiffre d'environ 1000 soldats évoqué jusqu'ici.",
     },
     quote: {
       lang: "ht",
@@ -356,8 +407,12 @@ export const STORIES: Story[] = [
       "Nayib Bukele / X",
       "Axios",
       "AFP",
+      "RFI",
+      "EFE / The Rio Times",
     ],
     sourceLinks: [
+      { name: "RFI", url: "https://www.rfi.fr/fr/am%C3%A9riques/20261031-ha%C3%AFti-le-d%C3%A9ploiement-de-nouveaux-soldats-salvadoriens-soul%C3%A8ve-des-questions" },
+      { name: "The Rio Times (EFE)", url: "https://www.riotimesonline.com/haiti-salvadoran-soldiers-patrol-port-au-prince/" },
       { name: "Axios", url: "https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge" },
       { name: "AFP (via Yahoo Actualités)", url: "https://fr.news.yahoo.com/d%C3%A9ploiement-milliers-soldats-salvadoriens-ha%C3%AFti-222631345.html" },
     ],
@@ -839,7 +894,7 @@ function publishMs(story: Story): number {
 export function sortNewestFirst(list: Story[]): Story[] {
   return list
     .map((s, i) => ({ s, i, t: publishMs(s) }))
-    .sort((a, b) => (a.t === b.t ? a.i - b.i : b.t - a.t))
+    .sort((a, b) => (+!!b.s.pinned - +!!a.s.pinned) || (a.t === b.t ? a.i - b.i : b.t - a.t))
     .map((x) => x.s);
 }
 
