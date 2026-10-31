@@ -16,6 +16,31 @@ import type { Story } from "../types";
  */
 export const STORIES: Story[] = [
   {
+    id: "ntk-detention-preventive-commissariats-2026-10-30",
+    tier: "need-to-know",
+    topic: "justice",
+    publishedAt: "2026-10-30",
+    publishedTime: "2026-10-30T21:15:00-04:00",
+    headline: {
+      ht: "Detansyon preventif : moun ki sipoze inosan ap pouri nan selil ki plen depase",
+      fr: "Détention préventive : des présumés innocents oubliés dans des cellules surpeuplées",
+    },
+    brief: {
+      ht: "82 % moun ki nan prizon an Ayiti poko jije, dapre BINUH, nan prizon ki plen 313 % ak 0,31 m² pou chak moun. Soti komisarya Petyonvil rive Dèlma 33, moun ap pase mwa, menm ane, san yo pa wè jij. Konbyen ane yon moun ki sipoze inosan dwe tann ?",
+      fr: "82 % des détenus en Haïti attendent encore d'être jugés, selon le BINUH, dans des prisons occupées à 313 % avec 0,31 m² par personne. Du commissariat de Pétion-Ville à Delmas 33, des gens passent des mois, voire des années, sans voir un juge. Combien d'années un présumé innocent doit-il attendre ?",
+    },
+    body: {
+      ht: "Dapre Biwo Entegre Nasyonzini an Ayiti (BINUH), te gen 7563 moun nan prizon peyi a 30 jen 2026. 82 % ladan yo te an detansyon preventif, sa vle di y ap tann jijman. Prizon yo te plen apeprè 313 %, ak an mwayèn 0,31 m² pou chak moun. Annik nan dezyèm trimès la, 49 prizonye mouri, sitou paske yo pa t jwenn swen, nan selil sal, ak ti manje epi ti dlo potab.\n\nDepi atak gang yo mas 2024 sou prizon sivil Pòtoprens ak Kwadebouke, selil gadavi komisarya nan Lwès yo tounen prizon, dapre RNDDH. Nan vizit li fè avril-me 2025, òganizasyon an konte 48 moun nan de selil nan komisarya Petyonvil, ak 48 gason sere nan de selil nan Dèlma 33. Kèk ladan yo te dòmi chak moun an tou paske pa t gen plas. Plizyè t ap tann depi plizyè mwa, menm plis pase yon ane, yon desizyon jistis. CERMICOL, nan Dèlma 33, ki te fèt pou 93 timoun, gen plis pase 760 moun ladan l.\n\nSoti komisarya Petyonvil rive Dèlma 33, pase pa pòs Vivy Mitchell, se menm istwa a : moun ki ta ka kolabore ak ankèt la depi lakay yo ap tann dèyè ba yon jistis anpil moun di ki lan e ki kowonpi. An janvye, gouvènman an te lanse yon « karavàn nasyonal » kont detansyon preventif ki dire twòp.\n\nPrizonye sa yo konsidere inosan toutotan yon tribinal pa kondane yo.\n\nKesyon pou lektè yo :\n• Konbyen ane yon moun ki sipoze inosan ka tann yon jij ?\n• Si yo libere l, kiyès k ap reponn pou ane li pèdi yo ?\n• Poukisa pa lage moun ki ka reponn devan jistis depi lakay yo, anba kontwòl jidisyè ?",
+      fr: "Selon le Bureau intégré des Nations unies en Haïti (BINUH), 7563 personnes étaient détenues dans les prisons du pays au 30 juin 2026. 82 % d'entre elles étaient en détention préventive, c'est-à-dire en attente de jugement. Le taux d'occupation était estimé à 313 %, avec en moyenne 0,31 m² par détenu. Au cours du seul deuxième trimestre, 49 détenus sont morts, pour la plupart faute de soins, dans des cellules insalubres, avec peu de nourriture et d'eau potable.\n\nDepuis les attaques de gangs de mars 2024 contre les prisons civiles de Port-au-Prince et de la Croix-des-Bouquets, les cellules de garde à vue des commissariats de l'Ouest servent de prisons, constate le RNDDH. Lors de ses visites d'avril-mai 2025, l'organisation a compté 48 personnes dans deux cellules au commissariat de Pétion-Ville et 48 hommes entassés dans deux cellules à Delmas 33. Certains y dormaient à tour de rôle, faute de place. Plusieurs y attendaient depuis des mois, voire plus d'un an, une décision de justice. Le CERMICOL, à Delmas 33, prévu pour 93 mineurs, accueille plus de 760 personnes.\n\nDu commissariat de Pétion-Ville à Delmas 33, en passant par le poste de Vivy Mitchell, c'est la même histoire : des hommes et des femmes qui pourraient coopérer avec l'enquête depuis chez eux attendent derrière les barreaux une justice que beaucoup jugent lente et corrompue. En janvier, le gouvernement a lancé une « caravane nationale » contre la détention préventive prolongée.\n\nCes détenus sont présumés innocents tant qu'un tribunal ne les a pas condamnés.\n\nQuestions aux lecteurs :\n• Combien d'années un présumé innocent peut-il attendre un juge ?\n• S'il est acquitté, qui répondra des années perdues ?\n• Pourquoi pas la liberté sous contrôle judiciaire pour ceux qui peuvent répondre à la justice depuis chez eux ?",
+    },
+    sources: ["BINUH", "RNDDH", "Gouvernement d'Haïti"],
+    sourceLinks: [
+      { name: "BINUH (rapport T2 2026)", url: "https://binuh.unmissions.org/sites/default/files/2026-08/Q2%202026%20-%20EN-V3.pdf" },
+      { name: "RNDDH (commissariats, mai 2025)", url: "https://web.rnddh.org/wp-content/uploads/2025/05/5-RapM-Commissariat-et-Sous-Commissariat-30Mai2025.FR_.pdf" },
+      { name: "Gouvernement d'Haïti", url: "https://communication.gouv.ht/communiques/le-gouvernement-engage-contre-la-detention-preventive-prolongee/" },
+    ],
+  },
+  {
     id: "ntk-plan-electrification-2032-2026-10-30",
     tier: "need-to-know",
     topic: "governance",

@@ -14,7 +14,7 @@ const topics = await load("src/data/topics.ts", "TOPICS");
 const dist = path.join(root, "dist");
 fs.mkdirSync(path.join(dist, "og"), { recursive: true }); fs.mkdirSync(path.join(dist, "story"), { recursive: true });
 const tpl = fs.readFileSync(path.join(dist, "index.html"), "utf8");
-const esc = (t) => String(t).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+const esc = (t) => String(t).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/%/g, "%%");
 // Per-section card palette. bg = solid color or [top, bottom] gradient; light palettes use dark text.
 const DARKTXT = { head: "#111111", teaser: "#222222", url: "#222222", more: "#111111" };
 const LIGHTTXT = { head: "#ffffff", teaser: "#d6deea", url: "#8fa3bd", more: "#ffffff" };
