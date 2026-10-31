@@ -126,8 +126,6 @@ export function StoryPage({ pageLang }: { pageLang: Lang }) {
 
         <ShareBar storyId={story.id} headline={story.headline} variant="detail" />
 
-        <OpakChannelPromo story={story} />
-
         {story.sources && story.sources.length > 0 && (
           <p className="sources">
             <strong>{ui.sources}:</strong> {story.sources.join(" · ")}
@@ -146,7 +144,7 @@ export function StoryPage({ pageLang }: { pageLang: Lang }) {
         )}
 
 
-        {!hasActiveBadge(story) && <AdPlaceholder />}
+        {hasActiveBadge(story) ? <OpakChannelPromo story={story} /> : <AdPlaceholder />}
       </main>
 
       <SiteFooter />
