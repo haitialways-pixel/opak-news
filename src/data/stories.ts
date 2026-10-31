@@ -16,6 +16,30 @@ import type { Story } from "../types";
  */
 export const STORIES: Story[] = [
   {
+    id: "qh-cuba-embargo-haiti-abstention-2026-10-31",
+    tier: "quick-hit",
+    topic: "gossip",
+    publishedAt: "2026-10-31",
+    publishedTime: "2026-10-31T19:15:00-04:00",
+    headline: {
+      ht: "Anbago sou Kiba: Ayiti abstni nan ONI, apre li te vote pou an 2025",
+      fr: "Embargo contre Cuba : Haïti s’abstient à l’ONU après avoir voté pour en 2025",
+    },
+    brief: {
+      ht: "Mèkredi 28 oktòb, Asanble jeneral ONI a adopte rezolisyon kont anbago ameriken sou Kiba ak 130 vwa pou, 17 kont ak 25 abstansyon. Ayiti abstni, dapre Rezo Nòdwès ak NAGO, alòske li te vote pou an 2025.",
+      fr: "Mercredi 28 octobre, l’Assemblée générale de l’ONU a adopté la résolution contre l’embargo américain sur Cuba par 130 voix pour, 17 contre et 25 abstentions. Haïti s’est abstenu, selon Rezo Nòdwès et NAGO, alors qu’il avait voté pour en 2025.",
+    },
+    body: {
+      ht: "Mèkredi 28 oktòb 2026, Asanble jeneral Nasyonzini adopte yon rezolisyon ki mande pou yo leve anbago ekonomik, komèsyal ak finansye Etazini mete sou Kiba, ak 130 vwa pou, 17 kont ak 25 abstansyon, dapre ONU Info NAGO site. Se 34yèm fwa Asanble a adopte yon tèks konsa. Dapre ONU Info, se sipò ki pi fèb tèks la jwenn nan 20 an : an 2025, li te gen 165 vwa pou, 7 kont ak 12 abstansyon.\n\nAyiti abstni, dapre Rezo Nòdwès, ki di vòt la parèt sou tablo eskriten an, ak NAGO, ki site tou Caribbean Life. Dapre Rezo Nòdwès, Ayiti te vote pou rezolisyon sa a an 2025. Nan Karayib la, Jamayik ak Giyana abstni tou, Trinidad ak Tobago vote kont, dapre Rezo Nòdwès ak NAGO. Repiblik Dominikèn abstni tou, dapre NAGO. Dapre NAGO, otorite ayisyen yo poko eksplike desizyon an.\n\nDapre Rezo Nòdwès, ki site CNN, administrasyon Trump nan mete deyò Richard Tur de la Concepción, premye sekretè misyon Kiba nan ONI. Anbasadè ameriken an, Mike Waltz, akize l li te bourade yon diplomat ameriken ; misyon kiben an di se yon reprezantan ameriken ki te anvayi espas diplomat la pou filme l. Dapre Al Jazeera NAGO site, ofisyèl kiben yo akize Washington menase peyi yo ak tarif ak restriksyon viza si yo sipòte tèks la. Rezolisyon an pa obligatwa.\n\nKesyon pou lektè yo : • Kiyès ki pran desizyon pou Ayiti abstni, e poukisa yo pa di pèp la anyen ? • Èske abstansyon sa a se yon fason pou Ayiti aliye l sou Washington, oswa gen yon lòt rezon ? • Ki sa Ayiti genyen oswa pèdi lè li chanje pozisyon sou Kiba ?",
+      fr: "Mercredi 28 octobre 2026, l’Assemblée générale des Nations unies a adopté une résolution appelant à la levée de l’embargo économique, commercial et financier imposé par les États-Unis à Cuba, par 130 voix pour, 17 contre et 25 abstentions, selon ONU Info cité par NAGO. C’est la 34e fois que l’Assemblée adopte un tel texte. Selon ONU Info, c’est le soutien le plus faible en vingt ans : en 2025, le texte avait recueilli 165 voix pour, 7 contre et 12 abstentions.\n\nHaïti s’est abstenu, selon Rezo Nòdwès, qui indique que le vote figure sur le tableau du scrutin, et selon NAGO, qui cite aussi Caribbean Life. Selon Rezo Nòdwès, Haïti avait voté en faveur de cette résolution en 2025. Dans la Caraïbe, la Jamaïque et le Guyana se sont également abstenus, tandis que Trinité-et-Tobago a voté contre, selon Rezo Nòdwès et NAGO. La République dominicaine s’est aussi abstenue, selon NAGO. Selon NAGO, les autorités haïtiennes n’avaient pas expliqué cette décision au moment de publier.\n\nSelon Rezo Nòdwès, citant CNN, l’administration Trump a expulsé Richard Tur de la Concepción, premier secrétaire de la mission cubaine auprès de l’ONU. L’ambassadeur américain Mike Waltz l’accuse d’avoir bousculé un diplomate américain ; la mission cubaine affirme qu’un représentant américain avait envahi l’espace personnel de son diplomate pour le filmer. Selon Al Jazeera, cité par NAGO, des responsables cubains accusent Washington d’avoir menacé des pays de droits de douane et de restrictions de visas s’ils soutenaient le texte. La résolution n’est pas contraignante.\n\nQuestions aux lecteurs : • Qui a décidé de l’abstention d’Haïti, et pourquoi le peuple n’en a-t-il rien su ? • Cette abstention traduit-elle un alignement sur Washington, ou y a-t-il une autre raison ? • Que gagne ou que perd Haïti à changer de position sur Cuba ?",
+    },
+    sources: ["Rezo Nòdwès", "NAGO (citant ONU Info, Caribbean Life, Al Jazeera)"],
+    sourceLinks: [
+      { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/10/embargo-contre-cuba-haiti-sabstient-a-lonu-washington-expulse-un-diplomate-cubain/" },
+      { name: "NAGO", url: "https://nago.tv/en/news/embargo-contre-cuba-l-onu-reclame-sa-levee-pour-la-34e-fois-haiti-s-abstient" },
+    ],
+  },
+  {
     id: "qh-mondial-u17-haiti-france-2026-10-31",
     tier: "quick-hit",
     topic: "sports",
