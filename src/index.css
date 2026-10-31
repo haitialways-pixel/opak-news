@@ -230,7 +230,7 @@ a:hover {
 }
 
 .badge-breaking {
-  background: #c62828;
+  background: #f97316;
   color: #fff;
   letter-spacing: 0.04em;
   font-weight: 700;
@@ -797,9 +797,8 @@ a[href^="tel:"] {
 }
 
 .badge-urgent {
-  background: #4a0d0d;
+  background: #dc2626;
   color: #fff;
   letter-spacing: 0.04em;
   font-weight: 700;
-  border: 1px solid #c62828;
 }
