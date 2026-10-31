@@ -1,3 +1,4 @@
+import { storyPath } from "../lib/storyPath";
 import { Link } from "react-router-dom";
 import { SiteFooter } from "../components/SiteFooter";
 import { SiteHeader } from "../components/SiteHeader";
@@ -54,7 +55,7 @@ export function ArchivesPage() {
             <ul className="archive-list">
               {groups.get(k)!.map((s) => (
                 <li key={s.id}>
-                  <Link to={`/story/${s.id}`} className="archive-item">
+                  <Link to={storyPath(s.id, lang)} className="archive-item">
                     <strong>{s.headline[lang]}</strong>
                     <span>{s.brief[lang].length > 140 ? s.brief[lang].slice(0, 140).replace(/\s+\S*$/, "") + "…" : s.brief[lang]}</span>
                   </Link>

@@ -10,7 +10,8 @@ export default function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<HomePage />} />
-          <Route path="/story/:id" element={<StoryPage />} />
+          <Route path="/story/:id" element={<StoryPage pageLang="fr" />} />
+          <Route path="/ht/story/:id" element={<StoryPage pageLang="ht" />} />
           <Route path="/archives" element={<ArchivesPage />} />
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>

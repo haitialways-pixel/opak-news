@@ -9,11 +9,12 @@ interface Props {
   variant?: "detail" | "card";
 }
 
-function storyAbsoluteUrl(storyId: string): string {
+function storyAbsoluteUrl(storyId: string, lang: "fr" | "ht" = "fr"): string {
+  const p = lang === "ht" ? `/ht/story/${storyId}` : `/story/${storyId}`;
   if (typeof window === "undefined") {
-    return `https://opak-news.haitialways.workers.dev/story/${storyId}`;
+    return `https://opak-news.haitialways.workers.dev${p}`;
   }
-  return `${window.location.origin}/story/${storyId}`;
+  return `${window.location.origin}${p}`;
 }
 
 function IconX({ className }: { className?: string }) {
@@ -39,9 +40,9 @@ function IconFacebook({ className }: { className?: string }) {
 }
 
 export function ShareBar({ storyId, headline, variant = "detail" }: Props) {
-  const { ui, t } = useLanguage();
+  const { lang, ui, t } = useLanguage();
 
-  const url = storyAbsoluteUrl(storyId);
+  const url = storyAbsoluteUrl(storyId, lang);
   const shareText = headline.fr || headline.ht;
 
   const xHref = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(url)}`;

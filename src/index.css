@@ -783,3 +783,15 @@ a[href^="tel:"] {
   font-style: italic;
   color: var(--ink-muted);
 }
+
+.back-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+.lang-switch {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #00209f;
+}

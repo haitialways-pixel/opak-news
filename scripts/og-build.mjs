@@ -15,6 +15,7 @@ const dist = path.join(root, "dist");
 fs.mkdirSync(path.join(dist, "og"), { recursive: true }); fs.mkdirSync(path.join(dist, "story"), { recursive: true });
 const tpl = fs.readFileSync(path.join(dist, "index.html"), "utf8");
 const esc = (t) => String(t).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/%/g, "%%");
+const escH = (t) => String(t).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 // Per-section card palette. bg = solid color or [top, bottom] gradient; light palettes use dark text.
 const DARKTXT = { head: "#111111", teaser: "#222222", url: "#222222", more: "#111111" };
 const LIGHTTXT = { head: "#ffffff", teaser: "#d6deea", url: "#8fa3bd", more: "#ffffff" };
@@ -108,15 +109,23 @@ for (const s of stories) {
     png]);
   portrait(P, sec, h, b, path.join(dist, "og", `${s.id}-portrait.png`));
   if (s.quote) console.log("quote cards:", quoteCards(P, sec, h, s.quote, s.id).join(" "));
-  const url = `${SITE}/story/${s.id}`, img = `${SITE}/og/${s.id}.png`;
-  const meta = `<meta property="og:type" content="article" /><meta property="og:site_name" content="Opak News" /><meta property="og:locale" content="fr_FR" />
-    <meta property="og:url" content="${url}" /><meta property="og:title" content="${esc(h)}" /><meta property="og:description" content="${esc(b)}" />
+  for (const L of ["fr", "ht"]) {
+    const hL = s.headline[L], bL = s.brief[L];
+    const rel = L === "ht" ? `/ht/story/${s.id}` : `/story/${s.id}`;
+    const url = `${SITE}${rel}`, img = `${SITE}/og/${s.id}.png`;
+    const alt = `${SITE}${L === "ht" ? `/story/${s.id}` : `/ht/story/${s.id}`}`;
+    const meta = `<meta property="og:type" content="article" /><meta property="og:site_name" content="Opak News" /><meta property="og:locale" content="${L === "ht" ? "ht_HT" : "fr_FR"}" />
+    <meta property="og:url" content="${url}" /><meta property="og:title" content="${escH(hL)}" /><meta property="og:description" content="${escH(bL)}" />
     <meta property="og:image" content="${img}" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="630" />
-    <meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="${esc(h)}" /><meta name="twitter:description" content="${esc(b)}" /><meta name="twitter:image" content="${img}" />
-    <meta name="description" content="${esc(b)}" /><title>${esc(h)} | Opak News</title>`;
-  const html = tpl.replace(/<meta property="og:[^>]*>\s*/g, "").replace(/<meta name="twitter:[^>]*>\s*/g, "")
-    .replace(/<meta\s+name="description"[\s\S]*?\/>\s*/, "").replace(/<title>.*?<\/title>/, meta);
-  fs.writeFileSync(path.join(dist, "story", `${s.id}.html`), html);
+    <meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="${escH(hL)}" /><meta name="twitter:description" content="${escH(bL)}" /><meta name="twitter:image" content="${img}" />
+    <link rel="canonical" href="${url}" /><link rel="alternate" hreflang="${L === "ht" ? "fr" : "ht"}" href="${alt}" />
+    <meta name="description" content="${escH(bL)}" /><title>${escH(hL)} | Opak News</title>`;
+    const html = tpl.replace(/<html lang="[^"]*">/, `<html lang="${L}">`).replace(/<meta property="og:[^>]*>\s*/g, "").replace(/<meta name="twitter:[^>]*>\s*/g, "")
+      .replace(/<meta\s+name="description"[\s\S]*?\/>\s*/, "").replace(/<title>.*?<\/title>/, meta);
+    const dir = L === "ht" ? path.join(dist, "ht", "story") : path.join(dist, "story");
+    fs.mkdirSync(dir, { recursive: true });
+    fs.writeFileSync(path.join(dir, `${s.id}.html`), html);
+  }
 }
 // Contact sheet: one labeled portrait card per section
 { const tmp = fs.mkdtempSync("/tmp/ogpal-"); const files = [];

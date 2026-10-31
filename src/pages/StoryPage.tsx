@@ -7,10 +7,20 @@ import { getStoryById, isNewStory } from "../data/stories";
 import { topicLabel } from "../data/topics";
 import { useLanguage } from "../context/LanguageContext";
 import { KeepNumbers } from "../lib/keepNumbers";
+import { storyPath } from "../lib/storyPath";
+import { useEffect } from "react";
+import type { Lang } from "../types";
 
-export function StoryPage() {
+export function StoryPage({ pageLang }: { pageLang: Lang }) {
   const { id } = useParams<{ id: string }>();
-  const { lang, t, ui } = useLanguage();
+  const { lang: ctxLang, setLang, ui: ctxUi } = useLanguage();
+  useEffect(() => {
+    if (ctxLang !== pageLang) setLang(pageLang);
+    document.documentElement.lang = pageLang;
+  }, [pageLang, ctxLang, setLang]);
+  const lang = pageLang;
+  const ui = ctxUi;
+  const t = (x: { fr: string; ht: string }) => x[pageLang];
   const story = id ? getStoryById(id) : undefined;
 
   if (!story) {
@@ -31,7 +41,6 @@ export function StoryPage() {
     );
   }
 
-  const otherLang = lang === "ht" ? "fr" : "ht";
 
   return (
     <div className="page page-story">
@@ -42,6 +51,9 @@ export function StoryPage() {
       <p className="back-row">
         <Link to="/" className="back-link">
           ← {ui.backToFeed}
+        </Link>
+        <Link to={storyPath(story.id, lang === "ht" ? "fr" : "ht")} className="lang-switch" lang={lang === "ht" ? "fr" : "ht"}>
+          {lang === "ht" ? "Lire en français" : "Li an Kreyòl"}
         </Link>
       </p>
 
@@ -128,29 +140,6 @@ export function StoryPage() {
           </p>
         )}
 
-        <details className="alt-lang">
-          <summary>
-            {otherLang === "fr" ? "Français" : "Kreyòl"} — {ui.dualHint}
-          </summary>
-          <h2 className="detail-headline alt">
-            <KeepNumbers text={story.headline[otherLang]} />
-          </h2>
-          <p className="detail-brief">
-            <KeepNumbers text={story.brief[otherLang]} />
-          </p>
-          {story.body && (
-            <div className="detail-body">
-              {story.body[otherLang]
-                .split(/\n\n+/)
-                .filter(Boolean)
-                .map((para, i) => (
-                  <p key={i}>
-                    <KeepNumbers text={para} />
-                  </p>
-                ))}
-            </div>
-          )}
-        </details>
 
         <AdPlaceholder />
       </main>

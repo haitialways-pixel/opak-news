@@ -1,3 +1,4 @@
+import { storyPath } from "../lib/storyPath";
 import { Link } from "react-router-dom";
 import { ShareBar } from "./ShareBar";
 import { isNewStory } from "../data/stories";
@@ -11,7 +12,7 @@ interface Props {
 }
 
 export function StoryCard({ story, variant = "hit" }: Props) {
-  const { t, ui } = useLanguage();
+  const { lang, t, ui } = useLanguage();
 
   return (
     <article className={`story-card story-card--${variant}`}>
@@ -24,7 +25,7 @@ export function StoryCard({ story, variant = "hit" }: Props) {
         {story.isManual && <span className="badge badge-manual">{ui.manualBadge}</span>}
       </div>
       <h3 className="story-headline">
-        <Link to={`/story/${story.id}`}>
+        <Link to={storyPath(story.id, lang)}>
           <KeepNumbers text={t(story.headline)} />
         </Link>
       </h3>
