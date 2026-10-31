@@ -1,6 +1,6 @@
 import { SiteFooter } from "../components/SiteFooter";
 import { Link, useParams } from "react-router-dom";
-import { AdPlaceholder } from "../components/AdPlaceholder";
+import { AdPlaceholder, OpakChannelPromo, hasActiveBadge } from "../components/AdPlaceholder";
 import { ShareBar } from "../components/ShareBar";
 import { SiteHeader } from "../components/SiteHeader";
 import { getStoryById, isNewStory, isBreakingActive, isUrgentActive } from "../data/stories";
@@ -126,6 +126,8 @@ export function StoryPage({ pageLang }: { pageLang: Lang }) {
 
         <ShareBar storyId={story.id} headline={story.headline} variant="detail" />
 
+        <OpakChannelPromo story={story} />
+
         {story.sources && story.sources.length > 0 && (
           <p className="sources">
             <strong>{ui.sources}:</strong> {story.sources.join(" · ")}
@@ -144,7 +146,7 @@ export function StoryPage({ pageLang }: { pageLang: Lang }) {
         )}
 
 
-        <AdPlaceholder />
+        {!hasActiveBadge(story) && <AdPlaceholder />}
       </main>
 
       <SiteFooter />

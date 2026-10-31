@@ -1,6 +1,7 @@
 import { storyPath } from "../lib/storyPath";
 import { Link } from "react-router-dom";
 import { ShareBar } from "./ShareBar";
+import { OpakChannelPromo } from "./AdPlaceholder";
 import { isNewStory, isBreakingActive, isUrgentActive } from "../data/stories";
 import { useLanguage } from "../context/LanguageContext";
 import { KeepNumbers } from "../lib/keepNumbers";
@@ -36,6 +37,7 @@ export function StoryCard({ story, variant = "hit" }: Props) {
         <KeepNumbers text={t(story.brief)} />
       </p>
       <ShareBar storyId={story.id} headline={story.headline} variant="card" />
+      <OpakChannelPromo story={story} />
     </article>
   );
 }

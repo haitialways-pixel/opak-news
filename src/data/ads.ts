@@ -3,7 +3,7 @@
  * Swap or extend entries here without touching layout components.
  */
 
-export type PromoTheme = "cpcredo" | "delmas91";
+export type PromoTheme = "cpcredo" | "delmas91" | "opak-wa";
 
 export interface PromoAd {
   id: string;
@@ -56,7 +56,20 @@ export const DELMAS91_AD: PromoAd = {
   logoAlt: "Group Delmas 91 — Ansyen Zanmi Nouvo Fanmi",
 };
 
-/** Rotating story-page promos (under brief). */
+/** Opak News WhatsApp channel (house ad). */
+export const OPAK_WA_CHANNEL_URL = "https://whatsapp.com/channel/0029Vb9xBTH2phHG2cOPGk1x";
+export const OPAK_WA_AD: PromoAd = {
+  id: "opak-wa",
+  brand: "Opak News",
+  tagline: "",
+  webDisplay: "WhatsApp",
+  webHref: OPAK_WA_CHANNEL_URL,
+  theme: "opak-wa",
+  logoSrc: "/opak-logo-512.png",
+  logoAlt: "Opak News",
+};
+
+/** Rotating story-page sponsor promos (hidden on stories with an active badge, which show the ON channel banner). To add a banner (e.g. a game): add a PromoTheme, an ad object, its CSS, and append it here. */
 export const STORY_PROMOS: PromoAd[] = [CPCREDO_AD, DELMAS91_AD];
 
 /** @deprecated Prefer STORY_PROMOS; kept for single-ad callers. */

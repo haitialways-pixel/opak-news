@@ -20,7 +20,7 @@ export const STORIES: Story[] = [
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-10-31",
-    publishedTime: "2026-10-31T07:30:00-04:00",
+    publishedTime: "2026-10-31T07:10:00-04:00",
     isBreaking: true,
     breakingHours: 12,
     headline: {
@@ -46,7 +46,7 @@ export const STORIES: Story[] = [
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-10-31",
-    publishedTime: "2026-10-31T07:30:00-04:00",
+    publishedTime: "2026-10-31T07:10:00-04:00",
     headline: {
       ht: "De travayè imanitè NRC touye Pòtoprens : ONU mande jistis",
       fr: "Deux humanitaires du NRC tués à Port-au-Prince : l’ONU réclame justice",
@@ -371,7 +371,7 @@ export const STORIES: Story[] = [
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-10-29",
-    publishedTime: "2026-10-31T07:35:00-04:00",
+    publishedTime: "2026-10-31T07:10:00-04:00",
     isBreaking: true,
     breakingHours: 12,
     headline: {
