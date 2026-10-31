@@ -1,7 +1,7 @@
 import { storyPath } from "../lib/storyPath";
 import { Link } from "react-router-dom";
 import { ShareBar } from "./ShareBar";
-import { isNewStory } from "../data/stories";
+import { isNewStory, isBreakingActive } from "../data/stories";
 import { useLanguage } from "../context/LanguageContext";
 import { KeepNumbers } from "../lib/keepNumbers";
 import type { Story } from "../types";
@@ -17,7 +17,7 @@ export function StoryCard({ story, variant = "hit" }: Props) {
   return (
     <article className={`story-card story-card--${variant}`}>
       <div className="story-meta">
-        {story.isBreaking && (
+        {isBreakingActive(story) && (
           <span className="badge badge-breaking">{ui.breakingBadge}</span>
         )}
         {isNewStory(story) && <span className="badge badge-new">{ui.newBadge}</span>}

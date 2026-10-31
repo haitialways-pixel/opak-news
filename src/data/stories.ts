@@ -849,3 +849,8 @@ export function needToKnowStories(): Story[] {
 export function quickHitStories(): Story[] {
   return sortNewestFirst(STORIES.filter((s) => s.tier === "quick-hit"));
 }
+
+/** BREAKING badge shows only while the story is new (same 24h window as Nouveau). */
+export function isBreakingActive(story: Story, now = Date.now()): boolean {
+  return !!story.isBreaking && isNewStory(story, now);
+}

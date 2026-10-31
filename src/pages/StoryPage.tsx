@@ -3,7 +3,7 @@ import { Link, useParams } from "react-router-dom";
 import { AdPlaceholder } from "../components/AdPlaceholder";
 import { ShareBar } from "../components/ShareBar";
 import { SiteHeader } from "../components/SiteHeader";
-import { getStoryById, isNewStory } from "../data/stories";
+import { getStoryById, isNewStory, isBreakingActive } from "../data/stories";
 import { topicLabel } from "../data/topics";
 import { useLanguage } from "../context/LanguageContext";
 import { KeepNumbers } from "../lib/keepNumbers";
@@ -60,7 +60,7 @@ export function StoryPage({ pageLang }: { pageLang: Lang }) {
       <main className="story-detail">
         <div className="story-meta">
           <span className="topic-chip">{topicLabel(story.topic, lang)}</span>
-          {story.isBreaking && (
+          {isBreakingActive(story) && (
             <span className="badge badge-breaking">{ui.breakingBadge}</span>
           )}
         {isNewStory(story) && <span className="badge badge-new">{ui.newBadge}</span>}
