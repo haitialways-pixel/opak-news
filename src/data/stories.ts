@@ -16,6 +16,55 @@ import type { Story } from "../types";
  */
 export const STORIES: Story[] = [
   {
+    id: "qh-u15-haiti-irak-baku-2026-10-31",
+    tier: "quick-hit",
+    topic: "sports",
+    publishedAt: "2026-10-31",
+    publishedTime: "2026-10-31T09:00:00-04:00",
+    headline: {
+      ht: "Mondyal U15 : Ti Grenadye yo kale Irak 3-0 nan final Divizyon B a Bakou",
+      fr: "Mondial U15 : les petits Grenadiers battent l’Irak 3-0 en finale de la Division B à Bakou",
+    },
+    brief: {
+      ht: "Vandredi 30 oktòb, Ayiti bat Irak 3-0 nan final Divizyon B Koup di Mond ak Festival U15 FIFA a, Bakou. John Laroque make 2 gòl, Noah Desrois 1. Kilè senyò yo ap swiv egzanp lan ?",
+      fr: "Vendredi 30 octobre, Haïti a battu l’Irak 3-0 en finale de la Division B de la Coupe du monde et Festival U15 de la FIFA, à Bakou. John Laroque a marqué 2 buts, Noah Desrois 1. À quand les aînés ?",
+    },
+    body: {
+      ht: "Seleksyon ayisyen mwens pase 15 an an bat Irak 3-0 vandredi 30 oktòb 2026 nan final Divizyon B premye edisyon Koup di Mond ak Festival U15 FIFA a, nan konplèks espòtif Hövsan, Bakou (Azèbaydjan), dapre FIFA ak Chokarella. Dapre Nago, ki site yon piblikasyon Caleb Jephte sou Instagram, John Laroque make de fwa e Noah Desrois yon fwa.\n\nDapre Chokarella, Ayiti fini tounwa a ak 6 viktwa ak 4 defèt nan 10 match, 25 gòl make, 13 resevwa, e li klase 61yèm nan klasman jeneral la, sou 191 federasyon. Viktwa 6-0 kont Timò Oryantal nan faz gwoup la se premye viktwa ofisyèl Ayiti, tout kategori konfonn, nan yon Koup di Mond FIFA. Ekip la, ki gen 14 jwè, antrene pa Kiben Raúl Valentín González Triana. Pa gen chanpyona nasyonal regilye nan kategori laj sa a.\n\nKesyon pou lektè yo : • Si timoun 14 an ka genyen nan Bakou san chanpyona nasyonal, kisa yo t ap fè ak yon vrè chanpyona ? • Ki lè FHF ap bay jèn yo yon teren lakay yo ? • Kilès nan jwè sa yo n ap wè ak Grenadye senyò yo nan 5 an ?",
+      fr: "La sélection haïtienne des moins de 15 ans a battu l’Irak 3-0 le vendredi 30 octobre 2026, en finale de la Division B de la première édition de la Coupe du monde et Festival U15 de la FIFA, au complexe sportif de Hövsan, à Bakou (Azerbaïdjan), selon la FIFA et Chokarella. Selon Nago, citant une publication de Caleb Jephte sur Instagram, John Laroque a marqué deux fois et Noah Desrois une fois.\n\nSelon Chokarella, Haïti termine le tournoi avec 6 victoires et 4 défaites en 10 matchs, 25 buts marqués et 13 encaissés, et se classe 61e au classement général, sur 191 fédérations. La victoire 6-0 contre le Timor-Leste en phase de groupes constitue la première victoire officielle d’Haïti, toutes catégories confondues, dans une Coupe du monde de la FIFA. L’équipe de 14 joueurs est dirigée par le Cubain Raúl Valentín González Triana, dans un pays sans compétition nationale régulière dans cette catégorie d’âge.\n\nQuestions aux lecteurs : • Si des gamins de 14 ans gagnent à Bakou sans championnat national, que feraient-ils avec un vrai championnat ? • Quand la FHF offrira-t-elle aux jeunes un terrain chez eux ? • Lequel de ces joueurs verra-t-on chez les Grenadiers seniors dans 5 ans ?",
+    },
+    sources: ["FIFA", "Chokarella", "Nago"],
+    sourceLinks: [
+      { name: "FIFA", url: "https://www.fifa.com/en/match-centre/match/109/293575/294213/400026329" },
+      { name: "Chokarella", url: "https://www.chokarella.com/2026/10/30/mondial-u15-haiti-remporte-la-finale-de-la-division-b-face-a-lirak/" },
+      { name: "Nago", url: "https://nago.tv/news/mondial-u15-battue-par-la-croatie-et-le-qatar-haiti-reste-en-course-a-bakou" },
+    ],
+  },
+  {
+    id: "qh-gossip-pacte-national-2027-2026-10-31",
+    tier: "quick-hit",
+    topic: "gossip",
+    quiet: true,
+    publishedAt: "2026-10-31",
+    publishedTime: "2026-10-31T09:00:00-04:00",
+    headline: {
+      ht: "Siyatè Pak nasyonal la : eleksyon an 2027, pa gen lòt tranzisyon",
+      fr: "Les signataires du Pacte national veulent des élections en 2027, pas une autre transition",
+    },
+    brief: {
+      ht: "Reyini Petyonvil vandredi 30 oktòb, siyatè Pak nasyonal la mande eleksyon an 2027, yon kalandriye revize ki reyalis, plis sekirite ak lòd konstitisyonèl anvan fen 2027, dapre Réalité Info.",
+      fr: "Réunis vendredi 30 octobre à Pétion-Ville, les signataires du Pacte national réclament des élections en 2027, un calendrier révisé réaliste, plus de sécurité et l’ordre constitutionnel avant fin 2027, selon Réalité Info.",
+    },
+    body: {
+      ht: "Dapre Réalité Info, reprezantan Blòk majoritè ki siyen Pak nasyonal pou estabilite ak òganizasyon eleksyon yo reyini vandredi 30 oktòb 2026 Petyonvil. Yo rejte nenpòt lòt tranzisyon san dat klè pou retounen nan lòd konstitisyonèl, e yo vle tranzisyon an fini an 2027.\n\nYo mande CEP la pibliye vit yon kalandriye elektoral revize, detaye e reyalis, epi yo mande otorite yo ranfòse operasyon sekirite yo. Evens Jean di gwoup la sipòte eleksyon an jiyè 2027. Sekretè jeneral Asanble siyatè yo, Widlyne Desrivieres, pwopoze premye tou a fèt nan premye semès 2027, pou pwosesis la fini anvan fen ane a.\n\nKesyon pou lektè yo : • Konbyen kalandriye « reyalis » nou deja wè depi 2016 ? • Si tranzisyon an pa dwe dire, ki moun ki benefisye lè l dire ?",
+      fr: "Selon Réalité Info, les représentants du Bloc majoritaire signataire du Pacte national pour la stabilité et l’organisation des élections se sont réunis le vendredi 30 octobre 2026 à Pétion-Ville. Ils rejettent toute nouvelle transition sans échéance claire de retour à l’ordre constitutionnel et veulent que la transition prenne fin en 2027.\n\nIls demandent au CEP de publier rapidement un calendrier électoral révisé, détaillé et réaliste, et aux autorités de renforcer les opérations de sécurité. Evens Jean a indiqué que le groupe soutient la tenue du scrutin en juillet 2027. La secrétaire générale de l’Assemblée des signataires, Widlyne Desrivieres, a proposé un premier tour au premier semestre 2027, pour achever le processus avant la fin de l’année.\n\nQuestions aux lecteurs : • Combien de calendriers « réalistes » a-t-on déjà vus depuis 2016 ? • Si la transition ne doit pas durer, à qui profite-t-elle quand elle dure ?",
+    },
+    sources: ["Réalité Info", "Opak News — Les Coulisses"],
+    sourceLinks: [
+      { name: "Réalité Info", url: "https://realiteinfo.com/haiti-les-signataires-du-pacte-national-reclament-des-elections-en-2027-et-rejettent-lidee-dune-autre-transition/" },
+    ],
+  },
+  {
     id: "ntk-bercy-galaxie-operation-2026-10-31",
     tier: "need-to-know",
     topic: "security",
@@ -902,6 +951,7 @@ export function sortNewestFirst(list: Story[]): Story[] {
 
 /** "New" = less than 24h since publishedTime (date-only: until end of that day). */
 export function isNewStory(story: Story, now = Date.now()): boolean {
+  if (story.quiet) return false;
   const t = publishMs(story);
   const age = now - t;
   return age >= 0 && age < DAY_MS;

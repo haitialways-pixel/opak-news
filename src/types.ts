@@ -10,6 +10,7 @@ export type TopicId =
   | "security"
   | "society"
   | "moise-trials"
+  | "sports"
   | "gossip";
 
 export interface LocalizedText {
@@ -51,6 +52,8 @@ export interface Story {
   isUrgent?: boolean;
   /** Pinned stories always sort first (editor's top story). */
   pinned?: boolean;
+  /** Quiet item: no NOUVEAU badge (and so no promo banner). */
+  quiet?: boolean;
   urgentHours?: number;
   /** Optional source links shown on the story page. */
   sourceLinks?: { name: string; url: string }[];

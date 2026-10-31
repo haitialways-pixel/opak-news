@@ -29,6 +29,7 @@ const PALETTE = {
   security:       { bg: "#b3001b", label: "#ffc2c2", rule: "#c2404f", ...LIGHTTXT, url: "#ffb3b3", teaser: "#ffe5e5" },
   society:        { bg: "#8ed16f", label: "#174d0a", rule: "#6aae4c", ...DARKTXT },
   "moise-trials": { bg: "#4a0f1c", label: "#ffa3b4", rule: "#642634", ...LIGHTTXT },
+  sports:         { bg: "#e85d04", label: "#fff1c2", rule: "#ff8a3d", ...LIGHTTXT, teaser: "#fff4ea", url: "#ffe0c7" },
   gossip:         { bg: ["#c2007a", "#ff6a00"], label: "#fff3a0", rule: "#ffd1e6", ...LIGHTTXT, teaser: "#ffffff", url: "#fff0d6" },
 };
 const bgArgs = (P, size) => Array.isArray(P.bg) ? ["-size", size, `gradient:${P.bg[0]}-${P.bg[1]}`] : ["-size", size, `xc:${P.bg}`];
