@@ -16,6 +16,31 @@ import type { Story } from "../types";
  */
 export const STORIES: Story[] = [
   {
+    id: "qh-bukele-dement-bombardements-2026-10-31",
+    tier: "quick-hit",
+    topic: "security",
+    publishedAt: "2026-10-31",
+    publishedTime: "2026-10-31T17:50:00-04:00",
+    headline: {
+      ht: "Bukele demanti akizasyon bonbadman sòlda salvadoryen ann Ayiti",
+      fr: "Bukele dément que ses soldats bombardent des civils en Haïti",
+    },
+    brief: {
+      ht: "Prezidan salvadoryen an, Nayib Bukele, di sou X misyon li an pa menm gen bonm, e elikoptè atak li yo poko fè okenn misyon. Li reponn yon lèt UNA-Haiti ki akize fòs salvadoryen yo bonbade sivil.",
+      fr: "Le président salvadorien Nayib Bukele affirme sur X que sa mission « n’a même pas de bombes » et que ses hélicoptères d’attaque n’ont encore effectué aucune mission. Il répond à une lettre de l’UNA-Haiti accusant les forces salvadoriennes de bombarder des civils.",
+    },
+    body: {
+      ht: "Samdi 31 oktòb 2026, vè 4 è 57 apremidi (lè Ayiti), prezidan Salvadò a, Nayib Bukele, pibliye yon mesaj sou X (@nayibbukele) pou rejte akizasyon bonbadman kont sòlda li yo ann Ayiti. « Bonm ? Misyon nou an pa menm gen bonm a dispozisyon l », li ekri. Dapre li, elikoptè atak Salvadò yo rive ann Ayiti sèlman 29 oktòb, e « jodi a, yo poko vole yon sèl misyon ».\n\nBukele ap reponn yon lèt ouvè United Nations Association-Haiti (UNA-Haiti) voye bay Sekretè jeneral ONU a, António Guterres. Dapre Drop Site News, ki pataje lèt la, gwoup sa a — yon gwoup defans dyaspora ki pa fè pati ONU malgre non l — akize sòlda salvadoryen yo, depi 22 oktòb, frape katye sivil nan Kwadèboukè ak Kanaran ak atak ayeryen, elikoptè ak zam lou. Bukele pibliye yon foto lèt la ak dat « 28 oktòb 2026 » sèkle, e li di « rapò » sa a soti yon jou anvan elikoptè yo rive.\n\nBukele ale pi lwen : li rele ONG sa yo « kabinè lobi pou kriminèl ak katèl ki degize an òganizasyon imanitè ». Akizasyon UNA-Haiti yo menm jan ak demanti Bukele a poko verifye pa okenn sous endepandan. Nou poko konnen reyaksyon UNA-Haiti sou repons Bukele a.\n\nLi tou sou Opak News : istwa sòlda salvadoryen yo ann Ayiti (lyen anba a).\n\nKesyon pou lektè yo : • Si pa gen bonm, ki zam lou ki tonbe sou Kwadèboukè ak Kanaran ? • Kiyès k ap fè yon envestigasyon endepandan sou viktim sivil yo ? • Lè yon prezidan etranje rele yon òganizasyon ayisyen « lobi kriminèl », kiyès ki defann Ayisyen ?",
+      fr: "Samedi 31 octobre 2026, vers 16 h 57 (heure d’Haïti), le président salvadorien Nayib Bukele a publié sur X (@nayibbukele) un message rejetant les accusations de bombardements visant ses soldats en Haïti. « Des bombes ? Notre mission n’a même pas de bombes à sa disposition », écrit-il. Selon lui, les hélicoptères d’attaque salvadoriens ne sont arrivés en Haïti que le 29 octobre et, « à ce jour, ils n’ont pas effectué une seule mission ».\n\nBukele répond à une lettre ouverte de l’United Nations Association-Haiti (UNA-Haiti) au secrétaire général de l’ONU, António Guterres. Selon Drop Site News, qui a relayé la lettre, ce groupe de plaidoyer de la diaspora — qui, malgré son nom, ne fait pas partie de l’ONU — accuse les troupes salvadoriennes d’avoir, depuis le 22 octobre, frappé des quartiers civils à Croix-des-Bouquets et à Canaan par des frappes aériennes, des hélicoptères de combat et des armes lourdes. Bukele a publié une photo de la lettre, la date du « 28 octobre 2026 » entourée, affirmant que ce « rapport » est paru la veille de l’arrivée de ses hélicoptères.\n\nBukele va plus loin : il qualifie ces ONG de « cabinets de lobbying pour criminels et cartels, déguisés en organisations humanitaires ». Ni les accusations de l’UNA-Haiti ni le démenti de Bukele n’ont été vérifiés de façon indépendante. La réaction de l’UNA-Haiti à ce démenti n’était pas connue au moment de publier.\n\nÀ lire aussi sur Opak News : notre suivi des soldats salvadoriens en Haïti (lien ci-dessous).\n\nQuestions aux lecteurs : • S’il n’y a pas de bombes, quelles armes lourdes sont tombées sur Croix-des-Bouquets et Canaan ? • Qui mènera une enquête indépendante sur les victimes civiles ? • Quand un président étranger traite une organisation haïtienne de « lobby criminel », qui défend les Haïtiens ?",
+    },
+    sources: ["Nayib Bukele (X)", "Drop Site News (X)"],
+    sourceLinks: [
+      { name: "Nayib Bukele (X)", url: "https://x.com/nayibbukele/status/2116635646739554417" },
+      { name: "Drop Site News (X)", url: "https://x.com/dropsitenews/status/2116031975630782900" },
+      { name: "Opak News : soldats salvadoriens en Haïti", url: "https://opak-news.haitialways.workers.dev/story/ntk-salvador-2000-soldats-2026-10-29" },
+    ],
+  },
+  {
     id: "ntk-american-airlines-cap-haitien-2026-10-31",
     tier: "need-to-know",
     topic: "commerce",
