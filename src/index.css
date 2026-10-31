@@ -795,3 +795,11 @@ a[href^="tel:"] {
   font-weight: 600;
   color: #00209f;
 }
+
+.badge-urgent {
+  background: #4a0d0d;
+  color: #fff;
+  letter-spacing: 0.04em;
+  font-weight: 700;
+  border: 1px solid #c62828;
+}

@@ -45,6 +45,11 @@ export interface Story {
   isSample?: boolean;
   /** Breaking news badge (label always BREAKING). */
   isBreaking?: boolean;
+  /** Hours the BREAKING badge stays after publishedTime (updates bump publishedTime): 6 one-off (default), 12 developing, 24 major ongoing. */
+  breakingHours?: 6 | 12 | 24;
+  /** URGENT / IJAN badge; no expiry unless urgentHours is set (counted from publishedTime). */
+  isUrgent?: boolean;
+  urgentHours?: number;
   /** Optional source links shown on the story page. */
   sourceLinks?: { name: string; url: string }[];
   /** Optional verbatim quote shown as a block quote (not translated). */

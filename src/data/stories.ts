@@ -17,6 +17,7 @@ import type { Story } from "../types";
 export const STORIES: Story[] = [
   {
     id: "ntk-detention-preventive-commissariats-2026-10-30",
+    isUrgent: true,
     tier: "need-to-know",
     topic: "justice",
     publishedAt: "2026-10-30",
@@ -216,6 +217,7 @@ export const STORIES: Story[] = [
     publishedAt: "2026-10-29",
     publishedTime: "2026-10-29T15:25:00-04:00",
     isBreaking: true,
+    breakingHours: 24,
     headline: {
       ht: "Lapli : bilan nasyonal la monte 8 moun mouri, 40 blese ak 5 disparèt",
       fr: "Pluies : le bilan national passe à 8 morts, 40 blessés et 5 disparus",
@@ -243,6 +245,7 @@ export const STORIES: Story[] = [
     publishedAt: "2026-10-30",
     publishedTime: "2026-10-30T09:50:00-04:00",
     isBreaking: true,
+    breakingHours: 6,
     headline: {
       ht: "Olivier Barrau depoze kandidati li pou prezidans lan",
       fr: "Olivier Barrau dépose sa candidature à la présidence",
@@ -281,6 +284,7 @@ export const STORIES: Story[] = [
     publishedAt: "2026-10-29",
     publishedTime: "2026-10-30T04:45:00-04:00",
     isBreaking: true,
+    breakingHours: 12,
     headline: {
       ht: "Eleksyon : BED Lwès 1 deklare dosye kandidati Muscadin pa resevab",
       fr: "Présidentielle : la candidature de Muscadin jugée irrecevable",
@@ -318,6 +322,7 @@ export const STORIES: Story[] = [
     publishedAt: "2026-10-29",
     publishedTime: "2026-10-30T09:30:00-04:00",
     isBreaking: true,
+    breakingHours: 12,
     headline: {
       ht: "Sòlda Salvadò an Ayiti : akò signe, Washington di wi",
       fr: "Troupes salvadoriennes en Haïti : accord bilatéral signé, Washington donne son feu vert",
@@ -364,6 +369,7 @@ export const STORIES: Story[] = [
     publishedAt: "2026-10-28",
     publishedTime: "2026-10-28T18:10:13-04:00",
     isBreaking: true,
+    breakingHours: 6,
     headline: {
       ht: "Plèn Kildesak : MSF tire alam sou vyolans k ap monte, plis blese rive lopital",
       fr: "Plaine du Cul-de-Sac : MSF alerte sur une flambée de violence et des blessés en hausse",
@@ -410,6 +416,7 @@ export const STORIES: Story[] = [
     publishedAt: "2026-10-28",
     publishedTime: "2026-10-28T07:00:00-04:00",
     isBreaking: true,
+    breakingHours: 12,
     headline: {
       ht: "Salvadò voye anviwon 1000 sòlda ann Ayiti apre anbiskad 18 oktòb la",
       fr: "Le Salvador dépêche environ 1000 soldats en Haïti après l'embuscade du 18 octobre",
@@ -434,6 +441,7 @@ export const STORIES: Story[] = [
     publishedAt: "2026-10-28",
     publishedTime: "2026-10-28T07:00:00-04:00",
     isBreaking: true,
+    breakingHours: 24,
     headline: {
       ht: "Inondasyon : omwen 4 moun mouri, 847 kay kraze nan Grand Sid",
       fr: "Inondations : au moins 4 morts et 847 maisons détruites dans le Grand Sud",
@@ -850,7 +858,19 @@ export function quickHitStories(): Story[] {
   return sortNewestFirst(STORIES.filter((s) => s.tier === "quick-hit"));
 }
 
-/** BREAKING badge shows only while the story is new (same 24h window as Nouveau). */
+/** BREAKING badge: shown for breakingHours (default 6) after publishedTime; updates republish by bumping publishedTime. */
+export function breakingExpiresMs(story: Story): number {
+  return publishMs(story) + (story.breakingHours ?? 6) * 3600000;
+}
 export function isBreakingActive(story: Story, now = Date.now()): boolean {
-  return !!story.isBreaking && isNewStory(story, now);
+  if (!story.isBreaking) return false;
+  const t = publishMs(story);
+  return now >= t && now < breakingExpiresMs(story);
+}
+
+export function isUrgentActive(story: Story, now = Date.now()): boolean {
+  if (!story.isUrgent) return false;
+  if (story.urgentHours == null) return true;
+  const t = publishMs(story);
+  return now >= t && now < t + story.urgentHours * 3600000;
 }
