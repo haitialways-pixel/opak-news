@@ -16,6 +16,30 @@ import type { Story } from "../types";
  */
 export const STORIES: Story[] = [
   {
+    id: "ntk-changement-heure-2026-11-01",
+    tier: "need-to-know",
+    topic: "society",
+    publishedAt: "2026-10-31",
+    publishedTime: "2026-10-31T20:20:00-04:00",
+    headline: {
+      ht: "Chanjman lè : Ayiti ap fè lè a tounen yon èdtan dèyè aswè a",
+      fr: "Changement d'heure : Haïti recule d'une heure cette nuit",
+    },
+    brief: {
+      ht: "Dimanch 1ye novanm 2026, a 2è di maten, Ayiti ap retounen nan lè nòmal : 2è ap tounen 1è, dapre Mono-Infos ak sit timeanddate.com.",
+      fr: "Dimanche 1er novembre 2026, à 2 h du matin, Haïti revient à l’heure normale : 2 h deviendra 1 h, selon Mono-Infos et le site timeanddate.com.",
+    },
+    body: {
+      ht: "Nan nwit samdi 31 oktòb pou dimanch 1ye novanm 2026, Ayiti ap kite lè ete a pou l retounen nan lè nòmal. Lè l rive 2è di maten, l ap tounen 1è, dapre Mono-Infos sou X. Sit timeanddate.com, ki swiv chanjman lè nan tout mond lan, konfime dat ak lè sa a pou Pòtoprens. Dapre menm sit la, solèy ap leve epi kouche anviwon yon èdtan pi bonè apati dimanch.\n\nSa pou w fè : fè mont ak revèy ki pa konekte yo tounen yon èdtan dèyè anvan w al dòmi. Telefòn ak òdinatè konekte yo konn mete lè a ajou poukont yo, men verifye lè a dimanch maten, sitou si w gen randevou oswa travay bonè.\n\nKesyon pou lektè yo : • Èske chanjman lè sa yo itil Ayiti toujou ? • Èske w te konnen lè a t ap chanje aswè a ?",
+      fr: "Dans la nuit du samedi 31 octobre au dimanche 1er novembre 2026, Haïti quitte l’heure d’été pour revenir à l’heure normale. À 2 h du matin, il sera 1 h, selon Mono-Infos sur X. Le site timeanddate.com, qui recense les changements d’heure dans le monde, confirme cette date et cette heure pour Port-au-Prince. Selon ce même site, le soleil se lèvera et se couchera environ une heure plus tôt à partir de dimanche.\n\nÀ faire : reculez d’une heure les montres et réveils non connectés avant d’aller dormir. Les téléphones et ordinateurs connectés se mettent généralement à jour automatiquement, mais vérifiez l’heure dimanche matin, surtout si vous avez un rendez-vous ou travaillez tôt.\n\nQuestions aux lecteurs : • Le changement d’heure est-il encore utile en Haïti ? • Saviez-vous que l’heure changeait cette nuit ?",
+    },
+    sources: ["Mono-Infos (X)", "timeanddate.com"],
+    sourceLinks: [
+      { name: "Mono-Infos (X)", url: "https://x.com/MonopaulS58061/status/2116675482129142060" },
+      { name: "timeanddate.com", url: "https://www.timeanddate.com/time/change/haiti/port-au-prince?year=2026" },
+    ],
+  },
+  {
     id: "qh-cuba-embargo-haiti-abstention-2026-10-31",
     tier: "quick-hit",
     topic: "gossip",
