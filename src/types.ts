@@ -28,6 +28,8 @@ export interface Story {
   author?: LocalizedText;
   /** Short blurb / teaser on the feed. */
   brief: LocalizedText;
+  /** Optional explicit card teaser (1-2 sentences). Cards never show more than this. */
+  teaser?: LocalizedText;
   /** Optional full article body (story page only). */
   body?: LocalizedText;
   /** Optional source credit shown under the brief. */

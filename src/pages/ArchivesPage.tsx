@@ -1,3 +1,4 @@
+import { cardTeaser } from "../lib/teaser";
 import { storyPath } from "../lib/storyPath";
 import { Link } from "react-router-dom";
 import { SiteFooter } from "../components/SiteFooter";
@@ -57,7 +58,7 @@ export function ArchivesPage() {
                 <li key={s.id}>
                   <Link to={storyPath(s.id, lang)} className="archive-item">
                     <strong>{s.headline[lang]}</strong>
-                    <span>{s.brief[lang].length > 140 ? s.brief[lang].slice(0, 140).replace(/\s+\S*$/, "") + "…" : s.brief[lang]}</span>
+                    <span>{cardTeaser(s, lang)}</span>
                   </Link>
                 </li>
               ))}

@@ -4,6 +4,7 @@ import { ShareBar } from "./ShareBar";
 import { isNewStory, isBreakingActive, isUrgentActive } from "../data/stories";
 import { useLanguage } from "../context/LanguageContext";
 import { KeepNumbers } from "../lib/keepNumbers";
+import { cardTeaser } from "../lib/teaser";
 import type { Story } from "../types";
 
 interface Props {
@@ -33,7 +34,10 @@ export function StoryCard({ story, variant = "hit" }: Props) {
         </Link>
       </h3>
       <p className="story-brief">
-        <KeepNumbers text={t(story.brief)} />
+        <KeepNumbers text={cardTeaser(story, lang)} />{" "}
+        <Link className="story-more" to={storyPath(story.id, lang)}>
+          {lang === "fr" ? "Lire la suite →" : "Li plis →"}
+        </Link>
       </p>
       <ShareBar storyId={story.id} headline={story.headline} variant="card" />
     </article>
