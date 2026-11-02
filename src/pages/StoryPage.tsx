@@ -66,6 +66,7 @@ export function StoryPage({ pageLang }: { pageLang: Lang }) {
         {isBreakingActive(story) && (
             <span className="badge badge-breaking">{ui.breakingBadge}</span>
           )}
+        {story.isFollowUp && <span className="badge badge-followup">{ui.followUpBadge}</span>}
         {isNewStory(story) && <span className="badge badge-new">{ui.newBadge}</span>}
           {story.isSample && <span className="badge">{ui.sampleBadge}</span>}
           {story.isManual && (

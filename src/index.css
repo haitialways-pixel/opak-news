@@ -863,3 +863,10 @@ a[href^="tel:"] {
   .opak-wa-cta { width: 100%; justify-content: center; margin-bottom: 0.2rem; }
 }
 .story-more{font-weight:600;white-space:nowrap}
+
+.badge-followup {
+  background: #0f766e;
+  color: #fff;
+  letter-spacing: 0.04em;
+  font-weight: 700;
+}
