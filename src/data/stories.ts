@@ -794,7 +794,7 @@ export const STORIES: Story[] = [
   {
     id: "ntk-detention-preventive-commissariats-2026-10-30",
     isUrgent: true,
-    pinned: true,
+    archived: true,
     tier: "need-to-know",
     topic: "justice",
     publishedAt: "2026-10-30",
