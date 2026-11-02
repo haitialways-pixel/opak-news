@@ -895,6 +895,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-barrau-candidature-2026-10-28",
+    archived: true,
     tier: "need-to-know",
     topic: "governance",
     publishedAt: "2026-10-30",
@@ -1247,6 +1248,7 @@ export const STORIES: Story[] = [
 
   {
     id: "qh-cassation-18-dossiers-2026-10",
+    archived: true,
     tier: "quick-hit",
     topic: "justice",
     publishedAt: "2026-10-21",
@@ -1263,6 +1265,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-cspj-certification-2026-10",
+    archived: true,
     tier: "quick-hit",
     topic: "justice",
     publishedAt: "2026-10-05",
@@ -1296,6 +1299,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-gov-sipdec-data-2026-10",
+    archived: true,
     tier: "quick-hit",
     topic: "governance",
     publishedAt: "2026-10-21",
@@ -1312,6 +1316,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-gov-casec-territoire-2026-10",
+    archived: true,
     tier: "quick-hit",
     topic: "governance",
     publishedAt: "2026-10-10",
@@ -1361,6 +1366,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-gossip-rutshelle-teddy-2026-10",
+    archived: true,
     tier: "quick-hit",
     topic: "gossip",
     publishedAt: "2026-10-27",
@@ -1377,6 +1383,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-cep-elections-hold-2026-10",
+    archived: true,
     tier: "quick-hit",
     topic: "politics",
     publishedAt: "2026-10-26",
@@ -1393,6 +1400,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-gangs-rural-violence-un",
+    archived: true,
     tier: "quick-hit",
     topic: "security",
     publishedAt: "2026-10-19",
@@ -1409,6 +1417,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-humanitarian-idp-15m",
+    archived: true,
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-10-19",
@@ -1425,6 +1434,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-brh-digital-payments",
+    archived: true,
     tier: "quick-hit",
     topic: "tech",
     publishedAt: "2026-10-20",
@@ -1441,6 +1451,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-commerce-caravan-5000",
+    archived: true,
     tier: "quick-hit",
     topic: "commerce",
     publishedAt: "2026-10-18",
@@ -1457,6 +1468,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-aiesu-startups-uni",
+    archived: true,
     tier: "quick-hit",
     topic: "tech",
     publishedAt: "2026-10-11",
@@ -1473,6 +1485,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-soley-etzer-decret-2026-10",
+    archived: true,
     tier: "quick-hit",
     topic: "politics",
     publishedAt: "2026-10-15",
@@ -1543,11 +1556,11 @@ export function isNewStory(story: Story, now = Date.now()): boolean {
 
 export function needToKnowStories(): Story[] {
   // Standing rule: Sports stories never take top-story (Need to Know) slots; they live only in the Sports section.
-  return sortNewestFirst(STORIES.filter((s) => s.tier === "need-to-know" && s.topic !== "sports"));
+  return sortNewestFirst(STORIES.filter((s) => !s.archived && s.tier === "need-to-know" && s.topic !== "sports"));
 }
 
 export function quickHitStories(): Story[] {
-  return sortNewestFirst(STORIES.filter((s) => s.tier === "quick-hit" || s.topic === "sports"));
+  return sortNewestFirst(STORIES.filter((s) => !s.archived && (s.tier === "quick-hit" || s.topic === "sports")));
 }
 
 /** BREAKING badge: shown for breakingHours (default 6) after publishedTime; updates republish by bumping publishedTime. */

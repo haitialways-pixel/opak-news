@@ -52,6 +52,8 @@ export interface Story {
   breakingHours?: 6 | 12 | 24;
   /** URGENT / IJAN badge; no expiry unless urgentHours is set (counted from publishedTime). */
   isUrgent?: boolean;
+  /** Archived: hidden from the front page feeds, still listed on /archives and reachable at its URL. */
+  archived?: boolean;
   /** Pinned stories always sort first (editor's top story). */
   pinned?: boolean;
   /** Quiet item: no NOUVEAU badge (and so no promo banner). */
