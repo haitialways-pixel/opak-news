@@ -52,6 +52,8 @@ export interface Story {
   breakingHours?: 6 | 12 | 24;
   /** URGENT / IJAN badge; no expiry unless urgentHours is set (counted from publishedTime). */
   isUrgent?: boolean;
+  /** Internal "read more" line shown after the body, per language. */
+  readMoreLink?: { fr: { before: string; link: string; after: string; href: string }; ht: { before: string; link: string; after: string; href: string } };
   /** Follow-up piece: shows the SUIVI / SWIVI badge (no expiry, not BREAKING). */
   isFollowUp?: boolean;
   /** Archived: hidden from the front page feeds, still listed on /archives and reachable at its URL. */

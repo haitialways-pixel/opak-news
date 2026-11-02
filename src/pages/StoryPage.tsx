@@ -122,6 +122,13 @@ export function StoryPage({ pageLang }: { pageLang: Lang }) {
                   <KeepNumbers text={para} />
                 </p>
               ))}
+            {story.readMoreLink && (
+              <p className="read-more-link">
+                {story.readMoreLink[pageLang].before}
+                <Link to={story.readMoreLink[pageLang].href}>{story.readMoreLink[pageLang].link}</Link>
+                {story.readMoreLink[pageLang].after}
+              </p>
+            )}
           </div>
         )}
 

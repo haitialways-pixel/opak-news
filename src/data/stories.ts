@@ -19,9 +19,14 @@ export const STORIES: Story[] = [
     id: "ntk-detention-silence-cspj-opc-2026-11-02",
     pinned: true,
     isFollowUp: true,
+    isUrgent: true,
     quiet: true,
     tier: "need-to-know",
     topic: "justice",
+    readMoreLink: {
+      fr: { before: "Pour lire notre première tribune sur la détention préventive, ", link: "cliquez ici", after: ".", href: "/story/ntk-detention-preventive-commissariats-2026-10-30" },
+      ht: { before: "Pou li premye tribin nou an sou detansyon preventif, ", link: "klike la a", after: ".", href: "/ht/story/ntk-detention-preventive-commissariats-2026-10-30" },
+    },
     publishedAt: "2026-11-02",
     publishedTime: "2026-11-02T11:55:00-05:00",
     headline: {
@@ -43,7 +48,6 @@ export const STORIES: Story[] = [
     },
     sources: ["BINUH", "CSPJ", "Constitution de 1987", "OPC", "RNDDH", "CARDH"],
     sourceLinks: [
-      { name: "Opak News : Détention préventive, quand la liberté se négocie sous la table (30 octobre)", url: "https://opak-news.haitialways.workers.dev/story/ntk-detention-preventive-commissariats-2026-10-30" },
       { name: "Loi CSPJ (2007)", url: "https://docs.haitidocs.org/cl-2007-loi-cspj.pdf" },
       { name: "OEA/MESICIC (CSPJ)", url: "https://www.oas.org/en/sla/dlc/mesicic/docs/mesicic4_hti_CSJP_notes.pdf" },
       { name: "Constitution de 1987 (art. 207)", url: "https://pdba.georgetown.edu/Constitutions/Haiti/haiti1987fr.html" },
