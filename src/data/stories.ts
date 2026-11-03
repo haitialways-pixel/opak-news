@@ -16,6 +16,94 @@ import type { Story } from "../types";
  */
 export const STORIES: Story[] = [
   {
+    id: "qh-cite-soleil-mairie-pm-2026-11-03",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-03",
+    publishedTime: "2026-11-03T18:40:00-05:00",
+    headline: {
+      ht: "Site Solèy : meri a mande PM a aji anvan fen desanm",
+      fr: "Cité Soleil : la mairie demande au Premier ministre d'agir avant la fin décembre",
+    },
+    teaser: {
+      ht: "Pon Soleil 4, fatra ak biwo enskripsyon elektoral : meri a mete demand li sou tab la nan fèt Gede yo.",
+      fr: "Pont Soleil 4, déchets et bureaux d'inscription électorale : la mairie a posé ses demandes lors de la fête des Gédé.",
+    },
+    brief: {
+      ht: "Dapre Vant Bèf Info, otorite meri Site Solèy mande Premye minis Fils-Aimé fè Leta entèvni anvan fen desanm.",
+      fr: "Selon Vant Bèf Info, les autorités municipales de Cité Soleil demandent au Premier ministre Fils-Aimé une intervention de l'État avant la fin décembre.",
+    },
+    body: {
+      ht: "Dapre Vant Bèf Info, otorite meri Site Solèy yo lanse yon apèl bay Premye minis Alix Didier Fils-Aimé lendi 2 novanm, pandan fèt Gede yo nan simityè Drouillard. Yo mande Leta entèvni anvan fen desanm.\n\n\"Olye nou selebre lavi nan lanmò, nou vle selebre lavi nan lavi\", konseye minisipal Johny Lundy di. Meri a mande travay sou pon Soleil 4 e li denonse fatra k ap anpile. Ansanm ak moun yo, li mande tou pou yo louvri biwo enskripsyon elektoral nan Lise nasyonal Site Solèy, Duvivier, Don Bosco ak Sainte-Anne.\n\nMeri a di komin nan ap degrade paske Leta pa akonpaye l. Nou pa jwenn repons Primati a.\n\nKesyon pou lektè yo :\n• Poukisa se nan fèt lèmò pou Site Solèy rive fè moun tande l ?\n• Èske CEP ap louvri biwo enskripsyon nan Site Solèy anvan eleksyon yo ?\n• Kiyès ki pral peye pou pon Soleil 4 la ?\n",
+      fr: "Selon Vant Bèf Info, les autorités municipales de Cité Soleil ont lancé un appel au Premier ministre Alix Didier Fils-Aimé lundi 2 novembre, lors de la fête des Gédé au cimetière de Drouillard. Elles demandent une intervention de l'État avant la fin décembre.\n\n« Au lieu de célébrer la vie dans la mort, nous voulons célébrer la vie dans la vie », a déclaré le conseiller municipal Johny Lundy. La mairie réclame des travaux sur le pont Soleil 4 et dénonce l'accumulation des déchets. Avec les habitants, elle demande aussi l'ouverture de bureaux d'inscription électorale au Lycée national de Cité Soleil, à Duvivier, à Don Bosco et à Sainte-Anne.\n\nLa mairie dit que la commune se dégrade faute d'accompagnement de l'État. Nous n'avons pas trouvé de réponse de la Primature.\n\nQuestions aux lecteurs :\n• Pourquoi faut-il une fête des morts pour que Cité Soleil se fasse entendre ?\n• Le CEP ouvrira-t-il des bureaux d'inscription à Cité Soleil avant les élections ?\n• Qui paiera pour le pont Soleil 4 ?\n",
+    },
+    sources: ["Vant Bèf Info"],
+    sourceLinks: [
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/haiti-cite-soleil-la-mairie-demande-au-premier-ministre-dagir-avant-la-fin-decembre/" },
+    ],
+  },
+  {
+    id: "ntk-salvadoriens-commandement-2026-11-03",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-03",
+    publishedTime: "2026-11-03T18:40:00-05:00",
+    isFollowUp: true,
+    readMoreLink: {
+      fr: { before: "Pour lire notre article précédent sur l'arrivée des soldats salvadoriens, ", link: "cliquez ici", after: ".", href: "/story/ntk-salvador-2000-soldats-2026-10-29" },
+      ht: { before: "Pou li atik anvan an sou sòlda salvadoryen yo, ", link: "klike la a", after: ".", href: "/ht/story/ntk-salvador-2000-soldats-2026-10-29" },
+    },
+    headline: {
+      ht: "Sòlda salvadoryen yo : pa gen akò siyen, pa gen fòmasyon dwa moun ONU, se pwòp jeneral yo k ap kòmande yo",
+      fr: "Soldats salvadoriens : pas d'accord signé, pas de formation ONU aux droits humains, ils répondent à leur propre général",
+    },
+    teaser: {
+      ht: "Dapre Miami Herald, apèn 200 Salvadoryen anba GSF. ONU di deplwaman an se yon zafè ant Ayiti ak Salvadò. Kat teknisyen yo toujou disparèt.",
+      fr: "Selon le Miami Herald, à peine 200 Salvadoriens relèvent de la GSF. L'ONU parle d'une affaire bilatérale entre Haïti et le Salvador. Les quatre techniciens restent introuvables.",
+    },
+    brief: {
+      ht: "Dapre Miami Herald, pifò sòlda salvadoryen yo rapòte bay yon kòmandan salvadoryen, yo rive san fòmasyon dwa moun ONU egzije, e anvan yon akò siyen ak gouvènman ayisyen an.",
+      fr: "Selon le Miami Herald, la plupart des soldats salvadoriens rendent compte à un commandant salvadorien, sont arrivés sans la formation aux droits humains exigée par l'ONU, et avant tout accord signé avec le gouvernement haïtien.",
+    },
+    body: {
+      ht: "Dapre Miami Herald (Jacqueline Charles), sòlda salvadoryen ann Ayiti yo rapòte bay yon kòmandan salvadoryen Pòtoprens, se pa bay jeneral mongolyen ki dirije Fòs pou Siprime Gang yo (GSF). Pòtpawòl ONU, Stéphane Dujarric, di madi a se sèlman \"anviwon 200\" Salvadoryen ki anba manda GSF, kidonk anba kontwòl ONU. Pou rès yo, li di se yon zafè ant Ayiti ak Salvadò.\n\nDapre jounal la, règ ONU mande pou sòlda ki nan misyon entènasyonal fè yon fòmasyon sou dwa moun. Salvadoryen yo rive san fòmasyon sa a, e anvan okenn akò fòmèl siyen ak gouvènman ayisyen an. Prezidan Nayib Bukele di li gen 2500 sòlda Pòtoprens ak elikoptè atak ki rive 29 oktòb.\n\nDujarric raple tout operasyon ann Ayiti, nan GSF oswa non, dwe respekte dwa entènasyonal, dwa moun ak dwa imanitè. Li konfime tou ONU resevwa pa imèl yon lèt ki date 1ye novanm, Wilson Joseph, ke yo rele Lanmò Sanjou, chèf 400 Mawozo, siyen. \"N ap egzamine l\", li di.\n\nKat teknisyen fòs ayeryen salvadoryen yo, ki disparèt 18 oktòb apre yon anbiskad nan lès Pòtoprens, poko jwenn. Lanmò Sanjou di AP yo mouri, men Salvadò pa kwè sa. Dapre yon sous Herald la, operasyon plizyè èdtan GSF ak PNH te fè lendi nan Plenn Kildesak la pa jwenn yo, men sòlda yo prèske pa t resevwa bal.\n\nKesyon pou lektè yo :\n• Si yon sòlda salvadoryen touye yon sivil, devan ki tribinal l ap reponn ?\n• Poukisa gouvènman an kite 2500 sòlda antre san akò siyen ?\n• Kiyès ki otorize elikoptè atak yo, e anba ki règ ?\n",
+      fr: "Selon le Miami Herald (Jacqueline Charles), les troupes salvadoriennes en Haïti rendent compte à un commandant salvadorien à Port-au-Prince, et non au général mongol qui dirige la Force de répression des gangs (GSF). Le porte-parole de l'ONU, Stéphane Dujarric, a dit mardi que seuls « environ 200 » Salvadoriens relèvent du mandat de la GSF et donc des mécanismes de contrôle de l'ONU. Pour le reste, il parle d'une affaire bilatérale entre Haïti et le Salvador.\n\nSelon le journal, les règles de l'ONU imposent une formation aux droits humains aux militaires déployés dans les missions internationales. Les Salvadoriens sont arrivés sans cette formation, et avant tout accord formel signé avec le gouvernement haïtien. Le président Nayib Bukele dit avoir 2500 soldats à Port-au-Prince ainsi que des hélicoptères d'attaque, arrivés le 29 octobre.\n\nDujarric rappelle que toutes les opérations en Haïti, dans la GSF ou non, doivent respecter le droit international, les droits humains et le droit humanitaire. Il confirme aussi que l'ONU a reçu par courriel une lettre datée du 1er novembre et signée par Wilson Joseph, dit Lanmò Sanjou, chef de 400 Mawozo. « Nous l'examinons », a-t-il dit.\n\nLes quatre techniciens de l'armée de l'air salvadorienne, disparus le 18 octobre après une embuscade à l'est de Port-au-Prince, n'ont pas été retrouvés. Lanmò Sanjou affirme à l'AP qu'ils sont morts, ce que le Salvador ne croit pas. Selon une source du Herald, l'opération de plusieurs heures menée lundi par la GSF et la PNH dans la Plaine du Cul-de-Sac ne les a pas retrouvés, mais les troupes n'ont presque pas essuyé de tirs.\n\nQuestions aux lecteurs :\n• Si un soldat salvadorien tue un civil, devant quel tribunal répondra-t-il ?\n• Pourquoi le gouvernement a-t-il laissé entrer 2500 soldats sans accord signé ?\n• Qui a autorisé les hélicoptères d'attaque, et sous quelles règles ?\n",
+    },
+    sources: ["Miami Herald"],
+    sourceLinks: [
+      { name: "Miami Herald", url: "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article317899359.html" },
+    ],
+  },
+  {
+    id: "ntk-fils-aime-discours-territoire-2026-11-03",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-03",
+    publishedTime: "2026-11-03T18:40:00-05:00",
+    headline: {
+      ht: "Fils-Aimé pale ak peyi a : « Leta p ap lage okenn teritwa », plis pase 4000 sòlda etranje ak yon lame 15000 sòlda",
+      fr: "Fils-Aimé s'adresse au pays : « L'État ne renoncera à aucun territoire », plus de 4000 militaires étrangers et une armée visée à 15000 soldats",
+    },
+    teaser: {
+      ht: "Nan premye diskou piblik li depi Salvadoryen yo rive, PM a di gang yo \"p ap ka domine\". Li pa di kijan sòlda salvadoryen yo ap opere.",
+      fr: "Dans sa première prise de parole depuis l'arrivée des Salvadoriens, le PM affirme que les gangs « ne pourront pas dominer ». Il n'a pas dit comment opéreront les soldats salvadoriens.",
+    },
+    brief: {
+      ht: "Premye minis Alix Didier Fils-Aimé di madi 3 novanm fòs etranje yo depase 4000 sòlda, e Leta vize yon lame 15000 sòlda. Yon kominike gouvènman an di \"Leta ayisyen p ap lage okenn teritwa\".",
+      fr: "Le Premier ministre Alix Didier Fils-Aimé a affirmé mardi 3 novembre que les forces étrangères dépassent 4000 soldats et que l'État vise une armée de 15000 soldats. Un communiqué du gouvernement affirme que « l'État haïtien ne renoncera à aucun territoire ».",
+    },
+    body: {
+      ht: "Premye minis Alix Didier Fils-Aimé pale ak piblik la madi 3 novanm, premye fwa depi sòlda salvadoryen yo kòmanse rive, dapre Miami Herald. Li di gouvènman an gen de priyorite : retabli sekirite sou tout teritwa a e òganize eleksyon. \"Nou antre nan yon faz desizif\", li di.\n\nDapre Le Quotidien 509, li di avèk fòs espesyal salvadoryen yo, sòlda entènasyonal k ap ede Ayiti yo depase 4000. \"Avèk ranfò sa a, mwen ka di gang yo p ap ka domine\", li di. Toujou dapre Le Quotidien 509, li anonse :\n• 3258 polisye anplis ak twa pwomosyon pwogram P4000 ;\n• 17622 jèn enskri pou antre nan Fòs Ame yo, ak yon objektif 15000 sòlda ;\n• 108 moun k ap fòme kòm fòs espesyal nan Meksik ;\n• 40 nouvo blende yo resevwa mwa pase, Leta peye pou yo.\n\n\"Se Leta ayisyen ki responsab direksyon politik ak estratejik batay la\", li di. \"Nou pa nan batay kont pèp la. Nou nan batay kont gang ki kenbe pèp la an otaj.\" Li pwomèt li p ap tolere okenn abi ni vyolasyon dwa moun, e li remèsye prezidan salvadoryen Nayib Bukele.\n\nNan yon kominike menm jou a, Juno7 rapòte, gouvènman an di \"Leta ayisyen p ap lage okenn teritwa\". Operasyon Kenscoff ak Gressier yo ap kontinye e yo ka elaji nan lòt zòn nan Lwès, nan Latibonit ak nan Sant. Dapre Juno7, kominike a pa bay ni dat ni plis mwayen.\n\nMiami Herald remake PM a prezante Salvadoryen yo tankou yo fè pati GSF, alòske fòs miltinasyonal la pa gen okenn otorite sou yo. Li pa di kijan yo pral opere ni avèk kiyès.\n\nKesyon pou lektè yo :\n• Kiyès ki kòmande 2500 sòlda salvadoryen yo vre : PM a, GSF oswa San Salvador ?\n• Kote akò siyen ak Salvadò a ye, e kilè y ap pibliye l ?\n• PM a pwomèt zewo abi : kiyès ki pral mennen ankèt si yon sivil mouri ?\n• Kilè n ap wè rezilta sou wout nasyonal yo ?\n",
+      fr: "Le Premier ministre Alix Didier Fils-Aimé s'est adressé au public mardi 3 novembre, pour la première fois depuis l'arrivée des soldats salvadoriens, selon le Miami Herald. Il dit que le gouvernement a deux priorités : rétablir la sécurité sur tout le territoire et organiser des élections. « Nous sommes entrés dans une phase décisive », a-t-il déclaré.\n\nSelon Le Quotidien 509, il affirme que l'arrivée des forces spéciales salvadoriennes porte à plus de 4000 les militaires internationaux qui appuient Haïti. « Avec ce renforcement, je peux dire que les gangs ne pourront pas dominer », a-t-il dit. Il annonce aussi, toujours selon Le Quotidien 509 :\n• 3258 policiers de plus avec trois promotions du programme P4000 ;\n• 17622 jeunes inscrits au recrutement des Forces armées, et un objectif de 15000 soldats ;\n• 108 personnes en formation de forces spéciales au Mexique ;\n• 40 nouveaux blindés reçus le mois dernier, payés par l'État.\n\n« C'est l'État haïtien qui est responsable de la direction politique et stratégique de la lutte », a-t-il déclaré. « Nous ne sommes pas en guerre contre le peuple. Nous sommes en guerre contre les gangs qui prennent le peuple en otage. » Il promet de ne tolérer aucun abus ni violation des droits humains, et il a remercié le président salvadorien Nayib Bukele.\n\nDans un communiqué publié le même jour, rapporté par Juno7, le gouvernement affirme que « l'État haïtien ne renoncera à aucun territoire ». Les opérations de Kenscoff et de Gressier vont continuer et pourraient s'étendre à d'autres zones de l'Ouest, à l'Artibonite et au Centre. Selon Juno7, le communiqué ne donne ni calendrier ni moyens supplémentaires.\n\nLe Miami Herald note que le PM a présenté les Salvadoriens comme faisant partie de la GSF, alors que la force multinationale n'a aucune autorité sur eux. Il n'a pas dit comment ils opéreront ni avec qui.\n\nQuestions aux lecteurs :\n• Qui commande vraiment les 2500 soldats salvadoriens : le PM, la GSF ou San Salvador ?\n• Où est l'accord signé avec le Salvador, et quand sera-t-il publié ?\n• Le PM promet zéro abus : qui va enquêter si un civil est tué ?\n• Quand verra-t-on les résultats sur les routes nationales ?\n",
+    },
+    sources: ["Le Quotidien 509", "Juno7", "Miami Herald"],
+    sourceLinks: [
+      { name: "Le Quotidien 509", url: "https://lequotidien509.com/haiti-fils-aime-met-en-garde-les-gangs-annonce-plus-de-4-000-militaires-internationaux-et-vise-15-000-soldats-pour-larmee/" },
+      { name: "Juno7", url: "https://www.juno7.ht/haiti-gouvernement-territoires-gangs-operations-securite/" },
+      { name: "Miami Herald", url: "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article317899359.html" },
+    ],
+  },
+  {
     id: "qh-d1-paryaj-lakay-2026-11-03",
     tier: "quick-hit",
     topic: "sports",
@@ -1291,6 +1379,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-salvador-2000-soldats-2026-10-29",
+    archived: true,
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-10-29",
