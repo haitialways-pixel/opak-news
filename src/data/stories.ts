@@ -16,6 +16,42 @@ import type { Story } from "../types";
  */
 export const STORIES: Story[] = [
   {
+    id: "qh-rhajac-martelly-una-haiti-2026-11-02",
+    tier: "need-to-know",
+    topic: "politics",
+    publishedAt: "2026-11-02",
+    publishedTime: "2026-11-03T02:45:00-05:00",
+    isBreaking: true,
+    breakingHours: 12,
+    author: { fr: "Par Blaise Antoine Joseph (BAJ)", ht: "Pa Blaise Antoine Joseph (BAJ)" },
+    headline: {
+      ht: "RHAJAC akize Martelly, san prèv piblik, li ta dèyè lèt UNA-Haiti bay ONU kont operasyon salvadoryen yo",
+      fr: "Le RHAJAC accuse Martelly, sans preuves publiques, d'être derrière la lettre d'UNA-Haiti à l'ONU contre les opérations salvadoriennes",
+    },
+    teaser: {
+      ht: "Dapre RHAJAC, ansyen prezidan an ta mobilize Harvey Dupiton, Randolf St Léger ak Jean Philippe Vixamar. Rezo a pale tou de pwomès amnisti bay chèf gang. Okenn moun yo site pa reponn.",
+      fr: "Selon le RHAJAC, l'ancien président aurait mobilisé Harvey Dupiton, Randolf St Léger et Jean Philippe Vixamar. Le réseau évoque aussi de présumées promesses d'amnistie à des chefs de gangs. Aucune des personnes citées n'a répondu.",
+    },
+    brief: {
+      ht: "Mizajou 3 novanm, 2 h 45 : Nan yon nòt 2 novanm, RHAJAC akize Michel Martelly li ta fè voye lèt UNA-Haiti 28 oktòb la bay ONU pou kanpe operasyon salvadoryen yo. Akizasyon yo chita sou sous anonim, san prèv piblik. Martelly ak lòt moun yo site yo pa t reponn.",
+      fr: "Mise à jour du 3 novembre, 2 h 45 : Dans une note du 2 novembre, le RHAJAC accuse Michel Martelly d'avoir fait adresser à l'ONU la lettre d'UNA-Haiti du 28 octobre contre les opérations salvadoriennes. Les accusations reposent sur des sources anonymes, sans preuves publiques. Martelly et les autres personnes citées n'avaient pas répondu.",
+    },
+    body: {
+      ht: "Mizajou 3 novanm, 2 h 45 : Nan yon nòt denonsyasyon ki date lendi 2 novanm 2026, sekretè jeneral li, Djovany Michel, siyen, Rezo jounalis ayisyen kont koripsyon (RHAJAC) akize ansyen prezidan Michel Joseph Martelly li ta, dapre enfòmasyon rezo a, chèche fè kanpe operasyon militè salvadoryen yo kont gang yo. Plizyè medya rapòte nòt la : Rezo Nòdwès, Réalité Info, Satellite509, Décodage Info, FCN ak RL News Haïti. Djovany Michel pataje l tou sou X.\n\nDapre RHAJAC, Martelly ta mande Harvey Dupiton, Randolf St Léger ak Jean Philippe Vixamar fè voye yon lèt bay sekretè jeneral ONU, António Guterres, nan non UNA-Haiti. Lèt sa a, ki date 28 oktòb, akize fòs salvadoryen yo de bonbadman, tire elikoptè ame ak atak zam lou depi 22 oktòb nan Kwadebouke, Kanaran ak Plenn Kildesak. Lèt la egziste : prezidan Nayib Bukele pibliye yon foto l sou X 31 oktòb, ak dat 28 oktòb la ansèkle, e li rejte akizasyon yo. Dapre NAGO, se Harvey Dupiton, fondatè UNA-Haiti, ki siyen l. Malgre non li, UNA-Haiti pa fè pati ONU.\n\nSa ki rete yon akizasyon, se wòl yo prete Martelly a. Dapre Réalité Info ak Rezo Nòdwès, nòt la chita sou sous anonim, e li pa gen ni kopi lèt la ni prèv lòd yo di ansyen prezidan an ta bay. RHAJAC panse demach sa yo ta ka gen lyen ak enterè politik Martelly ak kandidati li pou prezidan anba banyè DEBLOKE. Li di tou ansyen prezidan an ta pwomèt chèf gang yo amnisti pou yo sipòte l. Dapre Réalité Info, okenn prèv dokimantè pa pibliye pou akizasyon sa a.\n\nRHAJAC raple Jean Philippe Vixamar te nonmen direktè jeneral BNC anba Martelly, 11 novanm 2011. Li site tou sanksyon Trezò ameriken an (out 2024) ak Inyon Ewopeyen (desanm 2025) kont ansyen prezidan an. Sanksyon sa yo se mezi administratif, se pa yon kondanasyon penal.\n\nRezo a mande otorite jidisyè ayisyen ak ekspè ONU louvri yon ankèt pou verifye akizasyon yo e etabli responsablite yo.\n\nLè nou t ap pibliye, nou pa t jwenn okenn repons piblik Michel Martelly, UNA-Haiti, Harvey Dupiton, Randolf St Léger oswa Jean Philippe Vixamar. Nou toujou ap tann vèsyon pa yo. Yo prezime inosan, e yon nòt denonsyasyon pa pwouve yo patisipe.\n\nKesyon pou lektè yo :\n• Si RHAJAC gen sous, poukisa li pa pibliye okenn dokiman ?\n• Kiyès ki ekri lèt 28 oktòb la vre, e kiyès ki peye pou li ?\n• Èske lajistis ayisyen ap louvri yon ankèt, oswa dosye sa a ap fini tankou lòt yo ?\n• Èske yon kandida pou prezidan ki anba sanksyon ka rete an silans devan yon akizasyon konsa ?",
+      fr: "Mise à jour du 3 novembre, 2 h 45 : Dans une note de dénonciation datée du lundi 2 novembre 2026 et signée par son secrétaire général, Djovany Michel, le Réseau haïtien des journalistes anti-corruption (RHAJAC) accuse l'ancien président Michel Joseph Martelly d'avoir, selon ses informations, cherché à obtenir l'arrêt des opérations militaires salvadoriennes contre les gangs. Plusieurs médias ont rapporté la note : Rezo Nòdwès, Réalité Info, Satellite509, Décodage Info, FCN et RL News Haïti. Djovany Michel l'a aussi relayée sur X.\n\nSelon le RHAJAC, Martelly aurait sollicité Harvey Dupiton, Randolf St Léger et Jean Philippe Vixamar pour faire adresser une lettre au secrétaire général de l'ONU, António Guterres, au nom d'UNA-Haiti. Cette lettre, datée du 28 octobre, accuse les forces salvadoriennes de bombardements aériens, de tirs d'hélicoptères armés et d'assauts à l'arme lourde depuis le 22 octobre à Croix-des-Bouquets, à Canaan et dans la Plaine du Cul-de-Sac. La lettre existe : le président Nayib Bukele en a publié une photo sur X le 31 octobre, date du 28 octobre entourée, et a rejeté ces accusations. Selon NAGO, Harvey Dupiton, fondateur d'UNA-Haiti, l'a signée. Malgré son nom, UNA-Haiti ne fait pas partie de l'ONU.\n\nCe qui reste une accusation, c'est le rôle prêté à Martelly. Selon Réalité Info et Rezo Nòdwès, la note s'appuie sur des sources anonymes et ne contient ni copie de la lettre ni preuve des instructions présumées de l'ancien président. Le RHAJAC estime que ces démarches pourraient être liées aux intérêts politiques de Martelly et à sa candidature à la présidentielle sous la bannière de DEBLOKE. Il affirme aussi que l'ancien président aurait promis une amnistie à des chefs de gangs en échange de leur soutien. Selon Réalité Info, cette accusation n'est accompagnée d'aucune preuve documentaire rendue publique.\n\nLe RHAJAC rappelle que Jean Philippe Vixamar avait été nommé directeur général de la BNC sous Martelly, le 11 novembre 2011. Il cite aussi les sanctions du Trésor américain (août 2024) et de l'Union européenne (décembre 2025) contre l'ancien président. Ces sanctions sont des mesures administratives, pas une condamnation pénale.\n\nLe réseau demande aux autorités judiciaires haïtiennes et aux experts de l'ONU d'ouvrir une enquête pour vérifier ces accusations et établir les responsabilités.\n\nAu moment de publier, nous n'avons trouvé aucune réponse publique de Michel Martelly, d'UNA-Haiti, de Harvey Dupiton, de Randolf St Léger ou de Jean Philippe Vixamar. Leur version reste attendue. Ils sont présumés innocents, et une note de dénonciation ne prouve pas leur implication.\n\nQuestions aux lecteurs :\n• Si le RHAJAC a des sources, pourquoi ne publie-t-il aucun document ?\n• Qui a vraiment rédigé la lettre du 28 octobre, et qui l'a payée ?\n• La justice haïtienne ouvrira-t-elle une enquête, ou ce dossier finira-t-il comme les autres ?\n• Un candidat à la présidentielle sous sanctions peut-il garder le silence face à une accusation pareille ?",
+    },
+    sources: ["Rezo Nòdwès", "Réalité Info", "Satellite509", "Décodage Info", "RL News Haïti", "NAGO", "Djovany Michel (RHAJAC) sur X"],
+    sourceLinks: [
+      { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/haiti-le-rhajac-reclame-une-enquete-sur-des-demarches-presumees-de-michel-martelly-aupres-de-lonu/" },
+      { name: "Réalité Info", url: "https://realiteinfo.com/haiti-le-rhajac-accuse-michel-martelly-de-vouloir-faire-stopper-les-operations-salvadoriennes-contre-les-gangs/" },
+      { name: "Satellite509", url: "https://satellite509.com/haiti-le-rhajac-denonce-les-manoeuvres-de-michel-martelly-pour-la-suspension-des-operations-salvadoriennes-contre-les-gangs/" },
+      { name: "Décodage Info", url: "https://decodageinfo.com/2026/11/02/haiti-securite-le-rhajac-met-en-cause-michel-martelly-dans-une-tentative-presumee-dentraver-loffensive-salvadorienne/" },
+      { name: "RL News Haïti", url: "https://rlnewshaiti.com/haiti-securite-un-reseau-de-journalistes-accuse-michel-martelly-dagir-contre-les-operations-salvadoriennes/" },
+      { name: "NAGO", url: "https://nago.tv/news/bukele-rejette-accusations-bombardements-civils-haiti-una-haiti" },
+      { name: "Djovany Michel (RHAJAC) sur X", url: "https://x.com/DjovanyMICHEL01/status/2117398441513066942" },
+    ],
+  },
+  {
     id: "ntk-jacmel-nettoyage-vehicules-2026-11-02",
     tier: "need-to-know",
     topic: "society",
@@ -43,34 +79,7 @@ export const STORIES: Story[] = [
       { name: "NAGO", url: "https://nago.tv/fr/news/jacmel-launches-extensive-cleanup-campaign" },
     ],
   },
-  {
-    id: "qh-rhajac-martelly-una-haiti-2026-11-02",
-    tier: "quick-hit",
-    topic: "gossip",
-    publishedAt: "2026-11-02",
-    publishedTime: "2026-11-02T20:30:00-05:00",
-    quiet: true,
-    headline: {
-      ht: "RHAJAC mande yon ankèt sou wòl yo prete Martelly dèyè lèt UNA-Haiti bay ONU",
-      fr: "Le RHAJAC réclame une enquête sur le rôle présumé de Martelly derrière la lettre d'UNA-Haiti à l'ONU",
-    },
-    teaser: {
-      ht: "Rezo jounalis la di, sou baz sous anonim, ansyen prezidan an ta dèyè lèt ki akize sòlda salvadoryen yo. Okenn prèv pa pibliye.",
-      fr: "Le réseau de journalistes affirme, sur la foi de sources anonymes, que l'ancien président serait derrière la lettre accusant les soldats salvadoriens. Aucune preuve publiée.",
-    },
-    brief: {
-      ht: "Dapre Rezo Nòdwès, RHAJAC mande yon ankèt sou demach yo prete ansyen prezidan Michel Martelly pou fè ONU kanpe operasyon salvadoryen yo. Akizasyon yo chita sou sous anonim. Martelly ak UNA-Haiti pa t reponn.",
-      fr: "Selon Rezo Nòdwès, le RHAJAC réclame une enquête sur des démarches qu'il prête à l'ancien président Michel Martelly pour obtenir de l'ONU l'arrêt des opérations salvadoriennes. Les accusations reposent sur des sources anonymes. Martelly et UNA-Haiti n'ont pas répondu.",
-    },
-    body: {
-      ht: "Dapre Rezo Nòdwès, Rezo jounalis ayisyen kont koripsyon (RHAJAC) mande otorite jidisyè ayisyen ak ekspè ONU fè ankèt sou demach li prete ansyen prezidan Michel Joseph Martelly. Nan yon nòt 2 novanm, sekretè jeneral li, Djovany Michel, siyen, RHAJAC di Martelly ta sèvi ak UNA-Haiti pou eseye fè ONU kanpe operasyon salvadoryen kont gang yo.\n\nDapre nòt la, Martelly ta mande Harvey Dupiton, Randolf St Léger ak Jean Philippe Vixamar fè voye yon lèt bay ONU 28 oktòb. Lèt sa a ta denonse bonbadman, elikoptè ame ak atak ak zam lou nan Kwadebouke, Kanaran ak Plenn Kildesak. Rezo Nòdwès presize akizasyon yo chita sou sous anonim, e twa paj RHAJAC voye yo pa gen ni lèt la ni okenn prèv lòd yo prete ansyen prezidan an.\n\nRHAJAC di tou demach sa yo ta ka sèvi enterè politik ki gen lyen ak gang yo. Se entèpretasyon òganizasyon an sèlman, san okenn eleman ki verifye. Okenn repons Michel Martelly, UNA-Haiti oswa lòt moun yo site yo pa t parèt lè nou t ap pibliye. Opak News pa t ka jwenn yo. Tout moun yo site yo prezime inosan, e akizasyon sa yo pa fè yo koupab.\n\nKesyon pou lektè yo : • Kiyès ki ekri lèt UNA-Haiti a vre, e kiyès ki siyen l ? • Èske lajistis ap louvri yon ankèt, oswa sa ap rete nan rimè ? • Poukisa akizasyon grav konsa toujou chita sou sous anonim ?",
-      fr: "Selon Rezo Nòdwès, le Réseau haïtien des journalistes anti-corruption (RHAJAC) demande aux autorités judiciaires haïtiennes et aux experts de l'ONU d'enquêter sur des démarches qu'il attribue à l'ancien président Michel Joseph Martelly. Dans une note datée du 2 novembre et signée par son secrétaire général, Djovany Michel, le RHAJAC affirme que Martelly aurait utilisé UNA-Haiti pour tenter d'obtenir l'arrêt des opérations salvadoriennes contre les gangs.\n\nSelon la note, Martelly aurait sollicité Harvey Dupiton, Randolf St Léger et Jean Philippe Vixamar pour faire adresser une lettre à l'ONU le 28 octobre. Cette lettre dénoncerait des bombardements, des hélicoptères armés et des assauts à l'arme lourde à Croix-des-Bouquets, à Canaan et dans la Plaine du Cul-de-Sac. Rezo Nòdwès précise que ces accusations reposent sur des sources anonymes, et que les trois pages transmises par le RHAJAC ne reproduisent ni la lettre ni aucune preuve des instructions présumées de l'ancien président.\n\nLe RHAJAC avance aussi que ces démarches répondraient à des intérêts politiques liés aux gangs. C'est l'interprétation de l'organisation, sans élément vérifiable. Aucune réponse de Michel Martelly, d'UNA-Haiti ou des autres personnes citées n'était connue au moment de publier, et Opak News n'a pas pu les joindre. Toutes les personnes citées sont présumées innocentes, et ces accusations ne font pas d'elles des coupables.\n\nQuestions aux lecteurs : • Qui a réellement rédigé et signé la lettre d'UNA-Haiti ? • La justice ouvrira-t-elle une enquête, ou l'affaire restera-t-elle une rumeur ? • Pourquoi des accusations aussi graves reposent-elles encore sur des sources anonymes ?",
-    },
-    sources: ["Rezo Nòdwès", "Opak News — Les Coulisses"],
-    sourceLinks: [
-      { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/haiti-le-rhajac-reclame-une-enquete-sur-des-demarches-presumees-de-michel-martelly-aupres-de-lonu/" },
-    ],
-  },
+
   {
     id: "ntk-offensive-plaine-cul-de-sac-2026-11-02",
     tier: "need-to-know",
