@@ -22,20 +22,20 @@ export const STORIES: Story[] = [
     publishedAt: "2026-11-03",
     publishedTime: "2026-11-03T08:15:00-05:00",
     headline: {
-      ht: "D1 Paryaj Lakay : chanpyona a kòmanse dimanch 8 novanm, 12 klib nan de zòn",
-      fr: "D1 Paryaj Lakay : coup d'envoi dimanche 8 novembre, 12 clubs en deux zones",
+      ht: "Chanpyona D1 : li kòmanse dimanch 8 novanm, 12 klib nan de zòn",
+      fr: "Championnat de D1 : coup d'envoi dimanche 8 novembre, 12 clubs en deux zones",
     },
     teaser: {
       ht: "LHF divize 12 klib yo an de gwoup 6, zòn Nò ak zòn Sid. Chak gwoup ap jwe 10 jounen.",
       fr: "La LHF répartit les 12 clubs en deux groupes de 6, zone Nord et zone Sud. Chaque groupe jouera 10 journées.",
     },
     brief: {
-      ht: "Dezyèm edisyon chanpyona D1 Paryaj Lakay la ap kòmanse dimanch 8 novanm, dapre Le National ak Juno7.",
-      fr: "La deuxième édition du championnat D1 Paryaj Lakay débute le dimanche 8 novembre, selon Le National et Juno7.",
+      ht: "Dezyèm edisyon chanpyona D1 an ap kòmanse dimanch 8 novanm, dapre Le National ak Juno7.",
+      fr: "La deuxième édition du championnat de D1 débute le dimanche 8 novembre, selon Le National et Juno7.",
     },
     body: {
-      ht: "Dapre Le National, dezyèm edisyon chanpyona nasyonal Paryaj Lakay, Lig ayisyen foutbòl (LHF) òganize, ap kòmanse dimanch 8 novanm 2026. 12 klib ap patisipe, separe an de gwoup 6 : zòn Nò ak zòn Sid. Chak gwoup ap jwe 10 jounen. Premye 5 jounen yo ap jwe soti 8 rive 29 novanm, e 5 dènye yo soti 6 rive 27 desanm. Apre sa, gen ka final, demi final ak final.\n\nDapre Juno7, 12 klib yo se : Violette AC, FICA, Tempête FC, Racing FC, America des Cayes, FC Juventus, Don Bosco FC, Racing Club Haïtien, Ouanaminthe FC, AS Capoise, Real Hope FA ak Cavaly AS. Sous yo pa di ki klib nan ki zòn.\n\nKesyon pou lektè yo :\n• Ak sitiyasyon sekirite a, nan ki estad match yo pral jwe ?\n• Èske fanatik yo pral ka antre nan estad yo ?\n",
-      fr: "Selon Le National, la deuxième édition du championnat national Paryaj Lakay, organisée par la Ligue haïtienne de football (LHF), débute le dimanche 8 novembre 2026. 12 clubs y participent, répartis en deux groupes de 6 : la zone Nord et la zone Sud. Chaque groupe disputera 10 journées. Les 5 premières se jouent du 8 au 29 novembre, les 5 dernières du 6 au 27 décembre. Suivront les quarts de finale, les demi-finales et la finale.\n\nSelon Juno7, les 12 clubs sont : Violette AC, FICA, Tempête FC, Racing FC, America des Cayes, FC Juventus, Don Bosco FC, Racing Club Haïtien, Ouanaminthe FC, AS Capoise, Real Hope FA et Cavaly AS. Les sources ne précisent pas la répartition par zone.\n\nQuestions aux lecteurs :\n• Avec la situation sécuritaire, dans quels stades se joueront les matchs ?\n• Les supporters pourront-ils y entrer ?\n",
+      ht: "Dapre Le National, dezyèm edisyon chanpyona nasyonal D1 a, Lig ayisyen foutbòl (LHF) òganize, ap kòmanse dimanch 8 novanm 2026. 12 klib ap patisipe, separe an de gwoup 6 : zòn Nò ak zòn Sid. Chak gwoup ap jwe 10 jounen. Premye 5 jounen yo ap jwe soti 8 rive 29 novanm, e 5 dènye yo soti 6 rive 27 desanm. Apre sa, gen ka final, demi final ak final.\n\nDapre Juno7, 12 klib yo se : Violette AC, FICA, Tempête FC, Racing FC, America des Cayes, FC Juventus, Don Bosco FC, Racing Club Haïtien, Ouanaminthe FC, AS Capoise, Real Hope FA ak Cavaly AS. Sous yo pa di ki klib nan ki zòn.\n\nKesyon pou lektè yo :\n• Ak sitiyasyon sekirite a, nan ki estad match yo pral jwe ?\n• Èske fanatik yo pral ka antre nan estad yo ?\n",
+      fr: "Selon Le National, la deuxième édition du championnat national de D1, organisée par la Ligue haïtienne de football (LHF), débute le dimanche 8 novembre 2026. 12 clubs y participent, répartis en deux groupes de 6 : la zone Nord et la zone Sud. Chaque groupe disputera 10 journées. Les 5 premières se jouent du 8 au 29 novembre, les 5 dernières du 6 au 27 décembre. Suivront les quarts de finale, les demi-finales et la finale.\n\nSelon Juno7, les 12 clubs sont : Violette AC, FICA, Tempête FC, Racing FC, America des Cayes, FC Juventus, Don Bosco FC, Racing Club Haïtien, Ouanaminthe FC, AS Capoise, Real Hope FA et Cavaly AS. Les sources ne précisent pas la répartition par zone.\n\nQuestions aux lecteurs :\n• Avec la situation sécuritaire, dans quels stades se joueront les matchs ?\n• Les supporters pourront-ils y entrer ?\n",
     },
     sources: ["Le National", "Juno7"],
     sourceLinks: [
