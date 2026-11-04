@@ -16,6 +16,41 @@ import type { Story } from "../types";
  */
 export const STORIES: Story[] = [
   {
+    id: "ntk-opinion-midterms-tps-parole-2026-11-04",
+    tier: "need-to-know",
+    topic: "politics",
+    publishedAt: "2026-11-04",
+    publishedTime: "2026-11-04T07:30:00-05:00",
+    isBreaking: true,
+    breakingHours: 12,
+    author: { fr: "Par Blaise Antoine Joseph (BAJ)", ht: "Pa Blaise Antoine Joseph (BAJ)" },
+    headline: {
+      ht: "Eleksyon Etazini : demokrat yo pran Kongrè a. Sa sa vle di pou moun TPS ak moun parole Biden yo (Opinyon)",
+      fr: "Élections américaines : les démocrates prennent le Congrès. Ce que ça change pour les TPS et les parolés de Biden (Opinion)",
+    },
+    teaser: {
+      ht: "Sena ak Chanm nan pase nan men demokrat yo. Men TPS Ayiti a deja fini, e anyen pa chanje demen maten.",
+      fr: "Le Sénat et la Chambre passent aux démocrates. Mais le TPS Haïti est déjà terminé, et rien ne change demain matin.",
+    },
+    brief: {
+      ht: "Dapre AP, demokrat yo pran de chanm Kongrè a. Men sa sa ka chanje, e sa li pa ka chanje, pou Ayisyen ki sou TPS ak parole Biden.",
+      fr: "Selon l'AP, les démocrates prennent les deux chambres du Congrès. Voici ce que ça peut changer, et ce que ça ne change pas, pour les Haïtiens sous TPS et parole Biden.",
+    },
+    body: {
+      ht: "Ameriken yo vote madi 3 novanm, e mesaj la klè. Dapre Associated Press, demokrat yo pran kontwòl de chanm Kongrè a. Pou nou menm, Ayisyen ki Ozetazini, kesyon an se pa kiyès ki genyen. Kesyon an se : kisa sa chanje pou frè ak sè nou ki sou TPS e pou moun ki te antre ak parole imanitè Biden nan ?\n\nChif yo dabò. Nan Sena a, demokrat yo gen 54 syèj, ak 2 endepandan, kont 44 pou repibliken yo, dapre Politico. De syèj poko deside : Mississippi, ki sere anpil, ak Alaska. Demokrat yo pran 7 syèj nan men repibliken yo : Iowa, Kansas, Ohio, Maine, Kawolin di Nò, Kawolin di Sid ak Texas, dapre AP. Nan Chanm reprezantan an, toujou dapre Politico, demokrat yo gen 228 syèj kont 139 pou repibliken yo, e gen 68 kous ki poko deside.\n\nNan Florid, se yon lòt istwa. AP deklare repibliken Ashley Moody genyen nan Sena a, ak 50,9% kont 48,0% pou demokrat Angie Nixon. AP deklare tou repibliken Byron Donalds genyen pòs gouvènè a kont David Jolly. Yon bon nouvèl pou kominote a : Christina Romelus, ki fèt Pòtoprens, genyen syèj Distri 4 nan konsèy lekòl Palm Beach la ak 61,59% vwa, dapre WPBF.\n\nKounye a, reyalite a. TPS pou Ayiti fini 27 jiyè 2026, apre desizyon Lakou siprèm nan nan ka Mullin v. Doe. Parole imanitè CHNV Biden nan fini tou. Nouvo Kongrè a pa kòmanse travay anvan 3 janvye. Kidonk anyen pa chanje demen maten, e pèsonn pa jwenn yon estati paske demokrat yo genyen.\n\nMen sa Kongrè a ka fè, se pa ti bagay. Li ka konvoke chèf DHS yo pou fè yo temwaye anba sèman sou depòtasyon yo voye Ayiti. Li kenbe bidjè a, kidonk lajan depòtasyon yo. Li ka vote yon lwa pwoteksyon pou Ayisyen. Si prezidan an bloke l, l ap oblije fè l piblikman, ak veto li, devan tout moun.\n\nYon dènye mo, e li enpòtan. Apre chak eleksyon, gen eskwo ki rele moun nou yo pou vann yo yon \"nouvo TPS\" oswa yon \"regilarizasyon\". Pa gen okenn nouvo pwogram jodi a. Pa peye pèsonn. Pale ak yon avoka imigrasyon serye oswa yon òganizasyon serye.\n\nKesyon pou lektè yo :\n• Èske eli ayisyano-ameriken yo pral pouse yon lwa pwoteksyon depi janvye, oswa y ap tann ?\n• Ki demokrat ki pral gen kouraj konvoke DHS sou depòtasyon ann Ayiti ?\n• Konbyen moun nou ki pral depòte ant jodi a ak 3 janvye ?\n• E ou menm, èske w deja resevwa yon apèl ki pwomèt yon \"nouvo TPS\" ?",
+      fr: "Les Américains ont voté mardi 3 novembre, et le message est clair. Selon l'Associated Press, les démocrates ont pris le contrôle des deux chambres du Congrès. Pour nous, Haïtiens aux États-Unis, la question n'est pas de savoir qui a gagné. La question est : qu'est-ce que ça change pour nos frères et sœurs sous TPS et pour ceux arrivés avec la parole humanitaire de Biden ?\n\nLes chiffres d'abord. Au Sénat, les démocrates ont 54 sièges, en comptant 2 indépendants, contre 44 pour les républicains, selon Politico. Deux sièges restent à attribuer : le Mississippi, très serré, et l'Alaska. Les démocrates ont pris 7 sièges aux républicains : Iowa, Kansas, Ohio, Maine, Caroline du Nord, Caroline du Sud et Texas, selon l'AP. À la Chambre, toujours selon Politico, les démocrates ont 228 sièges contre 139 pour les républicains, avec 68 courses encore en suspens.\n\nEn Floride, c'est une autre histoire. L'AP a déclaré la républicaine Ashley Moody gagnante au Sénat, avec 50,9% contre 48,0% pour la démocrate Angie Nixon. L'AP a aussi déclaré le républicain Byron Donalds élu gouverneur contre David Jolly. Une bonne nouvelle pour la communauté : Christina Romelus, née à Port-au-Prince, a gagné le siège du District 4 au conseil scolaire de Palm Beach avec 61,59% des voix, selon WPBF.\n\nMaintenant, la réalité. Le TPS pour Haïti a pris fin le 27 juillet 2026, après la décision de la Cour suprême dans l'affaire Mullin v. Doe. La parole humanitaire CHNV, celle de Biden, est aussi terminée. Le nouveau Congrès ne siège qu'à partir du 3 janvier. Rien ne change donc demain matin, et personne ne retrouve un statut parce que les démocrates ont gagné.\n\nCe que le Congrès peut faire, en revanche, ce n'est pas rien. Il peut convoquer les responsables du DHS et les faire témoigner sous serment sur les expulsions vers Haïti. Il tient le budget, donc l'argent des expulsions. Il peut voter une loi de protection pour les Haïtiens. Si le président la bloque, il devra le faire publiquement, avec son veto, devant tout le monde.\n\nUn dernier mot, et c'est important. Après chaque élection, des escrocs appellent nos gens pour leur vendre un « nouveau TPS » ou une « régularisation ». Il n'y a aucun nouveau programme aujourd'hui. Ne payez personne. Parlez à un avocat d'immigration reconnu ou à une organisation sérieuse.\n\nQuestions aux lecteurs :\n• Les élus haïtiano-américains vont-ils pousser une loi de protection dès janvier, ou attendre ?\n• Quel démocrate aura le courage de convoquer le DHS sur les expulsions vers Haïti ?\n• Combien de nos gens auront été expulsés entre aujourd'hui et le 3 janvier ?\n• Et vous, avez-vous déjà reçu un appel qui promettait un « nouveau TPS » ?",
+    },
+    sources: ["AP", "Politico", "Hindustan Times (appels AP Floride)", "WPBF", "WLRN", "Florida Politics"],
+    sourceLinks: [
+      { name: "AP", url: "https://apnews.com/live/midterm-election-2026" },
+      { name: "Politico", url: "https://www.politico.com/newsletters/playbook/2026/11/04/after-the-flood-01148513" },
+      { name: "Hindustan Times (appels AP Floride)", url: "https://www.hindustantimes.com/world-news/us-news/us-midterm-election-results-snapshot-latest-senate-house-and-governorship-race-winners-101793759896204.html" },
+      { name: "WPBF", url: "https://www.wpbf.com/article/palm-beach-county-voters-renew-1-mill-for-schools/74327653" },
+      { name: "WLRN", url: "https://www.wlrn.org/education/2026-11-03/cervera-cothiere-romelus-school-board-runoff" },
+      { name: "Florida Politics", url: "https://floridapolitics.com/archives/827754-christina-romelus-wins-open-palm-beach-school-board-district-4-race/" },
+    ],
+  },
+  {
     id: "qh-jeremie-marche-urbayiti-2026-11-04",
     tier: "quick-hit",
     topic: "society",
