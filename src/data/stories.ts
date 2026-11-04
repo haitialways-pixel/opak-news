@@ -23,7 +23,7 @@ export const STORIES: Story[] = [
     publishedTime: "2026-11-04T07:30:00-05:00",
     isBreaking: true,
     breakingHours: 12,
-    author: { fr: "Par Blaise Antoine Joseph (BAJ)", ht: "Pa Blaise Antoine Joseph (BAJ)" },
+    author: { fr: "Par Blaise A. Joseph (BAJ)", ht: "Pa Blaise A. Joseph (BAJ)" },
     headline: {
       ht: "Eleksyon Etazini : demokrat yo pran Kongrè a. Sa sa vle di pou moun TPS ak moun parole Biden yo (Opinyon)",
       fr: "Élections américaines : les démocrates prennent le Congrès. Ce que ça change pour les TPS et les parolés de Biden (Opinion)",
