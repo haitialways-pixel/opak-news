@@ -46,31 +46,255 @@ export const STORIES: Story[] = [
     sources: ["GRYLA", "CEP", "MEF", "CSC/CA", "CSPJ", "BRH"],
   },
   {
+    id: "ntk-sud-semences-garanties-2026-11-08",
+    tier: "need-to-know",
+    topic: "commerce",
+    publishedAt: "2026-11-08",
+    publishedTime: "2026-11-08T08:26:11-05:00",
+    headline: {
+      ht: "Semans yo distribye nan Sid : ki garanti pou rekòt la ak pou replante apre ?",
+      fr: "Semences distribuées dans le Sud : quelles garanties pour les récoltes et les prochains semis ?",
+    },
+    teaser: {
+      ht: "Yo anonse prèske 4200 benefisyè. Orijin, varyete, tès ak dwa pou replante : detay yo manke.",
+      fr: "Près de 4200 bénéficiaires annoncés. Origine, variétés, tests et droit de ressemer : les précisions manquent.",
+    },
+    brief: {
+      ht: "Ministè Agrikilti ak FAO anonse distribisyon pou prèske 4200 pwodiktè nan Sid. Anons nou konsilte yo site rekòt ak materyèl yo, men yo pa bay non varyete yo, founisè yo, rezilta tès yo oswa kondisyon pou reutilize semans yo. Pwodiktè yo dwe kapab jwenn repons sa yo.",
+      fr: "Le ministère de l'Agriculture et la FAO annoncent des distributions à près de 4200 producteurs du Sud. Les annonces consultées nomment les cultures et le matériel, mais pas les variétés, les fournisseurs, les résultats des tests ni les conditions de réutilisation des semences. Ce sont des réponses que les producteurs doivent pouvoir obtenir.",
+    },
+    body: {
+      ht: "Ministè Agrikilti anonse, ak sipò FAO, distribisyon semans ak materyèl agrikòl bay prèske 4200 pwodiktè nan Sid. Men kisa nou konnen sou semans yo remèt peyizan yo, kalite yo ak posiblite pou sèvi ak yon pati nan rekòt la pou replante ? Anons nou konsilte yo pa bay repons sou kesyon esansyèl sa yo.\n\nDapre ministè a, jan Le Nouvelliste rapòte 6 novanm ak HaitiLibre 7 novanm, prèske 3000 pwodiktè nan Kanperen, Kavayon, Chardonnières ak Tòbèk resevwa kit semans legim, zouti ak angrè. Anviwon 1200 lòt nan Pòtopiman, Chardonnières ak Tibiwon resevwa semans mayi ak pwa nwa, bouti patat ak manyòk ansanm ak rejè bannann. Chif sa yo soti nan enstitisyon yo; se pa yon resansman Opak News fè poukont li.\n\nPiblikasyon yo prezante distribisyon an kòm yon sipò pou pwodiksyon ak sekirite alimantè. Men yo pa bay non egzak varyete yo, founisè yo ak peyi kote yo soti. Yo pa di si se varyete polinizasyon lib, ibrid oswa varyete yo modifye jenetikman. Yo pa pibliye rezilta tès jèminasyon, kontwòl maladi, sètifikasyon oswa esè ki montre semans yo adapte ak kondisyon lokal yo. Yo pa esplike nonplis kondisyon agronomik ak legal pou replante ak grenn ki soti nan rekòt la. Prezans FAO pa ranplase enfòmasyon sa yo.\n\nGen twa kesyon diferan : èske semans lan bon kalite ? Èske jenerasyon ki vin apre a ap kenbe karakteristik ak randman ki fyab ? Èske kiltivatè a gen dwa replante l ? Lefètke yo modifye yon plant jenetikman pa vle di grenn li esteril. Inivèsite Minnesota raple plant ibrid yo ka bay grenn ki jèmen, men plant ki soti nan grenn sa yo pa idantik ak paran yo. Restriksyon nan kontra oswa dwa pwopriyete entelektyèl se yon lòt kesyon ankò : Inivèsite Maryland esplike sa nan kontèks Etazini. Sa pa demontre menm restriksyon sa yo aplike sou semans yo distribye ann Ayiti yo.\n\nMen kesyon ministè a ak FAO dwe bay limyè sou yo :\n\n• Kiyès ki founi semans sa yo, kote yo soti epi ki non egzak varyete yo ? Èske se varyete polinizasyon lib, ibrid oswa OGM ?\n\n• Kiyès ki evalye yo yon fason endepandan ? Kote sètifika yo, rezilta tès jèminasyon ak kontwòl maladi yo, ansanm ak esè ki montre yo adapte ak tè ak klima komin ki resevwa yo a ?\n\n• Èske yo verifye varyete sa yo pou peyizan yo ka konsève yon pati nan grenn apre rekòt la epi replante yo san difikilte ? Èske karakteristik ak randman yo ap rete fyab ? Ki garanti ministè a ak FAO bay sou sa ?\n\n• Èske gen lisans, kontra oswa lòt restriksyon ki limite dwa pou replante ? Èske pwodiktè yo resevwa kondisyon sa yo ak esplikasyon klè ?\n\n• Si semans yo pa bay rezilta, kiyès ki responsab pèt yo epi kiyès k ap peye ? Si pwodiktè yo oblije achte nouvo semans chak sezon, kiyès k ap peye depans sa a epi ki solisyon ki pwoteje otonomi yo ?\n\nRepons sa yo pa parèt nan anons nou egzamine yo. Sa pa prèv semans yo pa bon, yo esteril oswa yo se OGM. Men li kite kesyon konkrè sou rekòt la, dwa peyizan yo ak depans yo ka genyen pi devan.",
+      fr: "Des semences et du matériel agricole ont été distribués à près de 4200 producteurs du Sud, annonce le ministère de l'Agriculture avec l'appui de la FAO. Mais que sait-on des semences confiées aux agriculteurs, de leur qualité et de la possibilité de les réutiliser après la récolte ? Les annonces consultées ne permettent pas de répondre à ces questions essentielles.\n\nSelon le ministère, cité par Le Nouvelliste le 6 novembre et HaitiLibre le 7 novembre, près de 3000 producteurs de Camp-Perrin, Cavaillon, Chardonnières et Torbeck ont reçu des kits de semences maraîchères, des outils et des fertilisants. Quelque 1200 autres, à Port-à-Piment, Chardonnières et Tiburon, ont reçu des semences de maïs et de haricot noir, des boutures de patate douce et de manioc et des drageons de bananier. Ces nombres sont des comptes institutionnels, pas un recensement indépendant d'Opak News.\n\nLes publications présentent l'opération comme un soutien à la production et à la sécurité alimentaire. Elles ne précisent toutefois ni les noms exacts des variétés, ni les fournisseurs et pays d'origine, ni leur statut — variétés à pollinisation libre, hybrides ou génétiquement modifiées. Elles ne publient pas de résultats de germination, de contrôles sanitaires, de certification ou d'essais d'adaptation aux conditions locales. Elles n'expliquent pas non plus les conditions agronomiques et juridiques d'un nouveau semis à partir de la récolte. L'appui de la FAO ne remplace pas ces informations.\n\nTrois questions doivent rester distinctes : une semence est-elle de bonne qualité ? La génération suivante conservera-t-elle des caractéristiques et des rendements fiables ? L'agriculteur a-t-il le droit de la ressemer ? Une modification génétique ne signifie pas, à elle seule, stérilité. L'Université du Minnesota rappelle que les hybrides peuvent produire des graines viables, mais que leur descendance n'est pas identique aux parents. Des restrictions contractuelles ou de propriété intellectuelle sont encore une autre question : l'Université du Maryland les décrit dans le contexte américain. Cela ne démontre pas que de telles restrictions s'appliquent aux lots distribués en Haïti.\n\nQuestions que le ministère et la FAO doivent éclaircir :\n\n• Qui fournit ces semences, d'où viennent-elles et quels sont les noms exacts des variétés ? Sont-elles à pollinisation libre, hybrides ou OGM ?\n\n• Qui les a évaluées de façon indépendante ? Où sont les certificats, les résultats de germination et de qualité sanitaire, ainsi que les essais montrant leur adaptation aux sols et au climat des communes bénéficiaires ?\n\n• Les variétés distribuées ont-elles été vérifiées pour que les agriculteurs puissent conserver une partie des semences après la récolte et les ressemer sans difficulté ? Les caractéristiques et les rendements resteront-ils fiables ? Quelles garanties le ministère et la FAO donnent-ils sur ce point ?\n\n• Existe-t-il des licences, contrats ou autres restrictions au réensemencement ? Les producteurs ont-ils reçu ces conditions, avec des explications claires ?\n\n• Si les semences échouent, qui répond des pertes et qui paie ? Si les producteurs doivent acheter de nouvelles semences chaque saison, qui en assume le coût et quelles solutions préservent leur autonomie ?\n\nCes réponses ne figurent pas dans les annonces examinées. Leur absence n'est pas la preuve que les semences sont mauvaises, stériles ou OGM. Elle laisse en revanche des questions concrètes sur la récolte, les droits et les dépenses futures des agriculteurs.",
+    },
+    sources: ["Le Nouvelliste — annonce MARNDR", "HaitiLibre", "University of Minnesota Extension — hybridation et conservation", "NC State Extension — OGM et stérilité", "University of Maryland Extension — restrictions, contexte américain"],
+    sourceLinks: [
+      { name: "Le Nouvelliste — annonce MARNDR", url: "https://lenouvelliste.com/article/273646/agriculture-pres-de-4-200-producteurs-du-sud-beneficient-dintrants-et-de-materiels-agricoles" },
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/en/news-48841-agriculture-distribution-of-tools-and-inputs-for-farmers-in-the-south.html" },
+      { name: "University of Minnesota Extension — hybridation et conservation", url: "https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/saving-vegetable-seeds" },
+      { name: "NC State Extension — OGM et stérilité", url: "https://agbiotech.ces.ncsu.edu/news/gmos-and-patents-part-1-terminator-genes/" },
+      { name: "University of Maryland Extension — restrictions, contexte américain", url: "https://www.extension.umd.edu/resource/legal-liability-saving-seeds-era-expiring-patents-fs-1000" },
+    ],
+  },
+  {
+    id: "ntk-miragoane-muscadin-trofort-2026-11-08",
+    tier: "need-to-know",
+    topic: "justice",
+    publishedAt: "2026-11-08",
+    publishedTime: "2026-11-08T08:25:41-05:00",
+    headline: {
+      ht: "Miragwàn : yo aksepte demisyon Muscadin, Accel Trofort pran plas la pou yon ti tan",
+      fr: "Miragoâne : la démission de Muscadin acceptée, Accel Trofort nommé par intérim",
+    },
+    teaser: {
+      ht: "Pakè a chanje responsab. Sa pa vle di okenn kandidati politik valide.",
+      fr: "Le parquet change de direction. Cette succession ne vaut pas validation d'une candidature politique.",
+    },
+    brief: {
+      ht: "Dapre Le Nouvelliste 6 novanm, Ministè Jistis aksepte demisyon Jean Ernest Muscadin epi chwazi Accel Trofort pou dirije pakè Miragwàn pou yon ti tan.",
+      fr: "Le ministère de la Justice a accepté la démission de Jean Ernest Muscadin et désigné Accel Trofort pour assurer l'intérim au parquet de Miragoâne, rapporte Le Nouvelliste le 6 novembre.",
+    },
+    body: {
+      ht: "Jean Ernest Muscadin kite pakè tribinal premye enstans Miragwàn nan. Ministè Jistis ak Sekirite piblik aksepte demisyon li epi nonmen Mèt Accel Trofort kòm komisè gouvènman enterimè, ak efè imedya, dapre Le Nouvelliste 6 novanm.\n\nLèt demisyon Muscadin nan te date 29 oktòb. Desizyon ministè a òganize ranplasman li nan tèt pakè a. Se pa yon desizyon elektoral, ni yon validasyon kandidati li pou prezidans.\n\nNan yon suivi ki parèt 7 novanm, Vant Bèf Info rapòte enkyetid nan Gran Sid sou kontinite travay lajistis ak sekirite apre depa li. Enkyetid sa yo pa prèv gang deja tabli nan nouvo komin yo site yo.\n\nBilan Muscadin nan rete konteste. VBI raple akizasyon egzekisyon san jijman Gwoup ekspè Nasyonzini an mete sou do li. Menm nan batay kont gang, otorite lajistis yo dwe respekte pwosedi ak dwa fondamantal moun.\n\nKesyon pou lektè yo : ki garanti konkrè ministè a bay pou ankèt, pouswit lajistis ak pwoteksyon popilasyon an kontinye nan Nip yo ?",
+      fr: "Jean Ernest Muscadin quitte le parquet près le tribunal de première instance de Miragoâne. Le ministère de la Justice et de la Sécurité publique a accepté sa démission et désigné Me Accel Trofort comme commissaire du gouvernement par intérim, avec effet immédiat, rapporte Le Nouvelliste le 6 novembre.\n\nLa lettre de démission de Muscadin était datée du 29 octobre. La décision ministérielle organise sa succession à la tête du parquet. Elle ne constitue ni une décision électorale ni une validation de sa candidature à la présidence.\n\nDans un suivi publié le 7 novembre, Vant Bèf Info rapporte des inquiétudes dans le Grand Sud sur la continuité de l'action judiciaire et la sécurité après son départ. Ces craintes ne constituent pas la preuve d'une nouvelle implantation de gangs dans les communes citées.\n\nLe bilan de Muscadin reste contesté. VBI rappelle les accusations d'exécutions extrajudiciaires présumées formulées à son encontre par le Groupe d'experts de l'ONU. La lutte contre les gangs ne dispense pas les autorités judiciaires de respecter les procédures et les droits fondamentaux.\n\nQuestion aux lecteurs : quelles garanties concrètes le ministère donne-t-il pour assurer la continuité des enquêtes, des poursuites et de la protection de la population dans les Nippes ?",
+    },
+    sources: ["Le Nouvelliste", "Vant Bèf Info"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273641/jean-ernest-muscadin-quitte-le-parquet-de-miragoane-accel-trofort-designe-commissaire-du-gouvernement-ai" },
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/haiti-securite-le-depart-de-muscadin-ravive-les-inquietudes-dans-le-grand-sud/" },
+    ],
+  },
+  {
+    id: "ntk-pacte-relevement-14-engagements-2026-11-08",
+    tier: "need-to-know",
+    topic: "governance",
+    publishedAt: "2026-11-08",
+    publishedTime: "2026-11-08T08:25:31-05:00",
+    headline: {
+      ht: "Relèvman : 14 angajman sou douz mwa, lòt finansman an gen kondisyon",
+      fr: "Relèvement : 14 engagements sur douze mois, un financement supplémentaire sous conditions",
+    },
+    teaser: {
+      ht: "MEF anonse yon akò ak patnè li yo. Lòt finansman Bank mondyal la poko garanti.",
+      fr: "Le MEF annonce un pacte avec ses partenaires. L'appui supplémentaire de la Banque mondiale n'est pas acquis.",
+    },
+    brief: {
+      ht: "Akò yo anonse 6 novanm nan kouvri lajistis, gouvènans, fiskalite ak travay. Dapre MEF, jan Le Nouvelliste site li, lòt finansman Bank mondyal la depann de pwogrè satisfezan nan refòm yo.",
+      fr: "Le pacte annoncé le 6 novembre couvre la justice, la gouvernance, la fiscalité et l'emploi. Selon le MEF cité par Le Nouvelliste, un financement supplémentaire de la Banque mondiale dépendra de progrès satisfaisants dans les réformes.",
+    },
+    body: {
+      ht: "Ministè Ekonomi ak Finans anonse 6 novanm yon Akò pou prevansyon ak relèvman antre an vigè ant gouvènman ayisyen an ak patnè entènasyonal li yo. Dapre Le Nouvelliste, li gen 14 angajman pou yon peryòd douz mwa.\n\nLi kouvri kat domèn : Leta de dwa, lajistis ak sekirite; gouvènans ak batay kont koripsyon; estabilite makwoekonomik ak fiskalite; travay ak envestisman.\n\nKad sa a, Bank mondyal sipòte, prevwa de rapò suivi. Dapre atik jounal la, premye a anonse pou avril 2027. Nan kominike MEF jounal la site a, Bank mondyal di li anvizaje lòt finansman, men sèlman si aplikasyon refòm yo fè pwogrè satisfezan.\n\nSa pa vle di lajan an deja garanti oswa debouse. Lansman akò a pa prèv angajman yo deja reyalize nonplis. Kont randi nou konsilte a pa bay detay sou tout katòz objektif yo, ni montan yon posib finansman anplis.\n\nKesyon pou lektè yo : èske gouvènman an ap pibliye tout tèks la, moun ki responsab chak angajman ak fason pou mezire rezilta yo ? Èske piblik la ap jwenn rapò suivi yo ?",
+      fr: "Le ministère de l'Économie et des Finances a annoncé, le 6 novembre, l'entrée en vigueur d'un Pacte pour la prévention et le relèvement entre le gouvernement haïtien et ses partenaires internationaux. Le Nouvelliste rapporte qu'il prévoit 14 engagements sur une période de douze mois.\n\nQuatre domaines sont concernés : l'État de droit, la justice et la sécurité ; la gouvernance et la lutte contre la corruption ; la stabilité macroéconomique et la fiscalité ; l'emploi et l'investissement.\n\nLe cadre, soutenu par la Banque mondiale, prévoit deux rapports de suivi. Le premier est annoncé pour avril 2027 dans le compte rendu du journal. Selon le communiqué du MEF qu'il cite, la Banque mondiale envisage un financement supplémentaire, mais seulement si la mise en œuvre des réformes progresse de façon satisfaisante.\n\nIl ne s'agit donc pas de l'annonce d'un décaissement acquis. Le lancement du pacte ne prouve pas non plus que ses engagements ont déjà été exécutés. Le compte rendu consulté ne détaille pas les quatorze cibles ni le montant d'un éventuel appui supplémentaire.\n\nQuestions aux lecteurs : le gouvernement publiera-t-il le texte complet, les responsables de chaque engagement et les indicateurs de résultat ? Les rapports de suivi seront-ils accessibles au public ?",
+    },
+    sources: ["Le Nouvelliste — annonce du MEF"],
+    sourceLinks: [
+      { name: "Le Nouvelliste — annonce du MEF", url: "https://lenouvelliste.com/article/273674/le-gouvernement-et-ses-partenaires-lancent-un-pacte-de-prevention-et-de-relevement" },
+    ],
+  },
+  {
+    id: "ntk-deplaces-marches-securite-2026-11-08",
+    tier: "need-to-know",
+    topic: "society",
+    publishedAt: "2026-11-08",
+    publishedTime: "2026-11-08T08:25:21-05:00",
+    headline: {
+      ht: "Moun ki deplase yo mande operasyon kont gang pandan mach sipò pou Salvador yo",
+      fr: "Des déplacés réclament des opérations contre les gangs lors de marches de soutien aux Salvadoriens",
+    },
+    teaser: {
+      ht: "Nan Pòtoprens, Jeremi ak Beladè, manifestan mande sekirite pou yo ka retounen lakay yo.",
+      fr: "À Port-au-Prince, Jérémie et Belladère, des manifestants demandent la sécurité et le retour chez eux.",
+    },
+    brief: {
+      ht: "Dapre EFE, te gen mach vandredi 6 novanm nan plizyè vil. Moun gang chase nan katye yo montre sipò yo pou sòlda salvadoryen yo epi mande yo akselere operasyon kont gwoup ame yo.",
+      fr: "Des marches ont eu lieu vendredi 6 novembre dans plusieurs villes, rapporte EFE. Des personnes chassées de leur quartier ont exprimé leur soutien aux soldats salvadoriens et demandé l'accélération des opérations contre les groupes armés.",
+    },
+    body: {
+      ht: "Manifestan pran lari nan Pòtoprens, Jeremi ak Beladè vandredi 6 novanm pou soutni sòlda salvadoryen yo epi mande operasyon kont gang, dapre yon repòtaj EFE pibliye nan demen.\n\nNan kapital la, plizyè patisipan di se viktim gang ki chase yo nan katye yo. Repòtaj la site sitou Fò Nasyonal, Pòs Machan, avni Poupelard ak Kafoufèy. Gen fanm ki rakonte yo pèdi kay, komès ak mwayen pou voye pitit yo lekòl.\n\nNan Jeremi, te gen bann rara nan mobilizasyon an, dapre ajans lan. Nan slogan yo, manifestan yo montre sipò pou Nayib Bukele pandan yo eksprime ijans fanmi deplase yo santi pou yo ka viv an sekirite.\n\nTemwayaj sa yo montre sa moun ki te patisipe yo ap tann. Yo pa mezire opinyon tout Ayisyen. Estimasyon kantite manifestan yo diferan selon medya yo; nou pa kenbe yon total presi.\n\nSipò moun sa yo eksprime a pa regle kesyon pwoteksyon sivil, kòmandman fòs yo oswa kondisyon pou yon retou dirab nan katye yo. Nan repòtaj li a, EFE raple alèt Medsen San Fwontyè sou vyolans ki mache ak afwontman yo.\n\nKesyon pou lektè yo : apa operasyon ame yo, ki dispozitif ki pral pèmèt fanmi yo retounen lakay yo, jwenn swen epi mete pitit yo lekòl ankò ?",
+      fr: "Des manifestants sont descendus dans les rues de Port-au-Prince, de Jérémie et de Belladère vendredi 6 novembre pour soutenir les soldats salvadoriens et réclamer des opérations contre les gangs, rapporte EFE dans un article publié le lendemain.\n\nDans la capitale, plusieurs participants se sont présentés comme des victimes chassées de leur quartier. Le reportage mentionne notamment Fort National, Poste Marchand, l'avenue Poupelard et Carrefour-Feuilles. Des femmes ont raconté avoir perdu leur maison, leur commerce et la possibilité d'envoyer leurs enfants à l'école.\n\nÀ Jérémie, la mobilisation s'est accompagnée de bandes de rara, selon l'agence. Les slogans exprimaient à la fois un soutien à Nayib Bukele et l'urgence ressentie par des familles déplacées qui demandent de pouvoir vivre en sécurité.\n\nCes témoignages montrent les attentes des participants, pas une mesure de l'opinion de l'ensemble des Haïtiens. Les estimations de foule divergent selon les médias ; aucun total précis n'est retenu ici.\n\nLe soutien exprimé ne règle pas les questions sur la protection des civils, le commandement des forces ou les conditions d'un retour durable dans les quartiers. Dans son reportage, EFE rappelle aussi l'alerte de Médecins Sans Frontières sur la violence liée aux affrontements.\n\nQuestion aux lecteurs : au-delà des opérations armées, quel dispositif permettra aux familles de rentrer chez elles, de retrouver des soins et de remettre leurs enfants à l'école ?",
+    },
+    sources: ["EFE"],
+    sourceLinks: [
+      { name: "EFE", url: "https://efe.com/mundo/2026-11-07/marchas-apoyo-bukele-haiti/" },
+    ],
+  },
+  {
+    id: "qh-diaspora-conseils-scolaires-floride-2026-11-08",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-08",
+    publishedTime: "2026-11-08T08:25:11-05:00",
+    headline: {
+      ht: "Sid Florid : twa fanm ayisyano-ameriken eli nan konsèy lekòl yo",
+      fr: "Floride du Sud : trois Haïtiano-Américaines élues aux conseils scolaires",
+    },
+    teaser: {
+      ht: "Yo ranpòte plas nan Broward, Palm Beach ak Miami-Dade, nan mwa out ak novanm.",
+      fr: "Des victoires à Broward, Palm Beach et Miami-Dade, remportées en août et en novembre.",
+    },
+    brief: {
+      ht: "Cynthia Alcéus Dominique, Christina Romélus ak Linda Cothière ranpòte plas nan twa gwo konte nan Sid Florid, dapre The Haitian Times 7 novanm. Se pa menm jou yo tout te eli.",
+      fr: "Cynthia Alcéus Dominique, Christina Romélus et Linda Cothière ont remporté des sièges dans trois grands comtés de Floride du Sud, rapporte The Haitian Times le 7 novembre. Leurs élections n'ont pas toutes eu lieu le même jour.",
+    },
+    body: {
+      ht: "Twa fanm ki gen orijin ayisyen ranpòte plas nan konsèy lekòl Broward, Palm Beach ak Miami-Dade. Nan yon atik 7 novanm, The Haitian Times prezante viktwa sa yo kòm yon premye pou reprezantasyon ayisyano-ameriken nan enstitisyon sa yo.\n\nNan Broward, Cynthia Alcéus Dominique genyen plas distri 7 la depi eleksyon 18 out la, ak anviwon 60 % vòt yo, dapre jounal la. Li se enfimyè ak edikatè, epi li te sèvi tou nan rezèv lame ameriken an.\n\nNan Palm Beach, Christina Romélus, ki fèt Pòtoprens e ki te deja eli nan Boynton Beach, genyen distri 4 la 3 novanm ak anviwon 62 % vòt yo. Nan Miami-Dade, Linda Cothière, ki soti Okap e ki gen anpil ane ap anseye, ranpòte distri 1 an nan dezyèm tou 3 novanm nan, ak 51,6 % kont 48,4 % pou Katrina Wilson, dapre menm repòtaj la.\n\nSe yon retou sou rezilta sik elektoral la, se pa twa eleksyon ki fèt wikenn sa a. Chif yo ak deklarasyon ki di viktwa sa yo istorik soti nan Haitian Times.\n\nKonsèy sa yo pran desizyon ki touche lekòl piblik ak anpil fanmi ayisyen. Kesyon pou lektè yo : ki priyorite nouvo eli sa yo ta dwe defann pou elèv ak paran ki pale kreyòl yo ?",
+      fr: "Trois femmes d'origine haïtienne ont remporté des sièges aux conseils scolaires de Broward, Palm Beach et Miami-Dade. Dans un article du 7 novembre, The Haitian Times présente ces victoires comme une première pour la représentation haïtiano-américaine dans ces instances.\n\nÀ Broward, Cynthia Alcéus Dominique a remporté le siège du district 7 dès le scrutin du 18 août, avec environ 60 % des voix, selon le journal. Infirmière et éducatrice, elle a aussi servi dans la réserve de l'armée américaine.\n\nÀ Palm Beach, Christina Romélus, née à Port-au-Prince et ancienne élue de Boynton Beach, a gagné le district 4 le 3 novembre avec environ 62 % des voix. À Miami-Dade, Linda Cothière, originaire du Cap-Haïtien et enseignante de longue date, a remporté le district 1 au second tour du 3 novembre, avec 51,6 % contre 48,4 % pour Katrina Wilson, d'après le même reportage.\n\nIl s'agit d'un retour sur les résultats du cycle électoral, pas de trois élections survenues ce week-end. Les chiffres et le caractère historique des victoires sont attribués au Haitian Times.\n\nCes conseils prennent des décisions qui touchent les écoles publiques et de nombreuses familles haïtiennes. Question aux lecteurs : quelles priorités ces nouvelles élues devraient-elles porter pour les élèves et les parents créolophones ?",
+    },
+    sources: ["The Haitian Times"],
+    sourceLinks: [
+      { name: "The Haitian Times", url: "https://haitiantimes.com/2026/11/07/haitian-american-women-south-florida-school-board-wins-2026/" },
+    ],
+  },
+  {
+    id: "qh-cap-guichet-cep-foire-2026-11-08",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-08",
+    publishedTime: "2026-11-08T08:25:01-05:00",
+    headline: {
+      ht: "Okap : CEP te mete yon gichè mobil nan Fwa dyaspora a",
+      fr: "Cap-Haïtien : le CEP a déployé un guichet mobile à la Foire de la diaspora",
+    },
+    teaser: {
+      ht: "Dispozitif la te ede vizitè fwa 6 ak 7 novanm nan.",
+      fr: "Le dispositif accompagnait les visiteurs de la foire des 6 et 7 novembre.",
+    },
+    brief: {
+      ht: "Yon gichè mobil CEP te akeyi vizitè Fwa dyaspora Okap la, dapre RL News ki reprann VBI 7 novanm. Fwa a te pwograme pou 6 ak 7 novanm; nou pa gen konfimasyon sèvis la pwolonje pou dimanch sa a.",
+      fr: "Un guichet mobile du CEP a accueilli les visiteurs de la Foire de la diaspora au Cap-Haïtien, rapporte RL News en reprenant VBI le 7 novembre. La foire était programmée les 6 et 7 novembre ; aucune prolongation du service pour ce dimanche n'est établie.",
+    },
+    body: {
+      ht: "Konsèy elektoral pwovizwa a te mete yon dispozitif mobil enskripsyon nan Fwa dyaspora Okap la. Ekip yo te akeyi vizitè yo, oryante yo epi ede yo ranpli fòmalite yo, dapre yon atik RL News Haïti pibliye 7 novanm, ki bay Vant Bèf Info kredi a.\n\nDispozitif la te vize sitwayen nan rejyon an ansanm ak Ayisyen k ap viv aletranje ki te nan peyi a. Yon mesaj piblik Juno7 pibliye samdi swa te pale tou de enskripsyon elektoral mobil pandan fwa a.\n\nPremye edisyon Fwa dyaspora a te anonse pou 6 ak 7 novanm sou boulva Okap la. Tèm nan, « Diaspora et culture, ensemble pour Haïti », te mete pwodiksyon lokal, antreprenarya ak aktivite kiltirèl ansanm, dapre Juno7.\n\nSe yon retou sou dispozitif la, se pa yon anons ki di li ouvè dimanch 8 novanm sa a. Sous nou egzamine yo pa bay kantite moun ki enskri nan stand lan, ni konfimasyon sèvis la pwolonje.\n\nKesyon pou lektè yo : èske CEP ap pibliye kantite enskripsyon ki fèt ak yon kalandriye pwochen gichè mobil nan komin yo ?",
+      fr: "Le Conseil électoral provisoire a installé un dispositif mobile d'inscription à la Foire de la diaspora au Cap-Haïtien. Les équipes accueillaient les visiteurs, les orientaient et les accompagnaient dans les formalités, selon un article de RL News Haïti du 7 novembre, crédité à Vant Bèf Info.\n\nLe dispositif visait les citoyens de la région ainsi que les Haïtiens de l'étranger présents dans le pays. Un message public de Juno7 publié samedi soir évoquait également l'inscription électorale mobile lors de cette foire.\n\nLa première édition de la Foire de la diaspora était annoncée pour les 6 et 7 novembre sur le boulevard du Cap-Haïtien. Le thème, « Diaspora et culture, ensemble pour Haïti », associait production locale, entrepreneuriat et activités culturelles, selon Juno7.\n\nIl s'agit d'un bilan de dispositif, pas d'une annonce d'ouverture ce dimanche 8 novembre. Les sources examinées ne donnent ni total des personnes inscrites au stand, ni confirmation d'une prolongation.\n\nQuestion aux lecteurs : le CEP publiera-t-il le nombre d'inscriptions réalisées et un calendrier de prochains guichets mobiles dans les communes ?",
+    },
+    sources: ["RL News Haïti / VBI", "Juno7 — annonce de la foire", "Juno7 — message public du 7 novembre"],
+    sourceLinks: [
+      { name: "RL News Haïti / VBI", url: "https://rlnewshaiti.com/cap-haitien-le-cep-ouvre-un-guichet-dinscription-electorale-a-la-foire-de-la-diaspora/" },
+      { name: "Juno7 — annonce de la foire", url: "https://www.juno7.ht/foire-diaspora-cap-haitien-6-7-novembre-2026/" },
+      { name: "Juno7 — message public du 7 novembre", url: "https://x.com/juno7/status/2119276927861088557" },
+    ],
+  },
+  {
+    id: "qh-constitution-universites-regions-2026-11-08",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-08",
+    publishedTime: "2026-11-08T08:24:51-05:00",
+    headline: {
+      ht: "Revizyon Konstitisyon : yo konsilte inivèsite piblik nan rejyon yo",
+      fr: "Révision constitutionnelle : les universités publiques en région consultées",
+    },
+    teaser: {
+      ht: "Reyinyon 6 novanm nan fè pati konsiltasyon yo. Li pa adopte okenn chanjman nan Konstitisyon an.",
+      fr: "La rencontre du 6 novembre s'inscrit dans les consultations. Aucune modification n'est adoptée par cette réunion.",
+    },
+    brief: {
+      ht: "Komite swivi dyalòg sou Konstitisyon an rankontre rektè ak visrektè inivèsite piblik nan rejyon yo vandredi 6 novanm, dapre Le Nouvelliste.",
+      fr: "Le Comité de suivi du dialogue sur la Constitution a rencontré les recteurs et vice-recteurs des universités publiques en région vendredi 6 novembre, rapporte Le Nouvelliste.",
+    },
+    body: {
+      ht: "Rektè ak visrektè inivèsite piblik nan rejyon yo rankontre Komite swivi dyalòg sou Konstitisyon an vandredi 6 novanm, dapre Le Nouvelliste. Reyinyon an fè pati konsiltasyon ki louvri sou yon revizyon Konstitisyon ayisyen an.\n\nDapre jounal la, demach sa a vini apre chita pale ak Inivèsite Leta d Ayiti, reprezantan sektè relijye ak sektè biznis la. Li mete responsab inivèsite nan rejyon yo nan seri diskisyon sa yo.\n\nKont randi ki aksesib la konfime reyinyon an te fèt, li pa di yo adopte yon tèks konstitisyonèl. Li pa pèmèt nou prezante pwopozisyon detaye, yon akò inivèsite yo sou fondman revizyon an oswa konklizyon definitif kòm bagay ki deja fèt.\n\nKesyon pou lektè yo : èske yo ap pibliye pwopozisyon inivèsite yo ak kont randi konsiltasyon yo pou deba a pa rete sèlman nan mitan moun ki te patisipe nan reyinyon yo ?",
+      fr: "Les recteurs et vice-recteurs des universités publiques en région ont rencontré, vendredi 6 novembre, le Comité de suivi du dialogue sur la Constitution, rapporte Le Nouvelliste. La réunion s'inscrit dans les consultations engagées autour d'une révision de la Constitution haïtienne.\n\nSelon le journal, cette démarche suit des échanges avec l'Université d'État d'Haïti, des représentants du secteur religieux et de la classe des affaires. Elle fait entrer les responsables universitaires des régions dans cette série de discussions.\n\nLe compte rendu accessible établit la tenue de la rencontre, pas l'adoption d'un texte constitutionnel. Il ne permet pas de présenter des propositions détaillées, un accord des universités sur le fond ou des conclusions définitives comme acquis.\n\nQuestion aux lecteurs : les propositions des universités et les comptes rendus des consultations seront-ils rendus publics pour permettre un débat au-delà des participants aux réunions ?",
+    },
+    sources: ["Le Nouvelliste"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273685/revision-constitutionnelle-consultations-avec-les-universites-publiques-en-region" },
+    ],
+  },
+  {
+    id: "qh-ayiti-vodoufest-cloture-2026-11-08",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-08",
+    publishedTime: "2026-11-08T08:24:41-05:00",
+    headline: {
+      ht: "Ayiti VodouFest : konsè kloti a anonse pou dimanch sa a nan El Rancho",
+      fr: "Ayiti VodouFest : le concert de clôture annoncé ce dimanche à El Rancho",
+    },
+    teaser: {
+      ht: "Carole Demesmin se envite donè a. Yo anonse Erol Josué, James Germain, RAM ak Boukman Eksperyans.",
+      fr: "Carole Demesmin est l'invitée d'honneur. Erol Josué, James Germain, RAM et Boukman Eksperyans sont annoncés.",
+    },
+    brief: {
+      ht: "Dezyèm edisyon Ayiti VodouFest la dwe fini dimanch 8 novanm nan El Rancho Convention Center, dapre RTVC ki òganize l ansanm ak Sant kiltirèl Karayib. Atik la pa bay lè konsè a.",
+      fr: "La deuxième édition d'Ayiti VodouFest doit se terminer dimanche 8 novembre à El Rancho Convention Center, selon RTVC, coorganisatrice avec le Centre culturel Caraïbes. L'article ne précise pas l'heure du concert.",
+    },
+    body: {
+      ht: "Konsè kloti dezyèm edisyon Ayiti VodouFest la anonse pou dimanch 8 novanm 2026 sa a nan El Rancho Convention Center. Radyo Televizyon Karayib (RTVC), ki òganize festival la ansanm ak Sant kiltirèl Karayib, rapòte preparatif yo pare, dapre direktè atistik la Max Ferlor Jean.\n\nCarole Demesmin se envite donè a. Nan pwogram yo anonse a, gen Erol Josué, James Germain, Riva, Vanessa Jeudi, RAM ak Boukman Eksperyans. DJ Manito Nation dwe fè animasyon mizikal la.\n\nDapre RTVC, antre òdinè a koute 40 dola ameriken epi seksyon VIP a koute 80 dola. Yo anonse tikè yo nan RTVC, nan otèl El Rancho ak sou PAMEVENT.COM. Atik nou konsilte a pa bay lè konsè a ap kòmanse; moun ki vle ale dwe konfime sa ak òganizatè yo anvan yo deplase.\n\nFestival la te kòmanse 31 oktòb ak yon fwa sou plas Bwaye, nan Petyonvil. Apre sa, li te pwopoze sware atistik, konferans ak yon pwojeksyon fim « Les Amours d'un zombi » Arnold Antonin. Yo prezante konsè dimanch sa a kòm dènye etap pwogram sa a ki konsakre ak vodou ak kilti ayisyen.\n\nEnfòmasyon sou pwogram nan ak tikè yo soti nan RTVC, ki se youn nan òganizatè evènman an tou.",
+      fr: "Le concert de clôture de la deuxième édition d'Ayiti VodouFest est annoncé pour ce dimanche 8 novembre 2026 à El Rancho Convention Center. Radio Télévision Caraïbes (RTVC), qui porte le festival avec le Centre culturel Caraïbes, rapporte que les préparatifs sont prêts, selon son directeur artistique Max Ferlor Jean.\n\nCarole Demesmin est l'invitée d'honneur. Le programme annoncé réunit Erol Josué, James Germain, Riva, Vanessa Jeudi, RAM et Boukman Eksperyans. DJ Manito Nation doit assurer l'animation musicale.\n\nSelon RTVC, l'accès ordinaire coûte 40 dollars américains et la section VIP 80 dollars. Les billets sont annoncés à la RTVC, à l'hôtel El Rancho et sur PAMEVENT.COM. L'article consulté ne donne pas l'heure de début ; les spectateurs doivent la confirmer auprès des organisateurs avant de se déplacer.\n\nLe festival a commencé le 31 octobre avec une foire sur la place Boyer, à Pétion-Ville. Il a proposé ensuite des soirées artistiques, des conférences et une projection du film « Les Amours d'un zombi » d'Arnold Antonin. Le concert de ce dimanche est présenté comme la dernière étape de cette programmation consacrée au vodou et à la culture haïtienne.\n\nCes informations de programme et de billetterie proviennent de RTVC, également organisatrice de l'événement.",
+    },
+    sources: ["RTVC — coorganisatrice"],
+    sourceLinks: [
+      { name: "RTVC — coorganisatrice", url: "https://www.radiotelecaraibes.com/concert-de-cloture-de-la-2e-edition-de-ayiti-vodoufest-les-des-sont-jetes/" },
+    ],
+  },
+  {
     id: "ntk-cite-soleil-explosions-drones-2026-11-05",
     tier: "need-to-know",
     topic: "security",
-    publishedAt: "2026-11-06",
-    publishedTime: "2026-11-06T10:27:20-05:00",
+    publishedAt: "2026-11-08",
+    publishedTime: "2026-11-08T08:26:01-05:00",
+    isFollowUp: true,
     headline: {
-      ht: "Site Solèy : yo rapòte sèt eksplozyon jedi swa, dron yo pale de yo san konfimasyon",
-      fr: "Cité Soleil : sept explosions signalées jeudi soir, des drones évoqués sans confirmation",
+      ht: "Site Solèy : otorite yo konfime lanmò Mathias Saintil, men vèsyon sou operasyon an pa menm",
+      fr: "Cité Soleil : la mort de Mathias Saintil confirmée, des récits divergents sur l'opération",
     },
     teaser: {
-      ht: "Vant Bèf Info ak RL News Haïti pale de eksplozyon ak panik. Ipotèz dron yo poko konfime. Pa gen bilan verifye.",
-      fr: "Vant Bèf Info et RL News Haïti rapportent des détonations et une panique. L'hypothèse de drones reste non confirmée. Aucun bilan vérifié.",
+      ht: "Premye minis la konfime lanmò chèf gang Boston an. PNH ak RNDDH pa bay menm vèsyon sou sa ki pase.",
+      fr: "Le Premier ministre confirme la mort du chef du gang de Boston. PNH et RNDDH divergent sur les circonstances.",
     },
     brief: {
-      ht: "Dapre VBI ak RL News, te gen eksplozyon jedi swa nan Site Solèy. Yo pale de atak dron, san konfimasyon ofisyèl ni bilan.",
-      fr: "Selon VBI et RL News, des explosions ont été signalées jeudi soir à Cité Soleil. Des frappes de drones sont évoquées, sans confirmation officielle ni bilan.",
+      ht: "Mathias Saintil mouri vandredi 6 novanm apre yon operasyon jedi swa nan Site Solèy, dapre Reuters ak Miami Herald. PNH pale de blesi bal; RNDDH pale de yon atak dron. Bilan viktim sivil yo poko etabli.",
+      fr: "Mathias Saintil est mort vendredi 6 novembre, après une opération jeudi soir à Cité Soleil, selon Reuters et le Miami Herald. La PNH parle de blessures par balles ; le RNDDH rapporte une frappe de drone. Le bilan civil reste à établir.",
     },
     body: {
-      ht: "Dapre Vant Bèf Info (5 novanm), sèt eksplozyon, ke kèk moun asimilè ak posib atak dron, te rapòte nan Site Solèy, ansanm ak tire zam lou. VBI di detonasyon yo te kreye panik, e abitan Kafou, Dèlma ak Bourdon di yo tande yo. Pou kounye a, VBI presize ni zòn egzak yo frape, ni sib yo, ni yon bilan moun oswa materyèl pa etabli. Ipotèz dron yo, selon sit la, dwe rete apa de sèl konstatasyon eksplozyon yo rapòte.\n\nRL News Haïti (6 novanm) pale tou de eksplozyon yo atribiye a dron ak tire zam otomatik jedi swa nan Site Solèy. Dapre medya sa a, sib la pa konnen, abitan zòn vwazin yo te panike, e okenn sous ofisyèl pa konfime orijin engens yo ni si gen viktim.\n\nOpak News pa jwenn, lè n ap pibliye, ni kominike PNH, ni GSF, ni kontenjan salvadoryen sou detonasyon sa yo. Atak dron yo rete swadizan e pa konfime.\n\nKesyon pou lektè yo :\n\n• Kiyès k ap tire vre sou Site Solèy, e anba ki règ ?\n\n• Poukisa okenn otorite poko pibliye yon bilan, menm pwovizwa ?",
-      fr: "Selon Vant Bèf Info (5 novembre), sept explosions, assimilées par certains à de possibles frappes de drones, ont été signalées à Cité Soleil, sur fond de tirs à l'arme lourde. VBI écrit que ces détonations ont provoqué un mouvement de panique, et que des habitants de Carrefour, Delmas et Bourdon disent les avoir entendues. À ce stade, précise VBI, ni les secteurs touchés, ni d'éventuelles cibles, ni un bilan humain ou matériel n'ont été établis. L'hypothèse des drones, ajoute le site, doit rester distincte du simple constat des explosions rapportées.\n\nRL News Haïti (6 novembre) parle lui aussi d'explosions attribuées à des drones et de tirs à l'arme automatique jeudi soir à Cité Soleil. Selon ce média, la cible est inconnue, des habitants des zones voisines ont paniqué, et aucune source officielle n'a confirmé l'origine des engins ni l'existence de victimes.\n\nOpak News n'a trouvé, au moment de publier, ni communiqué de la PNH, ni de la GSF, ni du contingent salvadorien sur ces détonations. Les frappes de drones restent présumées et non confirmées.\n\nQuestions aux lecteurs :\n\n• Qui tire vraiment sur Cité Soleil, et sous quelles règles ?\n\n• Pourquoi aucune autorité n'a encore publié un bilan, même provisoire ?",
+      ht: "Otorite ayisyen yo konfime vandredi 6 novanm lanmò Mathias Saintil, chèf gang Boston nan Site Solèy. « Un chef de gang en moins », se sa premye minis Alix Didier Fils-Aimé ekri sou X, dapre Reuters. Gwoup Saintil la fè pati kowalisyon Viv Ansanm.\n\nLanmò sa a pote yon nouvo eleman sou eksplozyon yo te rapòte jedi 5 novanm nan komin nan. Nan premye atik nou an, Vant Bèf Info ak RL News te pale de detonasyon ak panik, san yo pa t etabli sib yo oswa yon bilan. Lè sa a, yo pa t konfime ipotèz dron yo.\n\nKounye a, vèsyon ki disponib yo pa fin dakò. Dapre Miami Herald, PNH di plizyè bal te frape Saintil pandan yon operasyon lapolis, epi li mouri nan yon lopital nan kapital la. RNDDH, nan yon rapò Reuters konsilte, di yon dron eksplozif te blese l grav nan vant jedi swa, epi li mouri nan demen pandan li t ap resevwa swen.\n\nHerald la rapòte tou, dapre RNDDH, gen sivil ki mouri nan atak yo. Sa pa yon bilan Opak News verifye poukont li. Nou pa ka prezante chif detaye yo, kiyès ki te responsab operasyon yo oswa sikonstans chak lanmò kòm bagay ki fin etabli.\n\nKonfimasyon lanmò Saintil la pa vle di se sòlda salvadoryen yo ki te fè operasyon an. Li pa regle nonplis diferans ki genyen sou zam yo te itilize a.\n\nKesyon pou lektè yo : kiyès ki dwe pibliye yon bilan nou ka verifye, ki separe sivil ak manm gang ? Anba ki kòmandman operasyon sa yo te fèt ?",
+      fr: "La mort de Mathias Saintil, chef du gang de Boston à Cité Soleil, a été confirmée par les autorités haïtiennes vendredi 6 novembre. « Un chef de gang en moins », a écrit le Premier ministre Alix Didier Fils-Aimé sur X, rapporte Reuters. Son groupe fait partie de la coalition Viv Ansanm.\n\nCe décès apporte un élément nouveau aux explosions signalées jeudi 5 novembre dans la commune. Dans notre première publication, Vant Bèf Info et RL News évoquaient des détonations et une panique, sans cible ni bilan établis. L'hypothèse des drones n'était alors pas confirmée.\n\nLes récits disponibles aujourd'hui ne concordent pas entièrement. Selon le Miami Herald, la PNH attribue les blessures de Saintil à plusieurs projectiles lors d'une opération policière, avant sa mort dans un hôpital de la capitale. Le RNDDH, dont Reuters a consulté le rapport, affirme qu'il a été gravement blessé à l'abdomen par un drone explosif jeudi soir, puis est mort le lendemain pendant qu'il recevait des soins.\n\nLe Herald rapporte aussi, en citant le RNDDH, des morts parmi les civils lors des frappes. Il ne s'agit pas d'un bilan indépendant établi par Opak News. Les chiffres détaillés, les responsabilités opérationnelles et les circonstances de chaque décès ne peuvent pas être présentés comme définitivement établis.\n\nLa confirmation de la mort de Saintil ne permet donc pas d'attribuer automatiquement l'opération aux troupes salvadoriennes ni de trancher les versions sur l'arme employée.\n\nQuestions aux lecteurs : qui doit rendre public un bilan vérifiable, distinguant civils et membres de gangs ? Sous quel commandement ces opérations ont-elles été conduites ?",
     },
-    sources: ["Vant Bèf Info", "RL News Haïti"],
+    sources: ["Reuters", "Miami Herald"],
     sourceLinks: [
-      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/cite-soleil-sept-explosions-signalees-des-frappes-de-drones-evoquees/" },
-      { name: "RL News Haïti", url: "https://rlnewshaiti.com/cite-soleil-des-drones-explosifs-signales-jeudi-soir-des-habitants-pris-de-panique/" },
+      { name: "Reuters", url: "https://www.reuters.com/3fec1b0a85a0/world/americas/haiti-pm-says-gang-leader-mathias-saintil-dead-2026-11-07/" },
+      { name: "Miami Herald", url: "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article317973147.html" },
     ],
   },
   {
@@ -1231,34 +1455,29 @@ export const STORIES: Story[] = [
     id: "ntk-cep-inscriptions-preliminaires-2026-11-01",
     tier: "need-to-know",
     topic: "politics",
-    publishedAt: "2026-11-01",
-    publishedTime: "2026-11-05T13:35:11-05:00",
+    publishedAt: "2026-11-08",
+    publishedTime: "2026-11-08T08:25:51-05:00",
     isFollowUp: true,
     headline: {
-      ht: "Eleksyon 2027 : 914138 elektè enskri, 8753 dosye kandidati sou entènèt",
-      fr: "Élections 2027 : 914138 électeurs inscrits, 8753 dossiers de candidature en ligne",
+      ht: "Eleksyon : manm pati yo gen jouk dimanch sa a a minui; 23 enskripsyon pou prezidans sou entènèt",
+      fr: "Élections : les adhérents politiques ont jusqu'à ce dimanche à minuit ; 23 inscriptions présidentielles en ligne",
     },
     teaser: {
-      ht: "5 novanm, 1:17 PM, PamElection reprann estatistik CEP : 914138 elektè enskri. Sou platfòm kandida a, menm lè a : 8753 dosye, 21 ladan yo pou prezidans lan. Chif preliminè.",
-      fr: "Au 5 novembre, 13 h 17, PamElection reprend les stats du CEP : 914138 électeurs inscrits. Sur la plateforme candidats, au même horaire : 8753 dossiers, dont 21 à la présidence. Chiffres préliminaires.",
+      ht: "Delè manm pati yo fini 8 novanm sa a. 23 enskripsyon pou prezidans yo pa kandidati ki valide.",
+      fr: "Délai des adhérents ce 8 novembre. Les 23 inscriptions présidentielles ne sont pas des candidatures validées.",
     },
     brief: {
-      ht: "Mizajou 5 novanm, 1:17 PM. Dapre PamElection, ki reprann estatistik CEP, rejis la gen 914138 elektè enskri. Sou platfòm CEP a, menm lè a, gen 8753 dosye kandidati sou entènèt. Yon dosye sou entènèt pa vle di kandidati a valide.",
-      fr: "Mise à jour du 5 novembre, 13 h 17. Selon PamElection, qui reprend les statistiques du CEP, le registre compte 914138 électeurs inscrits. Sur la plateforme du CEP, au même horaire, 8753 dossiers de candidature sont en ligne. Un dépôt en ligne n'est pas une candidature validée.",
+      ht: "Dapre Gazette Haïti, CEP fèmen enskripsyon manm ak senpatizan yo dimanch 8 novanm a minui. Tablo li a, 8 novanm a 8:17 nan maten, montre 23 enskripsyon pou prezidans, ki toujou preliminè. Enskripsyon pou prezidans ak lejislatif yo kontinye jouk 15 novanm.",
+      fr: "Le CEP clôt l'enregistrement des adhérents et sympathisants dimanche 8 novembre à minuit, selon Gazette Haïti. Son tableau du 8 novembre à 8 h 17 affiche 23 inscriptions présidentielles, toujours préliminaires. Les dossiers présidentiels et législatifs peuvent être enregistrés jusqu'au 15 novembre.",
     },
     body: {
-      ht: "Mizajou 5 novanm, 1:17 PM. Dapre PamElection, ki reprann estatistik CEP (stats.cephaiti.ht), rejis elektoral la gen 914138 elektè enskri.\n\nSou platfòm enskripsyon kandida CEP a (tableau.cephaiti.ht), nan menm mizajou 5 novanm a 1:17 PM, tablo a montre 21 dosye pou prezidan, 400 pou senatè, 1404 pou depite, 2081 pou majistra, 2932 pou CASEC ak 1915 pou ASEC, sa fè 8753 dosye sou entènèt. CEP raple done yo dinamik e estrikteman preliminè. Yon dosye sou entènèt pa vle di kandidati a valide. Lis ofisyèl la ap soti apre yo fin verifye dosye yo.\n\nEnskripsyon pou prezidan, Sena ak depite fèmen 15 novanm 2026. Sa pou majistra, CASEC ak ASEC fèmen 30 novanm 2026. Premye tou a rete fikse pou 18 jiyè 2027. Dezyèm tou a ak eleksyon lokal yo rete pou 4 oktòb 2027, dapre yon nòt CEP 28 oktòb, jan Business & Actuality rapòte l.\n\nMenm jou a, zapping HaitiLibre te site 912064 elektè ak 8658 dosye sou entènèt (21 pou prezidan, 398 pou senatè, 1395 pou depite, 2056 pou majistra, 2894 pou CASEC ak 1894 pou ASEC), san yon lè presi. Chif yo ap chanje nan jounen an. Chif nou mete la yo se sa PamElection ak tablo CEP bay a 1:17 PM.\n\nAnvan sa, chif yo te pi ba. Business & Actuality te site 878217 elektè enskri 23 oktòb, pou yon elektora potansyèl yo estime ant 6,5 ak 7 milyon moun. Le Quotidien 509, dapre tablo CEP 31 oktòb, te bay 900284 enskri. 21 septanm, CEP te konte 628755 enskri, sa li te di ki te yon ti kras plis pase 10 % elektora potansyèl la. Le Quotidien 509 te estime apre sa rejis la te bò 15 %. Lis definitif kandida ki apwouve yo dwe soti 11 janvye 2027. An jiyè, otorite yo te konte 23 komin gwoup ame kontwole, kote enskripsyon an te ranvwaye.\n\n1ye novanm a 1:09 PM, tablo CEP a te montre 21 dosye pou prezidan, 389 pou senatè, 1347 pou depite, 1949 pou majistra, 2619 pou CASEC ak 1645 pou ASEC. Menm tablo a te di lè sa a 70 % gason ak 30 % fanm. HaitiLibre te pibliye non 21 dosye prezidansyèl yo nan yon zapping anvan, pami yo Claude Joseph (EDE), Jocelerme Privert (AYITI TRANSFOME), Joseph Michel Martelly (DEBLOKE), Jean Ernest Muscadin (FCN), Etzer S. Emile (SOLEY) ak Lucien Olivier Barrau (MTH). Non sa yo soti nan piblikasyon sa a. Total 5 novanm a 1:17 PM la toujou 21 dosye sou entènèt pou prezidans lan. Sa pa vle di 21 kandidati deja valide.\n\n2 novanm, nan emisyon « Appels sur l'actualité », RFI te mande si kalandriye sa a kredib. Envite a se te jeyograf Jean-Marie Théodat.\n\nKesyon pou lektè yo :\n\n• Ak 914138 enskri pou yon elektora potansyèl 6,5 a 7 milyon, ki lejitimite vòt 18 jiyè 2027 ka genyen ?\n\n• Sou 21 dosye prezidansyèl sou entènèt, konbyen ki pral pase validasyon CEP a ?",
-      fr: "Mise à jour du 5 novembre, 13 h 17. Selon PamElection, qui reprend les statistiques du CEP (stats.cephaiti.ht), le registre électoral compte 914138 électeurs inscrits.\n\nSur la plateforme d'enregistrement des candidatures du CEP (tableau.cephaiti.ht), à la même mise à jour du 5 novembre à 13 h 17, le tableau affiche 21 dossiers à la présidence, 400 au Sénat, 1404 à la députation, 2081 aux mairies, 2932 aux CASEC et 1915 aux ASEC, soit 8753 dossiers en ligne. Le CEP rappelle que ces données sont dynamiques et strictement préliminaires. Un dossier déposé en ligne n'est pas une candidature validée. La liste officielle viendra après vérification des dossiers.\n\nLes inscriptions pour la présidence, le Sénat et la députation ferment le 15 novembre 2026. Celles des mairies, des CASEC et des ASEC ferment le 30 novembre 2026. Le premier tour reste fixé au 18 juillet 2027. Le second tour et les élections locales restent au 4 octobre 2027, selon le calendrier que Business & Actuality attribue à une note du CEP du 28 octobre.\n\nLe même jour, le zapping HaitiLibre citait 912064 électeurs et 8658 dossiers en ligne (21 à la présidence, 398 au Sénat, 1395 à la députation, 2056 aux mairies, 2894 aux CASEC et 1894 aux ASEC), sans heure précise. Les chiffres bougent dans la journée. Ceux retenus ici sont ceux du miroir PamElection et du tableau du CEP à 13 h 17.\n\nAuparavant, les relevés étaient plus bas. Business & Actuality citait 878217 électeurs inscrits au 23 octobre, pour un électorat potentiel estimé entre 6,5 et 7 millions de personnes. Le Quotidien 509, d'après le tableau du CEP au 31 octobre, donnait 900284 inscrits. Le 21 septembre, le CEP comptait 628755 inscrits, soit un peu plus de 10 % de l'électorat potentiel selon le Conseil. Le Quotidien 509 estimait ensuite le registre autour de 15 %. La liste définitive des candidats agréés est attendue le 11 janvier 2027. En juillet, les autorités recensaient 23 communes contrôlées par des groupes armés, où l'inscription avait été reportée.\n\nLe 1er novembre à 13 h 09, le tableau du CEP affichait 21 dossiers à la présidence, 389 au Sénat, 1347 à la députation, 1949 aux mairies, 2619 aux CASEC et 1645 aux ASEC. Le même tableau indiquait alors 70 % d'hommes et 30 % de femmes. HaitiLibre avait publié, dans un zapping antérieur, les noms des 21 dossiers présidentiels, parmi lesquels Claude Joseph (EDE), Jocelerme Privert (AYITI TRANSFOME), Joseph Michel Martelly (DEBLOKE), Jean Ernest Muscadin (FCN), Etzer S. Emile (SOLEY) et Lucien Olivier Barrau (MTH). Ces noms datent de cette publication. Le total affiché le 5 novembre à 13 h 17 est toujours de 21 dossiers en ligne à la présidence, pas 21 candidatures validées.\n\nLe 2 novembre, dans « Appels sur l'actualité », RFI demandait si ce calendrier est crédible. L'invité était le géographe Jean-Marie Théodat.\n\nQuestions aux lecteurs :\n\n• Avec 914138 inscrits pour un électorat potentiel de 6,5 à 7 millions, quelle légitimité le scrutin du 18 juillet 2027 peut-il avoir ?\n\n• Sur 21 dossiers présidentiels en ligne, combien passeront la validation du CEP ?",
+      ht: "Gen de delè diferan pou nou pa melanje. Enskripsyon manm ak senpatizan pati, gwoupman politik ak kandida endepandan yo fini dimanch 8 novanm 2026 sa a a minui, lè Ayiti. Gazette Haïti rapòte anons Konsèy elektoral pwovizwa a te fè samdi.\n\nEnskripsyon sou entènèt pou prezidans, Sena ak depite rete ouvè jouk 15 novanm. Tablo ofisyèl CEP a bay 30 novanm pou majistra, CASEC ak ASEC. Delè dimanch sa a pa vle di tout enskripsyon dosye kandidati yo ap fèmen.\n\nNan relevé ofisyèl 8 novanm a 8:17 nan maten, lè Ayiti, tablo a montre 23 enskripsyon pou prezidans, 407 pou Sena ak 1444 pou depite. Pa gen fanm nan enskripsyon prezidansyèl yo; fanm reprezante 13,3 % enskripsyon pou Sena ak 6,9 % pou depite, kont 30,6 % pou tout pòs yo ansanm. Chif sa yo ap chanje e yo estrikteman preliminè. CEP di lis ofisyèl la ap soti sèlman apre verifikasyon ak validasyon dosye yo.\n\nDènye relevé nou te pibliye a, 5 novanm a 1:17 nan aprèmidi, te gen 21 dosye prezidansyèl ak 8753 dosye pou tout pòs yo ansanm. Li te site apa 914138 elektè enskri, dapre PamElection ki reprann estatistik CEP. Dènye chif sa a se yon repè ki date 5 novanm, se pa yon nouvo total nou verifye jodi a. Elektè, manm pati politik ak dosye kandidati se twa kategori diferan.\n\nDapre Gazette Haïti, 88 pati ak 17 gwoupman politik anrejistre; 46 fòmasyon rive nan papòt 30000 manm nan. Se chif jounal la atribye ak CEP, ki diferan ak tablo ofisyèl dosye nou konsilte maten an.\n\nKesyon pou lektè yo : èske administratè fòmasyon politik yo te rive fini operasyon yo anvan fèmti a ? Poukisa gen si tèlman piti fanm nan enskripsyon pou prezidans ak lejislatif yo ?",
+      fr: "Deux échéances différentes à ne pas confondre. L'enregistrement des adhérents et sympathisants des partis, groupements politiques et candidats indépendants prend fin ce dimanche 8 novembre 2026 à minuit, heure d'Haïti. Gazette Haïti rapporte l'annonce faite samedi par le Conseil électoral provisoire (CEP).\n\nLes inscriptions en ligne pour la présidence, le Sénat et la députation restent ouvertes jusqu'au 15 novembre. Le tableau officiel du CEP indique le 30 novembre pour les mairies, les CASEC et les ASEC. La clôture de ce dimanche ne concerne donc pas l'ensemble des dossiers de candidature.\n\nDans le relevé officiel du 8 novembre à 8 h 17, heure d'Haïti, le tableau affiche 23 inscriptions à la présidence, 407 au Sénat et 1444 à la députation. Aucune femme ne figure parmi les inscriptions présidentielles ; les femmes représentent 13,3 % des inscriptions au Sénat et 6,9 % à la députation, contre 30,6 % pour l'ensemble des postes. Ces chiffres sont dynamiques et strictement préliminaires. Le CEP précise que sa liste officielle ne sera publiée qu'après vérification et validation des dossiers.\n\nNotre précédent relevé, daté du 5 novembre à 13 h 17, comptait 21 dossiers présidentiels et 8753 dossiers tous postes confondus. Il citait séparément 914138 électeurs inscrits, selon le miroir PamElection des statistiques du CEP. Ce dernier chiffre est un repère daté du 5 novembre, pas un nouveau total vérifié aujourd'hui. Électeurs, adhérents politiques et dossiers de candidature sont trois catégories différentes.\n\nSelon Gazette Haïti, 88 partis et 17 groupements politiques sont enregistrés ; 46 formations ont atteint le seuil de 30000 membres. Ces données sont attribuées au CEP par le journal, distinctement du tableau officiel des dossiers consulté ce matin.\n\nQuestions aux lecteurs : les administrateurs des formations politiques ont-ils pu terminer les opérations avant la fermeture ? Comment expliquer la si faible présence des femmes parmi les inscriptions présidentielles et législatives ?",
     },
-    sources: ["PamElection", "CEP", "HaitiLibre", "Business & Actuality", "Le Quotidien 509", "RFI"],
+    sources: ["CEP — tableau officiel", "Gazette Haïti"],
     sourceLinks: [
-      { name: "PamElection (miroir stats CEP, électeurs)", url: "https://www.pamelection.org/statistics" },
-      { name: "CEP (tableau des candidatures)", url: "https://tableau.cephaiti.ht/" },
-      { name: "HaitiLibre (zapping du 5 novembre)", url: "https://www.haitilibre.com/article-48829-haiti-flash-zapping.html" },
-      { name: "RFI (Appels sur l'actualité)", url: "https://www.rfi.fr/fr/podcasts/appels-sur-l-actualit%C3%A9/20261102-ha%C3%AFti-le-calendrier-%C3%A9lectoral-est-il-cr%C3%A9dible" },
-      { name: "Business & Actuality", url: "https://businessactuality.com/haiti-le-report-des-elections-a-juillet-2027-revele-limpasse-securitaire-et-politique-de-la-transition/" },
-      { name: "Le Quotidien 509", url: "https://lequotidien509.com/presidentielle-20-candidats-pour-a-peine-900-000-electeurs-inscrits/" },
-      { name: "HaitiLibre (liste des candidats, zapping antérieur)", url: "https://www.haitilibre.com/en/news-48798-haiti-news-zapping.html" },
+      { name: "CEP — tableau officiel", url: "https://tableau.cephaiti.ht/" },
+      { name: "Gazette Haïti", url: "https://gazettehaiti.com/node/14502" },
     ],
   },
   {
@@ -2456,12 +2675,19 @@ export function isNewStory(story: Story, now = Date.now()): boolean {
 export function needToKnowStories(): Story[] {
   // Standing rule: Sports stories never take top-story (Need to Know) slots; they live only in the Sports section.
   // Editorial hold: the prolonged-detention opinion stays pinned at #1, and the institutions/GRYLA opinion stays #2.
+  // Approved 8 Nov 2026: the seed story sits at #3, immediately after those two opinions.
   const list = sortNewestFirst(STORIES.filter((s) => !s.archived && s.tier === "need-to-know" && s.topic !== "sports"));
   const holdId = "ntk-opinion-institutions-gryla-2026-11-06";
   const holdAt = list.findIndex((s) => s.id === holdId);
   if (holdAt > 1) {
     const [held] = list.splice(holdAt, 1);
     list.splice(1, 0, held);
+  }
+  const seedsId = "ntk-sud-semences-garanties-2026-11-08";
+  const seedsAt = list.findIndex((s) => s.id === seedsId);
+  if (seedsAt > 2) {
+    const [seeds] = list.splice(seedsAt, 1);
+    list.splice(2, 0, seeds);
   }
   return list;
 }
