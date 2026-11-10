@@ -16,29 +16,224 @@ import type { Story } from "../types";
  */
 export const STORIES: Story[] = [
   {
+    id: "ntk-croix-des-bouquets-operation-pnh-salvador-2026-11-10",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T16:11:50-05:00",
+    headline: {
+      ht: "Kwadèbouke : PNH ak sòlda salvadorien yo mennen yon operasyon madi maten, dapre Alternance Média",
+      fr: "Croix-des-Bouquets : la PNH et des soldats salvadoriens mènent une opération mardi matin, selon Alternance Média",
+    },
+    teaser: {
+      ht: "Pa t gen bilan nan moman rapò a. Pou kounye a, medya sa a se sèl sous nou site isit la.",
+      fr: "Aucun bilan n'était disponible au moment du reportage. Le média est, pour l'heure, la seule source citée ici.",
+    },
+    brief: {
+      ht: "Alternance Média ekri lapolis ak sòlda salvadorien yo te entèvni madi maten 10 novanm nan Kwadèbouke. Pa t gen bilan lè yo te ekri atik la.",
+      fr: "Alternance Média écrit que la police et des soldats salvadoriens sont intervenus mardi matin 10 novembre à Croix-des-Bouquets. Aucun bilan n'était disponible à la rédaction de l'article.",
+    },
+    body: {
+      ht: "Polis nasyonal Ayiti ak sòlda salvadorien yo mennen yon operasyon madi maten 10 novanm nan Kwadèbouke, dapre Alternance Média. Pa t gen bilan nan moman yo te ekri atik la, medya a presize. Pou kounye a, se sèl sous kont randi sa a.\n\nYon sivil redaksyon an te jwenn dekri entèvansyon an konsa: « Du jamais vu, du jamais entendu. » Se temwayaj yon sèl moun, yon sèl medya rapòte.\n\nDapre Alternance Média, operasyon an vin de jou apre yon entèvansyon dimanch 8 novanm nan Kwadèbouke, kote PNH ak fòs salvadorien yo te vize yon rezidans yo lyen ak Wilson Joseph, yo rele Lanmò San Jou. Rezilta operasyon dimanch la poko etabli nan lòt kont randi nou yo.",
+      fr: "La Police nationale d'Haïti et des soldats salvadoriens ont mené une opération mardi matin 10 novembre à Croix-des-Bouquets, écrit Alternance Média. Aucun bilan n'était disponible au moment de la rédaction, précise le média, qui est pour l'heure la seule source de ce compte rendu.\n\nUn civil joint par la rédaction a décrit l'intervention en ces termes : « Du jamais vu, du jamais entendu. » Il s'agit du témoignage d'une seule personne, rapporté par un seul média.\n\nSelon Alternance Média, l'opération survient deux jours après une intervention menée dimanche 8 novembre à Croix-des-Bouquets par la PNH et des forces salvadoriennes contre une résidence liée à Wilson Joseph, dit Lanmò San Jou. Le résultat de cette opération de dimanche n'est pas établi dans nos autres comptes rendus.",
+    },
+    sources: ["Alternance Média"],
+    sourceLinks: [
+      { name: "Alternance Média", url: "https://alternance-media.com/police-justice/croix-des-bouquets-la-pnh-et-les-soldats-salvadoriens-menent-une-operation-denvergure-ce-mardi-10-novembre/" },
+    ],
+  },
+  {
+    id: "ntk-martissant-drones-operation-2026-11-10",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T16:11:40-05:00",
+    headline: {
+      ht: "Matisan : operasyon lapolis ak drone ap fèt madi midi, dapre Radiographie",
+      fr: "Martissant : opération policière avec drones en cours mardi midi, selon Radiographie",
+    },
+    teaser: {
+      ht: "A 12:28, PNH te gen sipò Task Force. Yo te wè ekipman lapolis jouk Matisan 2A. Pa gen bilan.",
+      fr: "À 12 h 28, la PNH était appuyée par la Task Force. Des engins de la police ont été vus jusqu'à Martissant 2A. Pas de bilan.",
+    },
+    brief: {
+      ht: "Radiographie mete yon operasyon k ap fèt madi 10 novanm vers 12:28 nan Matisan, nan 3e sikonskripsyon Pòtoprens. Medya a pa pibliye bilan.",
+      fr: "Radiographie situe une opération en cours le mardi 10 novembre vers 12 h 28 à Martissant, dans la 3e circonscription de Port-au-Prince. Le média ne publie pas de bilan.",
+    },
+    body: {
+      ht: "Yon operasyon lapolis t ap fèt madi 10 novanm vers 12:28 nan Matisan, nan 3e sikonskripsyon Pòtoprens, dapre Radiographie. Inite PNH yo te gen sipò Task Force, ki t ap sèvi ak drone kamikaz sou baszyon gwoup ame yo, dapre medya a.\n\nRadiographie ajoute yo te remake ekipman lapolis jouk Matisan 2A. Kont randi a, yo ekri l pandan operasyon an t ap fèt, pa bay ni bilan ni dire. Pou kounye a, Radiographie se sèl sous nou site isit la.",
+      fr: "Une opération policière était en cours mardi 10 novembre vers 12 h 28 à Martissant, dans la 3e circonscription de Port-au-Prince, écrit Radiographie. Les unités de la PNH étaient appuyées par la Task Force, qui utilisait des drones kamikazes contre des bastions de groupes armés, selon le média.\n\nRadiographie ajoute que des engins de la police ont été remarqués jusqu'à Martissant 2A. Le compte rendu, rédigé pendant l'opération, ne donne ni bilan ni durée. Radiographie est, pour l'heure, la seule source citée ici.",
+    },
+    sources: ["Radiographie"],
+    sourceLinks: [
+      { name: "Radiographie", url: "https://radiographieht.com/operation-policiere-a-martissant/" },
+    ],
+  },
+  {
+    id: "qh-andresol-gressier-anacaona-2026-11-10",
+    tier: "quick-hit",
+    topic: "security",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T16:11:30-05:00",
+    headline: {
+      ht: "Andrésol nan yon vizit evalyasyon nan Gresye, ak nan baz Anacaona Leyogàn",
+      fr: "Andrésol en visite d'évaluation à Gressier, et à la base Anacaona de Léogâne",
+    },
+    teaser: {
+      ht: "Minis Defans la fè pwen sou operasyon FAd'H yo, dapre Le Nouvelliste.",
+      fr: "Le ministre de la Défense a fait le point sur les opérations des FAd'H, selon Le Nouvelliste.",
+    },
+    brief: {
+      ht: "Mario Andrésol te ale madi nan Gresye pou evalye aksyon Fòs lame Ayiti yo nan yon zòn gang yo menase, Le Nouvelliste ekri 10 novanm.",
+      fr: "Mario Andrésol s'est rendu mardi à Gressier pour évaluer les actions des Forces armées d'Haïti dans une zone menacée par des gangs, écrit Le Nouvelliste le 10 novembre.",
+    },
+    body: {
+      ht: "Minis Defans la, Mario Andrésol, te ale madi nan Gresye pou evalye sitiyasyon operasyonèl la epi fè pwen sou aksyon Fòs lame Ayiti yo nan zòn nan, kote gang ame yo menase, dapre Le Nouvelliste 10 novanm.\n\nDapre FAd'H, jounal la site, vizit sa a fè pati suivi operasyon sekirizasyon k ap fèt yo. Li pèmèt minis la tou pran nouvèl sou avansman travay reparasyon ak remèt baz militè Anacaona kanpe, nan Leyogàn. Kont randi a kout, li pa detaye ni kalandriye travay sa yo ni yon bilan operasyon nan zòn nan.",
+      fr: "Le ministre de la Défense, Mario Andrésol, s'est rendu mardi à Gressier pour évaluer la situation opérationnelle et faire le point sur les actions des Forces armées d'Haïti dans la zone, menacée par des gangs armés, écrit Le Nouvelliste le 10 novembre.\n\nSelon les FAd'H, citées par le journal, cette visite s'inscrit dans le suivi des opérations de sécurisation en cours. Elle a aussi permis au ministre de s'informer de l'état d'avancement des travaux de réparation et de remise en état de la base militaire Anacaona, à Léogâne. Le compte rendu, court, ne détaille ni le calendrier de ces travaux ni un bilan des opérations dans la zone.",
+    },
+    sources: ["Le Nouvelliste"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://www.lenouvelliste.com/article/273745/securite-mario-andresol-en-visite-devaluation-a-gressier" },
+    ],
+  },
+  {
+    id: "ntk-hopital-fontaine-cite-soleil-2026-11-10",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T16:11:20-05:00",
+    headline: {
+      ht: "Site Solèy : lopital Fontaine mande pou yo pwoteje l pandan operasyon yo",
+      fr: "Cité Soleil : l'hôpital Fontaine demande à être protégé pendant les opérations",
+    },
+    teaser: {
+      ht: "Direktè li a, José Ulysse, di frap drone yo fè bilding lan tranble, dapre NAGO.",
+      fr: "Son directeur, José Ulysse, dit que des frappes de drones ont fait trembler le bâtiment, selon NAGO.",
+    },
+    brief: {
+      ht: "José Ulysse, direktè jeneral lopital Fontaine, mande FRG, PNH ak FAd'H pou yo pwoteje etablisman an pandan operasyon yo nan Site Solèy, NAGO ekri 10 novanm.",
+      fr: "José Ulysse, directeur général de l'hôpital Fontaine, a demandé à la FRG, à la PNH et aux FAd'H de protéger l'établissement pendant les opérations à Cité Soleil, écrit NAGO le 10 novembre.",
+    },
+    body: {
+      ht: "Administrasyon lopital Fontaine, nan Site Solèy, lans yon apèl bay responsab Fòs represyon gang yo (FRG), Polis nasyonal Ayiti ak Fòs lame Ayiti, dapre NAGO 10 novanm. Direktè jeneral la, José Ulysse, mande pou yo pwoteje etablisman an pandan operasyon sekirite nan zòn nan. Li raple li akeyi fanm ansent, timoun ak moun aje ki bezwen swen.\n\nUlysse di otorite lapolis ak entènasyonal yo lopital la vilnerab devan operasyon sa yo. Li mansyone resan bonbadman drone Task Force te fè yo te lakoz sekous yo te santi andedan bilding lan, dapre NAGO. Li mande pou yo pran mezi pou pwoteje enstalasyon sante yo epi evite operasyon yo anpeche lopital la fonksyone.\n\nPou kounye a, NAGO se sèl sous apèl sa a. Kont randi a pa di si fòs yo solisite yo reponn.",
+      fr: "L'administration de l'hôpital Fontaine, à Cité Soleil, a lancé un appel aux responsables de la Force de répression des gangs (FRG), à la Police nationale d'Haïti et aux Forces armées d'Haïti, écrit NAGO le 10 novembre. Le directeur général, José Ulysse, demande que l'établissement soit protégé pendant les opérations de sécurité dans la zone. Il rappelle qu'il accueille des femmes enceintes, des enfants et des personnes âgées qui ont besoin de soins.\n\nUlysse a dit aux autorités policières et internationales que l'hôpital est vulnérable face à ces opérations. Il a mentionné que de récents bombardements par drones menés par la Task Force avaient provoqué des secousses ressenties à l'intérieur du bâtiment, selon NAGO. Il demande que des dispositions soient prises pour protéger les installations sanitaires et éviter que les opérations n'empêchent l'hôpital de fonctionner.\n\nNAGO est, pour l'heure, la seule source de cet appel. Le compte rendu ne dit pas si les forces sollicitées ont répondu.",
+    },
+    sources: ["NAGO"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/l-hopital-fontaine-de-cite-soleil-demande-la-protection-des-forces-ant" },
+      { name: "NAGO - Flash Info 15 h", url: "https://nago.tv/flash-info/2026-11-10-15" },
+    ],
+  },
+  {
+    id: "qh-kenya-mission-haiti-mexico-2026-11-10",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T16:11:00-05:00",
+    headline: {
+      ht: "Kenya transfere misyon diplomatik li an Ayiti pou Meksiko, dapre Capital FM",
+      fr: "Le Kenya transfère sa mission diplomatique d'Haïti à Mexico, selon Capital FM",
+    },
+    teaser: {
+      ht: "Ministè zafè etranje Kenya a di transfe a deja fèt.",
+      fr: "Le ministère kényan des Affaires étrangères dit que le transfert est déjà effectif.",
+    },
+    brief: {
+      ht: "Nan yon deklarasyon 10 novanm, sekretè prensipal Korir Sing'oei di misyon Pòtoprens lan deja deplase pou Meksiko, Capital FM rapòte.",
+      fr: "Dans une déclaration datée du 10 novembre, le secrétaire principal Korir Sing'oei indique que la mission de Port-au-Prince a déjà été relocalisée à Mexico, rapporte Capital FM.",
+    },
+    body: {
+      ht: "Kenya transfere misyon diplomatik li an Ayiti pou Meksiko, nan yon reòganizasyon pi laj rezo diplomatik li, Capital FM rapòte 10 novanm. Ministè zafè etranje ak dyaspora a di transfe misyon Pòtoprens lan deja fèt.\n\nNan yon deklarasyon ki gen dat 10 novanm, sekretè prensipal zafè etranje a, Korir Sing'oei, prezante egzèsis la kòm yon rasyonalizasyon gradyèl prezans diplomatik Kenya, devan presyon bidjè ak priyorite k ap chanje. Kont randi a pa bay yon rezon ki pou misyon Ayiti a sèlman, ni sò egzak pèsonèl ki sou plas la.\n\nCapital FM mete transfe sa a pami lòt desizyon ki deja pran oswa anonse: deplase misyon Kenya nan Lavàn pou Kingston, ouvèti nouvo misyon nan Bakou ak Brazavil, ak yon posib fèmen anbasad Bern, kote zafè Swis ta pase nan High Commission Lond, pandan prezans Jenèv la rete.",
+      fr: "Le Kenya a transféré sa mission diplomatique en Haïti vers Mexico, dans le cadre d'une réorganisation plus large de son réseau diplomatique, rapporte Capital FM le 10 novembre. Le ministère des Affaires étrangères et de la Diaspora indique que le transfert de la mission de Port-au-Prince est déjà effectif.\n\nDans une déclaration datée du 10 novembre, le secrétaire principal aux Affaires étrangères, Korir Sing'oei, présente l'exercice comme une rationalisation progressive de la présence diplomatique kényane, face à des pressions budgétaires et à des priorités qui changent. Le compte rendu ne donne pas de motif propre à la seule mission d'Haïti, ni le sort exact du personnel sur place.\n\nCapital FM situe ce transfert parmi d'autres décisions déjà prises ou annoncées : le déplacement de la mission kényane à La Havane vers Kingston, l'ouverture de nouvelles missions à Bakou et à Brazzaville, et la fermeture envisagée de l'ambassade à Berne, les affaires suisses devant passer par la High Commission à Londres, avec un maintien de la présence à Genève.",
+    },
+    sources: ["Capital FM"],
+    sourceLinks: [
+      { name: "Capital FM", url: "https://capitalfm.africa/kenya-relocates-haiti-mission-to-mexico-city-in-diplomatic-shake-up/" },
+    ],
+  },
+  {
+    id: "qh-artisanat-en-fete-el-rancho-2026-12-06",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T16:10:40-05:00",
+    headline: {
+      ht: "Artisanat en fête : 20e edisyon 6 ak 7 desanm nan El Rancho, yo pral rekonpanse twa atizan",
+      fr: "Artisanat en fête : 20e édition les 6 et 7 décembre à El Rancho, trois artisans seront récompensés",
+    },
+    teaser: {
+      ht: "Pa gen enskripsyon lib ane sa a, Max Chauvet anonse. Òganizatè yo pral fè yon seleksyon.",
+      fr: "Plus d'inscription libre cette année, annonce Max Chauvet. Les organisateurs feront une sélection.",
+    },
+    brief: {
+      ht: "20e edisyon Artisanat en fête ap fèt samdi 6 ak dimanch 7 desanm 2026 nan El Rancho Convention Center, Max Chauvet anonse 10 novanm sou Magik9, dapre Le Nouvelliste.",
+      fr: "La 20e édition d'Artisanat en fête se tiendra les samedi 6 et dimanche 7 décembre 2026 au El Rancho Convention Center, a annoncé Max Chauvet le 10 novembre sur Magik9, selon Le Nouvelliste.",
+    },
+    body: {
+      ht: "20e edisyon Artisanat en fête ap fèt samdi 6 ak dimanch 7 desanm 2026 nan El Rancho Convention Center, Max Chauvet, direktè jeneral Nouvelliste, te anonse madi 10 novanm nan matinal Magik9 (Panel Magik), dapre Le Nouvelliste.\n\nDapre mesye Chauvet, pi gwo chanjman ane sa a se sou seleksyon ekspozan yo. « Pa pral gen enskripsyon tankou nan edisyon anvan yo. Òganizatè yo pral fè yon seleksyon nan diferan branch atizana. Se sou kalite yo pral mete aksan », li te eksplike, dapre jounal la. Desizyon sa a vize tou respekte espas ki disponib, ki limite.\n\nNan yon dezyèm atik menm jou a, Le Nouvelliste ekri Artisanat en fête, an kolaborasyon ak Chanm mestye ak atizana Ayiti (CMAH), pral rekonpanse twa atizan pou kalite zèv yo. Mesye Chauvet di rekonpans sa a p ap senbolik sèlman: gayan yo pral gen yon akonpayman pandan tout ane a, epi nan pwochèn edisyon an, yo pral mete yo devan pou prezante nouvo koleksyon ki soti nan kolaborasyon sa a. Non atizan yo konsène yo pa t pibliye nan kont randi sa yo.",
+      fr: "La 20e édition d'Artisanat en fête se tiendra les samedi 6 et dimanche 7 décembre 2026 au El Rancho Convention Center, a annoncé Max Chauvet, directeur général du Nouvelliste, mardi 10 novembre à la matinale de Magik9 (Panel Magik), rapporte Le Nouvelliste.\n\nSelon M. Chauvet, le principal changement cette année porte sur la sélection des exposants. « Il n'y aura pas d'inscription comme les éditions précédentes. Les organisateurs feront une sélection dans différentes branches de l'artisanat. En ce sens, l'accent sera mis sur la qualité », a-t-il expliqué, d'après le journal. Cette décision vise notamment à tenir compte de l'espace disponible, qui est limité.\n\nDans un second article du même jour, Le Nouvelliste écrit qu'Artisanat en fête, en collaboration avec la Chambre de métiers et de l'artisanat d'Haïti (CMAH), récompensera trois artisans pour la qualité de leurs œuvres. M. Chauvet a indiqué que cette récompense ne sera pas seulement symbolique : les gagnants bénéficieront d'un accompagnement sur toute l'année et, à la prochaine édition, ils seront mis en avant pour présenter les nouvelles collections nées de cette collaboration. Les noms des artisans concernés n'étaient pas publiés dans ces comptes rendus.",
+    },
+    sources: ["Le Nouvelliste"],
+    sourceLinks: [
+      { name: "Le Nouvelliste - trois artisans récompensés", url: "https://www.lenouvelliste.com/article/273737/artisanat-en-fete-trois-artisans-seront-recompenses-pour-la-qualite-de-leurs-oeuvres" },
+      { name: "Le Nouvelliste - dates à El Rancho", url: "https://lenouvelliste.com/article/273738/artisanat-en-fete-la-20e-edition-annoncee-pour-les-6-et-7-decembre-a-el-rancho" },
+    ],
+  },
+  {
+    id: "qh-jacmel-ateco-femmes-construction-2026-11-09",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T16:10:10-05:00",
+    headline: {
+      ht: "Jakmèl : Frans apui yon fòmasyon fanm nan mestye konstriksyon",
+      fr: "Jacmel : la France appuie une formation de femmes aux métiers de la construction",
+    },
+    teaser: {
+      ht: "35 moun fòme, 65% ladan yo se fanm, atravè ATECO ak Fonds Équipe France, dapre anbasad ke Le Nouvelliste reprann.",
+      fr: "35 personnes formées, dont 65% de femmes, via ATECO et le Fonds Équipe France, selon l'ambassade reprise par Le Nouvelliste.",
+    },
+    brief: {
+      ht: "Nan Jakmèl, Asosyasyon teknisyen pou konstriksyon te mennen yon pwojè anbasad Frans finanse, Le Nouvelliste ekri 9 novanm.",
+      fr: "À Jacmel, l'Association des techniciens pour la construction a mené un projet financé par l'ambassade de France, écrit Le Nouvelliste le 9 novembre.",
+    },
+    body: {
+      ht: "Nan Jakmèl, Asosyasyon teknisyen pou konstriksyon (ATECO) mete kanpe, ak sipò finansye anbasad Frans atravè Fonds Équipe France (FEF), yon pwojè pou fasilite aksè fanm nan mestye konstriksyon, anbasad la fè konnen, Le Nouvelliste rapòte 9 novanm.\n\nTrant-senk moun, 65% ladan yo se fanm, te jwenn fòmasyon teknik pou ede yo jwenn travay ak yon otonomi ekonomik nan yon sektè gason te domine lontan, dapre menm sous la. Kont randi a kout, li pa detaye mestye yo anseye yo, ni dat yon posib seremoni, ni montan sipò a.",
+      fr: "À Jacmel, l'Association des techniciens pour la construction (ATECO) a mis en œuvre, avec l'appui financier de l'ambassade de France via le Fonds Équipe France (FEF), un projet visant à faciliter l'accès des femmes aux métiers de la construction, a informé l'ambassade, rapporte Le Nouvelliste le 9 novembre.\n\nTrente-cinq personnes, dont 65% de femmes, ont bénéficié de formations techniques destinées à favoriser leur insertion professionnelle et leur autonomie économique dans un secteur longtemps dominé par les hommes, selon la même source. Le compte rendu, court, ne détaille pas les métiers enseignés, ni la date d'une éventuelle cérémonie, ni le montant de l'appui.",
+    },
+    sources: ["Le Nouvelliste"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273726/jacmel-la-france-appuie-la-formation-de-femmes-aux-metiers-de-la-construction" },
+    ],
+  },
+
+    {
     id: "ntk-mansion-lanmo-san-jou-2026-11-10",
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-11-10",
-    publishedTime: "2026-11-10T15:53:00-05:00",
+    publishedTime: "2026-11-10T16:12:00-05:00",
+    isFollowUp: true,
     headline: {
-      ht: "Rezidans yo lyen ak Lanmò San Jou : rapò yo pa dakò sou degè yo, dapre Haitian Times",
-      fr: "Résidence liée à Lanmò San Jou : des récits divergent sur les dégâts, selon Haitian Times",
+      ht: "Bukele di twoup li yo detwi katye jeneral 400 Mawozo; pa gen bilan ofisyèl ayisyen",
+      fr: "Bukele affirme que ses troupes ont détruit le QG de 400 Mawozo ; aucun bilan officiel haïtien",
     },
     teaser: {
-      ht: "Medya a pa t ka verifye si pwopriyete a te detwi oswa yo te vize l sèlman, bonè dimanch.",
-      fr: "Le média n'a pas pu vérifier si la propriété a été détruite ou seulement visée, tôt dimanche.",
+      ht: "Al Jazeera, ki site ajans yo, pale de 20 moun mouri dimanch. Videyo a pa pèmèt verifye degè yo, dapre Infobae.",
+      fr: "Al Jazeera, citant des agences, parle de 20 morts dimanche. La vidéo ne permet pas de vérifier les dégâts, selon Infobae.",
     },
     brief: {
-      ht: "Haitian Times ekri 10 novanm kèk fòs ayisyen ak salvadorien ta vize yon rezidans yo lyen ak Wilson Joseph, yo rele Lanmò San Jou, bonè dimanch. Rapò yo pa dakò sou nivo degè yo. Pa t gen konfimasyon ofisyèl nan moman rapò a.",
-      fr: "Haitian Times écrit le 10 novembre que des forces haïtiennes et salvadoriennes auraient visé une résidence liée à Wilson Joseph, dit Lanmò San Jou, tôt dimanche. Les récits s'opposent sur l'ampleur des dégâts. Aucune confirmation officielle n'avait été publiée au moment du reportage.",
+      ht: "Madi 10 novanm, Nayib Bukele anonse sou X fòs li yo te detwi kay Lanmò San Jou ak katye jeneral 400 Mawozo. Al Jazeera, ki reprann AFP, AP ak Reuters, pale de 20 moun mouri. Pa gen bilan ofisyèl ayisyen ki pibliye.",
+      fr: "Mardi 10 novembre, Nayib Bukele a annoncé sur X que ses forces avaient détruit la maison de Lanmò San Jou et le quartier général de 400 Mawozo. Al Jazeera, qui reprend l'AFP, l'AP et Reuters, parle de 20 morts. Aucun bilan officiel haïtien n'a été publié.",
     },
     body: {
-      ht: "Kèk fòs ayisyen ak salvadorien ta vize bonè dimanch yon rezidans yo lyen ak Wilson Joseph, yo rele Lanmò San Jou, chèf gang 400 Mawozo, dapre Haitian Times 10 novanm. Medya a pa t ka verifye rapò yo pou kont li, ni etabli nivo degè yo. Nan moman li pibliye, ni otorite ayisyen yo ni fòs salvadorien yo pa t konfime piblikman rezilta operasyon an, e pa t gen foto ni videyo ofisyèl sou eta pwopriyete a.\n\nMiami Herald, Haitian Times site epi ki chita sou sous ki pwòch operasyon an, mete frap la vers 2:30 nan maten dimanch. Sous sa yo dekri manm Task Force atè a ak kat elikoptè k ap bay sipò, de pou Task Force ak de pou twoup salvadorien yo, toujou dapre Herald. Jounal la di Joseph pa t sou plas la. Prezans gason ame andedan, kantite yo ak posib moun ki mouri rete san verifye, Haitian Times presize.\n\nPlizyè medya ayisyen, pami yo Vant Bèf Info, Radiographie ak Radio Télé Galaxie, rapòte rezidans lan te detwi, yo site sous yo prezante kòm entèn PNH. Gen lòt rapò ki pale de yon pwopriyete yo vize, yo pa detwi. Kèk imaj k ap sikile sou rezo yo, yo prezante kòm sèn operasyon an, ajoute nan konfizyon an: kèk te sanble se entèlijans atifisyèl ki fè yo, dapre Haitian Times.\n\nRapò a raple nan yon mesaj 6 novanm sou X, prezidan salvadorien Nayib Bukele te reponn li ta detwi kay la si li jwenn adrès egzak la. Mesaj sa a pou kont li pa yon prèv rezilta operasyon dimanch la.",
-      fr: "Des forces haïtiennes et salvadoriennes auraient visé tôt dimanche une résidence liée à Wilson Joseph, dit Lanmò San Jou, chef du gang 400 Mawozo, écrit Haitian Times le 10 novembre. Le média n'a pas pu vérifier de façon indépendante les récits, ni établir l'ampleur des dégâts. Au moment de sa publication, ni les autorités haïtiennes ni les forces salvadoriennes n'avaient confirmé publiquement le résultat de l'opération, et aucune photo ou vidéo officielle de l'état de la propriété n'avait été diffusée.\n\nLe Miami Herald, cité par Haitian Times et s'appuyant sur des sources proches de l'opération, situe la frappe vers 2 h 30 du matin dimanche. Ces sources décrivent des membres de la Task Force au sol et quatre hélicoptères en appui, dont deux de la Task Force et deux des troupes salvadoriennes, toujours selon le Herald. Le journal indique que Joseph n'était pas sur place. La présence d'hommes armés à l'intérieur, leur nombre et d'éventuels morts restent non vérifiés, précise Haitian Times.\n\nPlusieurs médias haïtiens, dont Vant Bèf Info, Radiographie et Radio Télé Galaxie, ont rapporté que la résidence avait été détruite, en citant des sources présentées comme internes à la PNH. D'autres récits parlent d'une propriété visée, pas détruite. Des images circulant sur les réseaux, présentées comme des scènes de l'opération, ont ajouté à la confusion : certaines semblaient générées par intelligence artificielle, selon Haitian Times.\n\nLe reportage rappelle qu'à une publication du 6 novembre sur X, le président salvadorien Nayib Bukele avait répondu qu'il détruirait la maison s'il en recevait l'adresse exacte. Ce message ne constitue pas, à lui seul, une preuve du résultat de l'opération de dimanche.",
+      ht: "Madi 10 novanm, prezidan salvadorien Nayib Bukele anonse sou X fòs li yo te detwi kay Wilson Joseph, yo rele Lanmò San Jou, ak katye jeneral gang 400 Mawozo. Infobae presize li ekri mesaj la an kreyòl ayisyen epi li pibliye yon videyo ayeryen kote yo wè yon zòn riral ak detonasyon. Al Jazeera dekri elikoptè k ap toune anlè sit la, nan Kwadèbouke, epi yo ap tire. Bukele di tou, dapre Infobae, pifò manm gwoup la te kouri « san yo pa menm eseye goumen ».\n\nDeklarasyon sa yo pa sifi pou etabli nivo degè yo. Infobae ekri videyo a pa pèmèt verifye destriksyon yo pou kont li, ni si te gen moun mouri oswa arestasyon. Al Jazeera, ki reprann depèch AFP, AP ak Reuters, mete operasyon an dimanch epi li pale de 20 moun mouri. Ni otorite ayisyen yo ni otorite salvadorien yo pa pibliye yon bilan ofisyèl, Infobae presize tou.\n\nOperasyon dimanch sa a, dapre plizyè rapò, se Polis nasyonal Ayiti ki te mennen l ak sipò militè salvadorien, sou yon rezidans yo lyen ak Joseph. Miami Herald, nou te deja site nan kont randi anvan an epi Infobae reprann, di Joseph pa t sou plas la, epi kèk sous pale de posib lanmò plizyè gason ame, san detay ofisyèl. Haitian Times, 10 novanm, pa t ka verifye si pwopriyete a te detwi oswa yo te vize l sèlman. Medya a te note rapò ki pa dakò, absans konfimasyon ofisyèl, ak imaj k ap sikile sou rezo yo kote kèk te sanble se entèlijans atifisyèl ki fè yo.\n\nAl Jazeera raple Premye minis Alix Didier Fils-Aimé gen pou l ale Salvador semèn pwochèn pou diskite sou avni kontenjan salvadorien an.",
+      fr: "Mardi 10 novembre, le président salvadorien Nayib Bukele a annoncé sur X que ses forces avaient détruit la maison de Wilson Joseph, dit Lanmò San Jou, et le quartier général du gang 400 Mawozo. Infobae précise qu'il a écrit ce message en créole haïtien et qu'il a publié une vidéo aérienne montrant une zone rurale et des détonations. Al Jazeera décrit des hélicoptères qui tournent au-dessus du site, à Croix-des-Bouquets, et font feu. Bukele a aussi affirmé, selon Infobae, que la plupart des membres du groupe avaient fui « sans même essayer de se battre ».\n\nCes déclarations ne suffisent pas à établir l'ampleur des dégâts. Infobae écrit que la vidéo ne permet pas de vérifier de façon indépendante les destructions, ni s'il y a eu des morts ou des arrestations. Al Jazeera, qui reprend des dépêches de l'AFP, de l'AP et de Reuters, situe l'opération dimanche et parle de 20 morts. Ni les autorités haïtiennes ni les autorités salvadoriennes n'ont publié de bilan officiel, précise aussi Infobae.\n\nCette opération de dimanche, menée selon plusieurs récits par la Police nationale d'Haïti avec l'appui de militaires salvadoriens, visait une résidence liée à Joseph. Le Miami Herald, déjà cité dans notre précédent compte rendu et repris par Infobae, indique que Joseph n'était pas sur place et que des sources ont évoqué la mort possible de plusieurs hommes armés, sans détail officiel. Haitian Times, le 10 novembre, n'avait pas pu vérifier si la propriété avait été détruite ou seulement visée. Le média relevait des récits contradictoires, l'absence de confirmation officielle, et des images circulant sur les réseaux dont certaines semblaient générées par intelligence artificielle.\n\nAl Jazeera rappelle que le Premier ministre Alix Didier Fils-Aimé doit se rendre au Salvador la semaine prochaine pour discuter de l'avenir du contingent salvadorien.",
     },
-    sources: ["Haitian Times", "Miami Herald (via Haitian Times)"],
+    sources: ["Al Jazeera", "Infobae", "Haitian Times"],
     sourceLinks: [
+      { name: "Al Jazeera", url: "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead" },
+      { name: "Infobae", url: "https://www.infobae.com/el-salvador/2026/11/10/bukele-afirma-que-las-fuerzas-salvadorenas-destruyeron-el-cuartel-de-la-banda-400-mawozo-en-haiti/" },
       { name: "Haitian Times", url: "https://haitiantimes.com/2026/11/10/mansion-linked-haiti-gang-leader-reportedly-destroyed/" },
     ],
   },
@@ -575,31 +770,35 @@ export const STORIES: Story[] = [
       { name: "Vant Bèf Info", url: "https://vantbefinfo.com/haiti-securite-le-depart-de-muscadin-ravive-les-inquietudes-dans-le-grand-sud/" },
     ],
   },
-  {
+    {
     id: "ntk-pacte-relevement-14-engagements-2026-11-08",
     tier: "need-to-know",
     topic: "governance",
-    publishedAt: "2026-11-08",
-    publishedTime: "2026-11-08T08:25:31-05:00",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T16:10:50-05:00",
+    isFollowUp: true,
     headline: {
-      ht: "Relèvman : 14 angajman sou douz mwa, lòt finansman an gen kondisyon",
-      fr: "Relèvement : 14 engagements sur douze mois, un financement supplémentaire sous conditions",
+      ht: "Akò relèvman : prezantasyon nan Kap Ayisyen, premye bilan prevwa pou avril 2027",
+      fr: "Pacte de relèvement : présentation au Cap-Haïtien, premier bilan prévu en avril 2027",
     },
     teaser: {
-      ht: "MEF anonse yon akò ak patnè li yo. Lòt finansman Bank mondyal la poko garanti.",
-      fr: "Le MEF annonce un pacte avec ses partenaires. L'appui supplémentaire de la Banque mondiale n'est pas acquis.",
+      ht: "Katòz angajman sou douz mwa. Yon finansman anplis Bank mondyal la rete sou kondisyon.",
+      fr: "Quatorze engagements sur douze mois. Un financement supplémentaire de la Banque mondiale reste sous conditions.",
     },
     brief: {
-      ht: "Akò yo anonse 6 novanm nan kouvri lajistis, gouvènans, fiskalite ak travay. Dapre MEF, jan Le Nouvelliste site li, lòt finansman Bank mondyal la depann de pwogrè satisfezan nan refòm yo.",
-      fr: "Le pacte annoncé le 6 novembre couvre la justice, la gouvernance, la fiscalité et l'emploi. Selon le MEF cité par Le Nouvelliste, un financement supplémentaire de la Banque mondiale dépendra de progrès satisfaisants dans les réformes.",
+      ht: "Le Nouvelliste mete prezantasyon akò a samdi 7 novanm nan Kap Ayisyen. MEF te anonse li antre an vigè 6 novanm. Premye rapò suivi a prevwa pou avril 2027.",
+      fr: "Le Nouvelliste situe la présentation du pacte au samedi 7 novembre au Cap-Haïtien. Le MEF en avait annoncé l'entrée en vigueur le 6 novembre. Le premier rapport de suivi est prévu en avril 2027.",
     },
     body: {
-      ht: "Ministè Ekonomi ak Finans anonse 6 novanm yon Akò pou prevansyon ak relèvman antre an vigè ant gouvènman ayisyen an ak patnè entènasyonal li yo. Dapre Le Nouvelliste, li gen 14 angajman pou yon peryòd douz mwa.\n\nLi kouvri kat domèn : Leta de dwa, lajistis ak sekirite; gouvènans ak batay kont koripsyon; estabilite makwoekonomik ak fiskalite; travay ak envestisman.\n\nKad sa a, Bank mondyal sipòte, prevwa de rapò suivi. Dapre atik jounal la, premye a anonse pou avril 2027. Nan kominike MEF jounal la site a, Bank mondyal di li anvizaje lòt finansman, men sèlman si aplikasyon refòm yo fè pwogrè satisfezan.\n\nSa pa vle di lajan an deja garanti oswa debouse. Lansman akò a pa prèv angajman yo deja reyalize nonplis. Kont randi nou konsilte a pa bay detay sou tout katòz objektif yo, ni montan yon posib finansman anplis.\n\nKesyon pou lektè yo : èske gouvènman an ap pibliye tout tèks la, moun ki responsab chak angajman ak fason pou mezire rezilta yo ? Èske piblik la ap jwenn rapò suivi yo ?",
-      fr: "Le ministère de l'Économie et des Finances a annoncé, le 6 novembre, l'entrée en vigueur d'un Pacte pour la prévention et le relèvement entre le gouvernement haïtien et ses partenaires internationaux. Le Nouvelliste rapporte qu'il prévoit 14 engagements sur une période de douze mois.\n\nQuatre domaines sont concernés : l'État de droit, la justice et la sécurité ; la gouvernance et la lutte contre la corruption ; la stabilité macroéconomique et la fiscalité ; l'emploi et l'investissement.\n\nLe cadre, soutenu par la Banque mondiale, prévoit deux rapports de suivi. Le premier est annoncé pour avril 2027 dans le compte rendu du journal. Selon le communiqué du MEF qu'il cite, la Banque mondiale envisage un financement supplémentaire, mais seulement si la mise en œuvre des réformes progresse de façon satisfaisante.\n\nIl ne s'agit donc pas de l'annonce d'un décaissement acquis. Le lancement du pacte ne prouve pas non plus que ses engagements ont déjà été exécutés. Le compte rendu consulté ne détaille pas les quatorze cibles ni le montant d'un éventuel appui supplémentaire.\n\nQuestions aux lecteurs : le gouvernement publiera-t-il le texte complet, les responsables de chaque engagement et les indicateurs de résultat ? Les rapports de suivi seront-ils accessibles au public ?",
+      ht: "Gouvènman ayisyen an ak patnè entènasyonal li yo anonse, nan Kap Ayisyen, Akò pou prevansyon ak relèvman an antre an vigè. Ministè Ekonomi ak Finans te fè sa konnen 6 novanm, dapre Le Nouvelliste. Nan yon atik 9 novanm, jounal la mete prezantasyon an samdi 7 novanm. Kominike Bank mondyal la, li menm, pote yon dateline 5 novanm nan Kap Ayisyen.\n\nAkò a prevwa 14 angajman sou yon premye faz douz mwa, yo gwoupe yo sou kat aks: Leta de dwa, lajistis ak sekirite; gouvènans ak batay kont koripsyon; estabilite makwoekonomik ak fiskalite; travay ak envestisman. Yo prevwa de rapò suivi. Premye a, apre sis mwa, anonse pou avril 2027, dapre Le Nouvelliste ak Caribbean Times.\n\nDapre Caribbean Times ak kominike Bank mondyal la, Serge Gabriel Colin, minis Ekonomi ak Finans, di akò a tounen fèy wout gouvènman an yon plan aksyon, ak objektif yo ka mezire ak delè. Anne-Lucie Lefebvre, responsab peyi Bank mondyal pou Ayiti, salye travay gouvènman an sou kad sa a, dapre Caribbean Times. Si pwogrè yo satisfezan, Bank mondyal ap anvizaje yon finansman anplis ak yon kad angajman pou twa lòt ane. Finansman sa a poko garanti. Kont randi nou konsilte yo poko detaye katòz objektif yo, ni montan yon posib sipò. FMI, OEA ak ajans Nasyonzini yo dwe kontribye nan suivi a, dapre sous sa yo.",
+      fr: "Le gouvernement haïtien et ses partenaires internationaux ont annoncé, au Cap-Haïtien, l'entrée en vigueur du Pacte pour la prévention et le relèvement. Le ministère de l'Économie et des Finances l'avait fait savoir le 6 novembre, selon Le Nouvelliste. Dans un article du 9 novembre, le journal situe la présentation au samedi 7 novembre. Le communiqué de la Banque mondiale porte, lui, un dateline du 5 novembre au Cap-Haïtien.\n\nLe pacte prévoit 14 engagements sur une première phase de douze mois, regroupés autour de quatre axes : l'État de droit, la justice et la sécurité ; la gouvernance et la lutte contre la corruption ; la stabilité macroéconomique et la fiscalité ; l'emploi et l'investissement. Deux rapports de suivi sont prévus. Le premier, après six mois, est annoncé pour avril 2027, selon Le Nouvelliste et Caribbean Times.\n\nSelon Caribbean Times et le communiqué de la Banque mondiale, Serge Gabriel Colin, ministre de l'Économie et des Finances, a dit que le pacte transforme la feuille de route du gouvernement en un plan d'action, avec des cibles mesurables et des échéances. Anne-Lucie Lefebvre, responsable pays de la Banque mondiale pour Haïti, a salué le travail du gouvernement sur ce cadre, d'après Caribbean Times. Sous réserve de progrès satisfaisants, la Banque mondiale envisagera un financement supplémentaire et un cadre d'engagement pour trois autres années. Ce financement n'est pas acquis. Les comptes rendus consultés ne détaillent toujours pas les quatorze cibles ni le montant d'un éventuel appui. Le FMI, l'OEA et des agences des Nations unies doivent contribuer au suivi, selon ces sources.",
     },
-    sources: ["Le Nouvelliste — annonce du MEF"],
+    sources: ["Le Nouvelliste", "Caribbean Times", "Banque mondiale"],
     sourceLinks: [
-      { name: "Le Nouvelliste — annonce du MEF", url: "https://lenouvelliste.com/article/273674/le-gouvernement-et-ses-partenaires-lancent-un-pacte-de-prevention-et-de-relevement" },
+      { name: "Le Nouvelliste - présentation au Cap-Haïtien", url: "https://lenouvelliste.com/article/273705/cap-haitien-quatorze-engagements-de-reforme-au-coeur-dun-nouveau-partenariat-pour-le-relevement" },
+      { name: "Le Nouvelliste - annonce du MEF", url: "https://lenouvelliste.com/article/273674/le-gouvernement-et-ses-partenaires-lancent-un-pacte-de-prevention-et-de-relevement" },
+      { name: "Caribbean Times", url: "https://caribbeantimes.com/world-bank-outlines-12-month-reform-plan-to-support-haitis-recovery/" },
+      { name: "Banque mondiale", url: "https://www.worldbank.org/en/news/press-release/2026/11/06/new-framework-for-haiti-sets-a-12-month-path-for-reform-and-renewed-trust" },
     ],
   },
   {
@@ -1235,31 +1434,32 @@ export const STORIES: Story[] = [
       { name: "Miami Herald", url: "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article317899359.html" },
     ],
   },
-    {
+      {
     id: "qh-d1-paryaj-lakay-2026-11-03",
     tier: "quick-hit",
     topic: "sports",
     publishedAt: "2026-11-10",
-    publishedTime: "2026-11-10T15:50:20-05:00",
+    publishedTime: "2026-11-10T16:10:30-05:00",
     isFollowUp: true,
     headline: {
-      ht: "D1 : rezilta 1re jounen an, Violette-Juventus ranvwaye poutèt lapli",
-      fr: "D1 : résultats de la 1re journée, Violette-Juventus reporté pour pluie",
+      ht: "D1 : Violette bat Juventus 3-0, Clavens Exantus fè yon triple",
+      fr: "D1 : Violette bat Juventus 3-0, triplé de Clavens Exantus",
     },
     teaser: {
-      ht: "Racing FC 2-1 Réal Hope; FICA genyen 0-1 lakay Tempête; RCH ak Don Bosco 2-2.",
-      fr: "Racing FC 2-1 Réal Hope ; FICA gagne 0-1 chez Tempête ; RCH et Don Bosco 2-2.",
+      ht: "Match yo te ranvwaye dimanch poutèt lapli a te jwe lendi nan Land des Gabions, dapre NAGO.",
+      fr: "Le match reporté dimanche pour pluie a été joué lundi au Land des Gabions, selon NAGO.",
     },
     brief: {
-      ht: "Pont Info ak HaitiTempo pibliye skò dimanch 8 novanm pou premye jounen chanpyona nasyonal D1 an.",
-      fr: "Pont Info et HaitiTempo publient les scores du dimanche 8 novembre pour la première journée du championnat national de D1.",
+      ht: "Violette AC bat Juventus des Cayes 3-0 lendi, pou premye jounen chanpyona nasyonal D1. Clavens Exantus make twa gòl yo, NAGO ekri.",
+      fr: "Violette AC a battu Juventus des Cayes 3-0 lundi, pour la première journée du championnat national de D1. Clavens Exantus a inscrit les trois buts, écrit NAGO.",
     },
     body: {
-      ht: "Men rezilta premye jounen chanpyona nasyonal D1 yo rapòte pou dimanch 8 novanm, dapre Pont Info ak HaitiTempo.\n\n• Racing FC (Gonayiv) 2-1 Réal Hope FA\n• Tempête FC 0-1 FICA\n• AS Capoise 0-0 Ouanaminthe FC\n• Racing Club Haïtien 2-2 Don Bosco FC\n• Cavaly AS 0-0 América des Cayes\n• Violette AC - Juventus des Cayes : ranvwaye poutèt lapli, dapre HaitiTempo\n\nHaitiTempo di Taylor Fils-Aimé make premye gòl sezon an pou FICA a 18e minit, sou teren Tempête. Pont Info di gen 8 gòl an total nan jounen an, san match ki ranvwaye a.",
-      fr: "Voici les résultats de la première journée du championnat national de D1 rapportés pour le dimanche 8 novembre, d'après Pont Info et HaitiTempo.\n\n• Racing FC (Gonaïves) 2-1 Réal Hope FA\n• Tempête FC 0-1 FICA\n• AS Capoise 0-0 Ouanaminthe FC\n• Racing Club Haïtien 2-2 Don Bosco FC\n• Cavaly AS 0-0 América des Cayes\n• Violette AC - Juventus des Cayes : reporté pour cause de pluie, selon HaitiTempo\n\nHaitiTempo indique que Taylor Fils-Aimé a inscrit le premier but de la saison pour le FICA à la 18e minute, sur le terrain de Tempête. Pont Info relève 8 buts au total sur la journée, hors match reporté.",
+      ht: "Match premye jounen chanpyona nasyonal D1 ant Violette AC ak Juventus des Cayes, yo te ranvwaye dimanch 8 novanm poutèt lapli dapre HaitiTempo, te jwe lendi nan Land des Gabions. Violette genyen 3-0, NAGO ekri 10 novanm. Clavens Exantus make twa gòl yo, nan 5e minit, nan 45e plis yon, epi nan 53e minit. Medya a presize li pote nimewo 18.\n\nYon ti kras apre twazyèm gòl la, Juventus jwenn yon penalite. Gadyen Stanley Delile repouse tire Makendy Claude, e nòt la pa chanje ankò, dapre NAGO. Viktwa sa a mete Violette an tèt gwoup Sid, ak 3 pwen. Se Rony Attimy k ap antrene ekip la. Sou lòt bò a, se Georgy Joseph ki t ap dirije Juventus. NAGO raple Violette te chanpyon nan de seri sezon pase a.\n\nLòt rezilta premye jounen an, yo te rapòte pou dimanch 8 novanm pa Pont Info ak HaitiTempo, rete sa yo:\n\n• Racing FC (Gonayiv) 2-1 Réal Hope FA\n• Tempête FC 0-1 FICA\n• AS Capoise 0-0 Ouanaminthe FC\n• Racing Club Haïtien 2-2 Don Bosco FC\n• Cavaly AS 0-0 América des Cayes\n\nHaitiTempo di Taylor Fils-Aimé make premye gòl sezon an pou FICA a 18e minit, sou teren Tempête. Pont Info te konte 8 gòl an total nan jounen dimanch la, san match ki te ranvwaye a.",
+      fr: "Le match de la première journée du championnat national de D1 entre Violette AC et Juventus des Cayes, reporté dimanche 8 novembre pour cause de pluie selon HaitiTempo, a été joué lundi au Land des Gabions. Violette l'a emporté 3-0, écrit NAGO le 10 novembre. Clavens Exantus a inscrit les trois buts, à la 5e minute, à la 45e plus une, puis à la 53e minute. Le média précise qu'il porte le numéro 18.\n\nPeu après le troisième but, la Juventus a obtenu un penalty. Le gardien Stanley Delile a repoussé le tir de Makendy Claude, et le score n'a plus bougé, selon NAGO. Cette victoire place Violette en tête du groupe Sud, avec 3 points. L'équipe est entraînée par Rony Attimy. En face, la Juventus était dirigée par Georgy Joseph. NAGO rappelle que Violette a été sacré champion lors des deux séries de la saison dernière.\n\nLes autres résultats de la première journée, rapportés pour le dimanche 8 novembre par Pont Info et HaitiTempo, restent les suivants :\n\n• Racing FC (Gonaïves) 2-1 Réal Hope FA\n• Tempête FC 0-1 FICA\n• AS Capoise 0-0 Ouanaminthe FC\n• Racing Club Haïtien 2-2 Don Bosco FC\n• Cavaly AS 0-0 América des Cayes\n\nHaitiTempo indique que Taylor Fils-Aimé a inscrit le premier but de la saison pour le FICA à la 18e minute, sur le terrain de Tempête. Pont Info relevait 8 buts au total sur la journée de dimanche, hors match alors reporté.",
     },
-    sources: ["Pont Info", "HaitiTempo"],
+    sources: ["NAGO", "Pont Info", "HaitiTempo"],
     sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/clavens-exantus-signe-un-triple-et-violette-ac-ecrase-la-juventus-3-0" },
       { name: "Pont Info", url: "https://www.pontinfo.com/post/d1-paryaj-lakay-une-premi%C3%A8re-journ%C3%A9e-r%C3%A9ussie-pour-la-ligue-ha%C3%AFtienne-de-football" },
       { name: "HaitiTempo", url: "https://haititempo.com/foot-d1-taylor-fils-aime-marque-le-premier-but-de-la-saison/" },
     ],
@@ -1843,33 +2043,33 @@ export const STORIES: Story[] = [
       { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/plus-de-60-de-leffectif-de-la-pnh-transforme-bodyguard-des-officiels-denonce-le-spnh-17/" },
     ],
   },
-    {
+      {
     id: "qh-grenadiers-usa-ligue-nations-2026-11-01",
     tier: "quick-hit",
     topic: "sports",
     publishedAt: "2026-11-10",
-    publishedTime: "2026-11-10T15:51:40-05:00",
+    publishedTime: "2026-11-10T16:10:20-05:00",
     isFollowUp: true,
     headline: {
-      ht: "Lig nasyon yo : Ayiti-Etazini, ale samdi 14 novanm nan Miami, retou 17 nan Cincinnati",
-      fr: "Ligue des nations : Haïti-États-Unis, aller samedi 14 novembre à Miami, retour le 17 à Cincinnati",
+      ht: "Lig nasyon yo : Bellegarde fòfè kont Etazini, Grenadye yo antre an stage nan Miami",
+      fr: "Ligue des nations : Bellegarde forfait contre les États-Unis, les Grenadiers en stage à Miami",
     },
     teaser: {
-      ht: "Kòmansman premye manch la a 16:30, nan Nu Stadium, dapre MLS ak kalandriye ki deja konnen an.",
-      fr: "Coup d'envoi de la première manche à 16 h 30, au Nu Stadium, selon MLS et le calendrier déjà connu.",
+      ht: "Ale samdi 14 novanm a 16:30 nan Nu Stadium, retou madi 17 nan Cincinnati, dapre NAGO ak MLS.",
+      fr: "Aller samedi 14 novembre à 16 h 30 au Nu Stadium, retour mardi 17 à Cincinnati, selon NAGO et MLS.",
     },
     brief: {
-      ht: "MLS konfime ka final ale Lig nasyon Concacaf samdi 14 novanm a 16:30, lè Lès, nan Nu Stadium Miami, epi retou 17 novanm nan TQL Stadium Cincinnati. 14 novanm 2026 se yon samdi.",
-      fr: "MLS confirme le quart de finale aller de la Ligue des nations Concacaf le samedi 14 novembre à 16 h 30, heure de l'Est, au Nu Stadium de Miami, et le retour le 17 novembre au TQL Stadium de Cincinnati. Le 14 novembre 2026 tombe un samedi.",
+      ht: "Wolverhampton anonse Jean-Ricner Bellegarde fòfè, li blese, pou ka final kont Etazini, NAGO ekri 10 novanm. Gwoup la antre an stage nan Miami.",
+      fr: "Wolverhampton a annoncé le forfait de Jean-Ricner Bellegarde, blessé, pour le quart de finale contre les États-Unis, écrit NAGO le 10 novembre. Le groupe entre en stage à Miami.",
     },
     body: {
-      ht: "Grenadye yo pral jwe kont Etazini nan ka final Lig nasyon Concacaf, match ale samdi 14 novanm a 16:30, lè Lès, nan Nu Stadium Miami, MLS konfime. Match retou a fikse 17 novanm nan TQL Stadium Cincinnati. 14 novanm 2026 se yon samdi, se pa yon vandredi.\n\nMLS di premye manch la ap pase an angle sou TBS, TruTV ak HBO Max, epi an panyòl sou Universo ak Peacock. Gayan konfwontasyon de manch yo kalifye pou Final Four mas 2027 ak pou Gold Cup 2027, dapre sit la.\n\nDapre MLS, Ayiti ap jwe premye ka final Lig nasyon li. Ekip la gen David Badía Cequier kòm antrenè, li rive apre Sébastien Migné pati. Le National, nan yon atik 24 oktòb, te prevwa anpil sipòtè ayisyen nan Florid; se te yon previzyon, se pa yon konte tikè.",
-      fr: "Les Grenadiers affrontent les États-Unis en quarts de finale de la Ligue des nations Concacaf, match aller le samedi 14 novembre à 16 h 30, heure de l'Est, au Nu Stadium de Miami, confirme MLS. Le match retour est fixé au 17 novembre au TQL Stadium de Cincinnati. Le 14 novembre 2026 tombe un samedi, pas un vendredi.\n\nMLS indique que la première manche sera diffusée en anglais sur TBS, TruTV et HBO Max, et en espagnol sur Universo et Peacock. Le vainqueur de la confrontation en deux manches se qualifie pour le Final Four de mars 2027 et pour la Gold Cup 2027, selon le site.\n\nD'après MLS, Haïti dispute son premier quart de finale de Ligue des nations. L'équipe est dirigée par David Badía Cequier, arrivé après le départ de Sébastien Migné. Le National, dans un article du 24 octobre, anticipait une forte affluence de supporters haïtiens en Floride ; il s'agissait d'une prévision, pas d'un décompte de billets.",
+      ht: "Milye teren Jean-Ricner Bellegarde p ap jwe ka final Lig nasyon Concacaf ant Ayiti ak Etazini. Klib li a, Wolverhampton Wanderers, anonse fòfè li akoz yon blesi yo jije minè, NAGO ekri 10 novanm. Bellegarde, ki te make premye gòl li ak Ayiti kont Kosta Rika nan mwa septanm, te pami 25 jwè seleksyonè David Badía Cequier te konvoke.\n\nGrenadye yo antre an stage nan Miami, dapre NAGO. Match ale a, yo deziyen kòm match lakay Ayiti, ap jwe samdi 14 novanm 2026 nan Nu Stadium Miami, a 16:30, lè Lès, jan MLS te deja konfime. Match retou a ap fèt madi 17 novanm nan TQL Stadium Cincinnati, a 19 è, dapre NAGO, ki pa presize nan ki fwazo orè kòmansman sa a. 14 novanm 2026 se yon samdi.\n\nMatch ale a te dwe jwe okòmansman nan Kingston, Jamayik. Concacaf aksepte Ayiti resevwa Etazini sou tè ameriken akoz sitiyasyon sekirite nan peyi a, NAGO presize.\n\nMLS di premye manch la ap pase an angle sou TBS, TruTV ak HBO Max, epi an panyòl sou Universo ak Peacock. Gayan konfwontasyon de manch yo kalifye pou Final Four mas 2027 ak pou Gold Cup 2027, dapre sit la. Dapre MLS, Ayiti ap jwe premye ka final Lig nasyon li.",
+      fr: "Le milieu de terrain Jean-Ricner Bellegarde ne jouera pas le quart de finale de la Ligue des nations Concacaf entre Haïti et les États-Unis. Son club, Wolverhampton Wanderers, a annoncé son forfait en raison d'une blessure jugée mineure, écrit NAGO le 10 novembre. Bellegarde, qui avait inscrit son premier but avec Haïti contre le Costa Rica en septembre, figurait parmi les 25 joueurs convoqués par le sélectionneur David Badía Cequier.\n\nLes Grenadiers entrent en stage à Miami, selon NAGO. Le match aller, désigné comme rencontre à domicile d'Haïti, se joue le samedi 14 novembre 2026 au Nu Stadium de Miami, à 16 h 30, heure de l'Est, comme MLS l'avait déjà confirmé. Le match retour aura lieu le mardi 17 novembre au TQL Stadium de Cincinnati, à 19 h, d'après NAGO, qui ne précise pas le fuseau horaire de ce coup d'envoi. Le 14 novembre 2026 tombe un samedi.\n\nLa rencontre aller devait initialement se jouer à Kingston, en Jamaïque. La Concacaf a accepté qu'Haïti reçoive les États-Unis sur le sol américain en raison de la situation sécuritaire dans le pays, précise NAGO.\n\nMLS indique que la première manche sera diffusée en anglais sur TBS, TruTV et HBO Max, et en espagnol sur Universo et Peacock. Le vainqueur de la confrontation en deux manches se qualifie pour le Final Four de mars 2027 et pour la Gold Cup 2027, selon le site. D'après MLS, Haïti dispute son premier quart de finale de Ligue des nations.",
     },
-    sources: ["MLS", "Le National"],
+    sources: ["NAGO", "MLS"],
     sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/grenadiers-bellegarde-forfait-contre-les-etats-unis-le-groupe-entre-en-stage-a-miami" },
       { name: "MLS", url: "https://www.mlssoccer.com/news/haiti-vs-usa-how-to-watch-stream-concacaf-nations-league-quarterfinal-leg-1" },
-      { name: "Le National", url: "https://www.lenational.org/article/sport/3104/ligue-des-nations-une-forte-affluence-attendue-pour-les-grenadiers-a-miami-le-14-novembre" },
     ],
   },
   {
@@ -1935,37 +2135,34 @@ export const STORIES: Story[] = [
       { name: "Opak News : soldats salvadoriens en Haïti", url: "https://opak-news.haitialways.workers.dev/story/ntk-salvador-2000-soldats-2026-10-29" },
     ],
   },
-    {
+      {
     id: "ntk-cep-inscriptions-preliminaires-2026-11-01",
     tier: "need-to-know",
     topic: "politics",
     publishedAt: "2026-11-10",
-    publishedTime: "2026-11-10T15:50:00-05:00",
+    publishedTime: "2026-11-10T16:11:10-05:00",
     isFollowUp: true,
     headline: {
-      ht: "Prezidans : 23 non ki enskri nan tablo CEP a, san validasyon definitif",
-      fr: "Présidentielle : les 23 noms inscrits au tableau du CEP, sans validation définitive",
+      ht: "Eleksyon : 51 estrikti fini enskripsyon aderan yo, CEP fèmen platfòm nan",
+      fr: "Élections : 51 structures ont clos l'inscription de leurs adhérents, le CEP ferme la plateforme",
     },
     teaser: {
-      ht: "Nou verifye non ak estrikti yo nan tablo piblik CEP a; delè manm pati yo fini dimanch sa a a minui.",
-      fr: "Les noms et structures ont été vérifiés dans la table publique du CEP ; le délai des adhérents expire ce dimanche à minuit.",
+      ht: "31 pati, 17 gwoupman ak 3 kandidati endepandan, dapre CEP ke Décodage Info reprann. RASANBLE te mache nan Petyonvil.",
+      fr: "31 partis, 17 regroupements et 3 candidatures indépendantes, selon le CEP repris par Décodage Info. RASANBLE a marché à Pétion-Ville.",
     },
     brief: {
-      ht: "Tablo ofisyèl la toujou montre 23 enskripsyon pou prezidans 8 novanm sa a. Opak News verifye 23 non yo nan zouti rechèch piblik li a. Yon enskripsyon pa yon kandidati ki apwouve.",
-      fr: "Le tableau officiel affiche toujours 23 inscriptions présidentielles ce 8 novembre. Opak News a vérifié les 23 noms dans son outil public de recherche. Une inscription n'est pas une candidature agréée.",
+      ht: "CEP di 51 antite fini anrejistreman aderan ak senpatizan yo anvan platfòm nan fèmen, nan nwit dimanch 8 novanm, Décodage Info rapòte 10 novanm.",
+      fr: "Le CEP indique que 51 entités ont terminé l'enregistrement de leurs adhérents et sympathisants avant la fermeture de la plateforme, dans la nuit du dimanche 8 novembre, rapporte Décodage Info le 10 novembre.",
     },
     body: {
-      ht: "CEP montre 23 enskripsyon pou prezidans nan tablo piblik li a 8 novanm, ak yon mizajou a 1:32 nan aprèmidi, lè Ayiti. Opak News konsilte tou twa paj rechèch ofisyèl la ki filtre sou pòs prezidan an : yo gen 23 non ki anba yo.\n\nNou reprann òtograf tablo ofisyèl la pou non yo, ak sig estrikti yo deklare a. Lis la klase dapre non fanmi, li pa yon klasman politik :\n\n• DANIEST ADRIEN (PRC)\n• LUCIEN OLIVIER BARRAU (MTH)\n• GARY BODEAU (P.R)\n• DEUS DERONNETH (DVNH)\n• GANDHY DORFEUILLE (ANF)\n• MARC ARTHUR DROUILLARD (MRN)\n• MOISE DUROCHER (SOL AYITI)\n• JUDE ELIE (PUR)\n• ETZER S. EMILE (SOLEY)\n• JOANAS GUE (KAPAB)\n• RICARDO JEAN-PIERRE (PANAH)\n• WILSON JEUDY (VAR)\n• CLAUDE JOSEPH (EDE)\n• MAXO JOSEPH (RCH)\n• WILNER JOSEPH (VIKTWA)\n• JOSEPH MICHEL MARTELLY (DEBLOKE)\n• MUNIR JOSEPH MOURRA (MPH)\n• JEAN ERNEST MUSCADIN (FCN)\n• JOCELERME PRIVERT (AYITI TRANSFOME)\n• JEAN-MARIE JUNIOR SALOMON (OPL)\n• WALSONN SANON (ANFOS POU SOVE LONE)\n• RENÉ ST FORT (PRN)\n• PHILIPPE GERARD JERRY TARDIEU (EAPH)\n\nCEP presize done sa yo ap chanje e yo estrikteman preliminè. Yon non ki parèt pa prèv yo aksepte tout pyès yo mande yo, ni moun nan ap sou bilten vòt la. Lis ofisyèl la ap soti apre verifikasyon ak validasyon dosye yo.\n\nGen de delè diferan : enskripsyon manm ak senpatizan estrikti politik ak kandida endepandan yo fini dimanch 8 novanm sa a a minui, lè Ayiti, dapre rapèl CEP HaitiLibre reprann nan. Enskripsyon pou prezidans, Sena ak depite kontinye jouk 15 novanm; sa pou majistra, CASEC ak ASEC jouk 30 novanm, dapre tablo ofisyèl la.\n\nRelevé 1:32 nan aprèmidi a montre tou 406 enskripsyon pou Sena ak 1445 pou depite. Chif yo ka chanje, menm bese; relevé sa a pa esplike chak koreksyon. Pa gen fanm nan 23 enskripsyon prezidansyèl yo. Total 914138 elektè nou te site nan suivi anvan an rete yon relevé 5 novanm, se pa yon chif nou mete ajou jodi a. Elektè, manm pati politik ak enskripsyon kandida se kategori diferan.\n\nKesyon pou lektè yo : èske CEP ap pibliye desizyon sou chak dosye yon fason klè, ak rezon yo ak fason moun ka konteste yo ?",
-      fr: "Le CEP affiche 23 inscriptions présidentielles dans son tableau public du 8 novembre, actualisé à 13 h 32, heure d'Haïti. Opak News a également consulté les trois pages de la recherche nominative officielle filtrée sur le poste de président : elles contiennent les 23 noms ci-dessous.\n\nLes noms sont reproduits avec l'orthographe du tableau officiel, suivis du sigle de la structure déclarée. La liste est classée par nom de famille, sans classement politique :\n\n• DANIEST ADRIEN (PRC)\n• LUCIEN OLIVIER BARRAU (MTH)\n• GARY BODEAU (P.R)\n• DEUS DERONNETH (DVNH)\n• GANDHY DORFEUILLE (ANF)\n• MARC ARTHUR DROUILLARD (MRN)\n• MOISE DUROCHER (SOL AYITI)\n• JUDE ELIE (PUR)\n• ETZER S. EMILE (SOLEY)\n• JOANAS GUE (KAPAB)\n• RICARDO JEAN-PIERRE (PANAH)\n• WILSON JEUDY (VAR)\n• CLAUDE JOSEPH (EDE)\n• MAXO JOSEPH (RCH)\n• WILNER JOSEPH (VIKTWA)\n• JOSEPH MICHEL MARTELLY (DEBLOKE)\n• MUNIR JOSEPH MOURRA (MPH)\n• JEAN ERNEST MUSCADIN (FCN)\n• JOCELERME PRIVERT (AYITI TRANSFOME)\n• JEAN-MARIE JUNIOR SALOMON (OPL)\n• WALSONN SANON (ANFOS POU SOVE LONE)\n• RENÉ ST FORT (PRN)\n• PHILIPPE GERARD JERRY TARDIEU (EAPH)\n\nLe CEP précise que ses données sont dynamiques et strictement préliminaires. L'apparition d'un nom ne prouve pas que toutes les pièces exigées ont été acceptées ni que la personne sera sur le bulletin. La liste officielle viendra après vérification et validation des dossiers.\n\nDeux échéances restent distinctes : l'enregistrement des adhérents et sympathisants des structures politiques et des candidats indépendants prend fin ce dimanche 8 novembre à minuit, heure d'Haïti, selon le rappel du CEP repris par HaitiLibre. Les inscriptions pour la présidence, le Sénat et la députation continuent jusqu'au 15 novembre ; celles des mairies, CASEC et ASEC jusqu'au 30 novembre, selon le tableau officiel.\n\nLe relevé de 13 h 32 affiche aussi 406 inscriptions au Sénat et 1445 à la députation. Les chiffres peuvent évoluer, y compris à la baisse ; ce relevé ne permet pas d'expliquer chaque correction. Aucune femme ne figure parmi les 23 inscriptions présidentielles. Le total de 914138 électeurs cité dans notre suivi précédent reste un relevé daté du 5 novembre, pas un chiffre actualisé aujourd'hui. Électeurs, adhérents politiques et inscriptions de candidats sont des catégories différentes.\n\nQuestion aux lecteurs : le CEP publiera-t-il clairement les décisions sur chaque dossier, avec leurs motifs et les voies de recours ?",
+      ht: "Anrejistreman aderan ak senpatizan òganizasyon ki nan pwosesis elektoral la fini. Konsèy elektoral pwovizwa a di 51 antite fini pwosedi sa a anvan platfòm nan fèmen, nan nwit dimanch 8 novanm, Décodage Info rapòte 10 novanm. Repartisyon CEP bay la se 31 pati politik, 17 gwoupman pati ak 3 kandidati endepandan. Platfòm nan pa aksepte nouvo enskripsyon ankò, ni chanjman sou done yo te deja soumèt, dapre menm kont randi a.\n\nNAGO, 10 novanm, ekri CEP pibliye lendi 9 novanm yon lis 48 pati ak gwoupman politik ki rive nan papòt 30000 aderan lalwa prevwa. Medya a site pami yo Fanmi Lavalas, Entente Nationale (ENA) ak Fòs Chanjman Nasyonal (FCN), ansanm ak 17 gwoupman. Li presize 3 kandida endepandan fini demach anrejistreman yo tou anvan delè a, ki koresponn ak total 51 Décodage Info anonse. Rive nan papòt aderan yo pa vle di, pou kont li, yon kandidati ki apwouve oswa yon plas sou bilten vòt la.\n\nMenm lendi a, plizyè manm pati RASANBLE òganize yon mach pasifik nan Petyonvil, dapre NAGO. Yo denonse sa yo konsidere kòm yon mank netralite nan CEP. Josias Benoît, sekretè jeneral RASANBLE, estime enstitisyon an pa respekte ase prensip enpasyalite nan rapò li ak fòmasyon politik yo, dapre medya a. NAGO ajoute manifestan yo te kenbe pankat epi denonse yon tretman privilejye yo ta bay kèk kandida. Plent sa yo rete alegasyon; nou pa etabli yo kòm reyalite isit la.\n\nFèmen sa a konsène enskripsyon aderan ak senpatizan yo, se pa depo kandidati yo. Nan relevé anvan nou an, enskripsyon pou prezidans, Sena ak depite te rete ouvè jouk 15 novanm, epi sa pou majistra, CASEC ak ASEC jouk 30 novanm, dapre tablo ofisyèl CEP. Tablo piblik nou te konsilte 8 novanm nan te montre 23 enskripsyon prezidansyèl ki te estrikteman preliminè; nou pa verifye chif sa a ankò pou mizajou sa a.",
+      fr: "L'enregistrement des adhérents et sympathisants des organisations engagées dans le processus électoral est terminé. Le Conseil électoral provisoire indique que 51 entités ont achevé cette procédure avant la fermeture de la plateforme, intervenue dans la nuit du dimanche 8 novembre, rapporte Décodage Info le 10 novembre. La répartition communiquée par le CEP est de 31 partis politiques, 17 regroupements de partis et 3 candidatures indépendantes. La plateforme n'accepte plus de nouvelle inscription, ni de modification des données déjà soumises, selon le même compte rendu.\n\nNAGO, le 10 novembre, écrit que le CEP a publié lundi 9 novembre une liste de 48 partis et groupements politiques ayant atteint le seuil de 30000 adhérents prévu par la loi. Le média cite notamment Fanmi Lavalas, Entente Nationale (ENA) et Fòs Chanjman Nasyonal (FCN), ainsi que 17 groupements. Il précise que 3 candidats indépendants ont aussi terminé leurs démarches d'enregistrement avant la date limite, ce qui correspond au total de 51 annoncé par Décodage Info. Atteindre le seuil d'adhérents n'équivaut pas, à lui seul, à une candidature agréée ou à une place sur le bulletin.\n\nLe même lundi, plusieurs membres du parti RASANBLE ont organisé une marche pacifique à Pétion-Ville, selon NAGO. Ils ont dénoncé ce qu'ils considèrent comme un manque de neutralité du CEP. Josias Benoît, secrétaire général de RASANBLE, estime que l'institution ne respecte pas assez le principe d'impartialité dans ses rapports avec les formations politiques, d'après le média. NAGO ajoute que des manifestants ont brandi des pancartes et dénoncé un traitement préférentiel accordé à certains candidats. Ces griefs restent des allégations ; ils ne sont pas établis ici comme des faits.\n\nCette clôture concerne l'inscription des adhérents et sympathisants, pas le dépôt des candidatures. Dans notre précédent relevé, les inscriptions pour la présidence, le Sénat et la députation restaient ouvertes jusqu'au 15 novembre, et celles des mairies, CASEC et ASEC jusqu'au 30 novembre, selon le tableau officiel du CEP. Le tableau public consulté le 8 novembre montrait 23 inscriptions présidentielles strictement préliminaires ; ce chiffre n'a pas été revérifié pour la présente mise à jour.",
     },
-    sources: ["CEP — tableau officiel", "CEP — recherche nominative, page 1", "CEP — page 2", "CEP — page 3", "HaitiLibre", "Haiti OSINT"],
+    sources: ["Décodage Info", "NAGO"],
     sourceLinks: [
-      { name: "CEP — tableau officiel", url: "https://tableau.cephaiti.ht/" },
-      { name: "CEP — recherche nominative, page 1", url: "https://tableau.cephaiti.ht/api/tableau/candidats?poste=Pr%C3%A9sident&page=1" },
-      { name: "CEP — page 2", url: "https://tableau.cephaiti.ht/api/tableau/candidats?poste=Pr%C3%A9sident&page=2" },
-      { name: "CEP — page 3", url: "https://tableau.cephaiti.ht/api/tableau/candidats?poste=Pr%C3%A9sident&page=3" },
-      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48851-haiti-actualite-zapping.html" },
-      { name: "Haiti OSINT", url: "https://haitiosint.com/haiti-presidentielle-23-inscrits-cep-7-novembre-2026-liste/" },
+      { name: "Décodage Info", url: "https://decodageinfo.com/2026/11/10/haiti-elections-le-cep-cloture-les-inscriptions-pour-51-structures-politiques/" },
+      { name: "NAGO", url: "https://news.nago.tv/le-cep-publie-la-liste-des-partis-et-groupements-qualifies" },
+      { name: "CEP - tableau officiel", url: "https://tableau.cephaiti.ht/" },
     ],
   },
   {
