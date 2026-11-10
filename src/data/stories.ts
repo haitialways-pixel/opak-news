@@ -16,6 +16,477 @@ import type { Story } from "../types";
  */
 export const STORIES: Story[] = [
   {
+    id: "ntk-mansion-lanmo-san-jou-2026-11-10",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:53:00-05:00",
+    headline: {
+      ht: "Rezidans yo lyen ak Lanmò San Jou : rapò yo pa dakò sou degè yo, dapre Haitian Times",
+      fr: "Résidence liée à Lanmò San Jou : des récits divergent sur les dégâts, selon Haitian Times",
+    },
+    teaser: {
+      ht: "Medya a pa t ka verifye si pwopriyete a te detwi oswa yo te vize l sèlman, bonè dimanch.",
+      fr: "Le média n'a pas pu vérifier si la propriété a été détruite ou seulement visée, tôt dimanche.",
+    },
+    brief: {
+      ht: "Haitian Times ekri 10 novanm kèk fòs ayisyen ak salvadorien ta vize yon rezidans yo lyen ak Wilson Joseph, yo rele Lanmò San Jou, bonè dimanch. Rapò yo pa dakò sou nivo degè yo. Pa t gen konfimasyon ofisyèl nan moman rapò a.",
+      fr: "Haitian Times écrit le 10 novembre que des forces haïtiennes et salvadoriennes auraient visé une résidence liée à Wilson Joseph, dit Lanmò San Jou, tôt dimanche. Les récits s'opposent sur l'ampleur des dégâts. Aucune confirmation officielle n'avait été publiée au moment du reportage.",
+    },
+    body: {
+      ht: "Kèk fòs ayisyen ak salvadorien ta vize bonè dimanch yon rezidans yo lyen ak Wilson Joseph, yo rele Lanmò San Jou, chèf gang 400 Mawozo, dapre Haitian Times 10 novanm. Medya a pa t ka verifye rapò yo pou kont li, ni etabli nivo degè yo. Nan moman li pibliye, ni otorite ayisyen yo ni fòs salvadorien yo pa t konfime piblikman rezilta operasyon an, e pa t gen foto ni videyo ofisyèl sou eta pwopriyete a.\n\nMiami Herald, Haitian Times site epi ki chita sou sous ki pwòch operasyon an, mete frap la vers 2:30 nan maten dimanch. Sous sa yo dekri manm Task Force atè a ak kat elikoptè k ap bay sipò, de pou Task Force ak de pou twoup salvadorien yo, toujou dapre Herald. Jounal la di Joseph pa t sou plas la. Prezans gason ame andedan, kantite yo ak posib moun ki mouri rete san verifye, Haitian Times presize.\n\nPlizyè medya ayisyen, pami yo Vant Bèf Info, Radiographie ak Radio Télé Galaxie, rapòte rezidans lan te detwi, yo site sous yo prezante kòm entèn PNH. Gen lòt rapò ki pale de yon pwopriyete yo vize, yo pa detwi. Kèk imaj k ap sikile sou rezo yo, yo prezante kòm sèn operasyon an, ajoute nan konfizyon an: kèk te sanble se entèlijans atifisyèl ki fè yo, dapre Haitian Times.\n\nRapò a raple nan yon mesaj 6 novanm sou X, prezidan salvadorien Nayib Bukele te reponn li ta detwi kay la si li jwenn adrès egzak la. Mesaj sa a pou kont li pa yon prèv rezilta operasyon dimanch la.",
+      fr: "Des forces haïtiennes et salvadoriennes auraient visé tôt dimanche une résidence liée à Wilson Joseph, dit Lanmò San Jou, chef du gang 400 Mawozo, écrit Haitian Times le 10 novembre. Le média n'a pas pu vérifier de façon indépendante les récits, ni établir l'ampleur des dégâts. Au moment de sa publication, ni les autorités haïtiennes ni les forces salvadoriennes n'avaient confirmé publiquement le résultat de l'opération, et aucune photo ou vidéo officielle de l'état de la propriété n'avait été diffusée.\n\nLe Miami Herald, cité par Haitian Times et s'appuyant sur des sources proches de l'opération, situe la frappe vers 2 h 30 du matin dimanche. Ces sources décrivent des membres de la Task Force au sol et quatre hélicoptères en appui, dont deux de la Task Force et deux des troupes salvadoriennes, toujours selon le Herald. Le journal indique que Joseph n'était pas sur place. La présence d'hommes armés à l'intérieur, leur nombre et d'éventuels morts restent non vérifiés, précise Haitian Times.\n\nPlusieurs médias haïtiens, dont Vant Bèf Info, Radiographie et Radio Télé Galaxie, ont rapporté que la résidence avait été détruite, en citant des sources présentées comme internes à la PNH. D'autres récits parlent d'une propriété visée, pas détruite. Des images circulant sur les réseaux, présentées comme des scènes de l'opération, ont ajouté à la confusion : certaines semblaient générées par intelligence artificielle, selon Haitian Times.\n\nLe reportage rappelle qu'à une publication du 6 novembre sur X, le président salvadorien Nayib Bukele avait répondu qu'il détruirait la maison s'il en recevait l'adresse exacte. Ce message ne constitue pas, à lui seul, une preuve du résultat de l'opération de dimanche.",
+    },
+    sources: ["Haitian Times", "Miami Herald (via Haitian Times)"],
+    sourceLinks: [
+      { name: "Haitian Times", url: "https://haitiantimes.com/2026/11/10/mansion-linked-haiti-gang-leader-reportedly-destroyed/" },
+    ],
+  },
+  {
+    id: "ntk-steven-benoit-senat-miami-2026-11-09",
+    tier: "need-to-know",
+    topic: "justice",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:52:50-05:00",
+    headline: {
+      ht: "Steven Benoit vize yon chèz senatè nan Lwès; kèk mesaj Miami evoke kontak presime",
+      fr: "Steven Benoit vise un siège de sénateur de l'Ouest ; des messages de Miami évoquent des contacts présumés",
+    },
+    teaser: {
+      ht: "Dapre NAGO ak Haiti24, yon echanj 22 jen 2021 yo atribiye a Arcangel Pretel Ortiz ta site ansyen senatè a.",
+      fr: "Selon NAGO et Haiti24, un échange du 22 juin 2021 attribué à Arcangel Pretel Ortiz mentionnerait l'ancien sénateur.",
+    },
+    brief: {
+      ht: "NAGO rapòte 9 novanm ansyen senatè Steven Benoit di li konte prezante ankò nan Lwès. Haiti24 ak NAGO relè mesaj yo prezante nan tribinal federal Miami, ki gen dat 22 jen 2021, ki ta pale de kontak presime. Nou pa trete akizasyon sa yo kòm reyalite ki fin etabli.",
+      fr: "NAGO rapporte le 9 novembre que l'ancien sénateur Steven Benoit a indiqué qu'il compte se représenter dans l'Ouest. Haiti24 et NAGO relaient des messages présentés au tribunal fédéral de Miami, datés du 22 juin 2021, qui feraient état de contacts présumés. Ces allégations ne sont pas établies ici comme des faits.",
+    },
+    body: {
+      ht: "Ansyen senatè Steven Benoit di li konte prezante ankò pou yon chèz nan depatman Lwès, dapre NAGO 9 novanm. Dapre medya a, li di li vle kontinye batay li kont koripsyon, enpinite ak inegalite sosyal.\n\nAn menm tan, NAGO ak Haiti24 relè mesaj yo prezante nan tribinal federal Miami nan pwosè asasina Jovenel Moïse. Dapre kont randi sa yo, yon echanj ki gen dat 22 jen 2021, yo atribiye a Arcangel Pretel Ortiz, ta pale de Benoit. Ortiz ta di yon moun yo idantifye sou psedonim « Colonel Mike » li te konte transmèt yon mesaj yo prezante kòm mesaj Benoit pou ansyen jij Windelle Coq Thélot.\n\nPsedonim « Colonel Mike » asosye ak Germán Alejandro Rivera García, ansyen militè kolonbyen ki te temwaye nan Miami, dapre toude medya yo. Echanj sa yo ta fèt pandan kèk masenè kolonbyen t ap prepare atak sou rezidans Jovenel Moïse, yo te asasinen 7 jiyè 2021 nan Pelerin 5.\n\nSe eleman yo prezante nan tribinal epi laprès reprann. Yo dekri kontak presime. Yo pa etabli pou kont yo yon wòl Benoit nan asasina a. De atik nou konsilte yo pa rapòte okenn demantiman li.",
+      fr: "L'ancien sénateur Steven Benoit a indiqué qu'il compte se représenter pour un siège dans le département de l'Ouest, rapporte NAGO le 9 novembre. Selon le média, il affirme vouloir poursuivre son combat contre la corruption, l'impunité et les inégalités sociales.\n\nParallèlement, NAGO et Haiti24 relaient des messages présentés au tribunal fédéral de Miami dans le procès sur l'assassinat de Jovenel Moïse. D'après ces comptes rendus, un échange daté du 22 juin 2021, attribué à Arcangel Pretel Ortiz, ferait référence à Benoit. Ortiz aurait indiqué à un interlocuteur identifié sous le pseudonyme « Colonel Mike » qu'il comptait transmettre un message présenté comme venant de Benoit et destiné à l'ancienne juge Windelle Coq Thélot.\n\nLe pseudonyme « Colonel Mike » est associé à Germán Alejandro Rivera García, ancien militaire colombien qui a témoigné à Miami, selon les deux médias. Ces échanges auraient eu lieu alors que des mercenaires colombiens préparaient l'attaque contre la résidence de Jovenel Moïse, assassiné le 7 juillet 2021 à Pèlerin 5.\n\nIl s'agit d'éléments présentés au tribunal et repris par la presse. Ils décrivent des contacts présumés. Ils n'établissent pas, à eux seuls, un rôle de Benoit dans l'assassinat. Les deux articles consultés ne rapportent pas de démenti de sa part.",
+    },
+    sources: ["NAGO", "Haiti24"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/ancien-senateur-steven-benoit-vise-un-retour-au-senat" },
+      { name: "Haiti24", url: "https://haiti24.net/assassinat-de-jovenel-moise-des-echanges-entre-arcangel-pretel-ortiz-et-colonel-mike-evoquent-des-contacts-avec-steven-benoit/" },
+    ],
+  },
+  {
+    id: "ntk-pedernales-marche-anse-a-pitres-2026-11-10",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:52:40-05:00",
+    headline: {
+      ht: "Pedernales : mache binasyonal la fèmen lendi apre de moun mouri nan Ansapitr, dapre El Nuevo Diario",
+      fr: "Pedernales : le marché binational fermé lundi après deux morts à Anse-à-Pitres, selon El Nuevo Diario",
+    },
+    teaser: {
+      ht: "Repiblik Dominikèn di nan lòt kote komès otorize a kontinye nòmalman, epi li montre Super Tucano k ap fè patwouy.",
+      fr: "La République dominicaine dit par ailleurs que le commerce autorisé se poursuit normalement et montre des Super Tucano en patrouille.",
+    },
+    brief: {
+      ht: "El Nuevo Diario rapòte otorite ayisyen yo fèmen lendi aksè ayisyen nan mache Pedernales, apre de Ayisyen mouri vandredi nan Ansapitr. Minuto Latino dekri patwouy ayeryen Super Tucano epi li reprann otorite dominikèn yo, ki di komès otorize a kontinye nòmalman.",
+      fr: "El Nuevo Diario rapporte que les autorités haïtiennes ont fermé lundi l'accès haïtien au marché de Pedernales, après la mort vendredi de deux Haïtiens à Anse-à-Pitres. Minuto Latino décrit des patrouilles aériennes Super Tucano et reprend les autorités dominicaines, selon lesquelles le commerce autorisé continue normalement.",
+    },
+    body: {
+      ht: "Echanj komèsyal nan mache binasyonal Pedernales te sispann lendi, dapre El Nuevo Diario 10 novanm. Dapre jounal la, otorite ayisyen yo fèmen aksè a depi teritwa yo, apre de nasyonal yo mouri epi yon twazyèm gason blese, vandredi, nan yon atak ame nan Ansapitr.\n\nEl Nuevo Diario idantifye de moun ki mouri yo kòm Garry Mondelus ak Donaldson Joseph, epi blese a kòm Jean Silne Walnic. Dapre vèsyon jounal la reprann, viktim yo ta lye ak yon etablisman yo prezante kòm lyen ak vant dwòg, epi evènman an ta rive pandan yon tranzaksyon oswa yon « tumbe ». Vèsyon sa yo rete akizasyon rapòte, se pa reyalite nou etabli isit la. Jounal la dekri kamyon ak remòk ki bloke nan zòn debakman an.\n\nNan yon lòt atik 10 novanm, Minuto Latino ekri avyon A-29B Super Tucano Fòs ayeryen dominikèn nan ap fè vòl siveyans sou fwontyè a. Videyo yo pibliye lendi montre, depi nan syèl la, miray la, pak endistriyèl CODEVI, mache binasyonal la ak pòs Dajabón, anfas Wanament. Medya a pale tou de yon ranfòsman patwouy atè nan Dajabón, Elías Piña, Independencia ak Pedernales.\n\nMinuto Latino rapòte, dapre otorite dominikèn yo, komès binasyonal ak deplase otorize yo kontinye nòmalman. Diskou jeneral sa a koegziste ak fèmen mache Pedernales El Nuevo Diario dekri pou lendi. Toude kont randi yo pa di konbyen tan ranfòsman an oswa fèmen an ap dire.",
+      fr: "L'échange commercial au marché binational de Pedernales a été suspendu lundi, rapporte El Nuevo Diario le 10 novembre. Selon le journal, les autorités haïtiennes ont fermé l'accès depuis leur territoire, après la mort de deux de leurs nationaux et les blessures d'un troisième homme, vendredi, dans un attentat armé à Anse-à-Pitres.\n\nEl Nuevo Diario identifie les deux morts comme Garry Mondelus et Donaldson Joseph, et le blessé comme Jean Silne Walnic. D'après des versions reprises par le journal, les victimes auraient été liées à un établissement présumé lié à la vente de drogue, et les faits se seraient produits lors d'une transaction ou d'un « tumbe ». Ces versions restent des allégations rapportées, pas des faits établis ici. Le journal décrit des camions et des remorques immobilisés dans la zone de déchargement.\n\nDans un article distinct du 10 novembre, Minuto Latino écrit que des avions A-29B Super Tucano de la Force aérienne dominicaine effectuent des vols de surveillance au-dessus de la frontière. Des vidéos diffusées lundi montrent, depuis les airs, le mur, le parc industriel CODEVI, le marché binational et le poste de Dajabón, face à Ouanaminthe. Le média situe aussi un renforcement du patrouillage terrestre à Dajabón, Elías Piña, Independencia et Pedernales.\n\nMinuto Latino rapporte que, selon les autorités dominicaines, le commerce binational et les déplacements autorisés continuent normalement. Ce discours général coexiste avec la fermeture du marché de Pedernales décrite par El Nuevo Diario pour lundi. Les deux comptes rendus ne disent pas jusqu'à quand le renforcement ou la fermeture dureront.",
+    },
+    sources: ["El Nuevo Diario", "Minuto Latino"],
+    sourceLinks: [
+      { name: "El Nuevo Diario", url: "https://elnuevodiario.com.do/haitianos-cierran-acceso-al-mercado-binacional-de-pedernales-tras-muerte-de-dos-compatriotas/" },
+      { name: "Minuto Latino", url: "https://minutolatinonews.com/nota/super-tucano-patrullan-frontera-haiti-dajabon-10nov" },
+    ],
+  },
+  {
+    id: "ntk-enseignants-greve-nationale-2026-11-09",
+    tier: "need-to-know",
+    topic: "society",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:52:20-05:00",
+    headline: {
+      ht: "Pwofesè : apèl pou yon grèv nasyonal 9 novanm; nan Gonayiv, yo denonse anviwon 4 mwa arere",
+      fr: "Enseignants : appel à une grève nationale le 9 novembre ; à Gonaïves, des arriérés d'environ 4 mois dénoncés",
+    },
+    teaser: {
+      ht: "HPN relè ekstansyon grèv la; Amitie FM dekri yon protestasyon nan Gonayiv, san dat presi sou paj la.",
+      fr: "HPN relait l'extension de la grève ; Amitie FM décrit une protestation aux Gonaïves, sans date précise sur la page.",
+    },
+    brief: {
+      ht: "Dapre Haiti Press Network, kèk sendika te mande pwofesè lekòl piblik yo elaji yon grèv depi lendi 9 novanm. Amitie FM rapòte yon mobilizasyon nan Gonayiv pou anviwon 4 mwa arere, san li pa di ki jou protestasyon an. Le National site yon nòt Co-CFEF ki gen dat 5 novanm.",
+      fr: "Selon Haiti Press Network, des syndicats ont appelé les enseignants des écoles publiques à étendre une grève dès le lundi 9 novembre. Amitie FM rapporte une mobilisation aux Gonaïves pour environ 4 mois d'arriérés, sans indiquer le jour de la protestation. Le National cite une note du Co-CFEF datée du 5 novembre.",
+    },
+    body: {
+      ht: "Plizyè gwoup sendika pwofesè te anonse yo ap elaji nan tout peyi a yon grèv ki deja kòmanse nan Grandans, Nò ak Nòdwès, dapre Haiti Press Network. Apel la te vize lendi 9 novanm pou pwofesè lekòl piblik yo. HPN site pami lòt yo COPLASEHQ, REDRESEH, NOU KONPRANN ak REFERANS, ki denonse otorite yo pa respekte angajman 2025 yo epi kondisyon travay yo ap vin pi mal.\n\nNan yon konferans pou laprès jedi 5 novanm, Sadrac Casimir, responsab REFERANS, te di grèv la ap kontinye jiskaske yo tande revandikasyon yo. Dominique Wilnor, kowòdonatè jeneral REDRESEH, te mande yon ajisteman salè, kat debi, lèt nominasyon pou pwofesè ki deja nan klas yo ak regilarizasyon administratif. Li te mande yon salè chak mwa 53000 goud, paske li di yon pwofesè pa ka viv byen ak 18000 goud, dapre chif HPN rapòte yo. Apel sa a pa t gen chif patisipasyon ni fèmen lekòl.\n\nAmitie FM dekri bò pa l yon protestasyon pwofesè nan lari Gonayiv, pou peman anviwon 4 mwa arere ak nominasyon ofisyèl pwofesè ki gen lontan nan pòs. Paj nou konsilte a pa di ki jou manifestasyon sa a te fèt.\n\nLe National pale de yon nòt pozisyon Collectif des CFEFiens (Co-CFEF), ki gen dat 5 novanm, prezidan li a, Cédoine Felixma, prezante apre konferans sendikal menm jou a. Kolektif la denonse reta peman, pwoblèm regilarizasyon administratif ak kèk sòm yo pa versé, epi li entèpele Ministè Edikasyon an.",
+      fr: "Plusieurs regroupements syndicaux d'enseignants ont annoncé l'extension nationale d'une grève déjà engagée dans la Grand'Anse, le Nord et le Nord-Ouest, rapporte Haiti Press Network. L'appel visait le lundi 9 novembre pour les enseignants des écoles publiques. HPN cite notamment COPLASEHQ, REDRESEH, NOU KONPRANN et REFERANS, qui dénoncent le non-respect d'engagements pris en 2025 et la dégradation des conditions de travail.\n\nLors d'une conférence de presse jeudi 5 novembre, Sadrac Casimir, responsable de REFERANS, a déclaré que la grève se poursuivrait jusqu'à prise en compte des revendications. Dominique Wilnor, coordonnateur général de REDRESEH, a réclamé un ajustement salarial, des cartes de débit, des lettres de nomination pour les enseignants déjà en classe et la régularisation administrative. Il a plaidé pour un salaire mensuel de 53000 gourdes, estimant qu'un enseignant ne peut vivre décemment avec 18000 gourdes, selon les chiffres rapportés par HPN. Aucun chiffre de participation ni de fermeture d'écoles n'accompagnait cet appel.\n\nAmitie FM décrit de son côté une protestation d'enseignants dans les rues des Gonaïves, pour le paiement d'environ 4 mois d'arriérés et la nomination officielle d'enseignants en poste depuis longtemps. La page consultée n'indique pas le jour de cette manifestation.\n\nLe National fait état d'une note de position du Collectif des CFEFiens (Co-CFEF), datée du 5 novembre et présentée par son président, Cédoine Felixma, après la conférence syndicale du même jour. Le collectif dénonce des retards de paiement, des problèmes de régularisation administrative et le non-versement de certaines sommes dues, et interpelle le ministère de l'Éducation.",
+    },
+    sources: ["Haiti Press Network", "Amitie FM", "Le National"],
+    sourceLinks: [
+      { name: "Haiti Press Network", url: "https://www.hpninfo.com/post/ha%C3%AFti-%C3%A9ducation-le-secteur-%C3%A9ducatif-menac%C3%A9-par-une-gr%C3%A8ve-g%C3%A9n%C3%A9ralis%C3%A9e-%C3%A0-partir-de-lundi" },
+      { name: "Amitie FM", url: "https://www.amitiefm.ht/post/gona%C3%AFves-des-enseignants-d%C3%A9noncent-quatre-mois-d-arri%C3%A9r%C3%A9s-de-salaire" },
+      { name: "Le National", url: "https://www.lenational.org/article/politique/8621/conditions-de-travail-des-enseignants-le-co-cfef-hausse-le-ton" },
+    ],
+  },
+  {
+    id: "qh-foire-diaspora-cap-haitien-2026-11-06",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:52:10-05:00",
+    headline: {
+      ht: "Okap : premye Fwa dyaspora 6 ak 7 novanm, dapre Le National ak Le Nouvelliste",
+      fr: "Cap-Haïtien : première Foire de la diaspora les 6 et 7 novembre, selon Le National et Le Nouvelliste",
+    },
+    teaser: {
+      ht: "Yon koktey inogirasyon te fèt 5 novanm nan Hostellerie du Roi Christophe, sou egid MHAVE.",
+      fr: "Un cocktail inaugural s'est tenu le 5 novembre à l'Hostellerie du Roi Christophe, sous l'égide du MHAVE.",
+    },
+    brief: {
+      ht: "Le National te anonse, apre yon konferans pou laprès 4 novanm, yon premye Fwa dyaspora 6 ak 7 novanm nan Okap. Le Nouvelliste dekri koktey 5 novanm lan, inisyativ minis Kathia Verdier. Chif 150 ekspozan ak 8000 vizitè yo te previzyon, se pa yon bilan.",
+      fr: "Le National avait annoncé, après une conférence de presse le 4 novembre, une première Foire de la diaspora les 6 et 7 novembre au Cap-Haïtien. Le Nouvelliste décrit le cocktail du 5 novembre organisé à l'initiative de la ministre Kathia Verdier. Les chiffres de 150 exposants et 8000 visiteurs étaient des prévisions, pas un bilan.",
+    },
+    body: {
+      ht: "Premye edisyon Fwa dyaspora a te pwograme 6 ak 7 novanm nan Okap, dapre sa Le National te anonse apre yon konferans pou laprès 4 novanm nan meri a. Tèm yo te chwazi a se « Dyaspora ak kilti, ansanm pou Ayiti ». Evènman an te sou patronaj Primati, sou inisyativ Ministè Ayisyen k ap viv aletranje (MHAVE).\n\nLe Nouvelliste, nan yon atik 7 novanm, dekri koktey inogirasyon jedi 5 novanm nan Hostellerie du Roi Christophe, devan manm gouvènman, eli lokal ak reprezantan dyaspora. Jounal la mete inisyativ la sou kont minis Kathia Verdier, epi li di rankont lan te vize fasilite echanj ant antreprenè, envestisè ak aktè enstitisyonèl.\n\nNan konferans 4 novanm nan, Le National site tou minis Kilti Emmanuel Ménard, minis Touris Stéphanie Smith, majistra Michel Saint-Croix ak direktè jeneral FNE, Jefnie Toussaint. Jounal la te mete aktivite yo sou boulva vil la, epi li te pale de plis pase 150 ekspozan ak prèske 8000 vizitè yo te tann. Chif sa yo se previzyon anvan evènman an, se pa yon bilan presans.",
+      fr: "La première édition de la Foire de la diaspora s'est tenue les 6 et 7 novembre au Cap-Haïtien, selon le programme annoncé par Le National après une conférence de presse le 4 novembre à la mairie. Le thème retenu était « Diaspora et culture, ensemble pour Haïti ». L'événement était placé sous le patronage de la Primature, à l'initiative du ministère des Haïtiens vivant à l'étranger (MHAVE).\n\nLe Nouvelliste, dans un article du 7 novembre, décrit le cocktail inaugural du jeudi 5 novembre à l'Hostellerie du Roi Christophe, en présence de membres du gouvernement, d'élus locaux et de représentants de la diaspora. Le journal attribue l'initiative à la ministre Kathia Verdier et indique que la rencontre visait à favoriser des échanges entre entrepreneurs, investisseurs et acteurs institutionnels.\n\nLors de la conférence du 4 novembre, Le National cite aussi le ministre de la Culture Emmanuel Ménard, la ministre du Tourisme Stéphanie Smith, le maire Michel Saint-Croix et le directeur général du FNE, Jefnie Toussaint. Le journal situait les activités sur le boulevard de la ville et faisait état de plus de 150 exposants et près de 8000 visiteurs attendus. Ces chiffres sont des prévisions d'avant l'événement, pas un bilan de fréquentation.",
+    },
+    sources: ["Le Nouvelliste", "Le National"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273689/premiere-edition-du-forum-de-la-diaspora-au-cap-haitien" },
+      { name: "Le National", url: "https://www.lenational.org/article/politique/8612/cap-haitien-accueille-la-toute-premiere-edition-de-la-foire-de-la-diaspora" },
+    ],
+  },
+  {
+    id: "qh-le-levier-mbanq-caisses-2026-11-10",
+    tier: "quick-hit",
+    topic: "commerce",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:52:00-05:00",
+    headline: {
+      ht: "Le Levier chwazi Mbanq pou sistèm bankè santral 41 kès popilè, dapre FinTech Futures",
+      fr: "Le Levier choisit Mbanq pour le système bancaire central de 41 caisses populaires, selon FinTech Futures",
+    },
+    teaser: {
+      ht: "Premye faz la vize yon gwo liv pataje; peman mobil yo prezante kòm etap pita.",
+      fr: "La première phase vise un grand livre partagé ; les paiements mobiles sont présentés comme des étapes ultérieures.",
+    },
+    brief: {
+      ht: "FinTech Futures ekri 10 novanm konpayi ameriken Mbanq yo retni pou modernize sistèm santral 41 kès Fédération des caisses populaires haïtiennes Le Levier. TekNsol dwe jere enstalasyon lokal la. Enfòmasyon an chita sou anons sa a.",
+      fr: "FinTech Futures écrit le 10 novembre que la société américaine Mbanq a été retenue pour moderniser le système central des 41 caisses de la Fédération des caisses populaires haïtiennes Le Levier. TekNsol doit gérer l'installation locale. L'information repose sur cette annonce.",
+    },
+    body: {
+      ht: "Fédération des caisses populaires haïtiennes Le Levier retni konpayi ameriken Mbanq pou bay teknoloji sistèm bankè santral li a, dapre FinTech Futures 10 novanm. Medya a di Le Levier rasanble 41 kès depi 2007.\n\nDapre anons FinTech Futures reprann nan, pwogram nan dwe mete tout rezo a sou yon gwo liv pataje. Premye faz la konsène konfigirasyon liv sa a: kont kouran ak epay, pre ak vireman, chèk ak ouvèti kont dijital. Chak kès dwe kenbe pwòp operasyon li yo ak relasyon li genyen ak manm yo.\n\nAntrepriz ayisyen TekNsol, yo prezante kòm patnè teknik Mbanq, dwe jere enstalasyon lokal la ak kowòdinasyon ak kès k ap patisipe yo. Mbanq mete pou pita, kòm etap yo prevwa, peman nasyonal ak bank mobil, epi apre sa peman entènasyonal ak sèvis kat. Etap sa yo pa prezante kòm yo deja an sèvis.\n\nFinTech Futures presize se premye pwojè sistèm santral Mbanq ann Ayiti. Enfòmasyon an chita sou kont randi anons sa a sèlman.",
+      fr: "La Fédération des caisses populaires haïtiennes Le Levier a retenu la société américaine Mbanq pour fournir la technologie de son système bancaire central, rapporte FinTech Futures le 10 novembre. Le média indique que Le Levier regroupe 41 caisses depuis 2007.\n\nSelon l'annonce reprise par FinTech Futures, le programme doit placer l'ensemble du réseau sur un grand livre partagé. La première phase porte sur la configuration de ce livre : comptes courants et d'épargne, prêts et virements, chèques et ouverture de comptes numériques. Chaque caisse doit conserver ses propres opérations et ses relations avec ses membres.\n\nL'entreprise haïtienne TekNsol, présentée comme partenaire technique de Mbanq, doit gérer l'installation locale et la coordination avec les caisses participantes. Mbanq situe à plus tard, comme étapes prévues, les paiements nationaux et la banque mobile, puis les paiements internationaux et les services de cartes. Ces étapes ne sont pas présentées comme déjà en service.\n\nFinTech Futures précise que c'est le premier projet de système central de Mbanq en Haïti. L'information repose sur ce seul compte rendu de l'annonce.",
+    },
+    sources: ["FinTech Futures"],
+    sourceLinks: [
+      { name: "FinTech Futures", url: "https://www.fintechfutures.com/core-banking-technology/mbanq-haiti-credit-unions-core-banking-technology" },
+    ],
+  },
+  {
+    id: "qh-georges-corvington-centenaire-2026-11-06",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:51:50-05:00",
+    headline: {
+      ht: "Georges Corvington ta gen 100 an 6 novanm, Le Nouvelliste raple",
+      fr: "Georges Corvington aurait eu 100 ans le 6 novembre, rappelle Le Nouvelliste",
+    },
+    teaser: {
+      ht: "Istoryen Pòtoprens lan, otè Port-au-Prince au cours des ans, te mouri 3 avril 2013.",
+      fr: "L'historien de Port-au-Prince, auteur de Port-au-Prince au cours des ans, est mort le 3 avril 2013.",
+    },
+    brief: {
+      ht: "Le Nouvelliste konsakre plizyè tèks nan santyè Georges Corvington, ki te fèt 6 novanm 1926 nan kapital la. Paj nou konsilte yo konfime dat li mouri ak tit zèv referans li a, men yon pati nan atik yo pa aksesib apre kòmansman an.",
+      fr: "Le Nouvelliste consacre plusieurs textes au centenaire de Georges Corvington, né le 6 novembre 1926 dans la capitale. Les pages consultées confirment sa date de décès et le titre de son œuvre de référence, mais sont en partie inaccessibles au-delà du début des articles.",
+    },
+    body: {
+      ht: "Georges Corvington ta gen 100 an 6 novanm 2026, Emmelie Prophète ekri nan Le Nouvelliste menm jou a. Istoryen an, chèchè ki te mare ak istwa Pòtoprens, te mouri 3 avril 2013. Jounal la raple tranblemanntè 2010 la te deja detwi an pati vil ki te sijè etid li a.\n\nNan yon lòt tèks 6 novanm, Claudel Victor presize yo te rele l Marie Joseph Georges Corvington Junior, li te fèt nan kapital la 6 novanm 1926, pitit avoka Georges Corvington ak Henriette Saurel. Li te fè etid klasik, epi dwa nan Fakilte dwa ak syans ekonomik Pòtoprens. Liv li Port-au-Prince au cours des ans rete yon referans sou pase kapital la, depi orijin kolonyal rive nan mitan ane 1950 yo, dapre atik sa a.\n\nEleman sa yo se sa ouvèti atik Le Nouvelliste yo. Plizyè tèks jounal la sou santyè sa a pa totalman aksesib apre premye paragraf yo.",
+      fr: "Georges Corvington aurait eu 100 ans le 6 novembre 2026, écrit Emmelie Prophète dans Le Nouvelliste le même jour. L'historien, chercheur attaché à l'histoire de Port-au-Prince, est mort le 3 avril 2013. Le journal rappelle que le tremblement de terre de 2010 avait déjà en partie détruit la ville qui était son sujet d'étude.\n\nDans un autre texte du 6 novembre, Claudel Victor précise qu'il s'appelait Marie Joseph Georges Corvington Junior, né dans la capitale le 6 novembre 1926, fils de l'avocat Georges Corvington et d'Henriette Saurel. Il a fait des études classiques, puis du droit à la Faculté de droit et des sciences économiques de Port-au-Prince. Son ouvrage Port-au-Prince au cours des ans reste une référence sur le passé de la capitale, des origines coloniales jusqu'au milieu des années 1950, selon cet article.\n\nCes éléments sont ceux des ouvertures d'articles du Nouvelliste. Plusieurs textes du journal sur ce centenaire sont en partie inaccessibles après les premiers paragraphes.",
+    },
+    sources: ["Le Nouvelliste - Emmelie Prophète", "Le Nouvelliste - Claudel Victor"],
+    sourceLinks: [
+      { name: "Le Nouvelliste - Emmelie Prophète", url: "https://lenouvelliste.com/article/273682/georges-corvington-aurait-eu-100-ans-aujourdhui" },
+      { name: "Le Nouvelliste - Claudel Victor", url: "https://lenouvelliste.com/article/273637/georges-corvington-l-homme-qui-a-raconte-port-au-prince" },
+    ],
+  },
+  {
+    id: "ntk-rubio-gsf-plan-b-2026-11-09",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:51:30-05:00",
+    headline: {
+      ht: "Rubio sou fòs sipresyon gang yo : « pa gen plan B ankò », dapre Miami Herald",
+      fr: "Rubio sur la force de suppression des gangs : « il n'y a plus de plan B », selon le Miami Herald",
+    },
+    teaser: {
+      ht: "Sekretè Deta ameriken an di GSF Nasyonzini otorize a dwe reyisi, paske pa gen lòt opsyon.",
+      fr: "Le secrétaire d'État américain dit que la GSF autorisée par l'ONU doit réussir, faute d'autre option.",
+    },
+    brief: {
+      ht: "Nan yon atik 9 novanm, Miami Herald rapòte pawòl Marco Rubio lendi : si fòs sipresyon gang yo echwe, Washington pa gen plan B ankò. Chif efektif atik la bay yo rete sa sekretè Deta a, jounal la reprann nan.",
+      fr: "Dans un article du 9 novembre, le Miami Herald rapporte des propos de Marco Rubio tenus lundi : si la force de suppression des gangs échoue, Washington n'a plus de plan B. Les effectifs cités dans l'article restent ceux du secrétaire d'État, repris par le journal.",
+    },
+    body: {
+      ht: "Sekretè Deta ameriken Marco Rubio deklare lendi fòs sipresyon gang yo (GSF) Nasyonzini otorize a « dwe mache », dapre Miami Herald 9 novanm. « Si pa gen rezilta, nou pa gen lide ankò. Vrèman, pa gen lòt opsyon; pa gen plan B ankò », li di, dapre jounal la.\n\nHerald mete pawòl sa yo nan yon kontèks deplwaman salvadorien kote, dapre jounal la, gwo majorite sòlda yo opere andeyò estrikti kòmandman GSF la. Rubio pa antre nan detay lòt fòs ki prezan an Ayiti yo. Li jije misyon Kenya te dirije a, ki te pati nan mwa avril, « pa t ap fè ase ».\n\nDapre Herald, Rubio di GSF gen yon ti kras plis pase 2000 militè ki soti nan sis peyi kontribitè, gen pèsonèl Bangladèch yo ap tann, epi yo pwomèt 3000 a 4000 lòt militè. Se chif sekretè Deta a, jounal la reprann nan.\n\nRubio salye wòl Kanada nan sipò lojistik misyon an, epi li di Washington ap kontinye ankouraje kontribisyon nan yon fon Nasyonzini. Li pale tou de pwogrè nan fòmasyon Polis Nasyonal Ayiti, men li rele rétablisman sekirite a yon « defi difisil ».\n\nSou eleksyon yo, Herald raple yo te ranvwaye eleksyon an soti desanm 2026 rive jiyè 2027. Rubio di yo pa ka òganize eleksyon kredib si gang kontwole gwo pati nan vil la, epi estabilite nesesè pou elektè yo ka rive nan biwo vòt yo.",
+      fr: "Le secrétaire d'État américain Marco Rubio a déclaré lundi que la force de suppression des gangs (GSF) autorisée par l'ONU « doit fonctionner », rapporte le Miami Herald le 9 novembre. « S'il n'y a pas de résultat, nous n'avons plus d'idées. Il n'y a vraiment pas d'autre option ; il n'y a plus de plan B », a-t-il dit, selon le journal.\n\nLe Herald situe ces propos dans un contexte de déploiement salvadorien dont, d'après le journal, la grande majorité des soldats opèrent hors de la structure de commandement de la GSF. Rubio n'a pas détaillé les autres forces présentes en Haïti. Il a jugé que la mission menée par le Kenya, partie en avril, « n'en faisait tout simplement pas assez ».\n\nSelon le Herald, Rubio a indiqué que la GSF compte un peu plus de 2000 militaires de six pays contributeurs, que des personnels du Bangladesh sont attendus, et que 3000 à 4000 autres militaires ont été promis. Ces chiffres sont ceux du secrétaire d'État, repris par le journal.\n\nRubio a salué le rôle du Canada dans le soutien logistique de la mission et a dit que Washington continuerait d'encourager des contributions à un fonds d'affectation de l'ONU. Il a aussi parlé de progrès dans la formation de la Police nationale d'Haïti, tout en qualifiant le rétablissement de la sécurité de « défi difficile ».\n\nSur les élections, le Herald rappelle que le scrutin a été reporté de décembre 2026 à juillet 2027. Rubio a déclaré qu'on ne peut pas tenir des élections crédibles si des gangs contrôlent de larges portions de la ville, et que la stabilité est nécessaire pour que les électeurs puissent se rendre aux urnes.",
+    },
+    sources: ["Miami Herald"],
+    sourceLinks: [
+      { name: "Miami Herald", url: "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article318005705.html" },
+    ],
+  },
+  {
+    id: "ntk-amnesty-accord-salvador-haiti-2026-11-10",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:51:20-05:00",
+    headline: {
+      ht: "Amnesty International mande El Salvador ak Ayiti pibliye akò deplwaman an",
+      fr: "Amnesty International demande à El Salvador et à Haïti de publier l'accord sur le déploiement",
+    },
+    teaser: {
+      ht: "Òganizasyon an mande règ angajman yo, chenn responsablite a, ak yon fason pou siyale posib vyolasyon.",
+      fr: "L'organisation réclame les règles d'engagement, la chaîne de responsabilité et un moyen de signaler d'éventuelles violations.",
+    },
+    brief: {
+      ht: "Dapre France 24, ki reprann AP 10 novanm, Amnesty International te mande lendi de gouvènman yo pibliye akò k ap kadren deplwaman twoup salvadorien an Ayiti. Chif efektif rapò a site yo rete sa medya a.",
+      fr: "Selon France 24, qui reprend l'AP le 10 novembre, Amnesty International a appelé lundi les deux gouvernements à rendre public l'accord encadrant le déploiement de troupes salvadoriennes en Haïti. Les effectifs mentionnés dans le reportage restent ceux du média.",
+    },
+    body: {
+      ht: "Amnesty International mande lendi El Salvador ak Ayiti pibliye akò k ap kadren deplwaman twoup salvadorien an Ayiti, dapre France 24 10 novanm, ki reprann AP.\n\nAna Piquer, direktris Amnesty pou Amerik yo, mande de gouvènman yo eksplike kijan yo sipèvize fòs yo deplwaye yo, ki règ ki gouvène itilizasyon fòs, devan kiyès fòs sa yo gen pou rann kont, epi kijan moun ki ta viktim ka siyale vyolasyon san yo pa pè reprezay.\n\nFrance 24 di prezidan salvadorien Nayib Bukele te prezante deplwaman an okòmansman kòm yon operasyon pou ramnen kat pèsonèl ki disparèt depi mitan oktòb, epi apre sa li te kite panse gen yon objektif pi laj kont gang yo. Medya a ajoute ke pifò sòlda salvadorien yo pa entegre nan fòs sipresyon gang yo (GSF). Chif efektif rapò sa a site yo rete sa France 24 ak AP.\n\nPiquer mande Bukele ak premye minis ayisyen Alix Didier Fils-Aimé veye pou tout operasyon fòs salvadorien yo an Ayiti respekte dwa entènasyonal sou dwa moun, epi louvri ankèt rapid, endepandan ak enpasyal sou tout akizasyon vyolasyon. « Repons vyolans gang yo pa dwe repwodui abi ak enpinite ki te make entèvansyon anvan yo an Ayiti », li ajoute, dapre France 24.",
+      fr: "Amnesty International a appelé lundi El Salvador et Haïti à rendre public l'accord qui encadre le déploiement de troupes salvadoriennes en Haïti, rapporte France 24 le 10 novembre, d'après l'AP.\n\nAna Piquer, directrice d'Amnesty pour les Amériques, a demandé aux deux gouvernements d'expliquer comment ils supervisent les forces déployées, quelles règles régissent l'usage de la force, à qui ces forces rendent des comptes, et comment les éventuelles victimes peuvent signaler des violations sans craindre de représailles.\n\nFrance 24 indique que le président salvadorien Nayib Bukele a d'abord présenté le déploiement comme une opération pour ramener quatre personnels disparus depuis la mi-octobre, puis a laissé entendre un objectif plus large contre les gangs. Le média ajoute que l'essentiel des soldats salvadoriens n'est pas intégré à la force de suppression des gangs (GSF). Les effectifs cités dans ce reportage restent ceux de France 24 et de l'AP.\n\nPiquer a demandé à Bukele et au Premier ministre haïtien Alix Didier Fils-Aimé de veiller à ce que toutes les opérations des forces salvadoriennes en Haïti respectent le droit international des droits humains, et d'ouvrir des enquêtes promptes, indépendantes et impartiales sur toute allégation de violation. « La réponse à la violence des gangs ne doit pas reproduire les abus et l'impunité qui ont caractérisé les interventions précédentes en Haïti », a-t-elle ajouté, selon France 24.",
+    },
+    sources: ["France 24 - AP"],
+    sourceLinks: [
+      { name: "France 24 - AP", url: "https://www.france24.com/en/americas/20261110-amnesty-urges-el-salvador-to-disclose-terms-of-haiti-troop-deployment" },
+    ],
+  },
+  {
+    id: "ntk-garcon-haitien-ice-san-diego-2026-11-08",
+    tier: "need-to-know",
+    topic: "society",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:51:00-05:00",
+    headline: {
+      ht: "Yon gason ayisyen 8 an yo konfye bay ORR apre yon randevou ICE nan San Diego",
+      fr: "Un garçon haïtien de 8 ans confié à l'ORR après un rendez-vous ICE à San Diego",
+    },
+    teaser: {
+      ht: "Tonton l te akonpaye l; ICE di li pa etabli tutèl legal. ABC ak NBC pa bay menm jou a.",
+      fr: "L'oncle l'avait accompagné ; ICE dit n'avoir pas établi de tutelle légale. ABC et NBC divergent sur le jour exact.",
+    },
+    brief: {
+      ht: "ABC News ak NBC News rapòte yon elèv ayisyen 8 an, ki lekòl Fay Elementary, yo transfere bay Office of Refugee Resettlement apre yon randevou ak ICE. NBC mete pran an chaj la 4 novanm; ABC mete l yon jedi.",
+      fr: "ABC News et NBC News rapportent qu'un élève haïtien de 8 ans, scolarisé à Fay Elementary, a été transféré à l'Office of Refugee Resettlement après un rendez-vous avec l'ICE. NBC date la prise en charge au 4 novembre ; ABC la situe un jeudi.",
+    },
+    body: {
+      ht: "Yon gason ayisyen 8 an, elèv 3e ane nan lekòl Fay Elementary nan San Diego, yo konfye bay Office of Refugee Resettlement (ORR) apre yon randevou ak Immigration and Customs Enforcement (ICE), dapre ABC News ak NBC News.\n\nNBC San Diego mete pran an chaj la 4 novanm, epi li jwenn yon videyo yo te filme mercredi sa a devan biwo ICE, nan santvil San Diego. ABC News, nan yon atik 8 novanm, mete randevou a yon jedi.\n\nDistri lekòl la ak òganizasyon Haitian Bridge Alliance di timoun nan t ap viv ak tonton l ak kouzen l yo depi yo te ekspilse papa l, ane pase. ABC presize yo te voye papa a tounen Meksik. Dapre ABC, yon administratè distri a, Cody Petterson, di tonton an te nan dosye lekòl yo kòm moun ki otorize pou okipe timoun nan.\n\nICE ak Department of Homeland Security (DHS) di mesye a pa t ka etabli yon tutèl legal. DHS, NBC site, pale de yon moun « ki te prezante tèt li kòm tonton an ». Ajan yo trete timoun nan kòm yon minè ki pa akonpaye, sou baz yon lwa federal sou pwoteksyon viktim trafik. Yon pòtpawòl ICE di ABC ajans lan pa t akize tonton an de okenn abi, men li deside, « pa prekosyon », retire timoun nan nan kay la epi konfye l bay ORR. DHS trete kòm « fo » akizasyon ki di timoun nan te « mete nan detansyon ».\n\nTimoun nan te pèdi Temporary Protected Status (TPS) pi bonè ane sa a, dapre ABC. NBC, ki chita sou yon lèt distri lekòl la, mete pèt sa a nan ete a, apre yon desizyon Tribinal Siprèm ki otorize fen TPS pou Ayisyen. Distri a ekri DHS tonton an te mennen timoun nan nan randevou a paske li pa t vle vyole lalwa.\n\nNan dat 9 novanm, biwo reprezantan demokrat Juan Vargas di NBC fanmi an pa konnen egzakteman ki kote timoun nan ye. ORR pa kòmante dosye sa a, li site règ konfidansyalite li yo. ABC di li poko klè si yo pral voye timoun nan soti Etazini. Yo pa pibliye prenon timoun nan.\n\nGuerline Jozef, nan Haitian Bridge Alliance, estime transfe sa a wete timoun nan bò kote fanmi l epi li ka ekspoze l a yon pwosedi ekspilsyon. Distri a anonse li ap voye plis konseye nan lekòl la semèn sa a, paske kèk kamarad klas yo eksprime enkyetid yo.",
+      fr: "Un garçon haïtien de 8 ans, élève de 3e année à l'école Fay Elementary de San Diego, a été confié à l'Office of Refugee Resettlement (ORR) après un rendez-vous avec l'Immigration and Customs Enforcement (ICE), rapportent ABC News et NBC News.\n\nNBC San Diego date la prise en charge au 4 novembre et a obtenu une vidéo tournée ce mercredi devant le bureau de l'ICE, au centre-ville de San Diego. ABC News, dans un article du 8 novembre, situe le rendez-vous un jeudi.\n\nLe district scolaire et l'organisation Haitian Bridge Alliance indiquent que l'enfant vivait avec son oncle et ses cousins depuis l'expulsion de son père, l'an dernier. ABC précise que le père a été renvoyé au Mexique. Selon ABC, un administrateur du district, Cody Petterson, dit que l'oncle figurait dans les dossiers scolaires comme personne autorisée à s'occuper de l'enfant.\n\nICE et le Department of Homeland Security (DHS) affirment que l'homme n'a pas pu établir une tutelle légale. Le DHS, cité par NBC, parle d'un homme « qui se présentait comme l'oncle ». Les agents ont alors traité l'enfant comme un mineur non accompagné, en vertu d'une loi fédérale sur la protection des victimes de la traite. Un porte-parole d'ICE a déclaré à ABC que l'agence n'accusait l'oncle d'aucun abus, mais qu'elle avait décidé, « par prudence », de retirer l'enfant du foyer et de le confier à l'ORR. Le DHS a qualifié de « fausses » les allégations selon lesquelles l'enfant aurait été « placé en détention ».\n\nL'enfant avait perdu le Temporary Protected Status (TPS) plus tôt cette année, selon ABC. NBC, s'appuyant sur une lettre du district scolaire, situe cette perte dans l'été, après une décision de la Cour suprême autorisant la fin du TPS pour les Haïtiens. Le district a écrit au DHS que l'oncle a conduit l'enfant au rendez-vous parce qu'il ne voulait pas enfreindre la loi.\n\nAu 9 novembre, le bureau du représentant démocrate Juan Vargas a déclaré à NBC que la famille ne savait pas exactement où l'enfant se trouve. L'ORR n'a pas commenté ce dossier, invoquant ses règles de confidentialité. ABC indique qu'il n'est pas clair si l'enfant sera renvoyé hors des États-Unis. Le prénom de l'enfant n'a pas été rendu public.\n\nGuerline Jozef, de Haitian Bridge Alliance, estime que ce transfert éloigne l'enfant de sa famille et peut l'exposer à une procédure d'éloignement. Le district a annoncé l'envoi de conseillers supplémentaires à l'école cette semaine, parce que des camarades de classe ont exprimé leur inquiétude.",
+    },
+    sources: ["ABC News", "NBC News"],
+    sourceLinks: [
+      { name: "ABC News", url: "https://abcnews.com/US/8-year-haitian-boy-federal-custody-after-ice/story?id=137960678" },
+      { name: "NBC News", url: "https://www.nbcnews.com/news/us-news/haitian-8-year-old-was-taken-ice-routine-check-rattling-san-diego-scho-rcna608341" },
+    ],
+  },
+  {
+    id: "qh-nay-mizik-cuisine-tiktok-2026-11-09",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:50:50-05:00",
+    headline: {
+      ht: "Depi Kanada, Nay Mizik fè konnen kwizin ayisyen sou TikTok, dapre NAGO",
+      fr: "Depuis le Canada, Nay Mizik fait connaître la cuisine haïtienne sur TikTok, selon NAGO",
+    },
+    teaser: {
+      ht: "Scheneider Clerveaux prepare pami lòt yo diri, yon sòs pwa ak legim.",
+      fr: "Scheneider Clerveaux prépare notamment du riz, une sauce aux haricots et du legim.",
+    },
+    brief: {
+      ht: "NAGO, 9 novanm, prezante kreyatè Scheneider Clerveaux, alias Nay Mizik, k ap filme plat ayisyen depi Kanada. Enfòmasyon an chita sou medya sa a sèlman.",
+      fr: "NAGO, le 9 novembre, présente le créateur Scheneider Clerveaux, alias Nay Mizik, qui filme des plats haïtiens depuis le Canada. L'information repose sur ce seul média.",
+    },
+    body: {
+      ht: "Kreyatè Scheneider Clerveaux, alias Nay Mizik, prezante plat ayisyen sou TikTok depi Kanada, dapre NAGO 9 novanm. Li di li fyè l ap fè konnen kilti peyi a nan tab la, epi li eksplike se granmè l ki te ba l gou pou kwit manje.\n\nPami preparasyon li pi renmen yo, NAGO site diri, sòs pwa ak legim. Medya a rakonte yon parkou ki pase pa yon anfans nan Kafou, lyen fanmi nan Jakmèl, yon fòmasyon kòm kizinye nan Ajantin, epi yon metye li pratike nan Kanada.\n\nNAGO presize vizibilite sa a pa yon pòtrè konplè kwizin ayisyen, ki chanje selon rejyon ak fanmi. Enfòmasyon an chita sou medya sa a sèlman.",
+      fr: "Le créateur Scheneider Clerveaux, alias Nay Mizik, présente des plats haïtiens sur TikTok depuis le Canada, rapporte NAGO le 9 novembre. Il se dit fier de faire connaître la culture du pays par la table et explique que sa grand-mère lui a transmis le goût de cuisiner.\n\nParmi ses préparations favorites, NAGO cite le riz, la sauce aux haricots et le legim. Le média retrace un parcours qui passe par une enfance à Carrefour, des attaches familiales à Jacmel, une formation de cuisinier en Argentine, puis un métier exercé au Canada.\n\nNAGO précise que cette visibilité ne vaut pas un portrait complet de la cuisine haïtienne, qui varie selon les régions et les familles. L'information repose sur ce seul média.",
+    },
+    sources: ["NAGO"],
+    sourceLinks: [
+      { name: "NAGO - article", url: "https://news.nago.tv/depuis-le-canada-nay-mizik-fait-connaitre-la-cuisine-haitienne-sur-tik" },
+      { name: "NAGO - flash 19 h, 9 novembre", url: "https://nago.tv/flash-info/2026-11-09-19" },
+    ],
+  },
+  {
+    id: "ntk-rd-frontiere-patrouilles-2026-11-09",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:50:40-05:00",
+    headline: {
+      ht: "Repiblik Dominikèn : lame a di li ranfòse patwouy yo sou fwontyè a dimanch",
+      fr: "République dominicaine : l'armée dit avoir renforcé les patrouilles à la frontière dimanche",
+    },
+    teaser: {
+      ht: "Dajabón, Elías Piña, Independencia ak Pedernales vize; komès ak pasaj otorize yo rete nòmal, dapre lame a.",
+      fr: "Dajabón, Elías Piña, Independencia et Pedernales visés ; le commerce et les passages autorisés restent normaux, selon l'armée.",
+    },
+    brief: {
+      ht: "Dapre Informe56, lame dominikèn nan te mete plis patwouy dimanch 8 novanm nan kat pwovens kote gwo pòs fwontyè yo ye. Li di komès ak pasaj otorize yo kontinye nòmalman.",
+      fr: "Selon Informe56, l'armée dominicaine a concentré davantage de patrouilles dimanche 8 novembre dans les quatre provinces des principaux postes frontaliers. Elle affirme que le commerce et le transit autorisé se poursuivent normalement.",
+    },
+    body: {
+      ht: "Lame dominikèn nan ranfòse patwouy militè sou fwontyè ayisyeno-dominikèn nan dimanch 8 novanm, dapre Informe56. Li mete plis patwouy nan pwovens Dajabón, Elías Piña, Independencia ak Pedernales, kote kat gwo pòs fwontyè fòmèl yo ye.\n\nNan yon nòt medya a reprann, lame a di malgre ogmantasyon siveyans sa a, li pa wè gwo chanjman nan jan fwontyè a mache nòmalman. Aktivite komèsyal, pasaj moun ki otorize ak travay chak jou yo kontinye nòmalman, dapre sous sa a.\n\nInforme56 mete ranfòsman sa a nan swivi dominikèn sou tansyon an Ayiti, apre disparisyon kat Salvadorien ak atak gwoup ame yo. Medya a rapòte tou ke depi kèk jou minis Defans ak Prezidans dominikèn yo te fè yon vire nan kat pwen fwontyè yo. Kont randi a pa bay chif egzak renfò yo ni konbyen tan ogmantasyon patwouy sa a dwe dire.",
+      fr: "L'armée dominicaine a renforcé les patrouilles militaires à la frontière haïtiano-dominicaine dimanche 8 novembre, rapporte Informe56. Elle a concentré davantage de patrouilles dans les provinces de Dajabón, Elías Piña, Independencia et Pedernales, où se trouvent les quatre principaux postes frontaliers formels.\n\nDans une note reprise par le média, l'armée indique que, malgré cette hausse de surveillance, elle n'observe pas de changement significatif dans la dynamique habituelle de la frontière. Les activités commerciales, le transit autorisé de personnes et les tâches quotidiennes continuent normalement, selon cette source.\n\nInforme56 situe ce renforcement dans le suivi dominicain des tensions en Haïti, après la disparition de quatre Salvadoriens et des attaques de groupes armés. Le média rapporte aussi qu'il y a quelques jours les ministres dominicains de la Défense et de la Présidence ont parcouru les quatre points frontaliers. Le compte rendu ne précise pas les effectifs exacts des renforts ni la durée prévue de cette hausse de patrouilles.",
+    },
+    sources: ["Informe56"],
+    sourceLinks: [
+      { name: "Informe56", url: "https://informe56.com/2026/11/09/gobierno-incrementa-patrullaje-en-la-frontera-ante-situacion-en-haiti/" },
+    ],
+  },
+  {
+    id: "ntk-securite-salvador-gangs-2026-11-09",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:50:30-05:00",
+    headline: {
+      ht: "Prezans salvadorien ak òf dyalòg 400 Mawozo : risk Americas Quarterly egzamine yo",
+      fr: "Présence salvadorienne et offre de dialogue de 400 Mawozo : les risques examinés par Americas Quarterly",
+    },
+    teaser: {
+      ht: "Nan yon analiz 9 novanm, Philippe de Bard egzamine apèl Wilson Joseph bay Nasyonzini ak kesyon kowòdinasyon bò kote kontenjan salvadorien an.",
+      fr: "Dans une analyse du 9 novembre, Philippe de Bard examine l'appel de Wilson Joseph à l'ONU et les questions de coordination autour du contingent salvadorien.",
+    },
+    brief: {
+      ht: "Americas Quarterly pibliye yon analiz Philippe de Bard sou òf dyalòg 400 Mawozo ak sou prezans salvadorien an Ayiti. Otè a avèti kont yon dyalòg san kondisyon ak kont yon dispozitif sekirite ki pa byen kadren.",
+      fr: "Americas Quarterly publie une analyse de Philippe de Bard sur l'offre de dialogue de 400 Mawozo et sur la présence salvadorienne en Haïti. L'auteur met en garde contre un dialogue sans conditions et contre un dispositif sécuritaire mal cadré.",
+    },
+    body: {
+      ht: "Americas Quarterly pibliye 9 novanm yon analiz Philippe de Bard sou de dosye ki mare : òf dyalòg 400 Mawozo lanse a, ak prezans twoup salvadorien an Ayiti.\n\nDapre atik la, Wilson Joseph, yo rele Lanmò Sanjou, chèf 400 Mawozo, mande sekretè jeneral Nasyonzini voye yon delegasyon pou yon dyalòg ak yon medyasyon. Nasyonzini konfime li resevwa lèt la, ki gen dat 1ye novanm dapre analiz la, epi li presize resepsyon an pa vle di ni rekonesans ni andòsman. Joseph demanti responsablite li nan disparisyon kat teknikyen salvadorien yo. El Salvador di yo vivan; Ayiti di yo te kidnape.\n\nDe Bard estime yon dyalòg san kondisyon ta ka rekonpanse vyolans ak enpinite. Li note lèt la chèche yon echanj ak « fòs entènasyonal ki prezan an Ayiti », pandan l ap kontourne Eta ayisyen an, epi li prezante 400 Mawozo kòm yon « gwoup rebèl ». Otè a raple tou Joseph sou sanksyon plizyè Eta ak Nasyonzini.\n\nSou plan sekirite, analiz la dekri plizyè aktè k ap opere bò Pòtoprens, pami yo PNH, FAd'H, fòs sipresyon gang yo (GSF), yon task force drone, ak kontenjan salvadorien an. De Bard souliye kad legal ak chenn kòmandman kontenjan sa a rete flou, epi Nasyonzini di gwo majorite renfò salvadorien yo pa opere anba manda GSF la. Li pè yon kowòdinasyon mal defini ta ka kraze plis repons entènasyonal la.\n\nPou teste òf dyalòg la, otè a pwopoze kritè konkret anvan nenpòt negosyasyon fòmèl : sispann atak sou sivil yo yon fason ki verifye, sò otaj yo, reouvèti wout, aksè imanitè, epi soti timoun yo te rekrite. Li mande tou yon kad pibliye ki presize manda, dire ak estati deplwaman salvadorien an, ansanm ak lyen li genyen ak GSF la.\n\nNan yon lòt rapò, Bloomberg, LiveMint reprann nan, di PNH rapòte li blese mortalman Mathias Saintil, yo prezante kòm chèf gang Boston, nan yon operasyon nan Site Solèy; premye minis enterimè Alix Didier Fils-Aimé salye nouvèl la sou X. Reyalite sa a pa sijè santral analiz Americas Quarterly a.",
+      fr: "Americas Quarterly a publié le 9 novembre une analyse de Philippe de Bard sur deux dossiers liés : l'offre de dialogue lancée par 400 Mawozo et la présence de troupes salvadoriennes en Haïti.\n\nSelon l'article, Wilson Joseph, dit Lanmò Sanjou, chef de 400 Mawozo, a demandé au secrétaire général de l'ONU d'envoyer une délégation pour un dialogue et une médiation. L'ONU a confirmé avoir reçu la lettre, datée du 1er novembre d'après l'analyse, en précisant que cette réception n'implique ni reconnaissance ni endossement. Joseph nie sa responsabilité dans la disparition de quatre techniciens salvadoriens. El Salvador estime qu'ils sont vivants ; Haïti dit qu'ils ont été enlevés.\n\nDe Bard estime qu'un dialogue sans conditions risquerait de récompenser la violence et l'impunité. Il note que la lettre cherche un échange avec « les forces internationales présentes en Haïti », en contournant l'État haïtien, et qu'elle présente 400 Mawozo comme un « groupe rebelle ». L'auteur rappelle aussi que Joseph figure sous sanctions de plusieurs États et de l'ONU.\n\nSur le plan sécuritaire, l'analyse décrit plusieurs acteurs opérant autour de Port-au-Prince, dont la PNH, les FAd'H, la force de suppression des gangs (GSF), une task force de drones et le contingent salvadorien. De Bard souligne que le cadre juridique et la chaîne de commandement de ce contingent restent flous, et que l'ONU a indiqué que la grande majorité des renforts salvadoriens n'opèrent pas sous le mandat de la GSF. Il craint qu'une coordination mal définie ne fragmente encore la réponse internationale.\n\nPour tester l'offre de dialogue, l'auteur propose des critères concrets avant toute négociation formelle : arrêt vérifié des attaques contre les civils, sort des otages, réouverture de routes, accès humanitaire et sortie d'enfants recrutés. Il plaide aussi pour un cadre publié qui précise le mandat, la durée et le statut du déploiement salvadorien, ainsi que son lien avec la GSF.\n\nDans un autre reportage, Bloomberg, repris par LiveMint, a indiqué que la PNH dit avoir mortellement blessé Mathias Saintil, présenté comme chef du gang Boston, lors d'une opération à Cité Soleil ; le Premier ministre intérimaire Alix Didier Fils-Aimé a salué la nouvelle sur X. Ce fait n'est pas le sujet central de l'analyse d'Americas Quarterly.",
+    },
+    sources: ["Americas Quarterly - Philippe de Bard", "LiveMint - Bloomberg"],
+    sourceLinks: [
+      { name: "Americas Quarterly - Philippe de Bard", url: "https://americasquarterly.org/article/el-salvadors-presence-and-a-gangs-offer-test-haitis-security/" },
+      { name: "LiveMint - Bloomberg", url: "https://www.livemint.com/news/haiti-kills-gang-chief-as-el-salvador-mercenaries-add-pressure-11794217717906.html" },
+    ],
+  },
+  {
+    id: "ntk-stephanie-paultre-liberee-caleb-2026-11-08",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:50:10-05:00",
+    headline: {
+      ht: "Stéphanie Paultre libere, Mèt Caleb Jean-Baptiste toujou anba men kidnapè yo, dapre de medya",
+      fr: "Stéphanie Paultre libérée, Me Caleb Jean-Baptiste toujours retenu, selon deux médias",
+    },
+    teaser: {
+      ht: "Haïti24 ak Maghaiti rapòte liberasyon li, men yo pa bay menm detay sou dat la ak lòt moun ki libere yo.",
+      fr: "Haïti24 et Maghaiti rapportent sa libération, mais divergent sur la date et les autres personnes libérées.",
+    },
+    brief: {
+      ht: "Direktris ONAPE a reprann libète li apre kidnaping 7 septanm nan Latibonit la, dapre Haïti24 ak Maghaiti 8 novanm sa a. Toude medya yo di Mèt Caleb Jean-Baptiste toujou anba men kidnapè yo.",
+      fr: "La directrice de l'ONAPE a retrouvé la liberté après son enlèvement du 7 septembre dans l'Artibonite, rapportent Haïti24 et Maghaiti ce 8 novembre. Les deux médias indiquent que Me Caleb Jean-Baptiste reste aux mains des ravisseurs.",
+    },
+    body: {
+      ht: "Stéphanie Paultre, direktris jeneral Biwo nasyonal patenarya nan edikasyon (ONAPE), libere apre anviwon de mwa anba men kidnapè, dapre Haïti24 ak Maghaiti dimanch 8 novanm sa a. Toude medya yo di Mèt Caleb Jean-Baptiste toujou nan men ravisè yo.\n\nHaïti24 di Paultre libere dimanch. Maghaiti di liberasyon an fèt nan nuit samdi 7 novanm, epi li fè konnen yo lage l ansanm ak de kolaboratè, pami yo chofè li, kont yon ranson. Mesaj li a parèt dimanch a 11:46 nan maten, lè Ayiti. Li pa bay montan ranson an.\n\nTout detay sa yo poko jwenn menm konfimasyon. Haïti24 pa konfime peman ranson ni liberasyon lòt moun yo te kidnape avè l yo. Opak News pa prezante sò tout otaj yo kòm yon bagay ki fin etabli.\n\nDapre Haïti24, yo te kidnape Paultre ak Jean-Baptiste 7 septanm nan Lakwa Peris, nan zòn Gwo Mòn, pandan yo t ap retounen soti nan yon aktivite nan Ennery pou lansman ane lekòl la. Medya a pale tou de de polisye kidnapè yo te pran. Maghaiti mete kidnaping nan sou kont gang Kokorat San Ras. Se medya a ki bay atribisyon sa a.\n\nLiberasyon Paultre medya yo rapòte a pa fè enkyetid pou Caleb Jean-Baptiste fini. Yon konfimasyon ofisyèl sou sò chak moun yo te kidnape rete nesesè.",
+      fr: "Stéphanie Paultre, directrice générale de l'Office national de partenariat en éducation (ONAPE), a été libérée après environ deux mois de séquestration, rapportent Haïti24 et Maghaiti ce dimanche 8 novembre. Les deux médias indiquent que Me Caleb Jean-Baptiste reste retenu par les ravisseurs.\n\nHaïti24 situe la libération de Paultre ce dimanche. Maghaiti la place dans la nuit du samedi 7 novembre et affirme qu'elle a été libérée avec deux collaborateurs, dont son chauffeur, contre une rançon. Son message a été publié dimanche à 11 h 46, heure d'Haïti. Aucun montant n'y est donné.\n\nCes précisions ne sont pas toutes corroborées. Haïti24 ne confirme ni le paiement d'une rançon ni la libération des autres personnes enlevées avec elle. Opak News ne présente donc pas comme établi le sort de l'ensemble des otages.\n\nSelon Haïti24, Paultre et Jean-Baptiste avaient été enlevés le 7 septembre à La Croix-Périsse, dans la zone de Gros-Morne, alors qu'ils revenaient d'une activité à Ennery liée au lancement de l'année scolaire. Le média évoque aussi deux policiers emmenés par les ravisseurs. Maghaiti attribue l'enlèvement au gang Kokorat San Ras. Cette attribution reste celle du média.\n\nLa libération rapportée de Paultre ne met pas fin à l'inquiétude pour Caleb Jean-Baptiste. Une confirmation officielle du sort de chaque personne enlevée reste nécessaire.",
+    },
+    sources: ["Haïti24", "Maghaiti — message public"],
+    sourceLinks: [
+      { name: "Haïti24", url: "https://haiti24.net/haiti-kidnapping-la-directrice-de-lonape-stephanie-paultre-liberee-me-caleb-jean-baptiste-toujours-sequestre/" },
+      { name: "Maghaiti — message public", url: "https://x.com/maghaiti/status/2119471605634019397" },
+    ],
+  },
+  {
+    id: "qh-primo-votants-karibe-2026-11-08",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:49:50-05:00",
+    headline: {
+      ht: "Premye vòt : CEP ak BINUH te reyini jèn nan Karibe",
+      fr: "Primo-votants : le CEP et le BINUH ont réuni des jeunes au Karibe",
+    },
+    teaser: {
+      ht: "Reyinyon 6 novanm nan te pale de pwosesis elektoral ak patisipasyon jèn fi yo.",
+      fr: "La rencontre du 6 novembre portait sur le processus électoral et la participation des jeunes femmes.",
+    },
+    brief: {
+      ht: "BINUH te òganize yon jounen sansibilizasyon vandredi 6 novanm nan Karibe, ak patisipasyon CEP, dapre HaitiLibre dimanch sa a. Te gen yon similasyon enskripsyon ak vòt nan pwogram nan.",
+      fr: "Le BINUH a organisé vendredi 6 novembre une journée de sensibilisation au Karibe, avec la participation du CEP, rapporte HaitiLibre ce dimanche. Une simulation d'inscription et de vote figurait au programme.",
+    },
+    body: {
+      ht: "Jèn ki pral vote pou premye fwa te patisipe vandredi 6 novanm nan yon jounen BINUH òganize nan otèl Karibe, ak patisipasyon CEP. HaitiLibre pibliye kont randi a dimanch 8 novanm sa a. Se yon reyinyon vandredi, se pa yon aktivite ki fèt jodi a.\n\nTèm nan te « Primo-votants : comprendre le processus électoral et ses acteurs ». Dapre medya a, prezidan CEP a, Peterson Pierre-Louis, mande jèn yo fè chwa lib, ak bon enfòmasyon, san presyon ni machandaj. Li te pale de enskripsyon nan rejis la ak delè elektoral yo.\n\nReprezantan ministè Jenès ak ministè Kondisyon fanm te pale de difikilte pou jwenn enfòmasyon ak patisipasyon jèn fi yo. CEP te òganize tou yon similasyon enskripsyon ak vòt.\n\nDirektè Rejis elektoral la, Jean Marie Rémy, te prezante enskripsyon mobil kòm yon mekanis ki an aplikasyon. Kont randi a pa bay kantite patisipan ni mezi sou enskripsyon jounen an pèmèt fèt.\n\nKesyon pou lektè yo : ki jan pou enfòmasyon sa yo rive nan komin yo ak jwenn jèn ki pa ka patisipe nan reyinyon nan kapital la ?",
+      fr: "Des jeunes appelés à voter pour la première fois ont participé, vendredi 6 novembre à l'hôtel Karibe, à une journée organisée par le BINUH avec la participation du CEP. HaitiLibre en publie le compte rendu ce dimanche 8 novembre. Il s'agit d'une rencontre de vendredi, pas d'un événement survenu aujourd'hui.\n\nLe thème était « Primo-votants : comprendre le processus électoral et ses acteurs ». Le président du CEP, Peterson Pierre-Louis, a invité les jeunes à faire des choix libres et éclairés, sans pression ni marchandage, selon le média. Il a abordé l'inscription au registre et les échéances électorales.\n\nDes représentants des ministères de la Jeunesse et à la Condition féminine ont évoqué les difficultés d'accès à l'information et la participation des jeunes femmes. Une simulation d'inscription et de vote a aussi été organisée par le CEP.\n\nLe directeur du Registre électoral, Jean Marie Rémy, a présenté l'inscription mobile comme un mécanisme en cours de mise en œuvre. Le compte rendu ne donne pas de total de participants ni de mesure des inscriptions obtenues grâce à cette journée.\n\nQuestion aux lecteurs : comment porter ces informations dans les communes et auprès des jeunes qui ne peuvent pas participer aux rencontres de la capitale ?",
+    },
+    sources: ["HaitiLibre"],
+    sourceLinks: [
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48849-haiti-elections-journee-de-sensibilisation-pour-les-primo-votants.html" },
+    ],
+  },
+  {
+    id: "qh-nippes-projets-agricoles-suivi-2026-11-08",
+    tier: "quick-hit",
+    topic: "commerce",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:49:40-05:00",
+    headline: {
+      ht: "Nip : yon vizit suivi nan pwojè agrikòl Bank mondyal finanse yo",
+      fr: "Nippes : une tournée de suivi des projets agricoles financés par la Banque mondiale",
+    },
+    teaser: {
+      ht: "Transfòmasyon, depo, dlo ak elvaj pwason : responsab pwojè yo prezante sa yo reyalize.",
+      fr: "Transformation, stockage, eau et pisciculture : les réalisations sont décrites par les responsables des projets.",
+    },
+    brief: {
+      ht: "Dapre HaitiLibre, yon delegasyon Bank mondyal ak Ministè Agrikilti vizite enstalasyon pwojè PARSA ak TPR II nan Nip semèn sa a. Chif pwodiksyon yo rapòte yo pa soti nan yon odit endepandan Opak News.",
+      fr: "Une délégation de la Banque mondiale et du ministère de l'Agriculture a visité cette semaine des installations des projets PARSA et TPR II dans les Nippes, selon HaitiLibre. Les chiffres de production rapportés n'ont pas fait l'objet d'un audit indépendant d'Opak News.",
+    },
+    body: {
+      ht: "Yon delegasyon Bank mondyal, ansanm ak Ministè Agrikilti ak ekip pwojè PARSA ak TPR II, fè yon vizit suivi nan Nip semèn sa a. Nan atik li pibliye 8 novanm, HaitiLibre dekri etap ki soti Fon Denèg rive Ansavo, san li pa bay dat egzak chak vizit.\n\nNan Fon Denèg, misyon an vizite yon inite transfòmasyon manyòk ak enstalasyon Agro-Pasto Service nan Jovange, ki travay sou diri ak mayi. Responsab premye òganizasyon an di yo transfòme anviwon 60 tòn manyòk nan douz mwa. Kont randi a bay anviwon 216 tòn diri blan pou Agro-Pasto Service pandan menm peryòd la. Se aktè pwojè yo ki rapòte rezilta sa yo; redaksyon nou an pa verifye yo nan yon odit endepandan.\n\nNan Ti Rivyè Nip, yo prezante sant rasanbleman rezo ROPANIP la kòm yon mwayen pou kolekte, konsève epi distribye pwodui pou 39 lekòl. Vizit la touche tou yon sitèn fanmi, onz basen elvaj pwason nan Abraham ak enfrastrikti nan O-Rouck, nan komin Ansavo.\n\nVizit sa yo pa sifi pou etabli si inite yo fè benefis, si lekòl yo resevwa pwodui regilyèman oswa si ekipman yo ap dire. Kont randi nou konsilte a pa pibliye yon bilan finansye ni yon konparezon endepandan ant rezilta yo ak objektif depa yo.\n\nKesyon pou lektè yo : kiyès ki fè antretyen epi ki peye depans fonksyònman yo ? Èske pwodiktè ak lekòl yo ka konsilte kont ak rezilta envestisman sa yo ?",
+      fr: "Une délégation de la Banque mondiale, accompagnée du ministère de l'Agriculture et des équipes PARSA et TPR II, a effectué cette semaine une tournée dans les Nippes. HaitiLibre décrit ce 8 novembre des visites de Fonds-des-Nègres à Anse-à-Veau, sans donner les dates exactes de chaque étape.\n\nÀ Fonds-des-Nègres, la mission a visité une unité de transformation du manioc et l'installation d'Agro-Pasto Service à Jovange, consacrée au riz et au maïs. Les responsables de la première organisation déclarent environ 60 tonnes de manioc transformées en douze mois. Le compte rendu fait état d'environ 216 tonnes de riz blanc pour Agro-Pasto Service sur la même durée. Ces résultats sont rapportés par les acteurs du projet, pas vérifiés par un audit indépendant de notre rédaction.\n\nÀ Petite-Rivière-des-Nippes, le centre d'agrégation du réseau ROPANIP est présenté comme un outil de collecte, de stockage et de distribution pour approvisionner 39 établissements scolaires. La tournée a aussi porté sur une citerne familiale, onze bassins piscicoles à Abraham et des infrastructures à O-Rouck, dans la commune d'Anse-à-Veau.\n\nCes visites ne suffisent pas à établir la rentabilité des unités, la régularité des livraisons aux écoles ou la durabilité des équipements. Le compte rendu consulté ne publie pas de bilan financier ni de comparaison indépendante des résultats avec les objectifs initiaux.\n\nQuestions aux lecteurs : qui assure l'entretien et paie les frais de fonctionnement ? Les producteurs et les écoles peuvent-ils consulter les comptes et les résultats de ces investissements ?",
+    },
+    sources: ["HaitiLibre"],
+    sourceLinks: [
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48847-haiti-agriculture-tournee-de-suivi-des-projets-de-la-banque-mondiale-dans-les-nippes.html" },
+    ],
+  },
+  {
+    id: "qh-dgi-revenus-2025-2026-bareme-2026-11-08",
+    tier: "quick-hit",
+    topic: "commerce",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:49:30-05:00",
+    headline: {
+      ht: "Revni 2025-2026 : ansyen barèm nan toujou aplikab, dapre rapèl DGI HaitiLibre reprann nan",
+      fr: "Revenus 2025-2026 : l'ancien barème reste applicable, selon le rappel de la DGI relayé par HaitiLibre",
+    },
+    teaser: {
+      ht: "Medya a rapòte yon peryòd deklarasyon ki soti 1ye oktòb 2026 rive 31 janvye 2027.",
+      fr: "Le média rapporte une période de déclaration du 1er octobre 2026 au 31 janvier 2027.",
+    },
+    brief: {
+      ht: "HaitiLibre rapòte DGI kenbe ansyen barèm nan pou revni egzèsis 2025-2026 yo, paske lalwa pa dwe aplike retwoaktivman. Paj jeneral DGI a konfime peryòd deklarasyon chak ane a, men nou pa jwenn avi espesifik egzèsis sa a nan sous prensipal nou konsilte yo.",
+      fr: "HaitiLibre rapporte que la DGI maintient l'ancien barème pour les revenus de l'exercice 2025-2026, au nom de la non-rétroactivité des lois. La page générale de la DGI confirme la période annuelle de déclaration, mais l'avis spécifique à cet exercice n'a pas été retrouvé dans les sources primaires consultées.",
+    },
+    body: {
+      ht: "Ansyen barèm enpo sou revni a toujou aplikab pou revni ki fèt pandan egzèsis fiskal 2025-2026 la, dapre yon rapèl DGI HaitiLibre reprann 8 novanm sa a. Medya a di peryòd pou depoze deklarasyon definitif la soti 1ye oktòb 2026 rive 31 janvye 2027.\n\nHaitiLibre di DGI baze desizyon sa a sou prensip ki di lalwa pa dwe aplike retwoaktivman, malgre nouvo Kòd fiskal la pibliye. Sa konsène revni egzèsis yo site a; rapèl la pa vle di tout dispozisyon nouvo kòd la sispann.\n\nPaj jeneral ofisyèl DGI sou deklarasyon definitif la bay yon peryòd 1ye oktòb rive 31 janvye pou revni egzèsis anvan an. Li dekri yon kalkil pwogresif, men li gen yon ansyen egzanp sou 2013-2014 tou. Li pa ranplase verifikasyon avi espesifik pou 2025-2026 la.\n\nNou pa jwenn orijinal avi sa a nan sous prensipal nou konsilte yo. Se poutèt sa nou atribye dat egzèsis sa a ak deklarasyon ki di ansyen barèm nan rete an vigè a ak kont randi HaitiLibre a. Nou pa dedui okenn nouvo papòt, kalkil pèsonèl oswa montan pou yon moun peye nan rapèl sa a.\n\nKontribyab yo dwe fè DGI konfime règ ak pyès ki aplikab pou sitiyasyon pa yo anvan yo depoze deklarasyon yo. Kesyon pou lektè yo : ki kote administrasyon an mete avi konplè ki esplike tranzisyon ant de barèm yo disponib ?",
+      fr: "L'ancien barème de l'impôt sur le revenu reste applicable aux revenus réalisés pendant l'exercice fiscal 2025-2026, selon un rappel de la DGI relayé par HaitiLibre ce 8 novembre. Le média indique que le dépôt de la déclaration définitive s'étend du 1er octobre 2026 au 31 janvier 2027.\n\nHaitiLibre attribue ce maintien au principe de non-rétroactivité des lois, malgré la promulgation du nouveau Code fiscal. Cela concerne les revenus de l'exercice visé ; le rappel ne signifie pas que toutes les dispositions du nouveau code sont suspendues.\n\nLa page officielle générale de la DGI consacrée à la déclaration définitive indique bien une période du 1er octobre au 31 janvier pour les revenus de l'exercice précédent. Elle décrit un calcul progressif, mais comporte aussi un ancien exemple portant sur 2013-2014. Elle ne tient donc pas lieu de vérification de l'avis particulier pour 2025-2026.\n\nL'original de cet avis n'a pas été retrouvé dans les sources primaires consultées. Les dates propres à cet exercice et le maintien de l'ancien barème restent ici attribués au compte rendu de HaitiLibre. Aucun nouveau seuil, calcul individuel ou montant à payer n'est déduit de ce rappel.\n\nLes contribuables doivent faire confirmer par la DGI les règles et les pièces applicables à leur situation avant de déposer leur déclaration. Question aux lecteurs : où l'administration rend-elle accessible l'avis complet qui explique la transition entre les deux barèmes ?",
+    },
+    sources: ["HaitiLibre", "DGI — page générale de la déclaration définitive"],
+    sourceLinks: [
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48851-haiti-actualite-zapping.html" },
+      { name: "DGI — page générale de la déclaration définitive", url: "https://dgi.gouv.ht/dgi_sev/declaration-definitive-impot-revenu/" },
+    ],
+  },
+
+  {
     id: "ntk-opinion-institutions-gryla-2026-11-06",
     tier: "need-to-know",
     topic: "governance",
@@ -447,33 +918,32 @@ export const STORIES: Story[] = [
       { name: "Le Concret Info", url: "https://www.leconcretinfo.com/2026/11/05/cermicol-des-cas-de-fievre-chez-des-mineurs-detenus-suscitent-linquietude-du-caddho/" },
     ],
   },
-  {
+    {
     id: "ntk-anjha-jeux-hasard-2026-11-05",
     tier: "need-to-know",
     topic: "commerce",
-    publishedAt: "2026-11-06",
-    publishedTime: "2026-11-06T10:26:10-05:00",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:52:30-05:00",
+    isFollowUp: true,
     headline: {
-      ht: "Jwèt aza : Leta kreye ANJHA, se DGI sèl ki ka resevwa lajan",
-      fr: "Jeux de hasard : l'État crée l'ANJHA, la DGI seule à encaisser",
+      ht: "Jwèt aza : ANJHA kreye pa dekrè 21 out, avi MEF la gen dat 5 oktòb",
+      fr: "Jeux de hasard : l'ANJHA créée par décrets du 21 août, l'avis MEF date du 5 octobre",
     },
     teaser: {
-      ht: "Dekrè nan Monitè 21 out ; avi MEF 5 oktòb k ap sikile kounye a. Konpozisyon ak dat demaraj poko klè.",
-      fr: "Décrets au Moniteur le 21 août ; avis MEF du 5 octobre qui circule maintenant. Composition et date de démarrage encore floues.",
+      ht: "Yogonet, 10 novanm, detaye twa dekrè epi li raple se DGI sèl ki ka ankasè.",
+      fr: "Yogonet, le 10 novembre, détaille trois décrets et rappelle que seule la DGI peut encaisser.",
     },
     brief: {
-      ht: "Dapre NAGO ak MEF, yon Otorite nasyonal jwèt aza ak lajan (ANJHA) pou regle kazino, paryaj ak bòlèt. Se DGI sèl ki ka kolekte.",
-      fr: "Selon NAGO et le MEF, une Autorité nationale des jeux de hasard et d'argent (ANJHA) doit réguler casinos, paris et borlettes. Seule la DGI peut collecter.",
+      ht: "Yogonet tounen 10 novanm sou Otorite nasyonal jwèt aza ak lajan, ki te deja anonse apati yon avi MEF 5 oktòb ak dekrè ki te parèt nan Monitè 21 out. Konpozisyon otorite a ak dat demaraj li pa presize nan rapò sa a.",
+      fr: "Yogonet revient le 10 novembre sur l'Autorité nationale des jeux de hasard et d'argent, déjà annoncée à partir d'un avis MEF du 5 octobre et de décrets parus au Moniteur le 21 août. La composition de l'autorité et sa date de démarrage ne sont pas précisées dans ce reportage.",
     },
     body: {
-      ht: "Dapre NAGO (6 novanm), ki chita sou Le Quotidien 509 ak Rezo Nòdwès, nouvo dekrè pibliye nan jounal ofisyèl Le Moniteur 21 out 2026 kreye Otorite nasyonal jwèt aza ak lajan (ANJHA), ki chaje regle, kontwole epi sipèvize kazino, paryaj, bank bòlèt ak jwèt asimilè. Ministè Ekonomi ak Finans (MEF) fè piblik la konnen tèks sa yo nan yon avi ki date 5 oktòb 2026, k ap pase anpil kounye a.\n\nNan avi sa a, ke Le Nouvelliste (lede aksesib ; rès dèyè paywall) ak Lakay Info 509 reprann tou, MEF mete refòm nan batay kont blanchiman kapital, sikwi finansye ilegal ak finansman teworis. Li raple Direksyon jeneral enpo (DGI) se sèl administrasyon ki otorize resevwa dwa, taks ak redevans operatè yo dwe, kont yon resi. MEF mande yo pa peye anyen deyò sikwi ofisyèl DGI.\n\nDapre NAGO / Rezo Nòdwès, avi a pa di anyen sou konpozisyon ANJHA, dat demaraj ni detay sanksyon yo. Ministè a pwomèt li ap enfòme pandan bagay yo ap mache. Gen sentèz (LEH, Bucofisc) ki pale de yon konsèy administrasyon senk manm anba tipèl MEF ; Opak News pa t relire PDF Monitè a nan pase sa a.\n\nKesyon pou lektè yo :\n\n• Kiyès ki te kontwole vre kès bòlèt yo anvan dekrè sa yo ?\n\n• San dat demaraj ni konpozisyon pibliye, ANJHA chanje kisa demen menm ?",
-      fr: "Selon NAGO (6 novembre), qui s'appuie sur Le Quotidien 509 et Rezo Nòdwès, de nouveaux décrets publiés au journal officiel Le Moniteur le 21 août 2026 créent l'Autorité nationale des jeux de hasard et d'argent (ANJHA), chargée de réguler, contrôler et superviser casinos, paris, banques de borlette et jeux assimilés. Le ministère de l'Économie et des Finances (MEF) a porté ces textes à la connaissance du public par un avis daté du 5 octobre 2026, aujourd'hui largement relayé.\n\nDans cet avis, repris aussi par Le Nouvelliste (lede accessible ; suite derrière paywall) et Lakay Info 509, le MEF place la réforme dans la lutte contre le blanchiment de capitaux, les circuits financiers illicites et le financement du terrorisme. Il rappelle que la Direction générale des impôts (DGI) est la seule administration habilitée à percevoir droits, taxes et redevances dus par les opérateurs, contre quittance. Le MEF demande de ne rien payer hors des circuits officiels de la DGI.\n\nSelon NAGO / Rezo Nòdwès, l'avis ne dit rien sur la composition de l'ANJHA, la date de démarrage ni le détail des sanctions. Le ministère promet d'informer au fur et à mesure. Des synthèses (LEH, Bucofisc) indiquent un conseil d'administration de cinq membres sous tutelle du MEF ; Opak News n'a pas relu le PDF du Moniteur dans cette passe.\n\nQuestions aux lecteurs :\n\n• Qui contrôlait vraiment les caisses de borlette avant ces décrets ?\n\n• Sans date de démarrage ni composition publiée, l'ANJHA change quoi dès demain ?",
+      ht: "Ministè Ekonomi ak Finans te anonse kreyasyon Otorite nasyonal jwèt aza ak lajan (ANJHA) nan yon avi ki gen dat 5 oktòb, Yogonet raple 10 novanm. Otorite a dwe regle, kontwole epi sipèvize aktivite jwèt nan tout peyi a, tankou kazino, paryaj ak bank bòlèt.\n\nDapre Yogonet, refòm nan chita sou twa dekrè ki te pibliye nan jounal ofisyèl Le Moniteur 21 out: youn kreye ANJHA, yon lòt fikse règ eksplwatasyon, yon twazyèm mete kanpe yon rejim fiskal pou sektè a. Medya a ajoute tèks sa yo pale pami lòt sou lisans, egzijans eksplwatasyon, pwoteksyon jwè ak minè, batay kont blanchiman ak sanksyon si gen mankman. ANJHA dwe gen syèj li nan Pòtoprens, ak posibilite louvri biwo lòt kote, epi fè lis operatè yo otorize yo.\n\nYogonet di tou te gen pwojè tèks yo te prezante nan Konsèy minis 11 out, anvan dekrè yo pibliye. Nan avi MEF la, operatè yo dwe peye lisans, taks ak lòt peman sèlman bay Direksyon jeneral enpo (DGI), sèl administrasyon ki gen dwa ankasè yo, kont resi.\n\nPwen sa a mete ajou yon dosye ki deja pibliye. Rapò 10 novanm nan pa bay konpozisyon ANJHA ni yon dat li kòmanse fonksyone.",
+      fr: "Le ministère de l'Économie et des Finances a annoncé la création de l'Autorité nationale des jeux de hasard et d'argent (ANJHA) dans un avis daté du 5 octobre, rappelle Yogonet le 10 novembre. L'autorité doit réguler, contrôler et superviser les activités de jeux à l'échelle nationale, y compris les casinos, les paris et les banques de borlette.\n\nSelon Yogonet, la réforme repose sur trois décrets publiés au journal officiel Le Moniteur le 21 août : l'un crée l'ANJHA, un autre fixe des règles d'exploitation, un troisième instaure un régime fiscal propre au secteur. Le média ajoute que ces textes portent notamment sur les licences, les exigences d'exploitation, la protection des joueurs et des mineurs, la lutte contre le blanchiment et des sanctions en cas de manquement. L'ANJHA doit avoir son siège à Port-au-Prince, avec la possibilité d'ouvrir des bureaux ailleurs, et dresser la liste des opérateurs autorisés.\n\nYogonet indique aussi que des projets de textes avaient été présentés en Conseil des ministres le 11 août, avant la publication des décrets. Dans l'avis du MEF, les opérateurs doivent verser licences, taxes et autres paiements uniquement à la Direction générale des impôts (DGI), seule administration habilitée à les encaisser, contre quittance.\n\nCe point actualise un dossier déjà publié. Le reportage du 10 novembre ne donne pas la composition de l'ANJHA ni une date de mise en service.",
     },
-    sources: ["NAGO", "Le Nouvelliste", "Lakay Info 509"],
+    sources: ["Yogonet"],
     sourceLinks: [
-      { name: "NAGO", url: "https://nago.tv/en/news/haiti-cree-une-autorite-chargee-des-casinos-des-paris-et-des-banques-d" },
-      { name: "Le Nouvelliste (lede ; paywall)", url: "https://lenouvelliste.com/article/273617/lutte-contre-le-blanchiment-et-le-financement-du-terrorisme-letat-prend-de-nouvelles-dispositions-dans-les-jeux-de-hasard-et-dargent/" },
-      { name: "Lakay Info 509", url: "https://lakayinfo509.com/jeux-de-hasard-et-dargent-le-mef-rappelle-que-seule-la-dgi-est-habilitee-a-percevoir-les-taxes-et-redevances/" },
+      { name: "Yogonet", url: "https://www.yogonet.com/international/news/2026/11/10/127229-haiti-establishes-national-gambling-regulator-anjha" },
     ],
   },
   {
@@ -765,35 +1235,33 @@ export const STORIES: Story[] = [
       { name: "Miami Herald", url: "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article317899359.html" },
     ],
   },
-  {
+    {
     id: "qh-d1-paryaj-lakay-2026-11-03",
     tier: "quick-hit",
     topic: "sports",
-    publishedAt: "2026-11-03",
-    publishedTime: "2026-11-05T13:35:11-05:00",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:50:20-05:00",
     isFollowUp: true,
     headline: {
-      ht: "Chanpyona D1 : J-3 anvan kòmansman dimanch 8 novanm",
-      fr: "Championnat de D1 : J-3 avant le coup d'envoi dimanche 8 novembre",
+      ht: "D1 : rezilta 1re jounen an, Violette-Juventus ranvwaye poutèt lapli",
+      fr: "D1 : résultats de la 1re journée, Violette-Juventus reporté pour pluie",
     },
     teaser: {
-      ht: "Sis match, de gwoup, dimanch 8 novanm. Orè ak teren yo dapre kalandriye LHF la, jan HaitiLibre pibliye l. Orè yo ka toujou chanje.",
-      fr: "Six matchs, deux groupes, dimanche 8 novembre. Horaires et stades selon le calendrier de la LHF repris par HaitiLibre. Les horaires peuvent encore changer.",
+      ht: "Racing FC 2-1 Réal Hope; FICA genyen 0-1 lakay Tempête; RCH ak Don Bosco 2-2.",
+      fr: "Racing FC 2-1 Réal Hope ; FICA gagne 0-1 chez Tempête ; RCH et Don Bosco 2-2.",
     },
     brief: {
-      ht: "Mizajou 5 novanm. Dapre HaitiLibre, premye jounen Seri ouvèti chanpyona D1 2026-2027 prevwa dimanch 8 novanm, ak sis match nan de gwoup.",
-      fr: "Mise à jour du 5 novembre. Selon HaitiLibre, la première journée de la Série d'ouverture du championnat de D1 2026-2027 est prévue dimanche 8 novembre, avec six rencontres en deux groupes.",
+      ht: "Pont Info ak HaitiTempo pibliye skò dimanch 8 novanm pou premye jounen chanpyona nasyonal D1 an.",
+      fr: "Pont Info et HaitiTempo publient les scores du dimanche 8 novembre pour la première journée du championnat national de D1.",
     },
     body: {
-      ht: "Mizajou 5 novanm. Dapre HaitiLibre, gen twa jou ki rete anvan kòmansman Seri ouvèti chanpyona nasyonal D1 a, sezon 2026-2027. Se Lig ayisyen foutbòl (LHF) ki òganize l. Premye jounen an prevwa dimanch 8 novanm.\n\nMen afich kalandriye a, jan HaitiLibre pibliye l.\n\nGwoup A (Grand Nò) :\n\n• Racing FC kont Réal Hope FA, 3:30 PM, Pak Vincent (Gonayiv)\n\n• FICA kont Ouanaminthe FC, 2:00 PM, Pak St-Victor (Okap)\n\n• AS Capoise kont Tempête FC, 4:00 PM, Pak St-Victor (Okap)\n\nGwoup B (Grand Sid) :\n\n• Racing Club Haïtien kont Cavaly AS, 2:00 PM, Pak Sainte-Thérèse (Petyonvil)\n\n• Don Bosco FC kont Violette AC, 4:00 PM, Pak Sainte-Thérèse (Petyonvil)\n\n• América des Cayes kont Juventus des Cayes, 4:00 PM, Land des Gabions (Okay)\n\nHaitiLibre presize Direksyon konpetisyon LHF la ka toujou ajiste orè yo selon sekirite a, ak lè gen de match nan menm kote menm jou a. Gen 12 klib angaje, 6 nan chak gwoup.\n\nDapre Le National, chak gwoup dwe jwe 10 jounen. Senk premye yo anonse soti 8 rive 29 novanm, senk dènye yo soti 6 rive 27 desanm, anvan ka final, demi final ak final la. Juno7 te nonmen 12 klib yo : Violette AC, FICA, Tempête FC, Racing FC, América des Cayes, Juventus des Cayes, Don Bosco FC, Racing Club Haïtien, Ouanaminthe FC, AS Capoise, Réal Hope FA ak Cavaly AS. Kalandriye 5 novanm nan mete klib sa yo nan de gwoup ki anwo yo.\n\nKesyon pou lektè yo :\n\n• Sou ki teren chanpyona D1 ka vreman jwe an sekirite dimanch ?\n\n• Èske dèbi Okay la, América kont Juventus, ap bay ton sezon an ?",
-      fr: "Mise à jour du 5 novembre. Selon HaitiLibre, il reste trois jours avant le coup d'envoi de la Série d'ouverture du championnat national de D1, saison 2026-2027, organisé par la Ligue haïtienne de football (LHF). La première journée est prévue dimanche 8 novembre.\n\nSelon le calendrier que HaitiLibre reprend, voici les affiches annoncées.\n\nGroupe A (Grand Nord) :\n\n• Racing FC contre Réal Hope FA, 15 h 30, Parc Vincent (Gonaïves)\n\n• FICA contre Ouanaminthe FC, 14 h 00, Parc St-Victor (Cap-Haïtien)\n\n• AS Capoise contre Tempête FC, 16 h 00, Parc St-Victor (Cap-Haïtien)\n\nGroupe B (Grand Sud) :\n\n• Racing Club Haïtien contre Cavaly AS, 14 h 00, Parc Sainte-Thérèse (Pétion-Ville)\n\n• Don Bosco FC contre Violette AC, 16 h 00, Parc Sainte-Thérèse (Pétion-Ville)\n\n• América des Cayes contre Juventus des Cayes, 16 h 00, Land des Gabions (Cayes)\n\nHaitiLibre précise que la Direction des compétitions de la LHF peut encore ajuster les horaires selon la sécurité et les doubles programmes le même jour. Douze clubs sont engagés, six par groupe.\n\nSelon Le National, chaque groupe doit disputer 10 journées. Les cinq premières sont annoncées du 8 au 29 novembre, les cinq dernières du 6 au 27 décembre, avant les quarts de finale, les demi-finales et la finale. Juno7 avait nommé les 12 clubs : Violette AC, FICA, Tempête FC, Racing FC, América des Cayes, Juventus des Cayes, Don Bosco FC, Racing Club Haïtien, Ouanaminthe FC, AS Capoise, Réal Hope FA et Cavaly AS. Le calendrier du 5 novembre place ces clubs dans les deux groupes ci-dessus.\n\nQuestions aux lecteurs :\n\n• Sur quels terrains le championnat de D1 peut-il se jouer en sécurité dimanche ?\n\n• Le derby des Cayes, América contre Juventus, va-t-il donner le ton de la saison ?",
+      ht: "Men rezilta premye jounen chanpyona nasyonal D1 yo rapòte pou dimanch 8 novanm, dapre Pont Info ak HaitiTempo.\n\n• Racing FC (Gonayiv) 2-1 Réal Hope FA\n• Tempête FC 0-1 FICA\n• AS Capoise 0-0 Ouanaminthe FC\n• Racing Club Haïtien 2-2 Don Bosco FC\n• Cavaly AS 0-0 América des Cayes\n• Violette AC - Juventus des Cayes : ranvwaye poutèt lapli, dapre HaitiTempo\n\nHaitiTempo di Taylor Fils-Aimé make premye gòl sezon an pou FICA a 18e minit, sou teren Tempête. Pont Info di gen 8 gòl an total nan jounen an, san match ki ranvwaye a.",
+      fr: "Voici les résultats de la première journée du championnat national de D1 rapportés pour le dimanche 8 novembre, d'après Pont Info et HaitiTempo.\n\n• Racing FC (Gonaïves) 2-1 Réal Hope FA\n• Tempête FC 0-1 FICA\n• AS Capoise 0-0 Ouanaminthe FC\n• Racing Club Haïtien 2-2 Don Bosco FC\n• Cavaly AS 0-0 América des Cayes\n• Violette AC - Juventus des Cayes : reporté pour cause de pluie, selon HaitiTempo\n\nHaitiTempo indique que Taylor Fils-Aimé a inscrit le premier but de la saison pour le FICA à la 18e minute, sur le terrain de Tempête. Pont Info relève 8 buts au total sur la journée, hors match reporté.",
     },
-    sources: ["HaitiLibre", "Le National", "Juno7"],
+    sources: ["Pont Info", "HaitiTempo"],
     sourceLinks: [
-      { name: "HaitiLibre (calendrier)", url: "https://www.haitilibre.com/article-48807-haiti-football-j-4-du-debut-du-championnatd1-de-la-lhf-calendrier-equipes.html" },
-      { name: "HaitiLibre (zapping)", url: "https://www.haitilibre.com/article-48829-haiti-flash-zapping.html" },
-      { name: "Le National", url: "https://www.lenational.org/article/sport/3127/les-grandes-dates-a-retenir-pour-la-serie-douverture" },
-      { name: "Juno7", url: "https://www.juno7.ht/championnat-haitien-d1-8-novembre-2026/" },
+      { name: "Pont Info", url: "https://www.pontinfo.com/post/d1-paryaj-lakay-une-premi%C3%A8re-journ%C3%A9e-r%C3%A9ussie-pour-la-ligue-ha%C3%AFtienne-de-football" },
+      { name: "HaitiTempo", url: "https://haititempo.com/foot-d1-taylor-fils-aime-marque-le-premier-but-de-la-saison/" },
     ],
   },
   {
@@ -855,6 +1323,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-rhajac-martelly-una-haiti-2026-11-02",
+    archived: true,
     tier: "need-to-know",
     topic: "politics",
     publishedAt: "2026-11-02",
@@ -891,6 +1360,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-jacmel-nettoyage-vehicules-2026-11-02",
+    archived: true,
     tier: "need-to-know",
     topic: "society",
     publishedAt: "2026-11-02",
@@ -920,6 +1390,7 @@ export const STORIES: Story[] = [
 
   {
     id: "ntk-offensive-plaine-cul-de-sac-2026-11-02",
+    archived: true,
     isFollowUp: true,
     tier: "need-to-know",
     topic: "security",
@@ -953,6 +1424,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-bainet-dinepa-eau-potable-2026-11-02",
+    archived: true,
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-11-02",
@@ -980,6 +1452,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-abinader-gangs-frontiere-2026-11-02",
+    archived: true,
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-11-02",
@@ -1007,6 +1480,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-ava-lee-taekwondo-or-floride-2026-11-02",
+    archived: true,
     tier: "quick-hit",
     topic: "sports",
     publishedAt: "2026-11-02",
@@ -1036,6 +1510,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-brh-transferts-tps-choc-2026-11-02",
+    archived: true,
     tier: "need-to-know",
     topic: "commerce",
     publishedAt: "2026-11-02",
@@ -1064,6 +1539,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-gonaives-saint-charles-feries-2026-11-02",
+    archived: true,
     tier: "need-to-know",
     topic: "society",
     publishedAt: "2026-11-02",
@@ -1091,6 +1567,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-detention-silence-cspj-opc-2026-11-02",
+    archived: true,
     pinned: true,
     isFollowUp: true,
     isUrgent: true,
@@ -1133,6 +1610,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-ennery-250-ans-2026-11-02",
+    archived: true,
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-11-02",
@@ -1160,6 +1638,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-meteo-pluies-2026-11-02",
+    archived: true,
     tier: "need-to-know",
     topic: "society",
     publishedAt: "2026-11-02",
@@ -1189,6 +1668,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-medcenter-canape-vert-solaire-2026-11-02",
+    archived: true,
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-11-02",
@@ -1216,6 +1696,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-impunite-journalistes-2026-11-02",
+    archived: true,
     tier: "need-to-know",
     topic: "justice",
     publishedAt: "2026-11-02",
@@ -1247,6 +1728,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-nevada-pierre-roc-nation-2026-11-02",
+    archived: true,
     tier: "quick-hit",
     topic: "sports",
     publishedAt: "2026-11-02",
@@ -1275,6 +1757,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-springfield-marche-ice-2026-11-01",
+    archived: true,
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-11-01",
@@ -1304,6 +1787,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-iia-code-fiscal-formation-2026-11-01",
+    archived: true,
     tier: "quick-hit",
     topic: "commerce",
     publishedAt: "2026-11-01",
@@ -1331,6 +1815,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-spnh17-policiers-gardes-du-corps-2026-11-01",
+    archived: true,
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-11-01",
@@ -1358,40 +1843,38 @@ export const STORIES: Story[] = [
       { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/plus-de-60-de-leffectif-de-la-pnh-transforme-bodyguard-des-officiels-denonce-le-spnh-17/" },
     ],
   },
-  {
+    {
     id: "qh-grenadiers-usa-ligue-nations-2026-11-01",
     tier: "quick-hit",
     topic: "sports",
-    publishedAt: "2026-11-01",
-    publishedTime: "2026-11-02T20:30:00-05:00",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:51:40-05:00",
+    isFollowUp: true,
     headline: {
-      ht: "Grenadye yo : Concacaf konfime match aller kont Etazini nan Miami 14 novanm, retou a nan Cincinnati 17 novanm",
-      fr: "Grenadiers : la Concacaf confirme le match aller contre les États-Unis à Miami le 14 novembre, le retour à Cincinnati le 17",
+      ht: "Lig nasyon yo : Ayiti-Etazini, ale samdi 14 novanm nan Miami, retou 17 nan Cincinnati",
+      fr: "Ligue des nations : Haïti-États-Unis, aller samedi 14 novembre à Miami, retour le 17 à Cincinnati",
     },
     teaser: {
-      ht: "Dapre Inside World Football, Konsèy Concacaf la aksepte demann FHF pou jwe match lakay li nan peyi advèsè a, toutotan sekirite pa estab ann Ayiti.",
-      fr: "Selon Inside World Football, le Conseil de la Concacaf a accepté la demande de la FHF de jouer son match à domicile chez l'adversaire, tant que la sécurité reste instable en Haïti.",
+      ht: "Kòmansman premye manch la a 16:30, nan Nu Stadium, dapre MLS ak kalandriye ki deja konnen an.",
+      fr: "Coup d'envoi de la première manche à 16 h 30, au Nu Stadium, selon MLS et le calendrier déjà connu.",
     },
     brief: {
-      ht: "Mizajou 2 novanm, 20 h 30 : Dapre Inside World Football, Ayiti-Etazini ap jwe 14 novanm nan Nu Stadium Miami a 16 h 30, e retou a 17 novanm nan TQL Stadium Cincinnati a 19 h. Menm règ la ap aplike pou klib ayisyen yo. Mizajou 2 novanm : Dapre Gazette Haïti, LHF anonse D1 a rekòmanse 8 novanm ak 12 klib ; Baltimore SC pa sou lis la. Concacaf otorize Ayiti jwe match « lakay » li kont Etazini nan Miami 14 novanm a 4:30 PM ; retou a 17 novanm a 7:00 PM nan TQL Stadium Cincinnati. Gayan an kalifye pou Gold Cup 2027.",
-      fr: "Mise à jour du 2 novembre, 20 h 30 : Selon Inside World Football, Haïti-États-Unis se jouera le 14 novembre au Nu Stadium de Miami à 16 h 30, et le retour le 17 novembre au TQL Stadium de Cincinnati à 19 h. La même dérogation s'appliquera aux clubs haïtiens. Mise à jour du 2 novembre : Selon Gazette Haïti, la LHF annonce la reprise de la D1 le 8 novembre avec 12 clubs ; le Baltimore SC n’est pas sur la liste. La Concacaf a autorisé Haïti à jouer son match « à domicile » contre les États-Unis à Miami le 14 novembre à 16 h 30 ; retour le 17 novembre à 19 h au TQL Stadium de Cincinnati. Le vainqueur est qualifié pour la Gold Cup 2027.",
+      ht: "MLS konfime ka final ale Lig nasyon Concacaf samdi 14 novanm a 16:30, lè Lès, nan Nu Stadium Miami, epi retou 17 novanm nan TQL Stadium Cincinnati. 14 novanm 2026 se yon samdi.",
+      fr: "MLS confirme le quart de finale aller de la Ligue des nations Concacaf le samedi 14 novembre à 16 h 30, heure de l'Est, au Nu Stadium de Miami, et le retour le 17 novembre au TQL Stadium de Cincinnati. Le 14 novembre 2026 tombe un samedi.",
     },
     body: {
-      ht: "Mizajou 2 novanm, 20 h 30 : Dapre Inside World Football, Federasyon ayisyen foutbòl (FHF) te mande Concacaf pou l jwe match lakay li nan peyi advèsè a, olye pou l rete limite nan rejyon Karayib la jan règleman an di. Konsèy Concacaf la aksepte. Desizyon an ap rete toutotan sekirite pa estab ann Ayiti, e li ap aplike tou pou klib ayisyen nan konpetisyon klib Concacaf yo.\n\nMatch aller Ayiti-Etazini a pase de Sabina Park, Kingston (Jamayik), pou Nu Stadium, Miami (Florid), samdi 14 novanm a 16 h 30. Retou a ap jwe madi 17 novanm nan TQL Stadium, Cincinnati (Ohio), a 19 h.\n\nKesyon pou lektè yo : • Èske diaspora a ap ranpli Nu Stadium ? • Konbyen tan klib ayisyen yo pral jwe lwen lakay ?\n\nMizajou 2 novanm : Dapre Gazette Haïti, Lig ayisyen foutbòl (LHF) anonse sou Facebook dezyèm edisyon D1 a ap rekòmanse 8 novanm 2026 ak 12 klib nan de zòn, Nò ak Sid : Violette AC, FICA, Tempête FC, Racing FC Gonayiv, America des Cayes, FC Juventus des Cayes, Don Bosco FC, Racing Club Haïtien, Ouanaminthe FC, AS Capoise, Real Hope FA ak Cavaly AS. Baltimore SC Sen Mak pa sou lis la, san eksplikasyon. Violette, ki te genyen de seri sezon pase a, se chanpyon an. Kalandriye ofisyèl la poko pibliye.\n\nPou Lig Nasyon Concacaf la, dapre InfoHaïti, Concacaf otorize Ayiti jwe match aliye l kont Etazini 14 novanm nan NU Stadium Miami, a 4 h 30 PM (lè lokal), e match retou a rete 17 novanm Cincinnati, Ohio.\n\nKesyon pou lektè yo : • Poukisa Baltimore pa la ? • Kilè Grenadye yo ap jwe lakay yo ankò ? • Ki teren D1 a ap jwe san danje ?\n\nAnvan sa : Dapre Le National, Grenadye yo ap jwe match ale kar final Ligue Nasyon Concacaf la kont Etazini samdi 14 novanm 2026 nan NU Stadium Miami, Florid, a 4:30 PM lè lokal. Match la te dabò pwograme nan Sabina Park, Kingston, Jamayik ; Concacaf di Konsèy li apwouve yon aranjman eksepsyonèl pou Federasyon Ayisyen Foutbòl (FHF) akoz sitiyasyon sekirite ann Ayiti. Le National di desizyon sa a ta dwe pèmèt yon gwo mobilizasyon sipòtè ayisyen nan Florid.\n\nDapre Concacaf, match retou a rete fikse madi 17 novanm a 7:00 PM nan TQL Stadium Cincinnati, Ohio. Kat gayan kar final yo kalifye pou Gold Cup 2027 ak final Ligue Nasyon an ; kat pèdan yo ale nan pre-eliminatwa Gold Cup la.\n\nKesyon pou lektè yo : • De match sou tè ameriken : èske Grenadye yo ap vrèman gen avantaj « lakay » ? • Miami ap plen ak drapo ble ak wouj ? • Kilè Ayiti ap ka resevwa yon gwo match lakay li ankò ?",
-      fr: "Mise à jour du 2 novembre, 20 h 30 : Selon Inside World Football, la Fédération haïtienne de football (FHF) avait demandé à la Concacaf de pouvoir jouer son match à domicile sur le territoire de son adversaire, au lieu d'être limitée à la région Caraïbe comme le prévoit le règlement. Le Conseil de la Concacaf a accepté. Cette dérogation restera en place tant que la sécurité restera instable en Haïti, et s'appliquera aussi aux clubs haïtiens dans les compétitions de clubs de la Concacaf.\n\nLe match aller Haïti-États-Unis passe de Sabina Park, à Kingston (Jamaïque), au Nu Stadium de Miami (Floride), le samedi 14 novembre à 16 h 30. Le retour se jouera le mardi 17 novembre au TQL Stadium de Cincinnati (Ohio), à 19 h.\n\nQuestions aux lecteurs : • La diaspora remplira-t-elle le Nu Stadium ? • Combien de temps les clubs haïtiens joueront-ils loin de chez eux ?\n\nMise à jour du 2 novembre : Selon Gazette Haïti, la Ligue haïtienne de football (LHF) a annoncé sur Facebook la reprise de la deuxième édition de la D1 le 8 novembre 2026, avec 12 clubs répartis en deux zones, Nord et Sud : Violette AC, FICA, Tempête FC, Racing FC des Gonaïves, America des Cayes, FC Juventus des Cayes, Don Bosco FC, Racing Club Haïtien, Ouanaminthe FC, AS Capoise, Real Hope FA et Cavaly AS. Le Baltimore SC de Saint-Marc ne figure pas sur la liste, sans explication. Violette, qui avait remporté les deux séries de la saison dernière, est le tenant du titre. Le calendrier officiel n’est pas encore publié.\n\nEn Ligue des nations de la Concacaf, selon InfoHaïti, la Concacaf a autorisé Haïti à disputer son match aller contre les États-Unis le 14 novembre au NU Stadium de Miami, à 16 h 30 (heure locale) ; le match retour reste fixé au 17 novembre à Cincinnati (Ohio).\n\nQuestions aux lecteurs : • Pourquoi le Baltimore SC est-il absent ? • Quand les Grenadiers rejoueront-ils à domicile ? • Sur quels terrains la D1 peut-elle se jouer en sécurité ?\n\nAuparavant : Selon Le National, les Grenadiers disputeront le match aller des quarts de finale de la Ligue des Nations de la Concacaf face aux États-Unis le samedi 14 novembre 2026 au NU Stadium de Miami, en Floride, à 16 h 30, heure locale. Initialement prévue au Sabina Park de Kingston, en Jamaïque, la rencontre a été délocalisée : la Concacaf indique que son Conseil a approuvé un arrangement exceptionnel pour la Fédération haïtienne de football (FHF) en raison de la situation sécuritaire en Haïti. Selon Le National, cette décision devrait favoriser une forte mobilisation des supporters haïtiens en Floride.\n\nSelon la Concacaf, le match retour reste fixé au mardi 17 novembre à 19 h au TQL Stadium de Cincinnati, dans l’Ohio. Les quatre vainqueurs des quarts de finale se qualifient pour la Gold Cup 2027 et le Final Four de la Ligue des Nations ; les quatre perdants passent par les préliminaires de la Gold Cup.\n\nQuestions aux lecteurs : • Deux matchs sur le sol américain : les Grenadiers auront-ils vraiment un avantage « à domicile » ? • Miami sera-t-il bleu et rouge ? • Quand Haïti pourra-t-elle de nouveau accueillir un grand match chez elle ?",
+      ht: "Grenadye yo pral jwe kont Etazini nan ka final Lig nasyon Concacaf, match ale samdi 14 novanm a 16:30, lè Lès, nan Nu Stadium Miami, MLS konfime. Match retou a fikse 17 novanm nan TQL Stadium Cincinnati. 14 novanm 2026 se yon samdi, se pa yon vandredi.\n\nMLS di premye manch la ap pase an angle sou TBS, TruTV ak HBO Max, epi an panyòl sou Universo ak Peacock. Gayan konfwontasyon de manch yo kalifye pou Final Four mas 2027 ak pou Gold Cup 2027, dapre sit la.\n\nDapre MLS, Ayiti ap jwe premye ka final Lig nasyon li. Ekip la gen David Badía Cequier kòm antrenè, li rive apre Sébastien Migné pati. Le National, nan yon atik 24 oktòb, te prevwa anpil sipòtè ayisyen nan Florid; se te yon previzyon, se pa yon konte tikè.",
+      fr: "Les Grenadiers affrontent les États-Unis en quarts de finale de la Ligue des nations Concacaf, match aller le samedi 14 novembre à 16 h 30, heure de l'Est, au Nu Stadium de Miami, confirme MLS. Le match retour est fixé au 17 novembre au TQL Stadium de Cincinnati. Le 14 novembre 2026 tombe un samedi, pas un vendredi.\n\nMLS indique que la première manche sera diffusée en anglais sur TBS, TruTV et HBO Max, et en espagnol sur Universo et Peacock. Le vainqueur de la confrontation en deux manches se qualifie pour le Final Four de mars 2027 et pour la Gold Cup 2027, selon le site.\n\nD'après MLS, Haïti dispute son premier quart de finale de Ligue des nations. L'équipe est dirigée par David Badía Cequier, arrivé après le départ de Sébastien Migné. Le National, dans un article du 24 octobre, anticipait une forte affluence de supporters haïtiens en Floride ; il s'agissait d'une prévision, pas d'un décompte de billets.",
     },
-    sources: ["Inside World Football", "Gazette Haïti", "InfoHaïti", "Le National", "Concacaf", "InfoHaïti"],
+    sources: ["MLS", "Le National"],
     sourceLinks: [
-      { name: "Inside World Football", url: "https://www.insideworldfootball.com/2026/11/02/concacaf-tidies-up-housekeeping-for-cnl-quarter-finals-granting-haiti-venue-move-and-sanctioning-guatemala/" },
-      { name: "Gazette Haïti (D1)", url: "https://gazettehaiti.com/index.php/node/14415" },
-      { name: "InfoHaïti (Haïti–USA)", url: "https://www.infohaiti.net/ligue-des-nations-de-la-concacaf-haiti-recevra-les-etats-unis-a-miami-le-match-retour-maintenu-a-cincinnati/" },
+      { name: "MLS", url: "https://www.mlssoccer.com/news/haiti-vs-usa-how-to-watch-stream-concacaf-nations-league-quarterfinal-leg-1" },
       { name: "Le National", url: "https://www.lenational.org/article/sport/3104/ligue-des-nations-une-forte-affluence-attendue-pour-les-grenadiers-a-miami-le-14-novembre" },
-      { name: "Concacaf", url: "https://www.concacaf.com/competitions/nations-league/news/concacaf-council-approves-exceptional-hosting-arrangement-for-the-haitian-football-federation" },
-      { name: "InfoHaïti", url: "https://www.infohaiti.net/ligue-des-nations-de-la-concacaf-haiti-recevra-les-etats-unis-a-miami-le-match-retour-maintenu-a-cincinnati/" },
     ],
   },
   {
     id: "qh-fet-gede-cimetieres-gangs-2026-11-01",
+    archived: true,
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-11-01",
@@ -1423,6 +1906,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-cinq-forces-sans-commandement-2026-11-01",
+    archived: true,
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-11-01",
@@ -1451,37 +1935,42 @@ export const STORIES: Story[] = [
       { name: "Opak News : soldats salvadoriens en Haïti", url: "https://opak-news.haitialways.workers.dev/story/ntk-salvador-2000-soldats-2026-10-29" },
     ],
   },
-  {
+    {
     id: "ntk-cep-inscriptions-preliminaires-2026-11-01",
     tier: "need-to-know",
     topic: "politics",
-    publishedAt: "2026-11-08",
-    publishedTime: "2026-11-08T08:25:51-05:00",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:50:00-05:00",
     isFollowUp: true,
     headline: {
-      ht: "Eleksyon : manm pati yo gen jouk dimanch sa a a minui; 23 enskripsyon pou prezidans sou entènèt",
-      fr: "Élections : les adhérents politiques ont jusqu'à ce dimanche à minuit ; 23 inscriptions présidentielles en ligne",
+      ht: "Prezidans : 23 non ki enskri nan tablo CEP a, san validasyon definitif",
+      fr: "Présidentielle : les 23 noms inscrits au tableau du CEP, sans validation définitive",
     },
     teaser: {
-      ht: "Delè manm pati yo fini 8 novanm sa a. 23 enskripsyon pou prezidans yo pa kandidati ki valide.",
-      fr: "Délai des adhérents ce 8 novembre. Les 23 inscriptions présidentielles ne sont pas des candidatures validées.",
+      ht: "Nou verifye non ak estrikti yo nan tablo piblik CEP a; delè manm pati yo fini dimanch sa a a minui.",
+      fr: "Les noms et structures ont été vérifiés dans la table publique du CEP ; le délai des adhérents expire ce dimanche à minuit.",
     },
     brief: {
-      ht: "Dapre Gazette Haïti, CEP fèmen enskripsyon manm ak senpatizan yo dimanch 8 novanm a minui. Tablo li a, 8 novanm a 8:17 nan maten, montre 23 enskripsyon pou prezidans, ki toujou preliminè. Enskripsyon pou prezidans ak lejislatif yo kontinye jouk 15 novanm.",
-      fr: "Le CEP clôt l'enregistrement des adhérents et sympathisants dimanche 8 novembre à minuit, selon Gazette Haïti. Son tableau du 8 novembre à 8 h 17 affiche 23 inscriptions présidentielles, toujours préliminaires. Les dossiers présidentiels et législatifs peuvent être enregistrés jusqu'au 15 novembre.",
+      ht: "Tablo ofisyèl la toujou montre 23 enskripsyon pou prezidans 8 novanm sa a. Opak News verifye 23 non yo nan zouti rechèch piblik li a. Yon enskripsyon pa yon kandidati ki apwouve.",
+      fr: "Le tableau officiel affiche toujours 23 inscriptions présidentielles ce 8 novembre. Opak News a vérifié les 23 noms dans son outil public de recherche. Une inscription n'est pas une candidature agréée.",
     },
     body: {
-      ht: "Gen de delè diferan pou nou pa melanje. Enskripsyon manm ak senpatizan pati, gwoupman politik ak kandida endepandan yo fini dimanch 8 novanm 2026 sa a a minui, lè Ayiti. Gazette Haïti rapòte anons Konsèy elektoral pwovizwa a te fè samdi.\n\nEnskripsyon sou entènèt pou prezidans, Sena ak depite rete ouvè jouk 15 novanm. Tablo ofisyèl CEP a bay 30 novanm pou majistra, CASEC ak ASEC. Delè dimanch sa a pa vle di tout enskripsyon dosye kandidati yo ap fèmen.\n\nNan relevé ofisyèl 8 novanm a 8:17 nan maten, lè Ayiti, tablo a montre 23 enskripsyon pou prezidans, 407 pou Sena ak 1444 pou depite. Pa gen fanm nan enskripsyon prezidansyèl yo; fanm reprezante 13,3 % enskripsyon pou Sena ak 6,9 % pou depite, kont 30,6 % pou tout pòs yo ansanm. Chif sa yo ap chanje e yo estrikteman preliminè. CEP di lis ofisyèl la ap soti sèlman apre verifikasyon ak validasyon dosye yo.\n\nDènye relevé nou te pibliye a, 5 novanm a 1:17 nan aprèmidi, te gen 21 dosye prezidansyèl ak 8753 dosye pou tout pòs yo ansanm. Li te site apa 914138 elektè enskri, dapre PamElection ki reprann estatistik CEP. Dènye chif sa a se yon repè ki date 5 novanm, se pa yon nouvo total nou verifye jodi a. Elektè, manm pati politik ak dosye kandidati se twa kategori diferan.\n\nDapre Gazette Haïti, 88 pati ak 17 gwoupman politik anrejistre; 46 fòmasyon rive nan papòt 30000 manm nan. Se chif jounal la atribye ak CEP, ki diferan ak tablo ofisyèl dosye nou konsilte maten an.\n\nKesyon pou lektè yo : èske administratè fòmasyon politik yo te rive fini operasyon yo anvan fèmti a ? Poukisa gen si tèlman piti fanm nan enskripsyon pou prezidans ak lejislatif yo ?",
-      fr: "Deux échéances différentes à ne pas confondre. L'enregistrement des adhérents et sympathisants des partis, groupements politiques et candidats indépendants prend fin ce dimanche 8 novembre 2026 à minuit, heure d'Haïti. Gazette Haïti rapporte l'annonce faite samedi par le Conseil électoral provisoire (CEP).\n\nLes inscriptions en ligne pour la présidence, le Sénat et la députation restent ouvertes jusqu'au 15 novembre. Le tableau officiel du CEP indique le 30 novembre pour les mairies, les CASEC et les ASEC. La clôture de ce dimanche ne concerne donc pas l'ensemble des dossiers de candidature.\n\nDans le relevé officiel du 8 novembre à 8 h 17, heure d'Haïti, le tableau affiche 23 inscriptions à la présidence, 407 au Sénat et 1444 à la députation. Aucune femme ne figure parmi les inscriptions présidentielles ; les femmes représentent 13,3 % des inscriptions au Sénat et 6,9 % à la députation, contre 30,6 % pour l'ensemble des postes. Ces chiffres sont dynamiques et strictement préliminaires. Le CEP précise que sa liste officielle ne sera publiée qu'après vérification et validation des dossiers.\n\nNotre précédent relevé, daté du 5 novembre à 13 h 17, comptait 21 dossiers présidentiels et 8753 dossiers tous postes confondus. Il citait séparément 914138 électeurs inscrits, selon le miroir PamElection des statistiques du CEP. Ce dernier chiffre est un repère daté du 5 novembre, pas un nouveau total vérifié aujourd'hui. Électeurs, adhérents politiques et dossiers de candidature sont trois catégories différentes.\n\nSelon Gazette Haïti, 88 partis et 17 groupements politiques sont enregistrés ; 46 formations ont atteint le seuil de 30000 membres. Ces données sont attribuées au CEP par le journal, distinctement du tableau officiel des dossiers consulté ce matin.\n\nQuestions aux lecteurs : les administrateurs des formations politiques ont-ils pu terminer les opérations avant la fermeture ? Comment expliquer la si faible présence des femmes parmi les inscriptions présidentielles et législatives ?",
+      ht: "CEP montre 23 enskripsyon pou prezidans nan tablo piblik li a 8 novanm, ak yon mizajou a 1:32 nan aprèmidi, lè Ayiti. Opak News konsilte tou twa paj rechèch ofisyèl la ki filtre sou pòs prezidan an : yo gen 23 non ki anba yo.\n\nNou reprann òtograf tablo ofisyèl la pou non yo, ak sig estrikti yo deklare a. Lis la klase dapre non fanmi, li pa yon klasman politik :\n\n• DANIEST ADRIEN (PRC)\n• LUCIEN OLIVIER BARRAU (MTH)\n• GARY BODEAU (P.R)\n• DEUS DERONNETH (DVNH)\n• GANDHY DORFEUILLE (ANF)\n• MARC ARTHUR DROUILLARD (MRN)\n• MOISE DUROCHER (SOL AYITI)\n• JUDE ELIE (PUR)\n• ETZER S. EMILE (SOLEY)\n• JOANAS GUE (KAPAB)\n• RICARDO JEAN-PIERRE (PANAH)\n• WILSON JEUDY (VAR)\n• CLAUDE JOSEPH (EDE)\n• MAXO JOSEPH (RCH)\n• WILNER JOSEPH (VIKTWA)\n• JOSEPH MICHEL MARTELLY (DEBLOKE)\n• MUNIR JOSEPH MOURRA (MPH)\n• JEAN ERNEST MUSCADIN (FCN)\n• JOCELERME PRIVERT (AYITI TRANSFOME)\n• JEAN-MARIE JUNIOR SALOMON (OPL)\n• WALSONN SANON (ANFOS POU SOVE LONE)\n• RENÉ ST FORT (PRN)\n• PHILIPPE GERARD JERRY TARDIEU (EAPH)\n\nCEP presize done sa yo ap chanje e yo estrikteman preliminè. Yon non ki parèt pa prèv yo aksepte tout pyès yo mande yo, ni moun nan ap sou bilten vòt la. Lis ofisyèl la ap soti apre verifikasyon ak validasyon dosye yo.\n\nGen de delè diferan : enskripsyon manm ak senpatizan estrikti politik ak kandida endepandan yo fini dimanch 8 novanm sa a a minui, lè Ayiti, dapre rapèl CEP HaitiLibre reprann nan. Enskripsyon pou prezidans, Sena ak depite kontinye jouk 15 novanm; sa pou majistra, CASEC ak ASEC jouk 30 novanm, dapre tablo ofisyèl la.\n\nRelevé 1:32 nan aprèmidi a montre tou 406 enskripsyon pou Sena ak 1445 pou depite. Chif yo ka chanje, menm bese; relevé sa a pa esplike chak koreksyon. Pa gen fanm nan 23 enskripsyon prezidansyèl yo. Total 914138 elektè nou te site nan suivi anvan an rete yon relevé 5 novanm, se pa yon chif nou mete ajou jodi a. Elektè, manm pati politik ak enskripsyon kandida se kategori diferan.\n\nKesyon pou lektè yo : èske CEP ap pibliye desizyon sou chak dosye yon fason klè, ak rezon yo ak fason moun ka konteste yo ?",
+      fr: "Le CEP affiche 23 inscriptions présidentielles dans son tableau public du 8 novembre, actualisé à 13 h 32, heure d'Haïti. Opak News a également consulté les trois pages de la recherche nominative officielle filtrée sur le poste de président : elles contiennent les 23 noms ci-dessous.\n\nLes noms sont reproduits avec l'orthographe du tableau officiel, suivis du sigle de la structure déclarée. La liste est classée par nom de famille, sans classement politique :\n\n• DANIEST ADRIEN (PRC)\n• LUCIEN OLIVIER BARRAU (MTH)\n• GARY BODEAU (P.R)\n• DEUS DERONNETH (DVNH)\n• GANDHY DORFEUILLE (ANF)\n• MARC ARTHUR DROUILLARD (MRN)\n• MOISE DUROCHER (SOL AYITI)\n• JUDE ELIE (PUR)\n• ETZER S. EMILE (SOLEY)\n• JOANAS GUE (KAPAB)\n• RICARDO JEAN-PIERRE (PANAH)\n• WILSON JEUDY (VAR)\n• CLAUDE JOSEPH (EDE)\n• MAXO JOSEPH (RCH)\n• WILNER JOSEPH (VIKTWA)\n• JOSEPH MICHEL MARTELLY (DEBLOKE)\n• MUNIR JOSEPH MOURRA (MPH)\n• JEAN ERNEST MUSCADIN (FCN)\n• JOCELERME PRIVERT (AYITI TRANSFOME)\n• JEAN-MARIE JUNIOR SALOMON (OPL)\n• WALSONN SANON (ANFOS POU SOVE LONE)\n• RENÉ ST FORT (PRN)\n• PHILIPPE GERARD JERRY TARDIEU (EAPH)\n\nLe CEP précise que ses données sont dynamiques et strictement préliminaires. L'apparition d'un nom ne prouve pas que toutes les pièces exigées ont été acceptées ni que la personne sera sur le bulletin. La liste officielle viendra après vérification et validation des dossiers.\n\nDeux échéances restent distinctes : l'enregistrement des adhérents et sympathisants des structures politiques et des candidats indépendants prend fin ce dimanche 8 novembre à minuit, heure d'Haïti, selon le rappel du CEP repris par HaitiLibre. Les inscriptions pour la présidence, le Sénat et la députation continuent jusqu'au 15 novembre ; celles des mairies, CASEC et ASEC jusqu'au 30 novembre, selon le tableau officiel.\n\nLe relevé de 13 h 32 affiche aussi 406 inscriptions au Sénat et 1445 à la députation. Les chiffres peuvent évoluer, y compris à la baisse ; ce relevé ne permet pas d'expliquer chaque correction. Aucune femme ne figure parmi les 23 inscriptions présidentielles. Le total de 914138 électeurs cité dans notre suivi précédent reste un relevé daté du 5 novembre, pas un chiffre actualisé aujourd'hui. Électeurs, adhérents politiques et inscriptions de candidats sont des catégories différentes.\n\nQuestion aux lecteurs : le CEP publiera-t-il clairement les décisions sur chaque dossier, avec leurs motifs et les voies de recours ?",
     },
-    sources: ["CEP — tableau officiel", "Gazette Haïti"],
+    sources: ["CEP — tableau officiel", "CEP — recherche nominative, page 1", "CEP — page 2", "CEP — page 3", "HaitiLibre", "Haiti OSINT"],
     sourceLinks: [
       { name: "CEP — tableau officiel", url: "https://tableau.cephaiti.ht/" },
-      { name: "Gazette Haïti", url: "https://gazettehaiti.com/node/14502" },
+      { name: "CEP — recherche nominative, page 1", url: "https://tableau.cephaiti.ht/api/tableau/candidats?poste=Pr%C3%A9sident&page=1" },
+      { name: "CEP — page 2", url: "https://tableau.cephaiti.ht/api/tableau/candidats?poste=Pr%C3%A9sident&page=2" },
+      { name: "CEP — page 3", url: "https://tableau.cephaiti.ht/api/tableau/candidats?poste=Pr%C3%A9sident&page=3" },
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48851-haiti-actualite-zapping.html" },
+      { name: "Haiti OSINT", url: "https://haitiosint.com/haiti-presidentielle-23-inscrits-cep-7-novembre-2026-liste/" },
     ],
   },
   {
     id: "qh-cuba-embargo-haiti-abstention-2026-10-31",
+    archived: true,
     tier: "quick-hit",
     topic: "gossip",
     publishedAt: "2026-10-31",
@@ -1506,6 +1995,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-mondial-u17-haiti-france-2026-10-31",
+    archived: true,
     tier: "quick-hit",
     topic: "sports",
     publishedAt: "2026-10-31",
@@ -1529,6 +2019,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-bukele-dement-bombardements-2026-10-31",
+    archived: true,
     tier: "quick-hit",
     topic: "security",
     publishedAt: "2026-10-31",
@@ -1554,6 +2045,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-american-airlines-cap-haitien-2026-10-31",
+    archived: true,
     tier: "need-to-know",
     topic: "commerce",
     publishedAt: "2026-10-31",
@@ -1585,6 +2077,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-eau-soldats-salvadoriens-2026-10-31",
+    archived: true,
     tier: "quick-hit",
     topic: "security",
     publishedAt: "2026-10-31",
@@ -1616,6 +2109,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "sos-pnh-promotion-dessalines-2026-10-31",
+    archived: true,
     tier: "quick-hit",
     topic: "society",
     quiet: true,
@@ -1641,6 +2135,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-u15-haiti-irak-baku-2026-10-31",
+    archived: true,
     tier: "quick-hit",
     topic: "sports",
     publishedAt: "2026-10-31",
@@ -1666,6 +2161,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-gossip-pacte-national-2027-2026-10-31",
+    archived: true,
     tier: "quick-hit",
     topic: "gossip",
     quiet: true,
@@ -1688,55 +2184,38 @@ export const STORIES: Story[] = [
       { name: "Réalité Info", url: "https://realiteinfo.com/haiti-les-signataires-du-pacte-national-reclament-des-elections-en-2027-et-rejettent-lidee-dune-autre-transition/" },
     ],
   },
-  {
+    {
     id: "ntk-bercy-galaxie-operation-2026-10-31",
     tier: "need-to-know",
     topic: "security",
-    publishedAt: "2026-10-31",
-    publishedTime: "2026-11-03T05:30:00-05:00",
+    publishedAt: "2026-11-10",
+    publishedTime: "2026-11-10T15:51:10-05:00",
+    isFollowUp: true,
     isUrgent: true,
     headline: {
-      ht: "Arcahaie : polis ak brigad repran Thomas ak Bercy, 22 fidèl Full Gospel libere",
-      fr: "Arcahaie : la police et les brigades reprennent Thomas et Bercy, 22 fidèles de Full Gospel libérés",
+      ht: "Akayè : majistra Wilner René pale de ijans imanitè, yon semèn apre atak yo",
+      fr: "Arcahaie : le maire Wilner René parle d'urgence humanitaire, une semaine après les attaques",
     },
     teaser: {
-      ht: "Dapre Image7, fidèl yo te kidnape depi 31 oktòb. Radio graphie pale de omwen 5 bandi mouri. Moun yo desann nan lari aswè a pou di \"Vive la Police\".",
-      fr: "Selon Image7, les fidèles étaient enlevés depuis le 31 octobre. Radio graphie évoque au moins 5 bandits tués. Le soir, des habitants ont crié « Vive la Police ».",
+      ht: "Lendi 9 novanm, li di Le Nouvelliste deplase yo poko jwenn èd otorite santral yo.",
+      fr: "Joint par Le Nouvelliste lundi 9 novembre, il dit que les déplacés n'ont toujours pas d'aide des autorités centrales.",
     },
     brief: {
-      ht: "Mizajou 3 novanm, 5 h 30 : Dapre Image7, polis ak brigadye yo repran zòn ant Thomas ak Bercy lendi 2 novanm e anviwon 22 fidèl Legliz Full Gospel libere. Mizajou 2 novanm, 20 h 30 : Dapre PouSiOuPaTKonnen, abitan Lakayè ki kouri kite kay yo boule mande PNH sipò nan lè. Dapre Radiographie, moun Kabarè kouri lendi maten apre yon elikoptè vole ba e tire. Mizajou 2 novanm, 18 h 30 : Dapre Le Reflet, majistra Wilner René di Bèsi deja anba kontwòl gang yo, e kay boule nan Lavila, Sou Rigòl, Vigner ak Tomand. Li mande gouvènman an ak PNH voye ranfò. Mizajou 2 novanm, maten : Dapre Décodage Info, yon nouvo ofansiv dimanch 1ye novanm fè omwen 7 mò, plizyè blese ak kay boule ; majistra René Wilner mande elikoptè ak dron. Dapre Rezo Nòdwès, avoka Pierre Sauvenel Sylvain di abitan yo ap kouri e lapolis rete nan blende yo. Mizajou 2 novanm : Dapre Rezo Nòdwès, yon bilan pwovizwa medya lokal relaye, ki site otorite komin, bay 43 mò, ki gen 13 sivil, ak 18 blese nan Vignier, Thoman ak Bèsi. PNH ak otorite nasyonal yo pa konfime ; PNH toujou di anviwon 20 manm gang mouri, ki gen « Galaxy ». Majistra Wilner René mande ranfò. Mizajou 1ye novanm, aswè : Nan yon nòt, PNH di operasyon 29 oktòb la te touye anviwon 20 manm gang, ki gen ladan chèf yo rele « Galaxy », e ke BOID ak CIMO repouse atak 31 oktòb la ; li di li kenbe pozisyon li Lakayè, dapre EFE (Listín Diario) ak Radiographie. PNH pa bay okenn bilan sivil. Mizajou 1ye novanm : Dapre Rezo Nòdwès, yon mobilizasyon « Bwa Kale » leve Lakayè samdi swa apre atak gang ki soti Kanaran ak Kabarè sou Vigner, Thoman, Sou Rigòl, Bési ak Bèsi ; sit la bay omwen dis mò, sivil ak manm brigad, yon bilan ki pa ofisyèl e ke Opak pa ka konfime. Dapre Image7, tire te kontinye dimanch 1ye novanm. Mizajou 31 oktòb, aprè midi : Dapre Le Patrimoine Info, atak samdi a kòmanse vè 2:45 AM, ak « anpil viktim » ; pa gen bilan ofisyèl. Dapre Le National, PNH, FAd’H ak Task Force ap mennen operasyon Bèsi, Gresye ak Kenscoff, tankou nan zòn « 103 Zonbi ». Mizajou 31 oktòb : Gwoup ame atake Vigner, Thoman ak Sou Rigòl bonè samdi maten, anpil moun kouri kite kay yo, dapre Vant Bèf Info. Gwo batay Bèsi, zam parèt Montwi. Majistra Wilner René mande Task Force antre. Pa gen bilan. Anvan : Jedi 29 oktòb, PNH ak Task Force la fè yon operasyon nan Bèsi. Plizyè moun yo prezante kòm bandi mouri, pami yo chèf gang Kabarè yo rele « Galaxie ». Pa gen bilan ofisyèl. Èske Akayè ap kenbe ?",
-      fr: "Mise à jour du 3 novembre, 5 h 30 : Selon Image7, la police et les brigadiers ont repris lundi 2 novembre la zone entre Thomas et Bercy, et environ 22 fidèles de l'Église Full Gospel ont été libérés. Mise à jour du 2 novembre, 20 h 30 : Selon PouSiOuPaTKonnen, des habitants de l'Arcahaie, dont les maisons ont été incendiées, demandent un appui aérien à la PNH. Selon Radiographie, des habitants de Cabaret ont fui lundi matin après le passage d'un hélicoptère qui tirait à basse altitude. Mise à jour du 2 novembre, 18 h 30 : Selon Le Reflet, le maire Wilner René affirme que Bercy est déjà sous le contrôle des gangs et que des maisons ont été incendiées à Lavila, Sou Rigòl, Vigner et Tomand. Il demande des renforts au gouvernement et à la PNH. Mise à jour du 2 novembre, matin : Selon Décodage Info, une nouvelle offensive dimanche 1er novembre a fait au moins 7 morts, plusieurs blessés et des maisons incendiées ; le maire René Wilner réclame des hélicoptères et des drones. Selon Rezo Nòdwès, l’avocat Pierre Sauvenel Sylvain dit que les habitants fuient et que les policiers restent dans leurs blindés. Mise à jour du 2 novembre : Selon Rezo Nòdwès, un bilan provisoire relayé par des médias locaux citant des autorités communales fait état de 43 morts, dont 13 civils, et 18 blessés à Vignier, Thoman et Bercy. La PNH et les autorités nationales n’ont pas confirmé ; la PNH maintient qu’une vingtaine de membres de gangs, dont « Galaxy », ont été tués. Le maire Wilner René réclame des renforts. Mise à jour du 1er novembre, soir : Dans une note, la PNH affirme que l’opération du 29 octobre a tué une vingtaine de membres de gangs, dont le chef surnommé « Galaxy », et que la BOID et le CIMO ont repoussé l’attaque du 31 octobre ; elle dit tenir ses positions à l’Arcahaie, selon EFE (Listín Diario) et Radiographie. La PNH ne donne aucun bilan civil. Mise à jour du 1er novembre : Selon Rezo Nòdwès, une mobilisation « Bwa Kale » s’est levée samedi soir à l’Arcahaie après des attaques de groupes armés venus de Canaan et de Cabaret sur Vigner, Thoman, Sou Rigòl, Bési et Bercy ; le site fait état d’au moins dix morts, civils et membres de la brigade, un bilan non officiel qu’Opak ne peut confirmer. Selon Image7, les tirs continuaient dimanche 1er novembre. Mise à jour du 31 octobre, après-midi : Selon Le Patrimoine Info, l’attaque de samedi a commencé vers 2 h 45 du matin et fait « de nombreuses victimes » ; aucun bilan officiel. Selon Le National, la PNH, les FAd’H et la Task Force mènent des opérations à Bercy, Gressier et Kenscoff, dont dans la zone « 103 Zombi ». Mise à jour du 31 octobre : Des hommes armés ont attaqué Vigner, Thoman et Sou Rigòl tôt samedi matin, provoquant la fuite de nombreux habitants, selon Vant Bèf Info. Affrontements intenses à Bercy, présence armée à Montrouis. Le maire Wilner René appelle la Task Force. Aucun bilan. Auparavant : Jeudi 29 octobre, la PNH et la Task Force ont mené une opération à Bercy. Plusieurs personnes présentées comme des bandits ont été tuées, dont le chef de gang de Cabaret connu sous le nom de « Galaxie ». Aucun bilan officiel. L’Arcahaie tiendra-t-elle ?",
+      ht: "Majistra Akayè a, Wilner René, di Le Nouvelliste komin nan an ijans imanitè. Li pale de mank asistans yon semèn apre vyolans 31 oktòb rive 2 novanm yo.",
+      fr: "Le maire de l'Arcahaie, Wilner René, déclare au Nouvelliste que la commune est en situation d'urgence humanitaire. Il situe le manque d'assistance une semaine après les violences du 31 octobre au 2 novembre.",
     },
     body: {
-      ht: "Mizajou 3 novanm, 5 h 30 : Dapre Image7, yon operasyon Polis Nasyonal (PNH) ak brigadye yo lendi 2 novanm pèmèt yo repran kontwòl zòn ant Thomas ak Bercy. Anviwon 22 fidèl Legliz Full Gospel, ki te kidnape nan Lavila depi 31 oktòb, libere. Kondisyon liberasyon yo poko klè.\n\nDapre Radio graphie, ki site videyo li resevwa, omwen 5 manm gang mouri pandan jounen an, e fòs lòd yo detwi barikad sou Wout Nasyonal 1. Polis la poko bay bilan. Notif News pibliye sou X imaj moun ki desann nan lari lendi swa ap rele \"Vive la Police\".\n\nKesyon pou lektè yo :\n• Konbyen tan polis la ka kenbe Thomas ak Bercy ?\n• Kilè PNH ap bay yon bilan ofisyèl ?\nMizajou 2 novanm, 20 h 30 : Dapre PouSiOuPaTKonnen, lendi 2 novanm, kèk abitan Lakayè ki tonbe nan pèlen bandi yo oblije kite katye yo, kay yo boule. Yo mande PNH ede yo ak yon sipò nan lè pou bloke avans gang yo nan komin nan.\n\nNan Kabarè, komin vwazen an, Radiographie rapòte panik lendi maten an akoz batay ant fòs lòd ak bandi. « Li te anviwon 3 è di maten lè bri yon elikoptè k ap vole ba e k ap tire reveye nou », yon abitan di Radiographie. Dapre li, moun yo te oblije kouri kite vil la. Radiographie ekri se Kabarè gang yo pati pou atake Lakayè, e fòs lòd yo ap fè operasyon la an repons.\n\nPNH pa t fè okenn kominike sou yon sipò nan lè pou Lakayè lè nou t ap pibliye. Opak News pa ka verifye konbyen moun ki kouri kite zòn yo.\n\nKesyon pou lektè yo : • Si elikoptè ap vole sou Kabarè, poukisa yo pa wè l sou Lakayè ? • Ki kote moun ki kouri kite Kabarè ak Lakayè yo ap dòmi aswè a ? • Kiyès k ap pwoteje sivil yo pandan operasyon nan lè yo ?\n\nMizajou 2 novanm, 18 h 30 : Dapre jounal Le Reflet, Lakayè ap sibi yon nouvo vag atak depi samdi, e sitiyasyon an te toujou grav lendi 2 novanm. Majistra komin nan, Wilner René, di Lavila, Sou Rigòl, Vigner ak Tomand se pami zòn ki touche, ak kay ki boule. Toujou dapre Le Reflet, li di lokalite Bèsi a deja pase anba kontwòl gang yo.\n\nLe Reflet ekri brigadye yo ak kèk polisye ki sou teren an ap eseye bloke atakan yo, men yo twò piti an kantite devan gang yo. Majistra a mande gouvènman an ak wo kòmandman PNH entèvni vit epi voye ranfò, paske li di fòs ki la yo pa gen ase moun pou kenbe tèt ak gang yo.\n\nPNH pa t fè okenn deklarasyon piblik sou ranfò sa yo lè nou t ap pibliye. Opak News pa ka verifye poukont li bilan moun mouri oswa kay ki boule.\n\nKesyon pou lektè yo : • Si Bèsi tonbe, kiyès ki pwochen ? • Konbyen polisye ki vrèman la pou pwoteje Lakayè jodi a ? • Kilè PNH ap reponn majistra a piblikman ?\n\nMizajou 2 novanm, maten : Dapre Décodage Info, gwoup ame yo lanse yon ofansiv kont plizyè lokalite Lakayè depi samdi 31 oktòb, e yon bilan pasyèl dimanch 1ye novanm bay omwen 7 mò ak plizyè blese ; kay te boule tou. Vyolans yo te kòmanse vè 2 h 45 nan maten, nan Bèsi, Vignier ak Sourigole, ak batay nan Thoman. Dapre menm sit la, atakan yo ta soti Kabarè, ak ranfò ki soti Kenscoff ak Plèn Kildesak, e yo ta lye ak Izo 5 Segond ak Jeff Gwo Lwa — lyen sa yo pa konfime. Majistra René Wilner mande elikoptè ak « dron kamikaz ».\n\nDapre Rezo Nòdwès, avoka Pierre Sauvenel Sylvain di detonasyon fò reveye abitan Vigner, Tomand ak Bèsi dimanch swa, e yo kouri al Robert, Kafou Pwa oswa nan mòn yo. Li rejte anons ranfò PNH yo, li di polisye yo rete nan blende pandan bandi yo ap bloke Wout nasyonal 1 a kèk mèt, e chofè trelè te atake epi machin yo rete kanpe sou wout la. Li di tou omwen 4 bandi « Viv ansanm » te viktim « bwa kale » samdi 31 oktòb nan Site Drapo a, e li kontredi bilan « yon dizèn » sivil mouri : dapre li, se 4 moun ki te mouri pandan yo t ap kite zòn yo. PNH pa reponn kritik sa yo piblikman, dapre sous nou yo. Bilan yo (7, 4, 43) pa konfime ofisyèlman.\n\nKesyon pou lektè yo : • Kiyès ki konte mò Lakayè yo, e poukisa chif yo varye konsa ? • Si polisye yo nan blende yo, kiyès ki pwoteje Wout nasyonal 1 ? • Ki jistis pou moun « bwa kale » yo touye yo, menm si yo te bandi ?\n\nAnvan sa : Mizajou 2 novanm : Dapre Rezo Nòdwès, aswè 1ye novanm, yon bilan pwovizwa plizyè medya lokal relaye, ki site otorite komin, bay 43 mò, ki gen 13 sivil, ak 18 blese apre batay nan Vignier, Thoman ak Bèsi. Bilan sa a PA KONFIME : ni PNH ni otorite nasyonal yo pa valide l, e Opak News pa ka verifye l. Rezo Nòdwès li menm di bilan ki disponib yo « diverje anpil » e ke risk pou jounalis nan zòn nan anpeche verifikasyon endepandan.\n\nPNH, nan kominike li, toujou di anviwon 20 manm gang te mouri nan operasyon 29 oktòb la, ki gen chèf yo rele « Galaxy », dapre EFE ak El Seis. Rezo Nòdwès, pou pati pa l, pale de « Galaxy » ak « yon dizèn » lòt manm gang. Anpil abitan kite kay yo, e majistra Wilner René mande ranfò pou pwoteje popilasyon an, dapre Rezo Nòdwès.\n\nKesyon pou lektè yo : • 43 mò oswa 20 : kilè Leta ap bay yon chif ofisyèl ? • 13 sivil mouri : ki non yo, e kiyès ki pral rann kont ? • Konbyen tan Lakayè ap tann ranfò majistra a mande ?\n\nAnvan sa : Mizajou 1ye novanm, aswè : Polis Nasyonal d Ayiti (PNH) pibliye premye deklarasyon ofisyèl li sou Lakayè. Dapre Radiographie, nan yon nòt samdi 31 oktòb, PNH di li fè echèk ak yon atak bandi ame te lanse sou komin nan bonè samdi maten. Dapre EFE, ki site kominike PNH dimanch la, atak la vini apre operasyon jedi 29 oktòb la kote « anviwon 20 manm gang te abat, ki gen ladan yon chèf yo rele Galaxy », e lòt manm gang nan blese grav. PNH di plizyè inite, tankou Brigad Depatmantal Operasyon ak Entèvansyon (BOID) ak Kò Entèvansyon ak Mentyen Lòd (CIMO), « reponn touswit ». Li di li « kenbe pozisyon li » Lakayè e li rete mobilize pou kontinye operasyon yo. Se chif ak pawòl PNH ; okenn tribinal pa idantifye moun ki mouri yo.\n\nPNH pa bay okenn bilan pou sivil oswa brigadye. Bilan « omwen yon dizèn mò » Opak te pibliye a se Rezo Nòdwès sèl ki bay li ; li pa soti nan PNH e li rete pa konfime. EFE di medya lokal rapòte abitan te ede PNH, e moto te trennen kò kèk moun yo prezante kòm manm gang nan lari a ; Opak News pa verifye imaj sa yo.\n\nKesyon pou lektè yo : • PNH konte bandi yo mouri, men kiyès ki konte sivil yo ? • « Kenbe pozisyon » : pou konbyen tan, ak ki mwayen ? • Si se moto ki trennen kò nan lari, kiyès ki pral mennen ankèt sou sa ?\n\nAnvan sa : Mizajou 1ye novanm : Dapre Rezo Nòdwès, yon mobilizasyon yo rele « Bwa Kale » leve nan komin Lakayè samdi swa 31 oktòb. Sit la di gwoup ame ki soti sitou Kanaran ak Kabarè te atake bonè samdi maten plizyè lokalite : Vigner, Thoman, Sou Rigòl, Bési ak Bèsi. Rezo Nòdwès bay « omwen yon dizèn mò », sivil ak manm brigad otodefans, ak anpil moun deplase. Se sèl sous ki bay chif sa a ; li pa ofisyèl, e Opak News pa ka konfime l.\n\nRezo Nòdwès di videyo k ap sikile sou rezo sosyal yo montre kò moun yo prezante kòm atakè k ap trennen dèyè moto. Opak News pa verifye videyo sa yo, e pa gen okenn idantite ki konfime. Dapre menm sit la, PNH di li riposte ak inite espesyal BOID ak CIMO, e li kenbe pozisyon li yo ansanm ak abitan yo.\n\nDapre Image7, apre yon nwit konfwontasyon ant fòs lòd yo, ak sipò brigadye, ak bandi Viv Ansanm, tire te kontinye pandan jounen dimanch 1ye novanm. Image7 di pa gen okenn bilan definitif ki konfime.\n\nKesyon pou lektè yo : • Si se popilasyon an k ap goumen, kote Leta ye ? • Kiyès ki konte mò Lakayè yo, e kilè lis ofisyèl la ap soti ? • « Bwa Kale » ka pwoteje yon vil jodi a, men kiyès k ap pwoteje inosan yo kont erè jistis popilè ?\n\nAnvan sa : Mizajou 31 oktòb, aprè midi : Dapre Le Patrimoine Info, atak samdi 31 oktòb la nan Akayè kòmanse vè 2:45 AM, e li fè « anpil viktim ». Pa gen okenn bilan ofisyèl poko.\n\nDapre Le National, Polis Nasyonal d Ayiti (PNH), avèk sipò Fòs Ame d Ayiti (FAd’H) ak Task Force la, ap kontinye operasyon nan plizyè zòn sansib, tankou Bèsi, Gresye ak komin Kenscoff. Plizyè inite espesyalize mobilize : BOID, UTAG, UDMO ak Task Force la. Dapre PNH, fòs lòd yo antre nan plizyè fyèf gwoup ame, tankou zòn yo rele « 103 Zonbi ». Le National pa bay okenn bilan moun mouri oswa blese.\n\nKesyon pou lektè yo : • « Anpil viktim » : konbyen, e ki lè Leta ap di non yo ? • Si fòs lòd yo antre nan « 103 Zonbi », poukisa Akayè toujou ap kouri ? • Ki moun k ap konte mò yo lè pa gen bilan ofisyèl ?\n\nAnvan : Mizajou 31 oktòb : Dapre Vant Bèf Info, gwoup ame atake plizyè lokalite nan komin Akayè bonè samdi 31 oktòb 2026 maten, tankou Vigner, Thoman ak Sou Rigòl, e anpil moun kouri kite zòn nan. Sit la rapòte gwo batay Bèsi tou, e prezans moun ame Montwi.\n\nDapre deklarasyon majistra Akayè a, Wilner René, moun ame ki soti Kenscoff ta vin ranfòse gwoup k ap opere depi Kabarè. Vant Bèf Info presize enfòmasyon sa a pa etabli okenn lyen ant moun sa yo ak « Galaxie ». Wilner René mande Task Force la entève san pèdi tan pou pwoteje popilasyon an e repouse ofansiv la. Pa t gen okenn bilan presi pou batay samdi yo lè atik la te pibliye.\n\nKesyon pou lektè yo : • Twa jou apre yo anonse lanmò « Galaxie », poukisa se Akayè k ap kouri ? • Si gang Kenscoff ka travèse jis Kabarè, ki moun ki t ap veye wout yo ? • Konbyen tan yon majistra dwe rele anvan Task Force la rive ?\n\nAnvan : Dapre Le Nouvelliste, Polis Nasyonal d Ayiti (PNH), avèk sipò Task Force la, touye plizyè bandi jedi 29 oktòb 2026 pandan yon operasyon nan Bèsi, ant Akayè ak Kabarè. Pami yo ta gen chèf gang Kabarè yo rele « Galaxie ». Lòt manm gang nan kouri, sa ki lakòz tansyon nan plizyè zòn toupre, dapre yon sous lokal.\n\nPa gen bilan ofisyèl. Le Quotidien 509 site Pierre Sauvenel Sylvain, yon notab nan Akayè, ki pale sou Radio Kiskeya de « plis pase yon ventèn » moun yo prezante kòm bandi ki mouri, men li presize li pa gen chif egzak. Dapre li, brigadye ki te akonpaye fòs lòd yo detwi plizyè abri gang yo te bati bò wout la. Li mande gwo kòmandman PNH a bay polis sou teren an plis mwayen, tankou gwo machin pou demoli lòt abri ki rete yo.\n\nDapre Le Filet Info, ajan egzekitif pwovizwa Akayè a, Wilner René, pale de yon ventèn moun mouri e li di « Galaxy » ta youn nan moun yo sispèk ki responsab masak Labodri a ; gwoup li a te okipe Bèsi depi apeprè dezan. Li anonse operasyon yo ap kontinye nan zòn nan. Radio Graphie, ki site sous lokal, pale de omwen yon dizèn manm gang ki mouri, e li di antre machin blende PNH yo jis Levèk simen panik Kabarè, kote moun kite espas piblik tankou mache vil la. PNH poko konfime okenn nan deklarasyon sa yo.\n\nSa gen plis pase yon ane gwoup ame ap eseye avanse sou Akayè, Vil Drapo a. Bèsi se zòn ki ant Kabarè, kote gang yo gen enfliyans, ak Akayè, ki reziste ak polis la ak gwoup otodefans.\n\nKesyon pou lektè yo : • Si gang lan pèdi chèf li, ki moun ki pran plas li demen maten ? • Konbyen moun ki mouri, e ki moun ki pral konte yo ofisyèlman ? • Poukisa se yon notab, pa Leta, k ap mande bulldozer pou Akayè ?",
-      fr: "Mise à jour du 3 novembre, 5 h 30 : Selon Image7, une opération de la Police nationale (PNH) appuyée par les brigadiers a permis lundi 2 novembre de reprendre le contrôle de la zone entre Thomas et Bercy. Environ 22 fidèles de l'Église Full Gospel, enlevés à Lavila depuis le 31 octobre, ont été libérés. Les circonstances de leur libération restent à préciser.\n\nSelon Radio graphie, qui cite des vidéos reçues, au moins 5 membres de gangs ont été tués dans la journée, et les forces de l'ordre ont détruit des barricades sur la Route nationale 1. La police n'a pas encore donné de bilan. Notif News a publié sur X des images d'habitants envahissant les rues lundi soir en scandant « Vive la Police ».\n\nQuestions aux lecteurs :\n• Combien de temps la police pourra-t-elle tenir Thomas et Bercy ?\n• Quand la PNH publiera-t-elle un bilan officiel ?\nMise à jour du 2 novembre, 20 h 30 : Selon PouSiOuPaTKonnen, ce lundi 2 novembre, des habitants de l'Arcahaie pris au piège des bandits ont dû fuir leurs quartiers, leurs maisons incendiées. Ils appellent la PNH à l'aide, avec un appui aérien, pour freiner l'avancée des gangs dans la commune.\n\nÀ Cabaret, commune voisine, Radiographie rapporte une panique lundi matin en raison d'affrontements entre forces de l'ordre et bandits. « Il était environ 3 heures du matin, lorsque le bruit d'un hélicoptère volant à basse altitude et tirant des coups de feu nous a réveillés », témoigne une habitante citée par Radiographie. Selon elle, les habitants ont dû fuir la ville. Radiographie écrit que Cabaret est le point de départ des attaques contre l'Arcahaie, et que les forces de l'ordre y mènent des interventions en représailles.\n\nLa PNH n'avait publié aucun communiqué sur un appui aérien à l'Arcahaie au moment de publier. Opak News ne peut pas vérifier le nombre de personnes qui ont fui.\n\nQuestions aux lecteurs : • Si des hélicoptères survolent Cabaret, pourquoi pas l'Arcahaie ? • Où dorment ce soir les familles qui ont fui Cabaret et l'Arcahaie ? • Qui protège les civils pendant les opérations aériennes ?\n\nMise à jour du 2 novembre, 18 h 30 : Selon le journal Le Reflet, l'Arcahaie subit une nouvelle vague d'attaques depuis samedi, et la situation restait préoccupante ce lundi 2 novembre. Le maire de la commune, Wilner René, cite Lavila, Sou Rigòl, Vigner et Tomand parmi les localités touchées, avec des maisons incendiées. Toujours selon Le Reflet, il affirme que la localité de Bercy est déjà passée sous le contrôle des gangs.\n\nLe Reflet écrit que les brigadiers et les quelques policiers présents tentent de contenir les assaillants, mais qu'ils sont trop peu nombreux face aux gangs. Le maire appelle le gouvernement et le haut commandement de la PNH à intervenir rapidement et à envoyer des renforts, estimant que les forces sur place n'ont pas les effectifs pour résister.\n\nLa PNH n'avait fait aucune déclaration publique sur ces renforts au moment de publier. Opak News ne peut pas vérifier de façon indépendante le bilan humain ni le nombre de maisons incendiées.\n\nQuestions aux lecteurs : • Si Bercy tombe, quelle localité sera la prochaine ? • Combien de policiers protègent vraiment l'Arcahaie aujourd'hui ? • Quand la PNH répondra-t-elle publiquement au maire ?\n\nMise à jour du 2 novembre, matin : Selon Décodage Info, des groupes armés mènent une offensive contre plusieurs localités de l’Arcahaie depuis le samedi 31 octobre, et un bilan partiel dimanche 1er novembre faisait état d’au moins 7 morts et de plusieurs blessés ; des maisons ont aussi été incendiées. Les violences ont débuté vers 2 h 45 du matin, à Bercy, Vignier et Sourigole, avec des affrontements signalés à Thoman. Selon le même site, les assaillants viendraient de Cabaret, avec des renforts de Kenscoff et de la Plaine du Cul-de-Sac, et seraient liés à Izo 5 Segond et à Jeff Gwo Lwa — des liens non confirmés. Le maire René Wilner réclame des hélicoptères et des « drones kamikazes ».\n\nSelon Rezo Nòdwès, l’avocat Pierre Sauvenel Sylvain affirme que de fortes détonations ont réveillé les habitants de Vigner, Tomand et Bercy dans la nuit de dimanche, et qu’ils se sont réfugiés à Robert, à Carrefour-Pois ou dans les hauteurs. Il rejette les annonces de renforts de la PNH, affirme que les policiers restent retranchés dans leurs blindés pendant que les bandits bloquent la route nationale 1 à quelques mètres, et que des chauffeurs de camions-remorques ont été agressés et leurs véhicules immobilisés sur la voie. Il affirme aussi qu’au moins 4 bandits de « Viv ansanm » ont subi le « bwa kale » le samedi 31 octobre à la Cité du Drapeau, et conteste le bilan d’« une dizaine » de civils tués : selon lui, 4 personnes sont mortes alors qu’elles s’apprêtaient à quitter leur zone. La PNH n’a pas répondu publiquement à ces critiques, à notre connaissance. Aucun des bilans (7, 4, 43) n’est confirmé officiellement.\n\nQuestions aux lecteurs : • Qui compte les morts de l’Arcahaie, et pourquoi les chiffres varient-ils autant ? • Si les policiers restent dans leurs blindés, qui protège la route nationale 1 ? • Quelle justice pour les personnes tuées par « bwa kale », même présumées bandits ?\n\nAuparavant : Mise à jour du 2 novembre : Selon Rezo Nòdwès, le soir du 1er novembre, un bilan provisoire relayé par des médias locaux citant des autorités communales fait état de 43 morts, dont 13 civils, et 18 blessés après des affrontements à Vignier, Thoman et Bercy. Ce bilan N’EST PAS CONFIRMÉ : ni la PNH ni les autorités nationales ne l’ont validé, et Opak News ne peut pas le vérifier. Rezo Nòdwès souligne lui-même que les bilans disponibles « divergent fortement » et que les risques encourus par les journalistes dans la zone compliquent toute vérification indépendante.\n\nDans son communiqué, la PNH maintient qu’une vingtaine de membres de gangs ont été tués lors de l’opération du 29 octobre, dont le chef surnommé « Galaxy », selon EFE et El Seis. Rezo Nòdwès évoque pour sa part « Galaxy » et « une dizaine » d’autres membres du groupe. De nombreux habitants ont quitté leur domicile, et le maire Wilner René réclame des renforts pour protéger la population, selon Rezo Nòdwès.\n\nQuestions aux lecteurs : • 43 morts ou 20 : quand l’État donnera-t-il un chiffre officiel ? • 13 civils tués : quels sont leurs noms, et qui en répondra ? • Combien de temps l’Arcahaie attendra-t-elle les renforts que réclame son maire ?\n\nAuparavant : Mise à jour du 1er novembre, soir : La Police nationale d’Haïti (PNH) a publié sa première déclaration officielle sur l’Arcahaie. Selon Radiographie, dans une note du samedi 31 octobre, la PNH confirme avoir fait échec à une attaque de bandits armés contre la commune tôt samedi matin. Selon EFE, qui cite un communiqué de la PNH diffusé dimanche, cette attaque fait suite à l’opération du jeudi 29 octobre au cours de laquelle « environ 20 membres de gangs ont été abattus, dont un chef connu sous le nom de Galaxy », d’autres membres ayant été grièvement blessés. La PNH indique que plusieurs unités, dont la Brigade départementale d’opérations et d’intervention (BOID) et le Corps d’intervention et de maintien de l’ordre (CIMO), « ont répondu immédiatement ». Elle dit « maintenir ses positions » à l’Arcahaie et rester mobilisée pour poursuivre les opérations. Ces chiffres et qualifications sont ceux de la PNH ; aucun tribunal n’a identifié les personnes tuées.\n\nLa PNH ne donne aucun bilan pour les civils ou les brigadiers. Le bilan d’« au moins une dizaine de morts » publié plus tôt par Opak provient du seul site Rezo Nòdwès ; il n’émane pas de la PNH et reste non confirmé. Selon EFE, des médias locaux rapportent que des habitants ont aidé la PNH et que des motocyclistes ont traîné dans les rues les corps de personnes présentées comme des membres de gangs ; Opak News n’a pas vérifié ces images.\n\nQuestions aux lecteurs : • La PNH compte les bandits tués, mais qui compte les civils ? • « Tenir ses positions » : pour combien de temps, et avec quels moyens ? • Si des corps sont traînés derrière des motos, qui ouvrira une enquête ?\n\nAuparavant : Mise à jour du 1er novembre : Selon Rezo Nòdwès, une mobilisation dite « Bwa Kale » s’est levée dans la commune de l’Arcahaie le samedi soir 31 octobre. Le site indique que des groupes armés venus notamment de Canaan et de Cabaret avaient attaqué tôt samedi matin plusieurs localités : Vigner, Thoman, Sou Rigòl, Bési et Bercy. Rezo Nòdwès fait état d’« au moins une dizaine de morts », civils et membres de la brigade d’autodéfense, et de nombreux déplacés. Ce chiffre provient d’une seule source ; il n’est pas officiel et Opak News ne peut pas le confirmer.\n\nRezo Nòdwès affirme que des vidéos circulant sur les réseaux sociaux montrent des corps présentés comme ceux d’assaillants traînés derrière des motos. Opak News n’a pas vérifié ces vidéos, et aucune identité n’est confirmée. Selon le même site, la PNH dit avoir riposté avec des unités spécialisées, la BOID et la CIMO, et maintenir ses positions en collaboration avec les habitants.\n\nSelon Image7, après une nuit d’affrontements entre les forces de l’ordre, appuyées par des brigadiers, et des bandits de Viv Ansanm, les tirs ont continué pendant la journée du dimanche 1er novembre. Image7 précise qu’aucun bilan définitif n’est confirmé.\n\nQuestions aux lecteurs : • Si c’est la population qui se bat, où est l’État ? • Qui compte les morts de l’Arcahaie, et quand la liste officielle sera-t-elle publiée ? • « Bwa Kale » peut défendre une ville aujourd’hui, mais qui protège les innocents des erreurs de la justice populaire ?\n\nAuparavant : Mise à jour du 31 octobre, après-midi : Selon Le Patrimoine Info, l’attaque de ce samedi 31 octobre à l’Arcahaie a commencé vers 2 h 45 du matin et a fait « de nombreuses victimes ». Aucun bilan officiel n’a encore été publié.\n\nSelon Le National, la Police nationale d’Haïti (PNH), appuyée par les Forces armées d’Haïti (FAd’H) et la Task Force, poursuit ses opérations dans plusieurs zones sensibles, notamment à Bercy, Gressier et dans la commune de Kenscoff. Plusieurs unités spécialisées ont été mobilisées : la BOID, l’UTAG, l’UDMO et la Task Force. Selon la PNH, les forces de l’ordre ont pénétré dans plusieurs bastions de groupes armés, dont la zone connue sous le nom de « 103 Zombi ». Le National ne donne aucun bilan de morts ou de blessés.\n\nQuestions aux lecteurs : • « De nombreuses victimes » : combien, et quand l’État donnera-t-il leurs noms ? • Si les forces de l’ordre entrent dans « 103 Zombi », pourquoi l’Arcahaie fuit-elle encore ? • Qui compte les morts quand il n’y a pas de bilan officiel ?\n\nAuparavant : Mise à jour du 31 octobre : Selon Vant Bèf Info, des hommes armés ont attaqué tôt ce samedi 31 octobre 2026 plusieurs localités de la commune de l’Arcahaie, dont Vigner, Thoman et Sou Rigòl, provoquant la fuite de nombreux habitants. Le site fait aussi état d’affrontements intenses à Bercy et d’une présence d’individus armés à Montrouis.\n\nSelon les déclarations du maire de l’Arcahaie, Wilner René, des hommes armés venus de Kenscoff auraient rejoint les groupes opérant depuis Cabaret pour renforcer leurs effectifs. Vant Bèf Info précise que cette information n’établit aucun lien entre ces hommes et « Galaxie ». Wilner René demande à la Task Force d’intervenir sans délai pour protéger la population et repousser l’offensive. Aucun bilan précis des affrontements de samedi n’était disponible au moment de la publication.\n\nQuestions aux lecteurs : • Trois jours après l’annonce de la mort de « Galaxie », pourquoi est-ce l’Arcahaie qui fuit ? • Si des gangs de Kenscoff peuvent rallier Cabaret, qui surveillait les routes ? • Combien d’appels un maire doit-il lancer avant que la Task Force arrive ?\n\nAuparavant : Selon Le Nouvelliste, la Police nationale d’Haïti (PNH), appuyée par la Task Force, a éliminé plusieurs bandits le jeudi 29 octobre 2026 lors d’une opération à Bercy, entre Arcahaie et Cabaret, dont le chef de gang de Cabaret connu sous le nom de « Galaxie ». D’autres membres du gang ont pris la fuite, provoquant des tensions dans plusieurs localités avoisinantes, selon une source locale.\n\nAucun bilan officiel n’a été publié. Le Quotidien 509 cite Pierre Sauvenel Sylvain, notable de l’Arcahaie, qui a évoqué sur Radio Kiskeya « plus d’une vingtaine » de morts parmi les individus présentés comme des bandits, tout en précisant ne pas disposer d’un bilan exact. Selon lui, des brigadiers accompagnant les forces de l’ordre ont détruit plusieurs abris construits par les groupes armés le long de la route. Il demande au haut commandement de la PNH davantage de moyens pour les policiers sur le terrain, dont des équipements lourds pour démolir les abris restants.\n\nSelon Le Filet Info, l’agent exécutif intérimaire de l’Arcahaie, Wilner René, évoque une vingtaine de morts et affirme que « Galaxy » serait l’un des responsables présumés du massacre de Labodrie ; son groupe occupait Bercy depuis environ deux ans. Il annonce que les opérations se poursuivent dans la zone. Radio Graphie, citant des sources locales, fait état d’au moins une dizaine de membres du gang tués, et rapporte que l’incursion de blindés de la PNH jusqu’à Lévêque a semé la panique à Cabaret, où la population a évacué des espaces publics comme le marché de la ville. Aucune de ces affirmations n’a été confirmée par la PNH.\n\nDepuis plus d’un an, des groupes armés tentent de progresser vers l’Arcahaie, la Cité du Drapeau. Bercy se situe entre Cabaret, où les gangs exercent leur influence, et l’Arcahaie, qui résiste grâce à la police et aux groupes d’autodéfense.\n\nQuestions aux lecteurs : • Si le gang perd son chef, qui prend sa place demain matin ? • Combien de morts, et qui les comptera officiellement ? • Pourquoi est-ce un notable, et non l’État, qui réclame des bulldozers pour l’Arcahaie ?",
+      ht: "Majistra Akayè a, Wilner René, afime komin nan « an sitiyasyon ijans imanitè », li deklare nan Le Nouvelliste lendi 9 novanm. Yon semèn apre atak gwoup ame yo, fanmi deplase yo poko jwenn èd otorite santral yo, dapre majistra a.\n\nJounal la mete vyolans yo ant samdi 31 oktòb ak lendi 2 novanm 2026. Dapre René, aktivite yo rete paralize nan komin nan, e okenn enstitisyon poko pote sipò pou deplase entèn yo.\n\nPawòl sa yo konsène èd imanitè yon semèn apre atak yo. Kont randi Le Nouvelliste a pa bay okenn nouvo bilan moun ofisyèl.",
+      fr: "Le maire de l'Arcahaie, Wilner René, affirme que la commune est « en situation d'urgence humanitaire », a-t-il déclaré au Nouvelliste lundi 9 novembre. Une semaine après les attaques de groupes armés, les familles déplacées n'ont toujours pas reçu d'aide des autorités centrales, selon le maire.\n\nLe journal situe les violences entre le samedi 31 octobre et le lundi 2 novembre 2026. D'après René, les activités restent paralysées dans la commune et aucune institution n'a encore apporté de soutien aux déplacés internes.\n\nCes propos portent sur l'aide humanitaire une semaine après les attaques. Le compte rendu du Nouvelliste ne fournit pas de nouveau bilan humain officiel.",
     },
-    sources: ["Image7", "Radio graphie", "Notif News (X)", "PouSiOuPaTKonnen", "Radiographie", "Le Reflet", "Décodage Info", "Rezo Nòdwès", "Rezo Nòdwès", "El Seis", "PNH via EFE (Listín Diario)", "Radiographie", "Rezo Nòdwès", "Image7", "Le Patrimoine Info", "Le National", "Vant Bèf Info", "Le Nouvelliste", "Le Quotidien 509", "Radio Kiskeya", "Le Filet Info", "Radio Graphie"],
+    sources: ["Le Nouvelliste"],
     sourceLinks: [
-      { name: "Image7", url: "https://image7haiti.com/arcahaie-offensive-des-forces-de-lordre-thomas-et-bercy-repris-et-22-otages-liberes/" },
-      { name: "Radio graphie", url: "https://radiographieht.com/sitot-acquis-sitot-perdu-une-journee-de-chiens-pour-les-bandits-a-arcahaie/" },
-      { name: "Notif News (X)", url: "https://x.com/NotifNews1/status/2117476890558783677" },
-      { name: "PouSiOuPaTKonnen", url: "https://www.pousioupatkonnen.com/affrontements-usage-de-drones-kamikazes-plusieurs-bandits-tues-dans-le-fief-de-chen-mechan/" },
-      { name: "Radiographie", url: "https://radiographieht.com/kouri-a-cabaret/" },
-      { name: "Le Reflet", url: "https://www.lerefletht.com/post/arcahaie-sous-pression-des-gangs-arm%C3%A9s-le-magistrat-wilner-ren%C3%A9-r%C3%A9clame-des-renforts-policiers" },
-      { name: "Décodage Info (au moins 7 morts)", url: "https://decodageinfo.com/2026/11/01/arcahaie-sous-pression-au-moins-sept-morts-signales-dans-une-nouvelle-offensive-armee-ce-dimanche/" },
-      { name: "Rezo Nòdwès (Me Pierre Sauvenel Sylvain)", url: "https://rezonodwes.com/2026/11/arcahaie-reveillee-sous-des-detonations-dementi-sur-larrivee-de-renforts-de-la-pnh/" },
-      { name: "Rezo Nòdwès (bilan non confirmé)", url: "https://rezonodwes.com/2026/11/arcahaie-un-bilan-local-non-confirme-fait-etat-de-43-morts-et-18-blesses-apres-la-mort-du-chef-de-gang-galaxy/" },
-      { name: "El Seis", url: "https://elseis.do/noticias/policia-de-haiti-abate-a-unos-20-pandilleros-tras-intensos-combates-en-arcahaie" },
-      { name: "EFE (Listín Diario)", url: "https://listindiario.com/las-mundiales/haiti/20261101/enfrentamientos-policia-haitiana-bandas-armadas-dejan-pandilleros-muertos_928368.html" },
-      { name: "Radiographie", url: "https://radiographieht.com/attaque-de-bandits-armes-a-arcahaie-la-pnh-dit-tenir-ses-positions/" },
-      { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/haiti-echec-fils-aime-mobilisation-quand-larcahaie-se-leve-en-bwa-kale-entre-legitime-defense-populaire-et-echec-de-letat/" },
-      { name: "Image7", url: "https://image7haiti.com/arcahaie-les-attaques-de-viv-ansanm-se-poursuivent-la-commune-plongee-dans-une-nouvelle-journee-de-tension/" },
-      { name: "Le National", url: "https://www.lenational.org/article/politique/8599/bercy-gressier-et-kenscoff-la-pnh-intensifie-ses-offensives-contre-les-gangs" },
-      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/haiti-insecurite-des-hommes-armes-attaquent-plusieurs-localites-de-larcahaie/" },
-      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273482/plusieurs-bandits-tues-dans-une-operation-des-forces-de-lordre-a-bercy" },
-      { name: "Le Quotidien 509", url: "https://lequotidien509.com/haiti-securite-une-vingtaine-de-bandits-dont-le-chef-de-gang-galaxie-abattus-a-bercy/" },
-      { name: "Le Filet Info", url: "https://lefiletinfo.com/operation-policiere-un-chef-de-gang-et-une-vingtaine-de-ses-acolytes-tues/" },
-      { name: "Radio Graphie", url: "https://radiographieht.com/un-chef-de-gang-et-une-dizaine-de-ses-soldats-abattus-a-arcahaie/" },
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273725/arcahaie-est-en-situation-durgence-humanitaire-selon-wilner-rene" },
     ],
   },
   {
     id: "ntk-nrc-humanitaires-tues-2026-10-31",
+    archived: true,
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-10-31",
@@ -1761,8 +2240,8 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-detention-preventive-commissariats-2026-10-30",
+    pinned: true,
     isUrgent: true,
-    archived: true,
     tier: "need-to-know",
     topic: "justice",
     publishedAt: "2026-10-30",
@@ -1794,6 +2273,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-plan-electrification-2032-2026-10-30",
+    archived: true,
     tier: "need-to-know",
     topic: "governance",
     publishedAt: "2026-10-30",
@@ -1818,6 +2298,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-acra-tribunal-criminel-2026-10-30",
+    archived: true,
     tier: "need-to-know",
     topic: "justice",
     publishedAt: "2026-10-30",
@@ -1842,6 +2323,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-onm-deportations-usa-2026-10-30",
+    archived: true,
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-10-30",
@@ -1866,6 +2348,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-konekte-pou-bati-salon-2026-10-30",
+    archived: true,
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-10-30",
@@ -1890,6 +2373,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-desir-arrestation-2026-10-28",
+    archived: true,
     tier: "quick-hit",
     topic: "moise-trials",
     publishedAt: "2026-10-29",
@@ -1917,6 +2401,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "moise-trials-2026-10-29",
+    archived: true,
     isFollowUp: true,
     tier: "quick-hit",
     topic: "moise-trials",
@@ -1948,6 +2433,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-caonabo-richard-alexandre-2026-10-29",
+    archived: true,
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-10-29",
@@ -1970,6 +2456,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-grand-sud-downpours-2026-10-28",
+    archived: true,
     tier: "need-to-know",
     topic: "society",
     publishedAt: "2026-10-29",
@@ -2038,6 +2525,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-cep-elections-juillet-2027-2026-10-29",
+    archived: true,
     tier: "need-to-know",
     topic: "governance",
     publishedAt: "2026-10-29",
@@ -2076,6 +2564,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-salvador-2000-soldats-2026-10-29",
+    archived: true,
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-10-29",
@@ -2158,6 +2647,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-msf-plaine-cul-de-sac-2026-10",
+    archived: true,
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-10-28",
@@ -2190,6 +2680,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-thomazeau-ambassador-summoned-2026-10",
+    archived: true,
     tier: "need-to-know",
     topic: "governance",
     publishedAt: "2026-10-28",
@@ -2213,6 +2704,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-gsf-salvador-attack-2026-10",
+    archived: true,
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-10-28",
@@ -2238,6 +2730,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-intemperies-pluie-2026-10",
+    archived: true,
     tier: "need-to-know",
     topic: "society",
     publishedAt: "2026-10-28",
@@ -2266,6 +2759,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-dr-deportations-weekend-2026-10",
+    archived: true,
     tier: "need-to-know",
     topic: "society",
     publishedAt: "2026-10-29",
@@ -2289,6 +2783,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-ipc-hunger-2026-10-28",
+    archived: true,
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-10-28",
@@ -2317,6 +2812,7 @@ export const STORIES: Story[] = [
 
   {
     id: "qh-idp-protest-pap-2026-10",
+    archived: true,
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-10-28",
@@ -2340,6 +2836,7 @@ export const STORIES: Story[] = [
 
   {
     id: "qh-repatriation-trump-tps-2026-10",
+    archived: true,
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-10-27",
@@ -2401,6 +2898,7 @@ export const STORIES: Story[] = [
 
   {
     id: "qh-gov-gonave-mict-2026-10",
+    archived: true,
     tier: "quick-hit",
     topic: "governance",
     publishedAt: "2026-10-26",
@@ -2451,6 +2949,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-metronome-corvington-guerrier-2026-10",
+    archived: true,
     tier: "quick-hit",
     topic: "gossip",
     publishedAt: "2026-10-26",
@@ -2468,6 +2967,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-gossip-ulcc-martelly-return-2026-10",
+    archived: true,
     tier: "quick-hit",
     topic: "gossip",
     publishedAt: "2026-10-27",
@@ -2620,6 +3120,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-prise-a-partie-elisee-2026-10",
+    archived: true,
     tier: "quick-hit",
     topic: "justice",
     publishedAt: "2026-10-27",
