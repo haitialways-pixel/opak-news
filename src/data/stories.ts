@@ -16,6 +16,88 @@ import type { Story } from "../types";
  */
 export const STORIES: Story[] = [
   {
+    id: "ntk-konket-decret-electoral-2026-11-10",
+    tier: "need-to-know",
+    topic: "politics",
+    publishedAt: "2026-11-11",
+    publishedTime: "2026-11-11T09:41:00-05:00",
+    headline: {
+      ht: "KONKET konteste dekrè elektoral la: papòt 30000 aderan, disponiblite fonksyonè yo ak kalandriye a",
+      fr: "KONKET conteste le décret électoral : seuil de 30000 adhérents, disponibilité des fonctionnaires et calendrier",
+    },
+    teaser: {
+      ht: "Nan yon lèt 10 novanm bay prezidan CEP, pati a mande yo revize twa dispozisyon. Konsèy la poko reponn, dapre Alternance Média.",
+      fr: "Dans une lettre du 10 novembre au président du CEP, le parti demande la révision de trois dispositions. Le Conseil n'a pas encore répondu, selon Alternance Média.",
+    },
+    brief: {
+      ht: "Pati KONKET, nan yon lèt 10 novanm adrese prezidan CEP Peterson Pierre-Louis, konteste papòt 30000 aderan, disponiblite fonksyonè kandida yo depi enskripsyon an, ak dat yo fèmen depo kandidati yo, dapre Matinal Post ak Alternance Média.",
+      fr: "Le parti KONKET, dans une lettre du 10 novembre adressée au président du CEP, Peterson Pierre-Louis, conteste le seuil de 30000 adhérents, la mise en disponibilité des fonctionnaires candidats dès l'inscription, et la date de clôture du dépôt des candidatures, selon Matinal Post et Alternance Média.",
+    },
+    body: {
+      ht: "Pati politik KONKET voye, mardi 10 novanm, yon lèt bay prezidan Konsèy elektoral pwovizwa a, Peterson Pierre-Louis. Dokiman an, Fresnel Afice, prezidan pati a, siyen l. Alternance Média presize l gen yon kachè resepsyon CEP. Pati a mande yo reekzaminen plizyè dispozisyon dekrè elektoral la, li jije yo ka kontrarie Konstitisyon 1987 ki amande a ak lwa 16 janvye 2014 sou pati politik yo.\n\nPremye pwen an se papòt 30000 aderan yo mande fòmasyon politik yo. KONKET di se yon kondisyon twò strik, ki ka mete sou kote òganizasyon yo deja rekonèt legalman. Li cite atik 31 ak 31.1 Konstitisyon an, sou libète asosyasyon, ansanm ak atik 3, 8, 17 ak 18 lwa sou pati politik yo. Se argument pati a nan lèt la, se pa yon desizyon tribinal sou validite règleman an, Alternance Média raple.\n\nDezyèm pwen: disponiblite ajan fonksyon piblik ki vle kandida. KONKET jije obligasyon an twò bonè lè li kòmanse depi enskripsyon kandidati a. Li pa mande yo retire l, men pou li kòmanse sèlman lè kanpay ofisyèl la louvri.\n\nTwazyèm pwen an se kalandriye a. Pati a di yon fèmti twò bonè nan depo kandidati yo ta ka penalize sitwayen ki ta rive nan laj legal pou yo kandida apre peryòd enskripsyon an, men anvan kanpay ofisyèl la kòmanse. Li pwopoze pou yo fèmen depo kandidati yo anviwon yon mwa anvan ouvèti kanpay la. Alternance Média ekri dokiman an pa gen repons CEP.",
+      fr: "Le parti politique KONKET a adressé, mardi 10 novembre, une lettre au président du Conseil électoral provisoire, Peterson Pierre-Louis. Le document est signé par Fresnel Afice, président du parti. Alternance Média précise qu'il porte un cachet de réception du CEP. Le parti demande le réexamen de plusieurs dispositions du décret électoral, qu'il juge susceptibles de contrevenir à la Constitution de 1987 amendée et à la loi du 16 janvier 2014 sur les partis politiques.\n\nLe premier point porte sur le seuil de 30000 adhérents exigé des formations politiques. KONKET estime que cette condition est trop restrictive et risque d'écarter des organisations déjà légalement reconnues. Il invoque les articles 31 et 31.1 de la Constitution, relatifs à la liberté d'association, ainsi que les articles 3, 8, 17 et 18 de la loi sur les partis politiques. Il s'agit de l'argumentation du parti dans son courrier, pas d'une décision de justice sur la validité de la règle, rappelle Alternance Média.\n\nDeuxième point : la mise en disponibilité des agents de la fonction publique qui veulent se porter candidats. KONKET juge cette obligation prématurée lorsqu'elle commence dès l'inscription de la candidature. Le parti ne demande pas de la supprimer, mais qu'elle ne prenne effet qu'à l'ouverture officielle de la campagne électorale.\n\nLe troisième point concerne le calendrier. Selon le parti, une clôture trop anticipée du dépôt des candidatures pourrait pénaliser des citoyens qui atteindraient l'âge légal d'éligibilité après la période d'inscription, mais avant l'ouverture officielle de la campagne. Il propose que cette clôture intervienne environ un mois avant le début de la campagne. Alternance Média écrit que le document ne comporte pas de réponse du CEP.",
+    },
+    sources: ["Matinal Post", "Alternance Média"],
+    sourceLinks: [
+      { name: "Matinal Post", url: "https://matinalpost.com/actualite/decret-electoral-konket-interpelle-le-cep-sur-les-risques-de-non-conformite-a-la-constitution/" },
+      { name: "Alternance Média", url: "https://alternance-media.com/actualite/haiti-konket-conteste-plusieurs-dispositions-du-decret-electoral-et-demande-leur-revision/" },
+    ],
+  },
+  {
+    id: "qh-cap-haitien-chambre-canada-2026-11-10",
+    tier: "quick-hit",
+    topic: "commerce",
+    publishedAt: "2026-11-11",
+    publishedTime: "2026-11-11T09:40:40-05:00",
+    headline: {
+      ht: "Okap : meri a siyen yon akò ak Chanm komès ayisyen Kanada",
+      fr: "Cap-Haïtien : la mairie signe un accord avec la Chambre de commerce haïtienne du Canada",
+    },
+    teaser: {
+      ht: "Pwotokòl la, yo te siyen mardi 10 novanm, pale de envestisman, touris ak antreprenarya, dapre Vant Bèf Info.",
+      fr: "Le protocole, signé mardi 10 novembre, porte sur l'investissement, le tourisme et l'entrepreneuriat, selon Vant Bèf Info.",
+    },
+    brief: {
+      ht: "Majistra Michel St-Croix ak prezidant Chanm komès ayisyen Kanada, Luckny Guerrier, te siyen mardi 10 novanm yon pwotokòl dakò, Vant Bèf Info ekri. Li vize fasilite envestisman, sipòte antrepriz epi ankouraje touris ak antreprenarya nan Okap.",
+      fr: "Le maire Michel St-Croix et la présidente de la Chambre de commerce haïtienne du Canada, Luckny Guerrier, ont signé mardi 10 novembre un protocole d'accord, écrit Vant Bèf Info. Il vise à faciliter les investissements, soutenir les entreprises et promouvoir le tourisme et l'entrepreneuriat au Cap-Haïtien.",
+    },
+    body: {
+      ht: "Meri Okap ak Chanm komès ayisyen Kanada siyen, mardi 10 novanm 2026, yon pwotokòl dakò, Vant Bèf Info ekri. Majistra Michel St-Croix ak prezidant Chanm nan, Luckny Guerrier, te siyen dokiman an. Biwo Fasilite Zafè yo (BFA) te patisipe nan seremoni an.\n\nDapre medya a, de enstitisyon yo vle devlope antreprenarya, touris, envestisman ak ranfòsman kapasite, epi akonpaye antrepriz lokal yo. Pwotokòl la prevwa yon mekanis pou kowòdone ak swiv pwojè komen yo. Nan kad sa a, BFA dwe bay de enstitisyon yo yon sipò teknik.\n\nLuckny Guerrier te souliye wòl dyaspora a nan devlopman ekonomik peyi a. Li di chanm nan vle pwoche antreprenè yo, fasilite echanj komèsyal epi mobilize resous ak konpetans dyaspora a. Majistra St-Croix salue inisyativ la, epi li di li ta vle patenarya a kontinye pi lwen pase manda Komisyon minisipal ki la kounye a.\n\nSe yon kad koperasyon yo siyen. Kont randi a pa detaye ni yon lis pwojè ki deja finanse, ni yon kalandriye, ni yon montan envestisman.",
+      fr: "La mairie du Cap-Haïtien et la Chambre de commerce haïtienne du Canada ont signé, mardi 10 novembre 2026, un protocole d'accord, écrit Vant Bèf Info. Le maire Michel St-Croix et la présidente de la Chambre, Luckny Guerrier, ont signé le document. Le Bureau de facilitation des affaires (BFA) a pris part à la cérémonie.\n\nSelon le média, les deux institutions entendent développer l'entrepreneuriat, le tourisme, les investissements et le renforcement des capacités, et accompagner les entreprises locales. Le protocole prévoit un mécanisme de coordination et de suivi des projets communs. Dans ce cadre, le BFA doit apporter un appui technique aux deux institutions.\n\nLuckny Guerrier a souligné le rôle de la diaspora dans le développement économique du pays. Elle a dit que sa chambre veut rapprocher les entrepreneurs, faciliter les échanges commerciaux et mobiliser les ressources et les compétences de la diaspora. Le maire St-Croix a salué l'initiative, et a dit souhaiter que le partenariat se poursuive au-delà du mandat de l'actuelle Commission municipale.\n\nIl s'agit d'un cadre de coopération. Le compte rendu ne détaille ni une liste de projets déjà financés, ni un calendrier, ni un montant d'investissement.",
+    },
+    sources: ["Vant Bèf Info"],
+    sourceLinks: [
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/cap-haitien-la-mairie-signe-un-accord-economique-avec-la-chambre-de-commerce-haitienne-du-canada/" },
+    ],
+  },
+  {
+    id: "qh-brh-taux-reference-2026-11-11",
+    tier: "quick-hit",
+    topic: "commerce",
+    publishedAt: "2026-11-11",
+    publishedTime: "2026-11-11T09:40:20-05:00",
+    headline: {
+      ht: "BRH : to referans lan nan 130.7986 goud pou yon dola, 11 novanm",
+      fr: "BRH : le taux de référence à 130.7986 gourdes pour un dollar, le 11 novembre",
+    },
+    teaser: {
+      ht: "Sit ofisyèl bank lan montre yon ogmantasyon 0,07% konpare ak lavèy la.",
+      fr: "Le site officiel de la banque indique une hausse de 0,07% par rapport à la veille.",
+    },
+    brief: {
+      ht: "Sou paj « Taux du jour » li a, ki make 11 novanm 2026, Bank Repiblik Ayiti fikse to referans dola a 130.7986 goud. Bank lan endike yon varyasyon 0,07% pa rapò ak jou anvan an.",
+      fr: "Sur sa page « Taux du jour », datée du 11 novembre 2026, la Banque de la République d'Haïti fixe le taux de référence du dollar à 130.7986 gourdes. La banque indique une variation de 0,07% par rapport à la veille.",
+    },
+    body: {
+      ht: "Bank Repiblik Ayiti pibliye, pou 11 novanm 2026, yon to referans 130.7986 goud pou yon dola ameriken, sou paj ofisyèl « Taux du jour » li a. Anba chif sa a, bank lan endike yon varyasyon 0,07% pa rapò ak jou anvan an, ak 0,10% pa rapò ak semèn anvan an.\n\nSou menm paj la, mache bankè a parèt ak 130.5643 goud nan acha ak 131.6786 goud nan vant. Yon lòt liy, « Taux de référence (10/11/25) », bay 130.6274 goud: se to referans menm dat ane pase a, 10 novanm 2025, dapre prezantasyon tablo a.\n\nNou pa jwenn, nan moman piblikasyon sa a, yon atik Le Quotidien 509 ki bay 130.75 kòm to lavèy la. Sit ofisyèl BRH a pa ekri chif 130.75. Se to 130.7986 ak varyasyon 0,07% bank lan pibliye 11 novanm nou kenbe isit la.",
+      fr: "La Banque de la République d'Haïti publie, pour le 11 novembre 2026, un taux de référence de 130.7986 gourdes pour un dollar américain, sur sa page officielle « Taux du jour ». Sous ce chiffre, la banque indique une variation de 0,07% par rapport à la veille, et de 0,10% par rapport à la semaine précédente.\n\nSur la même page, le marché bancaire apparaît à 130.5643 gourdes à l'achat et 131.6786 gourdes à la vente. Une autre ligne, « Taux de référence (10/11/25) », donne 130.6274 gourdes : il s'agit du taux de référence à la même date l'an dernier, le 10 novembre 2025, d'après la présentation du tableau.\n\nNous n'avons pas trouvé, au moment de cette publication, d'article du Quotidien 509 indiquant 130.75 comme taux de la veille. Le site officiel de la BRH n'écrit pas le chiffre 130.75. Ce sont le taux de 130.7986 et la variation de 0,07% publiés par la banque le 11 novembre que nous retenons ici.",
+    },
+    sources: ["BRH"],
+    sourceLinks: [
+      { name: "BRH - Taux du jour", url: "https://www.brh.ht/taux-du-jour/" },
+    ],
+  },
+  {
     id: "qh-haiti-omi-dix-conventions-2026-11-06",
     tier: "quick-hit",
     topic: "governance",
@@ -323,27 +405,29 @@ export const STORIES: Story[] = [
     id: "ntk-mansion-lanmo-san-jou-2026-11-10",
     tier: "need-to-know",
     topic: "security",
-    publishedAt: "2026-11-10",
-    publishedTime: "2026-11-10T16:12:00-05:00",
+    publishedAt: "2026-11-11",
+    publishedTime: "2026-11-11T09:41:20-05:00",
     isFollowUp: true,
     headline: {
-      ht: "Bukele di twoup li yo detwi katye jeneral 400 Mawozo; pa gen bilan ofisyèl ayisyen",
-      fr: "Bukele affirme que ses troupes ont détruit le QG de 400 Mawozo ; aucun bilan officiel haïtien",
+      ht: "Ofansiv salvadorien an Ayiti : AP pale de yon paryaj politik, BBC pa ka verifye videyo a",
+      fr: "Offensive salvadorienne en Haïti : l'AP parle d'un pari politique, la BBC ne peut pas vérifier la vidéo",
     },
     teaser: {
-      ht: "Al Jazeera, ki site ajans yo, pale de 20 moun mouri dimanch. Videyo a pa pèmèt verifye degè yo, dapre Infobae.",
-      fr: "Al Jazeera, citant des agences, parle de 20 morts dimanche. La vidéo ne permet pas de vérifier les dégâts, selon Infobae.",
+      ht: "AP ekri San Salvador te voye 2500 sòlda ak ti transparans ni sipèvizyon. BBC di li pa t ka verifye videyo a, ni ke pwopriyete a se katye jeneral gang lan.",
+      fr: "L'AP écrit que San Salvador a envoyé 2500 soldats avec peu de transparence ni de contrôle. La BBC dit n'avoir pas pu vérifier la vidéo, ni que la propriété soit le quartier général du gang.",
     },
     brief: {
-      ht: "Madi 10 novanm, Nayib Bukele anonse sou X fòs li yo te detwi kay Lanmò San Jou ak katye jeneral 400 Mawozo. Al Jazeera, ki reprann AFP, AP ak Reuters, pale de 20 moun mouri. Pa gen bilan ofisyèl ayisyen ki pibliye.",
-      fr: "Mardi 10 novembre, Nayib Bukele a annoncé sur X que ses forces avaient détruit la maison de Lanmò San Jou et le quartier général de 400 Mawozo. Al Jazeera, qui reprend l'AFP, l'AP et Reuters, parle de 20 morts. Aucun bilan officiel haïtien n'a été publié.",
+      ht: "Nan yon analiz 11 novanm, Associated Press dekri ofansiv Nayib Bukele ann Ayiti kòm yon paryaj politik anvan eleksyon fevriye nan Salvador, ak « little transparency or oversight ». BBC ekri li pa t ka verifye videyo prezidan an pibliye, ni ke kay la se katye jeneral 400 Mawozo.",
+      fr: "Dans une analyse du 11 novembre, Associated Press décrit l'offensive de Nayib Bukele en Haïti comme un pari politique avant les élections de février au Salvador, menée avec « little transparency or oversight ». La BBC écrit qu'elle n'a pas pu vérifier la vidéo publiée par le président, ni que la propriété soit le quartier général de 400 Mawozo.",
     },
     body: {
-      ht: "Madi 10 novanm, prezidan salvadorien Nayib Bukele anonse sou X fòs li yo te detwi kay Wilson Joseph, yo rele Lanmò San Jou, ak katye jeneral gang 400 Mawozo. Infobae presize li ekri mesaj la an kreyòl ayisyen epi li pibliye yon videyo ayeryen kote yo wè yon zòn riral ak detonasyon. Al Jazeera dekri elikoptè k ap toune anlè sit la, nan Kwadèbouke, epi yo ap tire. Bukele di tou, dapre Infobae, pifò manm gwoup la te kouri « san yo pa menm eseye goumen ».\n\nDeklarasyon sa yo pa sifi pou etabli nivo degè yo. Infobae ekri videyo a pa pèmèt verifye destriksyon yo pou kont li, ni si te gen moun mouri oswa arestasyon. Al Jazeera, ki reprann depèch AFP, AP ak Reuters, mete operasyon an dimanch epi li pale de 20 moun mouri. Ni otorite ayisyen yo ni otorite salvadorien yo pa pibliye yon bilan ofisyèl, Infobae presize tou.\n\nOperasyon dimanch sa a, dapre plizyè rapò, se Polis nasyonal Ayiti ki te mennen l ak sipò militè salvadorien, sou yon rezidans yo lyen ak Joseph. Miami Herald, nou te deja site nan kont randi anvan an epi Infobae reprann, di Joseph pa t sou plas la, epi kèk sous pale de posib lanmò plizyè gason ame, san detay ofisyèl. Haitian Times, 10 novanm, pa t ka verifye si pwopriyete a te detwi oswa yo te vize l sèlman. Medya a te note rapò ki pa dakò, absans konfimasyon ofisyèl, ak imaj k ap sikile sou rezo yo kote kèk te sanble se entèlijans atifisyèl ki fè yo.\n\nAl Jazeera raple Premye minis Alix Didier Fils-Aimé gen pou l ale Salvador semèn pwochèn pou diskite sou avni kontenjan salvadorien an.",
-      fr: "Mardi 10 novembre, le président salvadorien Nayib Bukele a annoncé sur X que ses forces avaient détruit la maison de Wilson Joseph, dit Lanmò San Jou, et le quartier général du gang 400 Mawozo. Infobae précise qu'il a écrit ce message en créole haïtien et qu'il a publié une vidéo aérienne montrant une zone rurale et des détonations. Al Jazeera décrit des hélicoptères qui tournent au-dessus du site, à Croix-des-Bouquets, et font feu. Bukele a aussi affirmé, selon Infobae, que la plupart des membres du groupe avaient fui « sans même essayer de se battre ».\n\nCes déclarations ne suffisent pas à établir l'ampleur des dégâts. Infobae écrit que la vidéo ne permet pas de vérifier de façon indépendante les destructions, ni s'il y a eu des morts ou des arrestations. Al Jazeera, qui reprend des dépêches de l'AFP, de l'AP et de Reuters, situe l'opération dimanche et parle de 20 morts. Ni les autorités haïtiennes ni les autorités salvadoriennes n'ont publié de bilan officiel, précise aussi Infobae.\n\nCette opération de dimanche, menée selon plusieurs récits par la Police nationale d'Haïti avec l'appui de militaires salvadoriens, visait une résidence liée à Joseph. Le Miami Herald, déjà cité dans notre précédent compte rendu et repris par Infobae, indique que Joseph n'était pas sur place et que des sources ont évoqué la mort possible de plusieurs hommes armés, sans détail officiel. Haitian Times, le 10 novembre, n'avait pas pu vérifier si la propriété avait été détruite ou seulement visée. Le média relevait des récits contradictoires, l'absence de confirmation officielle, et des images circulant sur les réseaux dont certaines semblaient générées par intelligence artificielle.\n\nAl Jazeera rappelle que le Premier ministre Alix Didier Fils-Aimé doit se rendre au Salvador la semaine prochaine pour discuter de l'avenir du contingent salvadorien.",
+      ht: "Associated Press, nan yon analiz Megan Janetsky pibliye 11 novanm, dekri ofansiv militè Salvador ann Ayiti kòm yon paryaj politik ki riske anpil, antoure eleksyon prezidansyèl fevriye nan peyi Salvador. Ajans lan ekri, depi kat teknisyen ayewonotik salvadorien yo disparèt nan mitan oktòb, gouvènman an te voye 2500 sòlda ann Ayiti « with little transparency or oversight », sètadi ak ti transparans ni sipèvizyon. Roberto Dubon, yon stratejist kominikasyon politik salvadorien, di AP se « yon kanpay elektoral pou fè pwomosyon Nayib Bukele » epi prezante l « tankou yon superhero ». Li ajoute prezidan an ap itilize Ayiti kòm yon tè pou teste politik li yo sou nivo entènasyonal.\n\nBBC, bò pa l, ekri li pa t ka verifye videyo Bukele pibliye sou X, ni si pwopriyete yo tire a se vre katye jeneral 400 Mawozo. Prezidan an te anonse madi 10 novanm, an kreyòl, fòs yo te « detwi kay Lanmò San Jou ak katye jeneral gang 400 Mawozo ». Li te di pifò moun yo te kouri san yo pa menm eseye goumen. Videyo a montre elikoptè k ap tire sou yon gwo konplèks, ak plizyè douzèn moun k ap kouri, dapre BBC. Premye minis Alix Didier Fils-Aimé te remèsye lendi, sou X, « angajman fòs salvadorien yo nan batay kont gang yo », epi li te pibliye yon imaj ki soti nan menm videyo a, BBC presize.\n\nMenm lendi a, AP rapòte sekretè deta ameriken Marco Rubio te pran distans, li di Etazini « not actively involved » nan ofansiv salvadorien an, epi li te bay sipò pou Fòs represyon gang yo (GSF) Nasyonzini ap soutni, kote Salvador pa fè pati. « There is no plan B », li te di. Amnesty International te mande menm jou a de gouvènman yo pibliye akò ki otorize fòs yo antre ann Ayiti, epi respekte dwa entènasyonal, AP ekri.\n\nAnvan sa, Al Jazeera, ki te reprann AFP, AP ak Reuters, te mete operasyon an dimanch epi pale de 20 moun mouri. Ni otorite ayisyen yo ni otorite salvadorien yo pa t pibliye yon bilan ofisyèl, Infobae te presize. Miami Herald te di Wilson Joseph, yo rele Lanmò San Jou, pa t sou plas la. Haitian Times, 10 novanm, pa t ka verifye si pwopriyete a te detwi oswa yo te vize l sèlman.",
+      fr: "Associated Press, dans une analyse de Megan Janetsky publiée le 11 novembre, décrit l'offensive militaire du Salvador en Haïti comme un pari politique à haut risque, à l'approche de l'élection présidentielle de février au Salvador. L'agence écrit que, depuis la disparition de quatre techniciens aéronautiques salvadoriens à la mi-octobre, le gouvernement a envoyé 2500 soldats en Haïti « with little transparency or oversight », c'est-à-dire avec peu de transparence ni de contrôle. Roberto Dubon, stratège en communication politique salvadorien, dit à l'AP qu'il s'agit d'« une campagne électorale pour promouvoir Nayib Bukele » et le présenter « comme un superhéros ». Il ajoute que le président se sert d'Haïti comme d'un terrain d'essai pour appliquer ses politiques à l'échelle internationale.\n\nLa BBC, de son côté, écrit qu'elle n'a pas pu vérifier la vidéo publiée par Bukele sur X, ni confirmer que la propriété visée soit bien le quartier général de 400 Mawozo. Le président avait annoncé mardi 10 novembre, en créole, que ses forces avaient « détruit la maison de Lanmò San Jou et le quartier général du gang 400 Mawozo ». Il a dit que la plupart des occupants avaient fui sans même essayer de se battre. La vidéo montre des hélicoptères tirant sur un vaste complexe, et des dizaines de personnes qui s'enfuient, selon la BBC. Le Premier ministre Alix Didier Fils-Aimé a remercié lundi, sur X, « l'engagement des forces salvadoriennes dans la lutte contre les gangs », et a publié une image tirée de la même vidéo, précise la BBC.\n\nLe même lundi, l'AP rapporte que le secrétaire d'État américain Marco Rubio a pris ses distances, en disant que les États-Unis n'étaient « not actively involved » dans l'offensive salvadorienne, et qu'il apportait son soutien à la Force de répression des gangs (GSF) adossée à l'ONU, dont le Salvador ne fait pas partie. « There is no plan B », a-t-il dit. Amnesty International a demandé le même jour aux deux gouvernements de publier l'accord autorisant l'entrée des forces en Haïti, et de respecter le droit international, écrit l'AP.\n\nPlus tôt, Al Jazeera, qui reprenait l'AFP, l'AP et Reuters, situait l'opération dimanche et parlait de 20 morts. Ni les autorités haïtiennes ni les autorités salvadoriennes n'avaient publié de bilan officiel, précisait aussi Infobae. Le Miami Herald indiquait que Wilson Joseph, dit Lanmò San Jou, n'était pas sur place. Haitian Times, le 10 novembre, n'avait pas pu vérifier si la propriété avait été détruite ou seulement visée.",
     },
-    sources: ["Al Jazeera", "Infobae", "Haitian Times"],
+    sources: ["Associated Press", "BBC", "Al Jazeera", "Infobae", "Haitian Times"],
     sourceLinks: [
+      { name: "Associated Press", url: "https://apnews.com/article/nayib-bukele-el-salvador-haiti-elections-war-on-gangs-un-rubio-democracy-5c8a5e284835778c31c9ff78c140afcd" },
+      { name: "BBC", url: "https://www.bbc.com/news/articles/cmvg2xdwnwezo" },
       { name: "Al Jazeera", url: "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead" },
       { name: "Infobae", url: "https://www.infobae.com/el-salvador/2026/11/10/bukele-afirma-que-las-fuerzas-salvadorenas-destruyeron-el-cuartel-de-la-banda-400-mawozo-en-haiti/" },
       { name: "Haitian Times", url: "https://haitiantimes.com/2026/11/10/mansion-linked-haiti-gang-leader-reportedly-destroyed/" },
