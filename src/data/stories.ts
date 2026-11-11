@@ -16,6 +16,263 @@ import type { Story } from "../types";
  */
 export const STORIES: Story[] = [
   {
+    id: "ntk-g7-ue-elections-gsf-2026-11-11",
+    tier: "need-to-know",
+    topic: "politics",
+    publishedAt: "2026-11-11",
+    publishedTime: "2026-11-11T17:43:00-05:00",
+    headline: {
+      ht: "G7 ak Inyon ewopeyen, nan Pari: yo enkyete pou moun ki sanksyone nan eleksyon yo, mandat GSF rive nan fen mas 2027",
+      fr: "G7 et UE, à Paris : inquiétude sur des personnes sanctionnées dans les élections, mandat de la GSF jusqu'à fin mars 2027",
+    },
+    teaser: {
+      ht: "Minis yo mande donatè yo mete plis lajan nan fon konfyans Nasyonzini, dapre EFE ak Diario Libre.",
+      fr: "Les ministres demandent aux donateurs d'abonder le fonds fiduciaire de l'ONU, selon EFE et Diario Libre.",
+    },
+    brief: {
+      ht: "Apre yon reyinyon 9 ak 10 novanm nan Pari, minis zafè etranje G7 yo pibliye mercredi yon deklarasyon kote yo di yo suiv ak enkyetid prezans moun ki sanksyone nan pwosesis elektoral ayisyen an, EFE ekri.",
+      fr: "Au terme d'une réunion les 9 et 10 novembre à Paris, les ministres des Affaires étrangères du G7 ont publié mercredi une déclaration dans laquelle ils disent suivre avec préoccupation la participation de personnes sanctionnées au processus électoral haïtien, écrit EFE.",
+    },
+    body: {
+      ht: "Minis zafè etranje peyi G7 yo, apre yon reyinyon de jou nan Pari 9 ak 10 novanm, pibliye mercredi 11 novanm yon deklarasyon sou Ayiti, EFE relè, sitou nan Diario Libre ak Swissinfo. Yo di yo enkyete pou patisipasyon moun ki sou sanksyon nan pwosesis politik ayisyen an, paske sa ka febli reddisyon kont ak konfyans popilasyon an. Yo mande pou dekrè elektoral la aplike nèt e san patipri, epi yo raple premye tou eleksyon yo te ranvwaye pou jiyè 2027.\n\nAmitie FM ekri deklarasyon an se yon pozisyon komen minis G7 yo ak Gran reprezantan Inyon ewopeyen an. Semèn nan, yo opoze ak patisipasyon pèsonalite ki sanksyone yo nan eleksyon yo.\n\nMinis yo soutni renouvèlman mandat Fòs represyon gang yo (GSF, oswa FRG) jouk nan fen mas 2027. Yo mande tout aktè sekirite ki sou tè a pou pwoteksyon sivil ayisyen yo vin priyorite nan tout operasyon. Yo mande kominote entènasyonal la ogmante kontribisyon finansye yo nan Fon konfyans Nasyonzini an, paske siksè misyon an « depann de yon sipò miltilateral ki dire » pou finanse operasyon yo, dapre EFE.\n\nDeklarasyon an pale tou de kriz imanitè a, vyolans ak rapò sou vyolasyon dwa moun, epi li salye yon akò ant Bank mondyal ak otorite ayisyen yo kòm kad pou swiv refòm yo.",
+      fr: "Les ministres des Affaires étrangères des pays du G7, au terme d'une réunion de deux jours à Paris les 9 et 10 novembre, ont publié mercredi 11 novembre une déclaration sur Haïti, relaient EFE, notamment dans Diario Libre et Swissinfo. Ils disent suivre avec préoccupation la participation de personnes soumises à des sanctions dans le processus politique haïtien, estimant que cela mine la reddition de comptes et la confiance de la population. Ils demandent l'application pleine et impartiale du décret électoral, et rappellent que le premier tour a été reporté à juillet 2027.\n\nAmitie FM écrit que cette position figure dans une déclaration conjointe des ministres du G7 et de la Haute représentante de l'Union européenne. Ils affichent leur opposition à la participation de personnalités sanctionnées aux élections.\n\nLes ministres ont appuyé le renouvellement du mandat de la Force de répression des gangs (GSF, ou FRG) jusqu'à la fin mars 2027. Ils ont demandé à tous les acteurs de sécurité présents sur le terrain de faire de la protection des civils haïtiens leur priorité dans toutes les opérations. Ils ont appelé la communauté internationale à augmenter ses contributions financières au Fonds fiduciaire des Nations unies, estimant que le succès de la mission « dépend d'un soutien multilatéral soutenu » pour financer ses opérations, selon EFE.\n\nLa déclaration évoque aussi la crise humanitaire, la violence et des informations sur des violations des droits humains, et salue un accord entre la Banque mondiale et les autorités haïtiennes comme cadre pour suivre les réformes.",
+    },
+    sources: ["EFE / Diario Libre", "Swissinfo", "Amitie FM"],
+    sourceLinks: [
+      { name: "Diario Libre (EFE)", url: "https://www.diariolibre.com/mundo/haiti/2026/11/11/g7-expresa-preocupacion-por-elecciones-haiti-2027/3717566" },
+      { name: "Swissinfo (EFE)", url: "https://www.swissinfo.ch/spa/el-g7,-preocupado-por-participaci%C3%B3n-de-sancionados-en-el-proceso-pol%C3%ADtico-de-hait%C3%AD/92364866" },
+      { name: "Amitie FM", url: "https://www.amitiefm.ht/post/haïti-le-g7-et-l-union-européenne-opposés-à-la-participation-des-personnalités-sanctionnées-aux-él" }
+    ],
+  },
+  {
+    id: "ntk-gi-elections-reseaux-criminels-2026-11-11",
+    tier: "need-to-know",
+    topic: "politics",
+    publishedAt: "2026-11-11",
+    publishedTime: "2026-11-11T17:42:40-05:00",
+    headline: {
+      ht: "Global Initiative : dekrè a retire sètifika BRH, e 3 gwo komin pa gen sant enskripsyon",
+      fr: "Global Initiative : le décret a retiré le certificat BRH, et 3 grandes communes n'ont pas de centre d'inscription",
+    },
+    teaser: {
+      ht: "Pa gen sant nan Kafou, Site Soley ni Kwadèbouke, kote gen prèske 680000 moun ki gen laj pou vote. Rit enskripsyon an te tonbe alantou 6300 pa jou nan mwa oktòb.",
+      fr: "Pas de centres à Carrefour, Cité Soleil ni Croix-des-Bouquets, soit près de 680000 personnes en âge de voter. Le rythme est tombé à environ 6300 inscriptions par jour en octobre.",
+    },
+    brief: {
+      ht: "Nan yon analiz Romain Le Cour Grandmaison, Global Initiative ekri dekrè elektoral oktòb la retire obligasyon sètifika Bank Repiblik Ayiti pou kandida yo. Anvan, moun ki te sou sanksyon te gen difikilte pou jwenn dokiman sa a.",
+      fr: "Dans une analyse de Romain Le Cour Grandmaison, Global Initiative écrit que le décret électoral d'octobre a retiré l'obligation du certificat de la Banque de la République d'Haïti pour les candidats. Auparavant, les personnes sous sanctions avaient du mal à obtenir ce document.",
+    },
+    body: {
+      ht: "Enstiti Global Initiative Against Transnational Organized Crime pibliye yon analiz Romain Le Cour Grandmaison sou risk rezo kriminèl yo fè peze sou pwochen eleksyon yo. Otè a ekri dekrè elektoral ki te pibliye nan mwa oktòb la febli kèk sòbaj ki te deja frajil. Anvan, kandida yo te dwe bay yon sètifika Bank Repiblik Ayiti ki ateste yo pa fè fayit ni yo pa entèdi nan sistèm bankè a, yon dokiman moun ki sou sanksyon etranje te gen difikilte pou jwenn. Dekrè a retire dispozisyon sa a. Efè a, li ekri, se ke yon figi politik Etazini, Kanada oswa Inyon ewopeyen te sanksyone pa bloke ankò sou baz dokiman sa a pou li kandida.\n\nSou enskripsyon elektè yo, analiz la di, nan fen oktòb, CEP te anrejistre anviwon 888800 elektè, sou yon estimasyon 7 milyon sitwayen ki gen laj pou vote. Rit la te ralanti, li te soti plis pase 10000 enskripsyon pa jou ant jiyè ak septanm, pou li tounen anviwon 6300 pa jou nan mwa oktòb. Menm si pwosesis la ta kontinye jouk jou eleksyon an, rejis la ta rete alantou 2,5 milyon moun, otè a kalkile.\n\nAnplis, pa gen sant enskripsyon k ap mache nan Kafou, Site Soley ni Kwadèbouke, kote gen prèske 680000 sitwayen ki gen laj pou vote. CEP te idantifye 23 katye ki anba enfliyans gang, sitou nan Lwès ak Atibonit, ki reprezante 54 % elektora a, dapre analiz la. Konsèy la pa t presize ki nivo sekirite ki ta pèmèt vote nan zòn sa yo, ni menm si pral gen vote la.",
+      fr: "L'institut Global Initiative Against Transnational Organized Crime publie une analyse de Romain Le Cour Grandmaison sur le risque que des réseaux criminels pèsent sur les prochaines élections. L'auteur écrit que le décret électoral paru en octobre a affaibli des garde-fous déjà fragiles. Auparavant, les candidats devaient fournir un certificat de la Banque de la République d'Haïti attestant qu'ils n'étaient ni en faillite ni interdits bancaires, un document que des personnes sous sanctions étrangères avaient du mal à obtenir. Le décret a retiré cette disposition. Dans les faits, écrit-il, une personnalité sanctionnée par les États-Unis, le Canada ou l'Union européenne n'est plus empêchée de se présenter sur cette base.\n\nSur l'inscription des électeurs, l'analyse indique qu'à la fin octobre, le CEP avait enregistré quelque 888800 électeurs, sur une estimation de 7 millions de citoyens en âge de voter. Le rythme a ralenti, passant de plus de 10000 inscriptions par jour entre juillet et septembre à environ 6300 par jour en octobre. Même si le processus se poursuivait jusqu'au jour du scrutin, le registre ne compterait qu'environ 2,5 millions de personnes, calcule l'auteur.\n\nEn outre, aucun centre d'inscription ne fonctionne à Carrefour, à Cité Soleil ni à Croix-des-Bouquets, où vivent près de 680000 citoyens en âge de voter. Le CEP a recensé 23 quartiers sous influence des gangs, surtout dans l'Ouest et l'Artibonite, qui représentent 54 % de l'électorat, selon l'analyse. Le Conseil n'a précisé ni le niveau de sécurité qui permettrait d'y voter, ni même si le vote y aura lieu.",
+    },
+    sources: ["Global Initiative"],
+    sourceLinks: [
+      { name: "Global Initiative", url: "https://globalinitiative.net/analysis/who-will-protect-the-upcoming-elections-from-criminal-networks/" }
+    ],
+  },
+  {
+    id: "ntk-fils-aime-depart-desras-claude-2026-11-11",
+    tier: "need-to-know",
+    topic: "politics",
+    publishedAt: "2026-11-11",
+    publishedTime: "2026-11-11T17:42:20-05:00",
+    headline: {
+      ht: "Desras ak Marie Denise Claude mande Premye minis Fils-Aimé ale",
+      fr: "Desras et Marie Denise Claude réclament le départ du Premier ministre Fils-Aimé",
+    },
+    teaser: {
+      ht: "Ancien prezidan Sena a ak kowòdonatris ansyen siyatè Pak la pale 10 ak 11 novanm, dapre NAGO ak Télé Pluriel.",
+      fr: "L'ancien président du Sénat et la coordinatrice des anciens signataires du Pacte s'expriment les 10 et 11 novembre, selon NAGO et Télé Pluriel.",
+    },
+    brief: {
+      ht: "Dieuseul Simon Desras, mardi 10 novanm nan Pòtoprens, mande Alix Didier Fils-Aimé kite pòs la, NAGO ekri. Li rapid li pa montre ase volonte pou òganize eleksyon. Télé Pluriel rapòte Marie Denise Claude fè menm demand la.",
+      fr: "Dieuseul Simon Desras, mardi 10 novembre à Port-au-Prince, demande à Alix Didier Fils-Aimé de quitter ses fonctions, écrit NAGO. Il lui reproche de ne pas montrer assez de volonté pour organiser des élections. Télé Pluriel rapporte que Marie Denise Claude formule la même demande.",
+    },
+    body: {
+      ht: "Ancien prezidan Sena a, Dieuseul Simon Desras, mande Premye minis Alix Didier Fils-Aimé ale. Li te pale nan Pòtoprens, mardi 10 novanm, NAGO ekri. Li rapid chèf gouvènman an pa montre ase detèminasyon pou òganize eleksyon. Pou li, yon remaniman ministèryèl pa t ap rezoud pwoblèm yo. Li pwopoze yon egzekitif ak de tèt, yon prezidan ak yon Premye minis.\n\nDesras di li soutni voye militè salvadorien ann Ayiti, si prezans yo kadre nan lalwa epi li pwolonje kooperasyon ant de peyi yo. Li jije aksyon Nasyonzini yo pa ase, e li etone jan òganizasyon an te reponn yon kourye ki soti bò kote Lanmò San Jou. Nan pawòl NAGO relè yo, li di tou kèk dirijan asosye ak gwoup ame, san li pa prezante prèv sou akizasyon sa a.\n\nTélé Pluriel, nan inite 11 novanm nan, ekri Gwoup ansyen siyatè Pak la fè yon bilan tre kritik sou 24 mwa gouvènans Fils-Aimé. Kowòdonatris li a, Marie Denise Claude, reklame Premye minis la ale, li akize l li pa kenbe angajman li yo sou sekirite ak òganizasyon eleksyon yo. Se sa medya a relè nan jounal li a, kòm pozisyon gwoup la nan moman sa a.",
+      fr: "L'ancien président du Sénat, Dieuseul Simon Desras, demande le départ du Premier ministre Alix Didier Fils-Aimé. Il s'est exprimé à Port-au-Prince, mardi 10 novembre, écrit NAGO. Il reproche au chef du gouvernement de ne pas montrer assez de détermination pour organiser des élections. Un remaniement ministériel ne suffirait pas, à ses yeux, à résoudre les difficultés du pays. Il préconise un exécutif à deux têtes, avec un président et un Premier ministre.\n\nDesras dit soutenir l'envoi de militaires salvadoriens en Haïti, à condition que leur présence soit encadrée par la loi et prolonge la coopération entre les deux pays. Il juge l'action des Nations unies insuffisante, et s'étonne de la promptitude avec laquelle l'organisation a répondu à un courrier venu du côté de Lanmò San Jou. Dans les propos rapportés par NAGO, il affirme aussi que des dirigeants s'associent à des groupes armés, sans présenter d'éléments à l'appui de cette accusation.\n\nTélé Pluriel, dans son journal du 11 novembre, écrit que le Groupe des anciens signataires du Pacte dresse un bilan très critique des 24 mois de gouvernance d'Alix Didier Fils-Aimé. Sa coordinatrice, Marie Denise Claude, réclame le départ du Premier ministre, qu'elle accuse de n'avoir pas tenu ses engagements en matière de sécurité et d'organisation des élections. C'est la position du groupe telle que le média la relait ce jour-là.",
+    },
+    sources: ["NAGO", "Télé Pluriel"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/dieuseul-simon-desras-reclame-le-depart-du-premier-ministre-fils-aime" },
+      { name: "Télé Pluriel", url: "https://teleplurielhaiti.com/actualite-a-la-une-du-11-novembre-2026-la-pnh-appuyee-par-la-task-force-a-mene-mardi-une-operation-a-martissant-a-laide-de-drones-explosifs-lintervention-a-provoque-un-mouvement/" },
+      { name: "NAGO, flash 8 h", url: "https://nago.tv/flash-info/2026-11-11-08" }
+    ],
+  },
+  {
+    id: "ntk-ocha-faim-ipc-2026-11-11",
+    tier: "need-to-know",
+    topic: "society",
+    publishedAt: "2026-11-11",
+    publishedTime: "2026-11-11T17:42:00-05:00",
+    headline: {
+      ht: "OCHA : prèske 6 milyon Ayisyen nan ensikerite alimantè egi, prèske 1,9 milyon nan ijans",
+      fr: "OCHA : près de 6 millions d'Haïtiens en insécurité alimentaire aiguë, dont près de 1,9 million en urgence",
+    },
+    teaser: {
+      ht: "IPC pwojete 6,35 milyon moun ant mas ak jen 2027, sètadi 57 % popilasyon yo analize a.",
+      fr: "L'IPC projette 6,35 millions de personnes entre mars et juin 2027, soit 57 % de la population analysée.",
+    },
+    brief: {
+      ht: "Le Nouvelliste ekri Biwo Nasyonzini pou koòdinasyon zafè imanitè (OCHA) siyale yon agravant grangou, sou baz dènye analiz IPC. Li pale de prèske 6 milyon moun, ladan yo prèske 1,9 milyon nan ijans.",
+      fr: "Le Nouvelliste écrit que le Bureau des Nations unies pour la coordination des affaires humanitaires (OCHA) signale une aggravation de la faim, d'après la dernière analyse du Cadre intégré de classification (IPC). Il parle de près de 6 millions de personnes, dont près de 1,9 million en situation d'urgence.",
+    },
+    body: {
+      ht: "OCHA siyale, nan yon rapò Le Nouvelliste relè, yon agravant ensikerite alimantè atravè peyi a, li lye ak vyolans gang yo. Jounal la ekri prèske 6 milyon moun, plis pase mwatye popilasyon an, ap fè fas ak yon grav ensikerite alimantè egi, dapre òganizasyon an ki site dènye analiz Cadre intégré de classification de la sécurité alimentaire (IPC). Pami yo, prèske 1,9 milyon yo nan sitiyasyon ijans, OCHA presize.\n\nGazette Haiti, ki reprann menm done yo, bay chif IPC yo pi sere: 5,94 milyon moun, sètadi 53 % popilasyon yo analize a, nan kriz alimantè oswa yon nivo pi grav, ant septanm 2026 ak fevriye 2027. Pami yo, anviwon 1,8 milyon yo klase nan faz ijans. OCHA, bò pa l, pale de prèske 1,9 milyon nan kategori sa a.\n\nPou mwa k ap vini yo, IPC pwojete kantite moun nan ensikerite alimantè egi ka rive 6,35 milyon, sètadi 57 % popilasyon yo analize a, ant mas ak jen 2027. Prèske 2 milyon nan yo ta ka lè sa a nan ijans alimantè, Gazette Haiti ekri. Pwojeksyon yo pran an kont konsekans posib El Niño sou pwodiksyon agrikòl la. Vyolans yo deplase moun, anpeche kiltivatè yo jwenn tè yo, e yo deranje sikilasyon machandiz yo, sa ki fè pri manje yo monte.",
+      fr: "OCHA signale, dans un rapport relaté par Le Nouvelliste, une aggravation de l'insécurité alimentaire à travers le pays, liée aux violences des gangs. Le journal écrit que près de 6 millions de personnes, soit plus de la moitié de la population, sont confrontées à une grave insécurité alimentaire aiguë, selon l'organisation, qui cite la dernière analyse du Cadre intégré de classification de la sécurité alimentaire (IPC). Parmi elles, près de 1,9 million se trouvent en situation d'urgence, précise OCHA.\n\nGazette Haiti, qui reprend les mêmes données, donne les chiffres plus serrés de l'IPC : 5,94 millions de personnes, soit 53 % de la population analysée, en situation de crise alimentaire ou à un niveau plus grave, entre septembre 2026 et février 2027. Parmi elles, environ 1,8 million sont classées en phase d'urgence. OCHA, de son côté, parle de près de 1,9 million dans cette catégorie.\n\nPour les mois qui viennent, l'IPC projette que le nombre de personnes en insécurité alimentaire aiguë pourrait atteindre 6,35 millions, soit 57 % de la population analysée, entre mars et juin 2027. Près de deux millions d'entre elles pourraient alors se retrouver en situation d'urgence alimentaire, écrit Gazette Haiti. Les prévisions prennent notamment en compte les conséquences possibles d'El Niño sur la production agricole. Les violences déplacent des habitants, empêchent les agriculteurs d'accéder à leurs terres et perturbent la circulation des marchandises, ce qui fait monter le prix des aliments.",
+    },
+    sources: ["Le Nouvelliste", "Gazette Haiti", "OCHA", "IPC"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273765/ocha-alerte-sur-une-aggravation-de-la-faim-en-haiti" },
+      { name: "Gazette Haiti", url: "https://www.gazettehaiti.com/node/14522" }
+    ],
+  },
+  {
+    id: "ntk-usccb-tps-s4814-2026-11-11",
+    tier: "need-to-know",
+    topic: "society",
+    publishedAt: "2026-11-11",
+    publishedTime: "2026-11-11T17:41:20-05:00",
+    headline: {
+      ht: "Evèk ameriken yo mande Sena a vote S. 4814 pou pwolonje TPS ayisyen an jouk 20 avril 2029",
+      fr: "Les évêques américains demandent au Sénat d'adopter le S. 4814 pour prolonger le TPS haïtien jusqu'au 20 avril 2029",
+    },
+    teaser: {
+      ht: "Nan yon lèt 10 novanm, USCCB soutni tèks Chanm nan te deja vote nan mwa avril, EWTN rapòte.",
+      fr: "Dans une lettre du 10 novembre, la USCCB appuie le texte déjà voté par la Chambre en avril, rapporte EWTN.",
+    },
+    brief: {
+      ht: "Konferans evèk katolik Etazini (USCCB) voye, 10 novanm, yon lèt bay senatè yo pou yo vote S. 4814, yon pwojè lwa ki ta egzije pwolongasyon TPS pou Ayiti jouk 20 avril 2029.",
+      fr: "La Conférence des évêques catholiques des États-Unis (USCCB) a adressé, le 10 novembre, une lettre aux sénateurs pour leur demander d'adopter le S. 4814, un texte qui exigerait la prolongation du TPS pour Haïti jusqu'au 20 avril 2029.",
+    },
+    body: {
+      ht: "De prezidan komite Konferans evèk katolik Etazini, evèk deziye Brendan Cahill, pou komite migrasyon an, ak evèk A. Elias Zaidan, pou komite jistis entènasyonal ak lapè, te siyen 10 novanm yon lèt bay senatè yo. Yo mande yo travay ak lidèchip Sena a pou vote S. 4814, ki ta egzije Sekretè Sekirite enteryè a deziyen Ayiti ankò pou estati pwoteksyon tanporè (TPS). EWTN ekri tèks la ta pwolonje pwoteksyon sa a jouk 20 avril 2029, epi li ta pèmèt moun ki gen TPS, ladan yo plis pase 330000 Ayisyen, rete ak travay legalman pandan peryòd sa a. Chanm reprezantan yo te deja vote, nan mwa avril, yon tèks parèy, H.R. 1689, sou yon baz bipati, lèt la raple.\n\nEvèk yo ekri yo pa ka aksepte voye tounen, fòse, dè santèn milye Ayisyen nan moman sa a. Yo site vyolans ki kontinye nan peyi a, absans yon sistèm akeyi ki òganize, ak vòl ekspilsyon ki ap kite Etazini chak semèn depi mwa out. Yo raple tou, dapre EWTN, TPS pou Ayiti te fini 27 jiyè, apre yon desizyon Tribinal siprèm lan te pèmèt fen a pran efè.\n\nLèt la di pwolongasyon TPS pa t ap anpeche otorite imigrasyon yo trete moun ki poze yon menas vre pou sekirite piblik. Evèk yo mande tou, pi lwen, refòm ki ta ba rezidan ki gen lontan nan kominote ameriken yo, tankou Ayisyen ki gen TPS, yon estati legal ki pi solid.",
+      fr: "Les présidents de deux commissions de la Conférence des évêques catholiques des États-Unis, l'évêque désigné Brendan Cahill, pour la commission Migration, et l'évêque A. Elias Zaidan, pour la commission Justice internationale et paix, ont signé le 10 novembre une lettre adressée aux sénateurs. Ils les exhortent à travailler avec la direction du Sénat pour faire adopter le S. 4814, qui exigerait du secrétaire à la Sécurité intérieure qu'il désigne à nouveau Haïti au titre du statut de protection temporaire (TPS). EWTN écrit que le texte prolongerait cette protection jusqu'au 20 avril 2029, et qu'il permettrait aux titulaires de TPS, dont plus de 330000 Haïtiens, de rester et de travailler légalement pendant cette période. La Chambre des représentants a déjà adopté, en avril, un texte parallèle, le H.R. 1689, sur une base bipartisane, rappelle la lettre.\n\nLes évêques écrivent qu'il n'est pas acceptable, dans les circonstances actuelles, de rapatrier de force des centaines de milliers d'Haïtiens. Ils citent les violences qui se poursuivent dans le pays, l'absence d'un système d'accueil organisé, et les vols d'expulsion qui quittent les États-Unis chaque semaine depuis août. Ils rappellent aussi, d'après EWTN, que le TPS pour Haïti a pris fin le 27 juillet, après qu'une décision de la Cour suprême a permis à cette expiration de produire ses effets.\n\nLa lettre souligne que la prolongation du TPS n'empêcherait pas les autorités de l'immigration de traiter les personnes qui posent une véritable menace pour la sécurité publique. Les évêques demandent aussi, plus largement, des réformes qui offriraient aux résidents de longue date des communautés américaines, notamment aux Haïtiens titulaires du TPS, un statut légal plus durable.",
+    },
+    sources: ["USCCB", "EWTN News"],
+    sourceLinks: [
+      { name: "USCCB, lettre du 10 novembre (PDF)", url: "https://www.usccb.org/resources/USCCB%20Letter%20on%20S.%204814%20and%20Related%20Matters.pdf" },
+      { name: "EWTN News", url: "https://www.ewtnnews.com/world/us/u-s-bishops-urge-senate-to-protect-haitians-from-deportation" },
+      { name: "Congrès, texte S. 4814", url: "https://www.congress.gov/bill/119th-congress/senate-bill/4814/text" }
+    ],
+  },
+  {
+    id: "qh-aeroport-toussaint-2-ans-2026-11-11",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-11",
+    publishedTime: "2026-11-11T17:41:00-05:00",
+    headline: {
+      ht: "Dezan de sa, yo te tire sou avyon nan Toussaint Louverture; vòl ameriken yo pou kapital la rete entèdi",
+      fr: "Il y a deux ans, des tirs visaient des avions à Toussaint Louverture ; les vols américains vers la capitale restent interdits",
+    },
+    teaser: {
+      ht: "FAA pwolonje entèdiksyon an jouk 2 mas 2027. American te rekòmanse liy Miami-Kap-Ayisyen 1e novanm.",
+      fr: "La FAA prolonge l'interdiction jusqu'au 2 mars 2027. American a repris la ligne Miami-Cap-Haïtien le 1er novembre.",
+    },
+    brief: {
+      ht: "11 novanm 2024, plizyè avyon komèsyal te pran kout zam toupre ayewopò entènasyonal Toussaint Louverture. Dezan apre, konpanyi ameriken yo toujou pa ka sèvi Pòtoprens, jouk omwen 2 mas 2027, dapre FAA.",
+      fr: "Le 11 novembre 2024, plusieurs avions commerciaux ont essuyé des tirs près de l'aéroport international Toussaint Louverture. Deux ans plus tard, les compagnies américaines ne peuvent toujours pas desservir Port-au-Prince, jusqu'au 2 mars 2027 au moins, selon la FAA.",
+    },
+    body: {
+      ht: "Dezan pase, 11 novanm 2024, plizyè avyon komèsyal te pran kout zam toupre ayewopò entènasyonal Toussaint Louverture, nan Pòtoprens. Yon avyon Spirit Airlines te pami yo, e yon otès te blese, dapre ajans lè sa a. Atak sa yo te mennen fèmen platfòm nan pou yon tan, epi Etazini te entèdi konpanyi ameriken yo sèvi kapital la. Ayewopò a te louvri ankò 11 desanm 2024, Reuters ak AP te rapòte lè sa a.\n\nJodi a, se pa yon fèmen total nou ka etabli pou tout trafik. Sa ki klè, se ke Federal Aviation Administration (FAA) toujou entèdi konpanyi ameriken yo, ak avyon sivil ki anrejistre nan Etazini, vole anba 10000 pye sou Pòtoprens ak zòn vwazin yo, jouk 2 mas 2027, apre yon pwolongasyon ki te fèt nan kòmansman septanm 2026. NAGO te presize, 29 oktòb, okenn gwo konpanyi ameriken poko rekòmanse vòl regilye pou kapital la. American Airlines, li menm, te rekòmanse 1e novanm yon vòl chak jou ant Miami ak Kap-Ayisyen.\n\nFAA te deja louvri lòt ayewopò, tankou Kap-Ayisyen, Okay, Jeremi, Pòdepe, Jakmèl ak Pignon, pou konpanyi ameriken yo. Sa pa vle di ayewopò Toussaint Louverture fèmen pou tout machin ki pa ameriken. Nou pa t ka verifye, nan sous solid jodi a, yon orè komèsyal regilye ki retounen nèt sou Pòtoprens.",
+      fr: "Il y a deux ans, le 11 novembre 2024, plusieurs avions commerciaux ont essuyé des tirs près de l'aéroport international Toussaint Louverture, à Port-au-Prince. Un appareil de Spirit Airlines avait été touché, et une hôtesse blessée, selon les agences de l'époque. Ces attaques avaient conduit à la fermeture de la plateforme pour un temps, et les États-Unis avaient interdit à leurs compagnies de desservir la capitale. L'aéroport avait rouvert le 11 décembre 2024, avaient alors rapporté Reuters et l'AP.\n\nAujourd'hui, une fermeture totale de tout le trafic ne peut pas être établie. Ce qui est établi, c'est que la Federal Aviation Administration (FAA) interdit toujours aux compagnies américaines, et aux aéronefs civils immatriculés aux États-Unis, de voler sous 10000 pieds au-dessus de Port-au-Prince et des zones voisines, jusqu'au 2 mars 2027, après une prolongation intervenue début septembre 2026. NAGO précisait, le 29 octobre, qu'aucune grande compagnie américaine n'avait repris de vols réguliers vers la capitale. American Airlines, elle, a relancé le 1er novembre une liaison quotidienne entre Miami et Cap-Haïtien.\n\nLa FAA avait déjà rouvert d'autres aéroports, dont Cap-Haïtien, Les Cayes, Jérémie, Port-de-Paix, Jacmel et Pignon, aux compagnies américaines. Cela ne signifie pas que Toussaint Louverture soit fermé à tout appareil non américain. Nous n'avons pas pu vérifier, dans des sources solides aujourd'hui, un retour complet d'un trafic commercial régulier sur Port-au-Prince.",
+    },
+    sources: ["NAGO", "FAA", "Associated Press", "Reuters"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://nago.tv/en/news/vols-etats-unis-american-cap-haitien-1er-novembre-port-au-prince-ferme" },
+      { name: "AP, prolongation de l'interdiction", url: "https://apnews.com/article/haiti-us-flight-ban-faa-gangs-violence-70e3aa409fb24c7916568b4d904bfa4a" },
+      { name: "Reuters, réouverture en décembre 2024", url: "https://www.reuters.com/world/asia-pacific/haiti-announces-reopening-capitals-international-airport-2024-12-11/" }
+    ],
+  },
+  {
+    id: "qh-usfah-hopital-delmas-75-2026-11-11",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-11",
+    publishedTime: "2026-11-11T17:40:40-05:00",
+    headline: {
+      ht: "USFAH : yon lopital inogire mardi nan Dilma 75, dapre Télé Pluriel",
+      fr: "USFAH : un hôpital inauguré mardi à Delmas 75, selon Télé Pluriel",
+    },
+    teaser: {
+      ht: "Inivèsite Saint-François d'Assise d'Haïti gen kounye a pwòp sant lopital li, nan yon seremoni pè Brillère Opont te prezide.",
+      fr: "L'Université Saint-François d'Assise d'Haïti a désormais son propre centre hospitalier, inauguré lors d'une cérémonie présidée par le père Brillère Opont.",
+    },
+    brief: {
+      ht: "Télé Pluriel, nan inite 11 novanm nan, ekri Inivèsite Saint-François d'Assise d'Haïti (USFAH) gen kounye a pwòp sant lopital li, ki chita nan Dilma 75. Yo te inogire l mardi, nan yon seremoni relijye.",
+      fr: "Télé Pluriel, dans son journal du 11 novembre, écrit que l'Université Saint-François d'Assise d'Haïti (USFAH) dispose désormais de son propre centre hospitalier, situé à Delmas 75. L'établissement a été inauguré mardi, lors d'une cérémonie religieuse.",
+    },
+    body: {
+      ht: "Télé Pluriel ekri, nan inite mercredi 11 novanm nan, Inivèsite Saint-François d'Assise d'Haïti gen kounye a pwòp sant lopital li, ki chita nan Dilma 75. Etablisman an te inogire mardi, nan yon seremoni relijye pè Brillère Opont te prezide. Medya a pa bay plis detay sou sèvis yo, ni sou kapasite lopital la.\n\nNou pa t jwenn yon dezyèm sous endepandan ki konfime inogirasyon mardi a. Kèk atik pi gran te pale de yon ouvèti « pwòch » pou Hôpital Saint-François d'Assise d'Haïti, san yo pa t fikse dat sa a. Nou rete sou sa Télé Pluriel pibliye.",
+      fr: "Télé Pluriel écrit, dans son journal de mercredi 11 novembre, que l'Université Saint-François d'Assise d'Haïti dispose désormais de son propre centre hospitalier, situé à Delmas 75. L'établissement a été inauguré mardi, lors d'une cérémonie religieuse présidée par le révérend père Brillère Opont. Le média ne donne pas plus de détails sur les services offerts, ni sur la capacité de l'hôpital.\n\nNous n'avons pas trouvé de second compte rendu indépendant qui confirme cette inauguration de mardi. Quelques articles plus anciens parlaient d'une ouverture « prochaine » de l'Hôpital Saint-François d'Assise d'Haïti, sans retenir cette date. Nous nous en tenons à ce que Télé Pluriel a publié.",
+    },
+    sources: ["Télé Pluriel"],
+    sourceLinks: [
+      { name: "Télé Pluriel", url: "https://teleplurielhaiti.com/actualite-a-la-une-du-11-novembre-2026-la-pnh-appuyee-par-la-task-force-a-mene-mardi-une-operation-a-martissant-a-laide-de-drones-explosifs-lintervention-a-provoque-un-mouvement/" }
+    ],
+  },
+  {
+    id: "qh-nago-briefs-oavct-ia-rara-2026-11-11",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-11",
+    publishedTime: "2026-11-11T17:40:20-05:00",
+    headline: {
+      ht: "An kout: OAVCT sou nouvo Kòd fiskal, UNITECH lanse « AI Future Haïti », Plezi Rara nan Village Halloween Parade",
+      fr: "En bref : l'OAVCT face au nouveau Code fiscal, UNITECH lance « AI Future Haïti », Plezi Rara à la Village Halloween Parade",
+    },
+    teaser: {
+      ht: "Twa nòt NAGO, 10 ak 11 novanm: yon seans sou aplikasyon kòd la, yon pwogram IA pou jèn yo, ak yon bann rara Brooklyn nan Manhattan 31 oktòb.",
+      fr: "Trois brèves de NAGO, les 10 et 11 novembre : une séance sur l'application du code, un programme d'IA pour les jeunes, et un bann rara de Brooklyn à Manhattan le 31 octobre.",
+    },
+    brief: {
+      ht: "OAVCT te òganize mardi 10 novanm yon seans sou obstak nouvo Kòd fiskal la. UNITECH ak EXPERSO te anonse « AI Future Haïti », ak yon premye evènman 15 novanm nan Delma. Plezi Rara te jwe nan 53e Village Halloween Parade, 31 oktòb.",
+      fr: "L'OAVCT a consacré, mardi 10 novembre, une séance aux obstacles du nouveau Code fiscal. UNITECH et EXPERSO ont annoncé « AI Future Haïti », avec un premier événement le 15 novembre à Delmas. Plezi Rara a joué à la 53e Village Halloween Parade, le 31 octobre.",
+    },
+    body: {
+      ht: "Biwo asirans machin kont twazyèm (OAVCT) te konsakre, mardi 10 novanm, yon seans refleksyon sou difikilte nouvo Kòd fiskal ayisyen an, NAGO ekri, sou baz Vant Bèf Info. Reyinyon an te fèt nan syèj enstitisyon an, nan Pòtoprens, nan okazyon Jounen entènasyonal kontebilite. Direktè jeneral Jocelin Pierre te la, ansanm ak lòt kad. Entèvènans Keitel Jean Louis ak Jacquecer Daréus te pale de tèks ki soti ta, konpleksite yo, ak yon mank enfòmasyon bò kote DGI, san bliye mwayen lojistik ak sistèm enfòmasyon ki limite.\n\nInivèsite Teknoloji Ayiti (UNITECH) ak sosyete EXPERSO te anonse, lendi 9 novanm, lansman pwogram « AI Future Haïti », NAGO ak Le National rapòte. Premye evènman an, « AI Future Day », pwograme 15 novanm nan Palè minisipal Delma, pou sansibilize jèn yo sou opòtinite entèlijans atifisyèl.\n\nPlezi Rara, yon bann rara ki baze nan Brooklyn, te jwe rabòday sou Sixth Avenue, nan Greenwich Village, pandan 53e Village Halloween Parade nan New York, samdi 31 oktòb, NAGO ekri, sou baz The Haitian Times. Òganizatè yo te estime 2 milyon moun te asiste. Maestro Peter, ki te grandi nan Bèlè e ki ale Brooklyn a 15 an, te dirije gwoup la.",
+      fr: "L'Office d'assurance véhicules contre tiers (OAVCT) a consacré, mardi 10 novembre, une séance de réflexion aux difficultés que pose le nouveau Code fiscal haïtien, écrit NAGO, d'après Vant Bèf Info. La rencontre s'est tenue au siège de l'institution, à Port-au-Prince, à l'occasion de la Journée internationale de la comptabilité. Le directeur général, Jocelin Pierre, y assistait, avec d'autres cadres. Les exposés de Keitel Jean Louis et Jacquecer Daréus ont cité des textes parus tardivement, leur complexité, et un déficit d'information du côté de la DGI, ainsi que des moyens logistiques et des systèmes d'information limités.\n\nL'Université de Technologie d'Haïti (UNITECH) et la société EXPERSO ont annoncé, lundi 9 novembre, le lancement du programme « AI Future Haïti », rapportent NAGO et Le National. Le premier événement, « AI Future Day », est prévu le 15 novembre au Palais municipal de Delmas, pour sensibiliser les jeunes aux opportunités de l'intelligence artificielle.\n\nPlezi Rara, un bann rara basé à Brooklyn, a joué du rabòday sur la Sixième Avenue, à Greenwich Village, lors de la 53e Village Halloween Parade à New York, samedi 31 octobre, écrit NAGO d'après The Haitian Times. Les organisateurs ont estimé la fréquentation à 2 millions de personnes. Maestro Peter, qui a grandi à Belair et a rejoint Brooklyn à 15 ans, dirigeait le groupe.",
+    },
+    sources: ["NAGO", "Vant Bèf Info", "Le National", "The Haitian Times"],
+    sourceLinks: [
+      { name: "NAGO, OAVCT", url: "https://news.nago.tv/l-oavct-passe-en-revue-les-obstacles-a-l-application-du-nouveau-code-f" },
+      { name: "NAGO, AI Future Haïti", url: "https://news.nago.tv/lancement-d-ai-future-haiti-par-unitech-et-experso" },
+      { name: "NAGO, Plezi Rara", url: "https://news.nago.tv/plezi-rara-drums-raboday-through-manhattan-at-the-53rd-village-hallowe" },
+      { name: "Le National", url: "https://www.lenational.org/article/politique/8627/unitech-et-experso-annoncent-le-lancement-d-ai-future-haiti" }
+    ],
+  },
+  {
+    id: "qh-rd-guayubin-dgm-9-nov-2026-11-11",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-11",
+    publishedTime: "2026-11-11T17:40:00-05:00",
+    headline: {
+      ht: "RD : lame a arete 25 Ayisyen nan Guayubín; DGM anonse 1561 enterpelasyon ak 1505 ekspilsyon 9 novanm",
+      fr: "RD : l'armée arrête 25 Haïtiens à Guayubín ; la DGM annonce 1561 interpellations et 1505 expulsions le 9 novembre",
+    },
+    teaser: {
+      ht: "Jeneral Jimmy Arias Grullón di Listín fwontyè a « nòmal ».",
+      fr: "Le général Jimmy Arias Grullón dit à Listín que la frontière « est normale ».",
+    },
+    brief: {
+      ht: "El Nuevo Diario ekri, mercredi 11 novanm, sòlda lame dominikèn te arete 25 Ayisyen san papye nan Doña Antonia, Guayubín, nan pwovens Montecristi. Yo pral remèt yo bay DGM.",
+      fr: "El Nuevo Diario écrit, mercredi 11 novembre, que des soldats de l'armée dominicaine ont arrêté 25 Haïtiens sans papiers à Doña Antonia, à Guayubín, dans la province de Montecristi. Ils seront remis à la DGM.",
+    },
+    body: {
+      ht: "Manm Lame Repiblik Dominikèn te arete 25 Ayisyen san papye nan yon operasyon nan Doña Antonia, Guayubín, pwovens Montecristi, El Nuevo Diario ekri mercredi 11 novanm. Kòmandan 4e Brigad enfantri a, kolonèl Marcos Bonilla Gómez, te koòdone operasyon an, dapre yon kominike lame a. Moun yo arete yo pral remèt bay Direksyon jeneral migrasyon (DGM) pou pwosedi yo.\n\nApa operasyon sa a, DGM te fè konnen, pou lendi 9 novanm, li te enterpele 1561 sitwayen ayisyen nan sitiyasyon migratwa ki pa regilye, nan plizyè zòn nan peyi a, Noticias SIN rapòte. Nan menm jounen an, li te ekspilse 1505 etranje pa pwen kontwòl fwontyè yo. Lame a te remèt 476 moun bay Migrasyon pou ekspilsyon, polis nasyonal la te arete 178, e Cesfront 195, dapre menm kont randi a. Nan Sid, 539 enterpelasyon te fèt, ak Independencia an tèt, 168 moun.\n\nMenm mercredi a, majò jeneral Jimmy Arias Grullón, bò kote lame a, te di jounalis Listín Diario fwontyè ant de peyi yo « nòmal », malgre sitiyasyon gang yo ann Ayiti. Li te pale de siveyans lè ak avyon Super Tucano, de vòl ki pi souvan, ak de inite fòs espesyal ki ranfòse premye liy yo. Li te di tou lame dominikèn nan « pa kontwole » sitiyasyon bandi yo ann Ayiti, e ke sa konsène lame Salvador ak GSF.",
+      fr: "Des membres de l'armée de la République dominicaine ont arrêté 25 Haïtiens sans papiers lors d'une opération à Doña Antonia, à Guayubín, dans la province de Montecristi. El Nuevo Diario l'écrit mercredi 11 novembre. L'opération a été coordonnée par le colonel Marcos Bonilla Gómez, commandant de la 4e brigade d'infanterie, selon un communiqué de l'armée. Les personnes arrêtées seront remises à la Direction générale de la migration (DGM) pour les procédures prévues.\n\nSéparément, la DGM a indiqué que, le lundi 9 novembre, elle avait interpellé 1561 citoyens haïtiens en situation migratoire irrégulière, dans différentes zones du pays, rapportent Noticias SIN. Le même jour, elle a expulsé 1505 étrangers par les points de contrôle frontaliers. L'armée a remis 476 personnes à la Migration en vue de leur expulsion, la Police nationale en a arrêté 178, et le Cesfront 195, selon le même compte rendu. Dans le Sud, 539 interpellations ont été recensées, avec la province Independencia en tête, 168 personnes.\n\nLe même mercredi, le major général Jimmy Arias Grullón, du côté de l'armée, a dit aux journalistes de Listín Diario que la frontière entre les deux pays était « normale », malgré la situation des gangs en Haïti. Il a parlé d'une surveillance aérienne assurée par des avions Super Tucano, de vols plus fréquents, et d'unités de forces spéciales qui renforcent les premières lignes. Il a aussi dit que l'armée dominicaine « ne contrôle pas » la situation des bandes en Haïti, et que cela relève de l'armée salvadorienne et de la GSF.",
+    },
+    sources: ["El Nuevo Diario", "Noticias SIN", "DGM", "Listín Diario"],
+    sourceLinks: [
+      { name: "El Nuevo Diario", url: "https://elnuevodiario.com.do/apresan-a-25-haitianos-indocumentados-en-guayubin-provincia-montecristi/" },
+      { name: "Noticias SIN", url: "https://noticiassin.com/pais/nacional/2026/11/10/migracion-detiene-a-1561-haitianos-indocumentados-539-fueron-apresados-en-el-sur-2167122/" },
+      { name: "Listín Diario", url: "https://listindiario.com/la-republica/20261111/ejercito-dice-encuentra-normal-frontera-rd-haiti_929687.html" }
+    ],
+  },
+  {
     id: "ntk-konket-decret-electoral-2026-11-10",
     tier: "need-to-know",
     topic: "politics",
@@ -234,33 +491,35 @@ export const STORIES: Story[] = [
       { name: "Alternance Média", url: "https://alternance-media.com/police-justice/croix-des-bouquets-la-pnh-et-les-soldats-salvadoriens-menent-une-operation-denvergure-ce-mardi-10-novembre/" },
     ],
   },
-    {
+        {
     id: "ntk-martissant-drones-operation-2026-11-10",
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-11-11",
-    publishedTime: "2026-11-11T01:52:00-05:00",
+    publishedTime: "2026-11-11T17:44:00-05:00",
     isFollowUp: true,
     headline: {
-      ht: "Matisan : plis pase yon dizèn blende; Andrésol konfime yo te vize Matisan 2 ak Sent Bènadèt",
-      fr: "Martissant : plus d'une dizaine de blindés ; Andrésol confirme que Martissant 2 et Sainte-Bernadette ont été visés",
+      ht: "Kafou : lekòl yo fèmen pi bonè apre tire ki tache ak operasyon Matisan an",
+      fr: "Carrefour : des écoles ont fermé plus tôt après des tirs liés à l'opération de Martissant",
     },
     teaser: {
-      ht: "Sikilasyon an pa t ka fèt. Plizyè santèn rezidan ki te dwe ale Kafou te rasanble nan Chanmas, Le Nouvelliste ekri.",
-      fr: "La circulation était impraticable. Des centaines de résidents qui devaient se rendre à Carrefour se sont massés au Champ de Mars, écrit Le Nouvelliste.",
+      ht: "Pa t gen bilan ofisyèl mercredi maten, NAGO ekri. Operasyon ak elikoptè ak drone yo kontinye nan Kwadèbouke.",
+      fr: "Aucun bilan officiel mercredi matin, écrit NAGO. Des opérations en hélicoptère et par drone se poursuivent à Croix-des-Bouquets.",
     },
     brief: {
-      ht: "Le Nouvelliste, nan yon atik ki soti mardi aswè 10 novanm, di PNH, FAd'H ak Task Force te mennen yon operasyon nan Matisan. Minis defans Mario Andrésol konfime yo te vize Matisan 2 ak sektè legliz Sent Bènadèt, pami lòt kote. Pa gen bilan ofisyèl.",
-      fr: "Le Nouvelliste, dans un article paru mardi soir 10 novembre, écrit que la PNH, les FAd'H et la Task Force ont mené une opération à Martissant. Le ministre de la Défense, Mario Andrésol, confirme que Martissant 2 et le secteur de l'église Sainte-Bernadette, entre autres, ont été visés. Pas de bilan officiel.",
+      ht: "NAGO, nan yon flash 15 è mercredi 11 novanm, di panik te pran Kafou mardi, apre tire nouri. Plizyè lekòl te sispann pi bonè. Le Nouvelliste te deja lye mouvman sa a ak operasyon Matisan an. Pa t gen bilan ofisyèl.",
+      fr: "NAGO, dans un flash de 15 h mercredi 11 novembre, dit que la panique a gagné Carrefour mardi, après des tirs nourris. Plusieurs écoles ont cessé plus tôt. Le Nouvelliste avait déjà lié ce mouvement à l'opération de Martissant. Aucun bilan officiel n'a été publié.",
     },
     body: {
-      ht: "Le Nouvelliste, nan yon atik ki soti mardi aswè 10 novanm, ekri Polis nasyonal Ayiti, Fòs lame Ayiti ak Task Force te mennen yon operasyon nan Matisan. Jounal la di yo te mobilize plis pase yon dizèn blende. Minis defans lan, Mario Andrésol, ke Le Nouvelliste te jwenn, konfime enfòmasyon an. « Matisan 2, sektè legliz Sent Bènadèt, pami lòt kote, yo te vize yo », li di.\n\nPandan entèvansyon an, sikilasyon sou wout yo pa t ka fèt, jounal la kontinye. Plizyè santèn rezidan ki te dwe ale nan Kafou te rasanble nan Chanmas, jouk sitiyasyon an kalme. Le Nouvelliste aprann operasyon nan Matisan yo te lakoz panik nan Kafou, komin vwazin nan. Pifò lekòl yo te renvwaye elèv yo. Gwoup ame nan komin sa a, ki pa gen reprezantan gouvènman depi plizyè ane, dapre jounal la, te mete barikad pou ralanti yon avans fòs yo ta ka fè.\n\nPi bonè mardi a, vers 12:28, Radiographie te pale de yon operasyon k ap fèt nan Matisan, nan 3e sikonskripsyon Pòtoprens. Medya a te ekri inite PNH yo te gen sipò Task Force, ak drone kamikaz, e yo te remake ekipman lapolis jouk Matisan 2A. Kont randi sa a, yo te ekri l pandan operasyon an t ap fèt, pa t bay ni bilan ni dire. Le Nouvelliste, mardi aswè, pa pibliye bilan non plis.",
-      fr: "Le Nouvelliste, dans un article paru mardi soir 10 novembre, écrit que la Police nationale d'Haïti, les Forces armées d'Haïti et la Task Force ont mené une opération à Martissant. Plus d'une dizaine de blindés ont été mobilisés, selon le journal. Joint par Le Nouvelliste, le ministre de la Défense, Mario Andrésol, a confirmé l'information. « Martissant 2, le secteur de l'église Sainte-Bernadette, entre autres, ont été visés », a-t-il indiqué.\n\nAu cours de l'intervention, la circulation routière était impraticable, poursuit le journal. Des centaines de résidents qui devaient se rendre à Carrefour se sont massés au Champ de Mars, le temps que la situation se calme. Le Nouvelliste a appris que les opérations à Martissant ont provoqué la panique dans la commune voisine de Carrefour. La plupart des écoles y ont renvoyé les élèves. Des groupes armés de cette commune, qui n'a plus de représentants du gouvernement depuis plusieurs années, selon le journal, ont érigé des barricades pour ralentir une éventuelle avancée des forces de l'ordre.\n\nPlus tôt mardi, vers 12 h 28, Radiographie situait une opération en cours à Martissant, dans la 3e circonscription de Port-au-Prince. Le média écrivait que les unités de la PNH étaient appuyées par la Task Force, avec des drones kamikazes, et que des engins de la police avaient été remarqués jusqu'à Martissant 2A. Ce compte rendu, rédigé pendant l'opération, ne donnait ni bilan ni durée. Le Nouvelliste, mardi soir, n'en publie pas non plus.",
+      ht: "Nan flash 15 è mercredi 11 novanm, NAGO di panik te pran komin Kafou mardi 10 novanm. Abitan yo rapòte yo tande tire nouri. Plizyè lekòl te fèmen pi bonè, e paran yo te kouri chèche pitit yo. Abitan sa yo di prezans blende lapolis ak lame nan Matisan te deklanche panik la. Okenn bilan ofisyèl pa t pibliye mercredi maten, medya a presize.\n\nLe Nouvelliste, mardi aswè, te deja ekri operasyon PNH, FAd'H ak Task Force nan Matisan te lakoz panik nan Kafou. Pifò lekòl yo te renvwaye elèv yo, e gwoup ame nan komin sa a te monte barikad. Minis defans Mario Andrésol te konfime yo te vize Matisan 2 ak sektè legliz Sent Bènadèt, pami lòt kote. Télé Pluriel, nan inite 11 novanm nan, rakonte menm operasyon an, ak drone eksplozif, e li di li te pwovoke yon mouvman panik jouk nan Kafou.\n\nNAGO, nan yon atik mercredi, ajoute, selon medya lokal yo, gason ame nan gang Christ-Roi Chéry, yo rele Krisla, te monte plizyè barikad sou aks Kafou pou ralanti fòs yo. Medya a ekri tou, san konfimasyon endepandan, kèk manm gang ki soti Kwadèbouke ta ka pran refij nan Kafou, e ke Wilson Joseph, yo rele Lanmò San Jou, ta ka pami yo. Nou pa ka verifye deplasman sa a.\n\nMenm flash 15 è a di operasyon yo kontinye nan Kwadèbouke, ak elikoptè ak eksplozyon yo atribiye a drone. Premye minis la di Se leta k ap dirije operasyon sa yo, NAGO relè.",
+      fr: "Dans son flash de 15 h mercredi 11 novembre, NAGO dit que la panique a gagné la commune de Carrefour mardi 10 novembre. Des habitants rapportent avoir entendu des tirs nourris. Plusieurs écoles ont fermé plus tôt, et des parents ont couru chercher leurs enfants. Ces habitants lient le mouvement de panique à la présence des blindés de la police et de l'armée à Martissant. Aucun bilan officiel n'était publié mercredi matin, précise le média.\n\nLe Nouvelliste, mardi soir, avait déjà écrit que l'opération de la PNH, des FAd'H et de la Task Force à Martissant avait provoqué la panique à Carrefour. La plupart des écoles y avaient renvoyé les élèves, et des groupes armés de cette commune avaient érigé des barricades. Le ministre de la Défense, Mario Andrésol, avait confirmé que Martissant 2 et le secteur de l'église Sainte-Bernadette, entre autres, avaient été visés. Télé Pluriel, dans son journal du 11 novembre, raconte la même opération, menée avec des drones explosifs, et dit qu'elle a provoqué un mouvement de panique jusqu'à Carrefour.\n\nNAGO, dans un article mercredi, ajoute que, selon des médias locaux, des hommes armés du gang de Christ-Roi Chéry, dit Krisla, ont dressé plusieurs barricades sur les axes de Carrefour pour freiner l'avancée des forces. Le média écrit aussi, sans confirmation indépendante, que des membres de gangs venus de Croix-des-Bouquets se seraient réfugiés à Carrefour, et que Wilson Joseph, alias Lanmò San Jou, figurerait parmi eux. Ce déplacement n'a pas été vérifié.\n\nLe même flash de 15 h indique que les opérations se poursuivent à Croix-des-Bouquets, avec des hélicoptères et des explosions attribuées à des drones. Le Premier ministre dit que l'État dirige ces opérations, relait NAGO.",
     },
-    sources: ["Le Nouvelliste", "Radiographie"],
+    sources: ["NAGO", "Le Nouvelliste", "Télé Pluriel"],
     sourceLinks: [
+      { name: "NAGO, flash 15 h", url: "https://nago.tv/flash-info/2026-11-11-15" },
+      { name: "NAGO, Carrefour", url: "https://news.nago.tv/carrefour-panique-ecoles-fermees-et-barricades-du-gang-de-krisla" },
       { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273774/operations-des-forces-de-lordre-a-martissant" },
-      { name: "Radiographie", url: "https://radiographieht.com/operation-policiere-a-martissant/" },
+      { name: "Télé Pluriel", url: "https://teleplurielhaiti.com/actualite-a-la-une-du-11-novembre-2026-la-pnh-appuyee-par-la-task-force-a-mene-mardi-une-operation-a-martissant-a-laide-de-drones-explosifs-lintervention-a-provoque-un-mouvement/" }
     ],
   },
   {
@@ -401,36 +660,35 @@ export const STORIES: Story[] = [
     ],
   },
 
-    {
+        {
     id: "ntk-mansion-lanmo-san-jou-2026-11-10",
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-11-11",
-    publishedTime: "2026-11-11T09:41:20-05:00",
+    publishedTime: "2026-11-11T17:44:20-05:00",
     isFollowUp: true,
     headline: {
-      ht: "Ofansiv salvadorien an Ayiti : AP pale de yon paryaj politik, BBC pa ka verifye videyo a",
-      fr: "Offensive salvadorienne en Haïti : l'AP parle d'un pari politique, la BBC ne peut pas vérifier la vidéo",
+      ht: "AFP ak RFI sou frap Lanmò San Jou a: Nasyonzini di operasyon an andeyò mandat, kote a pa menm",
+      fr: "AFP et RFI sur la frappe contre Lanmò San Jou : l'ONU dit l'opération hors mandat, le lieu est contesté",
     },
     teaser: {
-      ht: "AP ekri San Salvador te voye 2500 sòlda ak ti transparans ni sipèvizyon. BBC di li pa t ka verifye videyo a, ni ke pwopriyete a se katye jeneral gang lan.",
-      fr: "L'AP écrit que San Salvador a envoyé 2500 soldats avec peu de transparence ni de contrôle. La BBC dit n'avoir pas pu vérifier la vidéo, ni que la propriété soit le quartier général du gang.",
+      ht: "AFP ekri pifò nan plis pase 2000 sòlda salvadorien yo pa nan GSF. RFI mete tire yo nan Tomazo, pa nan Kwadèbouke.",
+      fr: "L'AFP écrit que le gros du contingent, plus de 2000 soldats salvadoriens, n'est pas dans la GSF. RFI situe les tirs à Thomazeau, pas à Croix-des-Bouquets.",
     },
     brief: {
-      ht: "Nan yon analiz 11 novanm, Associated Press dekri ofansiv Nayib Bukele ann Ayiti kòm yon paryaj politik anvan eleksyon fevriye nan Salvador, ak « little transparency or oversight ». BBC ekri li pa t ka verifye videyo prezidan an pibliye, ni ke kay la se katye jeneral 400 Mawozo.",
-      fr: "Dans une analyse du 11 novembre, Associated Press décrit l'offensive de Nayib Bukele en Haïti comme un pari politique avant les élections de février au Salvador, menée avec « little transparency or oversight ». La BBC écrit qu'elle n'a pas pu vérifier la vidéo publiée par le président, ni que la propriété soit le quartier général de 400 Mawozo.",
+      ht: "France 24, ki reprann AFP 11 novanm, ekri operasyon twoup salvadorien sa yo fèt andeyò mandat ak mekanis swivi Nasyonzini. Diario El Salvador di chèf gang lan pa t lakay la. RFI, nan yon ankèt, jwenn yon analizè anonim te bay kowòdone kay la apre Bukele te mande adrès la.",
+      fr: "France 24, qui reprend l'AFP le 11 novembre, écrit que l'opération de ces troupes salvadoriennes se déroule en dehors du mandat et des mécanismes de suivi de l'ONU. Diario El Salvador affirme que le chef de gang n'était pas dans le logement. RFI, dans une enquête, établit qu'un analyste anonyme a fourni les coordonnées de la maison après que Bukele a demandé l'adresse.",
     },
     body: {
-      ht: "Associated Press, nan yon analiz Megan Janetsky pibliye 11 novanm, dekri ofansiv militè Salvador ann Ayiti kòm yon paryaj politik ki riske anpil, antoure eleksyon prezidansyèl fevriye nan peyi Salvador. Ajans lan ekri, depi kat teknisyen ayewonotik salvadorien yo disparèt nan mitan oktòb, gouvènman an te voye 2500 sòlda ann Ayiti « with little transparency or oversight », sètadi ak ti transparans ni sipèvizyon. Roberto Dubon, yon stratejist kominikasyon politik salvadorien, di AP se « yon kanpay elektoral pou fè pwomosyon Nayib Bukele » epi prezante l « tankou yon superhero ». Li ajoute prezidan an ap itilize Ayiti kòm yon tè pou teste politik li yo sou nivo entènasyonal.\n\nBBC, bò pa l, ekri li pa t ka verifye videyo Bukele pibliye sou X, ni si pwopriyete yo tire a se vre katye jeneral 400 Mawozo. Prezidan an te anonse madi 10 novanm, an kreyòl, fòs yo te « detwi kay Lanmò San Jou ak katye jeneral gang 400 Mawozo ». Li te di pifò moun yo te kouri san yo pa menm eseye goumen. Videyo a montre elikoptè k ap tire sou yon gwo konplèks, ak plizyè douzèn moun k ap kouri, dapre BBC. Premye minis Alix Didier Fils-Aimé te remèsye lendi, sou X, « angajman fòs salvadorien yo nan batay kont gang yo », epi li te pibliye yon imaj ki soti nan menm videyo a, BBC presize.\n\nMenm lendi a, AP rapòte sekretè deta ameriken Marco Rubio te pran distans, li di Etazini « not actively involved » nan ofansiv salvadorien an, epi li te bay sipò pou Fòs represyon gang yo (GSF) Nasyonzini ap soutni, kote Salvador pa fè pati. « There is no plan B », li te di. Amnesty International te mande menm jou a de gouvènman yo pibliye akò ki otorize fòs yo antre ann Ayiti, epi respekte dwa entènasyonal, AP ekri.\n\nAnvan sa, Al Jazeera, ki te reprann AFP, AP ak Reuters, te mete operasyon an dimanch epi pale de 20 moun mouri. Ni otorite ayisyen yo ni otorite salvadorien yo pa t pibliye yon bilan ofisyèl, Infobae te presize. Miami Herald te di Wilson Joseph, yo rele Lanmò San Jou, pa t sou plas la. Haitian Times, 10 novanm, pa t ka verifye si pwopriyete a te detwi oswa yo te vize l sèlman.",
-      fr: "Associated Press, dans une analyse de Megan Janetsky publiée le 11 novembre, décrit l'offensive militaire du Salvador en Haïti comme un pari politique à haut risque, à l'approche de l'élection présidentielle de février au Salvador. L'agence écrit que, depuis la disparition de quatre techniciens aéronautiques salvadoriens à la mi-octobre, le gouvernement a envoyé 2500 soldats en Haïti « with little transparency or oversight », c'est-à-dire avec peu de transparence ni de contrôle. Roberto Dubon, stratège en communication politique salvadorien, dit à l'AP qu'il s'agit d'« une campagne électorale pour promouvoir Nayib Bukele » et le présenter « comme un superhéros ». Il ajoute que le président se sert d'Haïti comme d'un terrain d'essai pour appliquer ses politiques à l'échelle internationale.\n\nLa BBC, de son côté, écrit qu'elle n'a pas pu vérifier la vidéo publiée par Bukele sur X, ni confirmer que la propriété visée soit bien le quartier général de 400 Mawozo. Le président avait annoncé mardi 10 novembre, en créole, que ses forces avaient « détruit la maison de Lanmò San Jou et le quartier général du gang 400 Mawozo ». Il a dit que la plupart des occupants avaient fui sans même essayer de se battre. La vidéo montre des hélicoptères tirant sur un vaste complexe, et des dizaines de personnes qui s'enfuient, selon la BBC. Le Premier ministre Alix Didier Fils-Aimé a remercié lundi, sur X, « l'engagement des forces salvadoriennes dans la lutte contre les gangs », et a publié une image tirée de la même vidéo, précise la BBC.\n\nLe même lundi, l'AP rapporte que le secrétaire d'État américain Marco Rubio a pris ses distances, en disant que les États-Unis n'étaient « not actively involved » dans l'offensive salvadorienne, et qu'il apportait son soutien à la Force de répression des gangs (GSF) adossée à l'ONU, dont le Salvador ne fait pas partie. « There is no plan B », a-t-il dit. Amnesty International a demandé le même jour aux deux gouvernements de publier l'accord autorisant l'entrée des forces en Haïti, et de respecter le droit international, écrit l'AP.\n\nPlus tôt, Al Jazeera, qui reprenait l'AFP, l'AP et Reuters, situait l'opération dimanche et parlait de 20 morts. Ni les autorités haïtiennes ni les autorités salvadoriennes n'avaient publié de bilan officiel, précisait aussi Infobae. Le Miami Herald indiquait que Wilson Joseph, dit Lanmò San Jou, n'était pas sur place. Haitian Times, le 10 novembre, n'avait pas pu vérifier si la propriété avait été détruite ou seulement visée.",
+      ht: "France 24 pibliye, mercredi 11 novanm, yon depèch AFP sou ofansiv militè Salvador ann Ayiti. Ajans lan ekri San Salvador te deplwaye plis pase 2000 sòlda depi fen oktòb, epi pifò nan efèktif sa yo pa fè pati Fòs represyon gang yo (GSF) Nasyonzini ap soutni. « Operasyon twoup salvadorien sa yo ap fèt andeyò mandat ak mekanis swivi yo », Nasyonzini presize, dapre AFP.\n\nNan depèch la, AFP toujou mete atak la nan komin Kwadèbouke. Diario El Salvador, yon jounal pwogouvènman, ajoute chèf gang yo vize a, Wilson Joseph, yo rele Lanmò San Jou, « pa t nan lojman an lè operasyon an t ap fèt ». Miami Herald te deja di li pa t sou plas la. AFP site tou Miami Herald sou yon bilan omwen 20 moun mouri, san otorite ayisyen yo ni otorite salvadorien yo pa t pibliye yon chif ofisyèl. Associated Press, nan analiz 11 novanm lan nou te deja relè a, te pale de 2500 sòlda yo te voye, « with little transparency or oversight ».\n\nRFI, nan yon ankèt Grégory Genevrier pibliye menm jou a, pa dakò sou kote a. Medya a di jeolokalizasyon imaj yo montre elikoptè yo te dekole nan ayewopò Pòtoprens, epi yo te frape plizyè bilding 17 kilomèt pi lès, nan komin Tomazo. Ankèt la rakonte yon entènaut te mande Bukele, 5 novanm, pou l kraze yon kay yo di se pou yon chèf gang. Nan demen, prezidan an te reponn: « Ki kote kay sa a ye? Ban n adrès egzak la, n ap detwi l. » 7 novanm, yon kont anonim ki espesyalize nan analiz imaj sou sous ouvè te pibliye kowòdone GPS yo. RFI te kontakte analize sa a, ki prefere rete anonim, e ki di li pa gen regrè.\n\nPremye minis Alix Didier Fils-Aimé te salye angajman fòs salvadorien yo, AFP ekri. Prezidan dominiken Luis Abinader, mardi, di li soutni aksyon yo sou bò lojistik ak entèlijans, toutpandan li mande GSF ak lame Salvador yo antann yo. Amnesty International te mande de gouvènman yo pibliye akò ki kader deplwaman an. BBC, bò pa l, te ekri li pa t ka verifye videyo Bukele pibliye a, ni ke pwopriyete a se katye jeneral 400 Mawozo.",
+      fr: "France 24 publie, mercredi 11 novembre, une dépêche de l'AFP sur l'offensive militaire du Salvador en Haïti. L'agence écrit que San Salvador a déployé plus de 2000 soldats depuis fin octobre, et que la majorité de ces effectifs ne fait pas partie de la Force de répression des gangs (GSF) soutenue par l'ONU. « L'opération de ces troupes salvadoriennes se déroule en dehors du mandat et des mécanismes de suivi », a précisé l'Organisation des Nations unies, selon l'AFP.\n\nDans cette dépêche, l'AFP situe toujours l'attaque dans la commune de Croix-des-Bouquets. Le quotidien progouvernemental Diario El Salvador ajoute que le chef de gang visé, Wilson Joseph, alias Lanmò San Jou, « ne se trouvait pas dans le logement au moment de l'opération ». Le Miami Herald avait déjà indiqué qu'il n'était pas sur place. L'AFP cite aussi le Herald sur un bilan d'au moins 20 morts, sans que les autorités haïtiennes ni salvadoriennes n'aient publié de chiffre officiel. Associated Press, dans l'analyse du 11 novembre déjà relue ici, parlait de 2500 soldats envoyés « with little transparency or oversight ».\n\nRFI, dans une enquête de Grégory Genevrier parue le même jour, diverge sur le lieu. Le média écrit que la géolocalisation des images montre des hélicoptères ayant décollé de l'aéroport de Port-au-Prince, puis frappé plusieurs bâtiments 17 kilomètres plus à l'est, dans la commune de Thomazeau. L'enquête raconte qu'une internaute a demandé à Bukele, le 5 novembre, de raser une maison présentée comme celle d'un chef de gang. Le lendemain, le président a répondu : « Où se trouve cette maison ? Donnez-nous l'adresse exacte, et nous la détruirons. » Le 7 novembre, un compte anonyme spécialisé dans l'analyse d'images en sources ouvertes a publié les coordonnées GPS. RFI a contacté cet analyste, qui préfère rester anonyme, et qui dit n'avoir aucun regret.\n\nLe Premier ministre Alix Didier Fils-Aimé a salué l'engagement des forces salvadoriennes, écrit l'AFP. Le président dominicain Luis Abinader a dit mardi soutenir cette action sur le plan logistique et du renseignement, tout en demandant à la GSF et à l'armée salvadorienne de se coordonner. Amnesty International a exhorté les deux gouvernements à publier l'accord qui encadre le déploiement. La BBC, de son côté, avait écrit qu'elle n'avait pas pu vérifier la vidéo publiée par Bukele, ni que la propriété soit le quartier général de 400 Mawozo.",
     },
-    sources: ["Associated Press", "BBC", "Al Jazeera", "Infobae", "Haitian Times"],
+    sources: ["AFP / France 24", "RFI", "Associated Press", "BBC", "Amnesty International"],
     sourceLinks: [
+      { name: "France 24 (AFP)", url: "https://www.france24.com/fr/info-en-continu/20261111-en-haïti-bukele-à-l-offensive-contre-les-gangs" },
+      { name: "RFI", url: "https://www.rfi.fr/fr/amériques/20261111-haïti-comment-un-internaute-a-guidé-l-armée-salvadorienne-dans-ses-frappes-visant-un-gang" },
       { name: "Associated Press", url: "https://apnews.com/article/nayib-bukele-el-salvador-haiti-elections-war-on-gangs-un-rubio-democracy-5c8a5e284835778c31c9ff78c140afcd" },
-      { name: "BBC", url: "https://www.bbc.com/news/articles/cmvg2xdwnwezo" },
-      { name: "Al Jazeera", url: "https://www.aljazeera.com/news/2026/11/10/salvadoran-troops-target-haitian-gang-leaving-20-dead" },
-      { name: "Infobae", url: "https://www.infobae.com/el-salvador/2026/11/10/bukele-afirma-que-las-fuerzas-salvadorenas-destruyeron-el-cuartel-de-la-banda-400-mawozo-en-haiti/" },
-      { name: "Haitian Times", url: "https://haitiantimes.com/2026/11/10/mansion-linked-haiti-gang-leader-reportedly-destroyed/" },
+      { name: "BBC", url: "https://www.bbc.com/news/articles/cmvg2xdwnwezo" }
     ],
   },
   {
@@ -489,33 +747,34 @@ export const STORIES: Story[] = [
       { name: "Minuto Latino", url: "https://minutolatinonews.com/nota/super-tucano-patrullan-frontera-haiti-dajabon-10nov" },
     ],
   },
-  {
+    {
     id: "ntk-enseignants-greve-nationale-2026-11-09",
     tier: "need-to-know",
     topic: "society",
-    publishedAt: "2026-11-10",
-    publishedTime: "2026-11-10T15:52:20-05:00",
+    publishedAt: "2026-11-11",
+    publishedTime: "2026-11-11T17:41:40-05:00",
+    isFollowUp: true,
     headline: {
-      ht: "Pwofesè : apèl pou yon grèv nasyonal 9 novanm; nan Gonayiv, yo denonse anviwon 4 mwa arere",
-      fr: "Enseignants : appel à une grève nationale le 9 novembre ; à Gonaïves, des arriérés d'environ 4 mois dénoncés",
+      ht: "Grèv pwofesè : elèv licee Philippe Guerrier mache nan Kap, fiskalite meri a bloke nan Pòtoprens",
+      fr: "Grève des enseignants : les lycéens du Philippe Guerrier marchent au Cap, la fiscalité de la mairie bloquée à Port-au-Prince",
     },
     teaser: {
-      ht: "HPN relè ekstansyon grèv la; Amitie FM dekri yon protestasyon nan Gonayiv, san dat presi sou paj la.",
-      fr: "HPN relait l'extension de la grève ; Amitie FM décrit une protestation aux Gonaïves, sans date précise sur la page.",
+      ht: "Nan Jakmèl, klas yo toujou kanpe. Nan Gonayiv, te gen fwitman ant elèv piblik ak prive, Le Concret Info ekri.",
+      fr: "À Jacmel, les cours restent à l'arrêt. Aux Gonaïves, des tensions ont opposé élèves du public et du privé, selon Le Concret Info.",
     },
     brief: {
-      ht: "Dapre Haiti Press Network, kèk sendika te mande pwofesè lekòl piblik yo elaji yon grèv depi lendi 9 novanm. Amitie FM rapòte yon mobilizasyon nan Gonayiv pou anviwon 4 mwa arere, san li pa di ki jou protestasyon an. Le National site yon nòt Co-CFEF ki gen dat 5 novanm.",
-      fr: "Selon Haiti Press Network, des syndicats ont appelé les enseignants des écoles publiques à étendre une grève dès le lundi 9 novembre. Amitie FM rapporte une mobilisation aux Gonaïves pour environ 4 mois d'arriérés, sans indiquer le jour de la protestation. Le National cite une note du Co-CFEF datée du 5 novembre.",
+      ht: "Le Concret Info, 10 novanm, di elèv licee Philippe Guerrier nan Kap-Ayisyen te manifeste pou retou pwofesè yo. NAGO rapòte pwofesè minisipal Pòtoprens yo te bloke sèvis fiskalite meri a mardi, pou 5 mwa salè an reta.",
+      fr: "Le Concret Info, le 10 novembre, écrit que les élèves du lycée Philippe Guerrier, au Cap-Haïtien, ont manifesté pour le retour des enseignants. NAGO rapporte que les enseignants municipaux de Port-au-Prince ont bloqué la fiscalité de la mairie mardi, pour 5 mois de salaires en retard.",
     },
     body: {
-      ht: "Plizyè gwoup sendika pwofesè te anonse yo ap elaji nan tout peyi a yon grèv ki deja kòmanse nan Grandans, Nò ak Nòdwès, dapre Haiti Press Network. Apel la te vize lendi 9 novanm pou pwofesè lekòl piblik yo. HPN site pami lòt yo COPLASEHQ, REDRESEH, NOU KONPRANN ak REFERANS, ki denonse otorite yo pa respekte angajman 2025 yo epi kondisyon travay yo ap vin pi mal.\n\nNan yon konferans pou laprès jedi 5 novanm, Sadrac Casimir, responsab REFERANS, te di grèv la ap kontinye jiskaske yo tande revandikasyon yo. Dominique Wilnor, kowòdonatè jeneral REDRESEH, te mande yon ajisteman salè, kat debi, lèt nominasyon pou pwofesè ki deja nan klas yo ak regilarizasyon administratif. Li te mande yon salè chak mwa 53000 goud, paske li di yon pwofesè pa ka viv byen ak 18000 goud, dapre chif HPN rapòte yo. Apel sa a pa t gen chif patisipasyon ni fèmen lekòl.\n\nAmitie FM dekri bò pa l yon protestasyon pwofesè nan lari Gonayiv, pou peman anviwon 4 mwa arere ak nominasyon ofisyèl pwofesè ki gen lontan nan pòs. Paj nou konsilte a pa di ki jou manifestasyon sa a te fèt.\n\nLe National pale de yon nòt pozisyon Collectif des CFEFiens (Co-CFEF), ki gen dat 5 novanm, prezidan li a, Cédoine Felixma, prezante apre konferans sendikal menm jou a. Kolektif la denonse reta peman, pwoblèm regilarizasyon administratif ak kèk sòm yo pa versé, epi li entèpele Ministè Edikasyon an.",
-      fr: "Plusieurs regroupements syndicaux d'enseignants ont annoncé l'extension nationale d'une grève déjà engagée dans la Grand'Anse, le Nord et le Nord-Ouest, rapporte Haiti Press Network. L'appel visait le lundi 9 novembre pour les enseignants des écoles publiques. HPN cite notamment COPLASEHQ, REDRESEH, NOU KONPRANN et REFERANS, qui dénoncent le non-respect d'engagements pris en 2025 et la dégradation des conditions de travail.\n\nLors d'une conférence de presse jeudi 5 novembre, Sadrac Casimir, responsable de REFERANS, a déclaré que la grève se poursuivrait jusqu'à prise en compte des revendications. Dominique Wilnor, coordonnateur général de REDRESEH, a réclamé un ajustement salarial, des cartes de débit, des lettres de nomination pour les enseignants déjà en classe et la régularisation administrative. Il a plaidé pour un salaire mensuel de 53000 gourdes, estimant qu'un enseignant ne peut vivre décemment avec 18000 gourdes, selon les chiffres rapportés par HPN. Aucun chiffre de participation ni de fermeture d'écoles n'accompagnait cet appel.\n\nAmitie FM décrit de son côté une protestation d'enseignants dans les rues des Gonaïves, pour le paiement d'environ 4 mois d'arriérés et la nomination officielle d'enseignants en poste depuis longtemps. La page consultée n'indique pas le jour de cette manifestation.\n\nLe National fait état d'une note de position du Collectif des CFEFiens (Co-CFEF), datée du 5 novembre et présentée par son président, Cédoine Felixma, après la conférence syndicale du même jour. Le collectif dénonce des retards de paiement, des problèmes de régularisation administrative et le non-versement de certaines sommes dues, et interpelle le ministère de l'Éducation.",
+      ht: "Grèv pwofesè lekòl piblik yo antre nan dezyèm semèn li, Le Concret Info ekri 10 novanm. Jounal la di pwofesè yo mande peman plizyè mwa arere, epi yo vle ministè Edikasyon an respekte yon pwotokòl sou avantaj sosyal. Mouman an te pouse elèv soti nan plizyè vil.\n\nNan Kap-Ayisyen, elèv licee Philippe Guerrier yo te mache nan lari pou mande retou edikatè yo nan klas yo. Nan Gonayiv, Le Concret Info rapòte elèv piblik yo te eseye fòse kamarad ki nan lekòl prive yo antre nan protestasyon an. Genyen ki te refize, e sa te mennen alterkasyon, dapre medya lokal yo jounal la site.\n\nNan Jakmèl, klas yo toujou kanpe. Le Nouvelliste ekri elèv licee Pinchinat ak Célie Lamour te manifeste lendi 9 novanm, apre twa semèn grèv, pou mande retou pwofesè yo. Direktè depatmantal Edikasyon Sidès la, Mascary Lévêque, te lye mouman an ak reta chèk septanm yo, 14e mwa a ak kat debi yo. Li te di chèk septanm yo t ap distribiye, e li te ankouraje pwofesè yo rekòmanse travay.\n\nNan Pòtoprens, pwofesè lekòl minisipal yo te bloke sèvis fiskalite meri a mardi 10 novanm, NAGO di nan flash 8 è mercredi. Se te dezyèm jou grèv pa yo. Yo reklame 5 mwa salè an reta, epi yo mande yon ogmantasyon, paske lavi a vin pi chè. Yo di yo pa vle pwomès ankò.",
+      fr: "La grève des enseignants des écoles publiques entre dans sa deuxième semaine, écrit Le Concret Info le 10 novembre. Le journal dit que les professeurs exigent le paiement de plusieurs mois d'arriérés, et qu'ils veulent que le ministère de l'Éducation respecte un protocole d'accord sur des avantages sociaux. Le mouvement a poussé des élèves à descendre dans la rue dans plusieurs villes.\n\nAu Cap-Haïtien, des élèves du lycée Philippe Guerrier ont manifesté pour demander le retour des enseignants dans les salles de classe. Aux Gonaïves, Le Concret Info rapporte que des lycéens du public ont tenté d'entraîner des camarades d'écoles privées dans la protestation. Certains ont refusé, et cela a donné lieu à des altercations, selon des médias locaux cités par le journal.\n\nÀ Jacmel, les cours restent à l'arrêt. Le Nouvelliste écrit que des élèves des lycées Pinchinat et Célie Lamour ont manifesté lundi 9 novembre, après trois semaines de grève, pour réclamer le retour des enseignants. Le directeur départemental de l'Éducation du Sud-Est, Mascary Lévêque, a lié le mouvement au retard des chèques de septembre, au 14e mois et aux cartes de débit. Il a indiqué que les chèques de septembre étaient en cours de distribution, et a exhorté les enseignants à reprendre le travail.\n\nÀ Port-au-Prince, les enseignants des écoles municipales ont bloqué les services de fiscalité de la mairie mardi 10 novembre, dit NAGO dans son flash de 8 h mercredi. C'était le deuxième jour de leur grève. Ils réclament 5 mois de salaires en retard, et une hausse de rémunération, parce que la vie a renchéri. Ils disent qu'ils ne veulent plus de promesses.",
     },
-    sources: ["Haiti Press Network", "Amitie FM", "Le National"],
+    sources: ["Le Concret Info", "Le Nouvelliste", "NAGO"],
     sourceLinks: [
-      { name: "Haiti Press Network", url: "https://www.hpninfo.com/post/ha%C3%AFti-%C3%A9ducation-le-secteur-%C3%A9ducatif-menac%C3%A9-par-une-gr%C3%A8ve-g%C3%A9n%C3%A9ralis%C3%A9e-%C3%A0-partir-de-lundi" },
-      { name: "Amitie FM", url: "https://www.amitiefm.ht/post/gona%C3%AFves-des-enseignants-d%C3%A9noncent-quatre-mois-d-arri%C3%A9r%C3%A9s-de-salaire" },
-      { name: "Le National", url: "https://www.lenational.org/article/politique/8621/conditions-de-travail-des-enseignants-le-co-cfef-hausse-le-ton" },
+      { name: "Le Concret Info", url: "https://www.leconcretinfo.com/2026/11/10/haiti-education-la-greve-des-enseignants-se-poursuit-dans-les-ecoles-publiques/" },
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273724/jacmel-des-eleves-des-lycees-pinchinat-et-celie-lamour-dans-les-rues-pour-reclamer-des-enseignants" },
+      { name: "NAGO, flash 8 h", url: "https://nago.tv/flash-info/2026-11-11-08" }
     ],
   },
   {
@@ -1432,6 +1691,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-opinion-midterms-tps-parole-2026-11-04",
+    archived: true,
     tier: "need-to-know",
     topic: "politics",
     publishedAt: "2026-11-04",
@@ -1467,6 +1727,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-jeremie-marche-urbayiti-2026-11-04",
+    archived: true,
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-11-04",
@@ -1494,6 +1755,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-secteur-informel-indemnisation-2026-11-04",
+    archived: true,
     tier: "quick-hit",
     topic: "commerce",
     publishedAt: "2026-11-04",
@@ -1521,6 +1783,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-bukele-helicopteres-tchad-2026-11-04",
+    archived: true,
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-11-04",
@@ -1638,34 +1901,34 @@ export const STORIES: Story[] = [
       { name: "Miami Herald", url: "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article317899359.html" },
     ],
   },
-      {
+            {
     id: "qh-d1-paryaj-lakay-2026-11-03",
     tier: "quick-hit",
     topic: "sports",
-    publishedAt: "2026-11-10",
-    publishedTime: "2026-11-10T16:10:30-05:00",
+    publishedAt: "2026-11-11",
+    publishedTime: "2026-11-11T17:39:40-05:00",
     isFollowUp: true,
     headline: {
-      ht: "D1 : Violette bat Juventus 3-0, Clavens Exantus fè yon triple",
-      fr: "D1 : Violette bat Juventus 3-0, triplé de Clavens Exantus",
+      ht: "D1 : Violette bat Juventus 3-0; Don Bosco ak Juventus des Cayes te pwograme mercredi",
+      fr: "D1 : Violette bat Juventus 3-0 ; Don Bosco et Juventus des Cayes étaient programmés mercredi",
     },
     teaser: {
-      ht: "Match yo te ranvwaye dimanch poutèt lapli a te jwe lendi nan Land des Gabions, dapre NAGO.",
-      fr: "Le match reporté dimanche pour pluie a été joué lundi au Land des Gabions, selon NAGO.",
+      ht: "Nan dezyèm jounen an, match Don Bosco-Juventus des Cayes te anonse mercredi 11 novanm. Mercredi aswè, nou poko jwenn yon skor konfime.",
+      fr: "Pour la deuxième journée, le match Don Bosco-Juventus des Cayes était annoncé mercredi 11 novembre. Mercredi soir, aucun score confirmé n'avait encore été publié.",
     },
     brief: {
-      ht: "Violette AC bat Juventus des Cayes 3-0 lendi, pou premye jounen chanpyona nasyonal D1. Clavens Exantus make twa gòl yo, NAGO ekri.",
-      fr: "Violette AC a battu Juventus des Cayes 3-0 lundi, pour la première journée du championnat national de D1. Clavens Exantus a inscrit les trois buts, écrit NAGO.",
+      ht: "Violette AC te bat Juventus des Cayes 3-0 lendi, pou premye jounen D1, ak yon triple Clavens Exantus, NAGO te ekri. Match Don Bosco FC-Juventus des Cayes te anonse mercredi; nou poko jwenn rezilta a.",
+      fr: "Violette AC a battu Juventus des Cayes 3-0 lundi, pour la première journée de D1, grâce à un triplé de Clavens Exantus, avait écrit NAGO. Le match Don Bosco FC-Juventus des Cayes était annoncé mercredi ; le résultat n'était pas encore disponible.",
     },
     body: {
-      ht: "Match premye jounen chanpyona nasyonal D1 ant Violette AC ak Juventus des Cayes, yo te ranvwaye dimanch 8 novanm poutèt lapli dapre HaitiTempo, te jwe lendi nan Land des Gabions. Violette genyen 3-0, NAGO ekri 10 novanm. Clavens Exantus make twa gòl yo, nan 5e minit, nan 45e plis yon, epi nan 53e minit. Medya a presize li pote nimewo 18.\n\nYon ti kras apre twazyèm gòl la, Juventus jwenn yon penalite. Gadyen Stanley Delile repouse tire Makendy Claude, e nòt la pa chanje ankò, dapre NAGO. Viktwa sa a mete Violette an tèt gwoup Sid, ak 3 pwen. Se Rony Attimy k ap antrene ekip la. Sou lòt bò a, se Georgy Joseph ki t ap dirije Juventus. NAGO raple Violette te chanpyon nan de seri sezon pase a.\n\nLòt rezilta premye jounen an, yo te rapòte pou dimanch 8 novanm pa Pont Info ak HaitiTempo, rete sa yo:\n\n• Racing FC (Gonayiv) 2-1 Réal Hope FA\n• Tempête FC 0-1 FICA\n• AS Capoise 0-0 Ouanaminthe FC\n• Racing Club Haïtien 2-2 Don Bosco FC\n• Cavaly AS 0-0 América des Cayes\n\nHaitiTempo di Taylor Fils-Aimé make premye gòl sezon an pou FICA a 18e minit, sou teren Tempête. Pont Info te konte 8 gòl an total nan jounen dimanch la, san match ki te ranvwaye a.",
-      fr: "Le match de la première journée du championnat national de D1 entre Violette AC et Juventus des Cayes, reporté dimanche 8 novembre pour cause de pluie selon HaitiTempo, a été joué lundi au Land des Gabions. Violette l'a emporté 3-0, écrit NAGO le 10 novembre. Clavens Exantus a inscrit les trois buts, à la 5e minute, à la 45e plus une, puis à la 53e minute. Le média précise qu'il porte le numéro 18.\n\nPeu après le troisième but, la Juventus a obtenu un penalty. Le gardien Stanley Delile a repoussé le tir de Makendy Claude, et le score n'a plus bougé, selon NAGO. Cette victoire place Violette en tête du groupe Sud, avec 3 points. L'équipe est entraînée par Rony Attimy. En face, la Juventus était dirigée par Georgy Joseph. NAGO rappelle que Violette a été sacré champion lors des deux séries de la saison dernière.\n\nLes autres résultats de la première journée, rapportés pour le dimanche 8 novembre par Pont Info et HaitiTempo, restent les suivants :\n\n• Racing FC (Gonaïves) 2-1 Réal Hope FA\n• Tempête FC 0-1 FICA\n• AS Capoise 0-0 Ouanaminthe FC\n• Racing Club Haïtien 2-2 Don Bosco FC\n• Cavaly AS 0-0 América des Cayes\n\nHaitiTempo indique que Taylor Fils-Aimé a inscrit le premier but de la saison pour le FICA à la 18e minute, sur le terrain de Tempête. Pont Info relevait 8 buts au total sur la journée de dimanche, hors match alors reporté.",
+      ht: "Match premye jounen chanpyona nasyonal D1 ant Violette AC ak Juventus des Cayes, yo te ranvwaye dimanch 8 novanm poutèt lapli dapre HaitiTempo, te jwe lendi nan Land des Gabions. Violette genyen 3-0, NAGO ekri 10 novanm. Clavens Exantus make twa gòl yo, nan 5e minit, nan 45e plis yon, epi nan 53e minit. Medya a presize li pote nimewo 18.\n\nYon ti kras apre twazyèm gòl la, Juventus jwenn yon penalite. Gadyen Stanley Delile repouse tire Makendy Claude, e nòt la pa chanje ankò, dapre NAGO. Viktwa sa a mete Violette an tèt gwoup Sid, ak 3 pwen. Se Rony Attimy k ap antrene ekip la. Sou lòt bò a, se Georgy Joseph ki t ap dirije Juventus. NAGO raple Violette te chanpyon nan de seri sezon pase a.\n\nLòt rezilta premye jounen an, yo te rapòte pou dimanch 8 novanm pa Pont Info ak HaitiTempo, rete sa yo:\n\n• Racing FC (Gonayiv) 2-1 Réal Hope FA\n• Tempête FC 0-1 FICA\n• AS Capoise 0-0 Ouanaminthe FC\n• Racing Club Haïtien 2-2 Don Bosco FC\n• Cavaly AS 0-0 América des Cayes\n\nHaitiTempo di Taylor Fils-Aimé make premye gòl sezon an pou FICA a 18e minit, sou teren Tempête. Pont Info te konte 8 gòl an total nan jounen dimanch la, san match ki te ranvwaye a.\n\nNan dezyèm jounen an, match Don Bosco FC kont Juventus des Cayes te anonse mercredi 11 novanm. Mercredi aswè, nou poko jwenn yon skor ke yon sous solid te konfime.",
+      fr: "Le match de la première journée du championnat national de D1 entre Violette AC et Juventus des Cayes, reporté dimanche 8 novembre pour cause de pluie selon HaitiTempo, a été joué lundi au Land des Gabions. Violette l'a emporté 3-0, écrit NAGO le 10 novembre. Clavens Exantus a inscrit les trois buts, à la 5e minute, à la 45e plus une, puis à la 53e minute. Le média précise qu'il porte le numéro 18.\n\nPeu après le troisième but, la Juventus a obtenu un penalty. Le gardien Stanley Delile a repoussé le tir de Makendy Claude, et le score n'a plus bougé, selon NAGO. Cette victoire place Violette en tête du groupe Sud, avec 3 points. L'équipe est entraînée par Rony Attimy. En face, la Juventus était dirigée par Georgy Joseph. NAGO rappelle que Violette a été sacré champion lors des deux séries de la saison dernière.\n\nLes autres résultats de la première journée, rapportés pour le dimanche 8 novembre par Pont Info et HaitiTempo, restent les suivants :\n\n• Racing FC (Gonaïves) 2-1 Réal Hope FA\n• Tempête FC 0-1 FICA\n• AS Capoise 0-0 Ouanaminthe FC\n• Racing Club Haïtien 2-2 Don Bosco FC\n• Cavaly AS 0-0 América des Cayes\n\nHaitiTempo indique que Taylor Fils-Aimé a inscrit le premier but de la saison pour le FICA à la 18e minute, sur le terrain de Tempête. Pont Info relevait 8 buts au total sur la journée de dimanche, hors match alors reporté.\n\nPour la deuxième journée, le match Don Bosco FC contre Juventus des Cayes était annoncé mercredi 11 novembre. Mercredi soir, aucun score n'avait encore été confirmé par une source solide.",
     },
     sources: ["NAGO", "Pont Info", "HaitiTempo"],
     sourceLinks: [
       { name: "NAGO", url: "https://news.nago.tv/clavens-exantus-signe-un-triple-et-violette-ac-ecrase-la-juventus-3-0" },
       { name: "Pont Info", url: "https://www.pontinfo.com/post/d1-paryaj-lakay-une-premi%C3%A8re-journ%C3%A9e-r%C3%A9ussie-pour-la-ligue-ha%C3%AFtienne-de-football" },
-      { name: "HaitiTempo", url: "https://haititempo.com/foot-d1-taylor-fils-aime-marque-le-premier-but-de-la-saison/" },
+      { name: "HaitiTempo", url: "https://haititempo.com/foot-d1-taylor-fils-aime-marque-le-premier-but-de-la-saison/" }
     ],
   },
   {
@@ -2341,35 +2604,35 @@ export const STORIES: Story[] = [
       { name: "Opak News : soldats salvadoriens en Haïti", url: "https://opak-news.haitialways.workers.dev/story/ntk-salvador-2000-soldats-2026-10-29" },
     ],
   },
-      {
+            {
     id: "ntk-cep-inscriptions-preliminaires-2026-11-01",
     tier: "need-to-know",
     topic: "politics",
     publishedAt: "2026-11-11",
-    publishedTime: "2026-11-11T07:33:50-05:00",
+    publishedTime: "2026-11-11T17:43:20-05:00",
     isFollowUp: true,
     headline: {
-      ht: "Eleksyon : CEP pibliye lis 48 pati ak gwoupman ki rive nan papòt 30000 aderan",
-      fr: "Élections : le CEP publie la liste de 48 partis et groupements au seuil des 30000 adhérents",
+      ht: "CEP : 22267873 soumisyon aderan yo te rejte paske yo pa t koresponn ak baz referans yo",
+      fr: "CEP : 22267873 soumissions d'adhérents écartées pour discordance avec les bases de référence",
     },
     teaser: {
-      ht: "31 pati, 17 gwoupman, epi 3 kandida endepandan. Total 51 yo te anonse pi bonè a te konte endepandan yo ladan l.",
-      fr: "31 partis, 17 groupements, plus 3 candidats indépendants. Le total de 51 annoncé plus tôt incluait ces indépendants.",
+      ht: "Se tantativ yo ye, se pa otan moun. Pati yo dwe reyini 30000 aderan. Le Nouvelliste pale tou de 38,8 milyon rejè.",
+      fr: "Ce sont des tentatives, pas autant de personnes. Les partis doivent réunir 30000 membres. Le Nouvelliste parle aussi de 38,8 millions de rejets.",
     },
     brief: {
-      ht: "Nan yon nòt 9 novanm, CEP di 31 pati, 17 gwoupman ak 3 kandida endepandan te anrejistre aderan yo anvan minwi, dimanch 8 novanm. Juno7 ekri Konsèy la pibliye lis 48 pati ak gwoupman ki rive nan papòt 30000 aderan.",
-      fr: "Dans une note du 9 novembre, le CEP indique que 31 partis, 17 groupements et 3 candidats indépendants ont enregistré leurs adhérents avant minuit, le dimanche 8 novembre. Juno7 écrit que le Conseil a publié la liste des 48 partis et groupements ayant atteint le seuil de 30000 adhérents.",
+      ht: "NAGO, mercredi 11 novanm, ekri platfòm CEP a te ekarte 22267873 soumisyon pou diskòdans, plis 8963202 doub ak 7565863 rejè pou NINU ki pa kòrèk. Chif sa yo se soumisyon, se pa yon konte moun.",
+      fr: "NAGO, mercredi 11 novembre, écrit que la plateforme du CEP a écarté 22267873 soumissions pour discordance, plus 8963202 doublons et 7565863 rejets pour NINU incorrects. Ces chiffres portent sur des soumissions, pas sur autant de personnes.",
     },
     body: {
-      ht: "Konsèy elektoral pwovizwa a pibliye, lendi 9 novanm, lis 48 pati ak gwoupman politik ki rive nan papòt 30000 aderan dekrè elektoral la mande, Juno7 ekri. Nan yon nòt ofisyèl menm jou a, CEP presize 31 pati politik, 17 gwoupman pati ak 3 kandida endepandan te anrejistre aderan ak senpatizan yo nan delè a, ki te dimanch 8 novanm minwi. Apre delè sa a, pa gen nouvo enskripsyon ni chanjman ki otorize sou sistèm nan, Konsèy la di.\n\nChif 51 estrikti yo te anonse pi bonè a, sitou nan Décodage Info, pa t revize desann. Li te ajoute 48 pati ak gwoupman ki sou lis la ansanm ak 3 kandida endepandan yo, ki fini demach yo tou men ki pa parèt sou lis 48 yo. Juno7 site pami pati yo Fanmi Lavalas, Entente Nationale (ENA), Fòs Chanjman Nasyonal (FCN), OPL, EDE, Rasanble ak MPH, epi pami gwoupman yo DEBLOKE, EAPH, VIKTWA, LAPEH AK ALYE'L YO ak GRAND. Lis la konsène anrejistreman aderan ak senpatizan, yon etap ki pa menm ak validasyon kandidati yo.\n\nCEP raple, nan yon nòt 10 novanm, enskripsyon an liy pou kandida prezidans ak lejislatif yo fini 15 novanm minwi, e depo pyès yo fini 30 novanm.",
-      fr: "Le Conseil électoral provisoire a publié, lundi 9 novembre, la liste des 48 partis et groupements politiques ayant atteint le seuil de 30000 adhérents exigé par le décret électoral, écrit Juno7. Dans une note officielle du même jour, le CEP précise que 31 partis politiques, 17 groupements de partis et 3 candidats indépendants ont enregistré leurs adhérents et sympathisants dans le délai, fixé au dimanche 8 novembre à minuit. Après cette échéance, aucune nouvelle inscription ni aucune modification n'est plus autorisée sur le système, indique le Conseil.\n\nLe chiffre de 51 structures annoncé plus tôt, notamment par Décodage Info, n'a pas été revu à la baisse. Il additionnait les 48 partis et groupements de la liste publiée et les 3 candidats indépendants, qui ont aussi terminé leurs démarches mais ne figurent pas sur cette liste. Juno7 cite notamment, parmi les partis, Fanmi Lavalas, Entente Nationale (ENA), Fòs Chanjman Nasyonal (FCN), l'OPL, EDE, Rasanble et MPH, et parmi les groupements DEBLOKE, EAPH, VIKTWA, LAPEH AK ALYE'L YO et GRAND. La liste porte sur l'enregistrement des adhérents et sympathisants, une étape distincte de la validation des candidatures.\n\nLe CEP rappelle, dans une note du 10 novembre, que l'inscription en ligne des candidats à la présidence et aux législatives prend fin le 15 novembre à minuit, et que le dépôt des pièces requises se termine le 30 novembre.",
+      ht: "Konsèy elektoral pwovizwa a te ekarte plis pase 22 milyon soumisyon nan anrejistreman aderan òganizasyon politik yo, NAGO ekri mercredi 11 novanm, sou baz statistik ki parèt sou platfòm enstitisyon an. Premye kòz rejè a se diskòdans ant done yo te voye yo ak baz referans yo. Platfòm nan endike 22267873 soumisyon yo te rejte pou diskòdans, 8963202 ka doub, ak 7565863 rejè pou nimewo idantifikasyon nasyonal inik (NINU) ki pa kòrèk, medya a presize. Òganizasyon politik yo dwe reyini 30000 aderan pou pwochen eleksyon yo.\n\nChif sa yo se tantativ soumisyon, se pa otan moun diferan. Yon dosye te ka voye plizyè fwa. NAGO presize done yo li te konsilte yo pa di konbyen soumisyon yo te aksepte, ni yo pa detaye rejè yo pa òganizasyon.\n\nLe Nouvelliste, nan edisyon 9 novanm, pale de 38796938 soumisyon yo te rejte, sou twa menm kategori sa yo. Tit atik Frantz Duval la pale de « 38 millions de tentatives de fraude ». Nan menm edisyon an, Robenson Geffrard ekri òganizasyon yo te chèche twonpe vijilans sistèm nan. Pou NINU yo, Zile News, ki site Le Nouvelliste, pale de nimewo « fabriqués ». NAGO, bò pa l, di sèlman nimewo sistèm nan pa t valide. Se lekti jounal yo, se pa yon jijman tribinal.\n\nDuval raple, nan menm atik la, ministè Jistis te agreye 316 pati, anpil ladan yo li mete nan kategori « enveloppes jaunes », òganizasyon ki gen papye men ki pa t gen vre implantasyon. Apre papòt 30000 aderan an, 48 estrikti te rive nan lis CEP pibliye 9 novanm, anplis 3 kandida endepandan. Etap sa a se anrejistreman aderan yo, se pa validasyon kandidati yo. Enskripsyon an liy pou kandida prezidans ak lejislatif yo fini 15 novanm minwi, depo pyès yo fini 30 novanm, CEP te raple 10 novanm.",
+      fr: "Le Conseil électoral provisoire a écarté plus de 22 millions de soumissions dans le cadre de l'enregistrement des adhérents des organisations politiques, écrit NAGO mercredi 11 novembre, à partir des statistiques affichées sur la plateforme de l'institution. La première cause de rejet est la discordance entre les données transmises et les bases de référence. La plateforme indique 22267873 soumissions rejetées pour discordance, 8963202 cas de doublons et 7565863 rejets pour numéros d'identification nationale unique (NINU) incorrects, précise le média. Les organisations politiques doivent réunir 30000 adhérents en vue des prochaines élections.\n\nCes chiffres portent sur des tentatives de soumission, pas sur autant de personnes distinctes. Un même dossier a pu être transmis plusieurs fois. NAGO précise que les données consultées ne disent pas combien de soumissions ont été acceptées, et qu'elles ne détaillent pas les rejets par organisation.\n\nLe Nouvelliste, dans son édition du 9 novembre, fait état de 38796938 soumissions rejetées, réparties dans ces trois mêmes catégories. Le titre de l'article de Frantz Duval parle de « 38 millions de tentatives de fraude ». Dans la même édition, Robenson Geffrard écrit que des organisations ont cherché à tromper la vigilance du système. Sur les NINU, Zile News, qui cite Le Nouvelliste, parle de numéros « fabriqués ». NAGO, de son côté, dit seulement que le système n'a pas validé ces numéros. Il s'agit de la lecture des journaux, pas d'un jugement.\n\nDuval rappelle, dans le même article, que le ministère de la Justice avait agréé 316 partis, dont beaucoup relevaient selon lui des « enveloppes jaunes », des organisations présentes sur le papier plus que sur le terrain. Après le seuil des 30000 adhérents, 48 structures ont figuré sur la liste publiée par le CEP le 9 novembre, plus 3 candidats indépendants. Cette étape concerne l'enregistrement des adhérents, pas la validation des candidatures. L'inscription en ligne des candidats à la présidence et aux législatives prend fin le 15 novembre à minuit, et le dépôt des pièces le 30 novembre, avait rappelé le CEP le 10 novembre.",
     },
-    sources: ["CEP", "Juno7", "Décodage Info"],
+    sources: ["NAGO", "Le Nouvelliste", "Zile News", "CEP"],
     sourceLinks: [
-      { name: "CEP - note du 9 novembre", url: "https://cephaiti.ht/31-partis-politiques-17-groupements-de-partis-politiques-et-3-candidats-independants-ont-finalise-lenregistrement-de-leurs-adherents-et-sympathisants-a-la-cloture-des-operations/" },
-      { name: "Juno7", url: "https://www.juno7.ht/cep-liste-48-partis-groupements-adherents/" },
-      { name: "CEP - inscriptions et dépôt des pièces", url: "https://cephaiti.ht/cloture-de-la-periode-dinscription-en-ligne-des-candidats-le-15-novembre-et-de-celle-consacree-au-depot-des-pieces-le-30-novembre-2026/" },
-      { name: "Décodage Info", url: "https://decodageinfo.com/2026/11/10/haiti-elections-le-cep-cloture-les-inscriptions-pour-51-structures-politiques/" },
+      { name: "NAGO", url: "https://news.nago.tv/plus-de-22-millions-de-soumissions-d-adherents-rejetees-pour-discordan" },
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273734/elections-en-haiti-des-partis-politiques-enveloppes-jaunes-aux-38-millions-de-tentatives-de-fraude" },
+      { name: "Zile News", url: "https://zilenews.com/388-millions-de-soumissions-rejetees-les-partis-declarent-plus-dadherents-que-le-pays-ne-compte-delecteurs-inscrits/" },
+      { name: "CEP, note du 9 novembre", url: "https://cephaiti.ht/31-partis-politiques-17-groupements-de-partis-politiques-et-3-candidats-independants-ont-finalise-lenregistrement-de-leurs-adherents-et-sympathisants-a-la-cloture-des-operations/" }
     ],
   },
   {
@@ -2588,33 +2851,33 @@ export const STORIES: Story[] = [
       { name: "Réalité Info", url: "https://realiteinfo.com/haiti-les-signataires-du-pacte-national-reclament-des-elections-en-2027-et-rejettent-lidee-dune-autre-transition/" },
     ],
   },
-    {
+        {
     id: "ntk-bercy-galaxie-operation-2026-10-31",
     tier: "need-to-know",
     topic: "security",
-    publishedAt: "2026-11-10",
-    publishedTime: "2026-11-10T15:51:10-05:00",
+    publishedAt: "2026-11-11",
+    publishedTime: "2026-11-11T17:43:40-05:00",
     isFollowUp: true,
-    isUrgent: true,
     headline: {
-      ht: "Akayè : majistra Wilner René pale de ijans imanitè, yon semèn apre atak yo",
-      fr: "Arcahaie : le maire Wilner René parle d'urgence humanitaire, une semaine après les attaques",
+      ht: "Akayè : 24 moun mouri, 1898 fanmi deplase; majistra a vle yon operasyon nan Trou Forban ak Bercy",
+      fr: "Arcahaie : 24 morts, 1898 familles déplacées ; le maire veut une opération à Trou Forban et à Bercy",
     },
     teaser: {
-      ht: "Lendi 9 novanm, li di Le Nouvelliste deplase yo poko jwenn èd otorite santral yo.",
-      fr: "Joint par Le Nouvelliste lundi 9 novembre, il dit que les déplacés n'ont toujours pas d'aide des autorités centrales.",
+      ht: "Wilner René, mardi nan Magik9, di 17 viktim yo te antere nan yon fos komen, Le Nouvelliste ekri.",
+      fr: "Wilner René, mardi à Magik9, dit que 17 des victimes ont été enterrées dans une fosse commune, écrit Le Nouvelliste.",
     },
     brief: {
-      ht: "Majistra Akayè a, Wilner René, di Le Nouvelliste komin nan an ijans imanitè. Li pale de mank asistans yon semèn apre vyolans 31 oktòb rive 2 novanm yo.",
-      fr: "Le maire de l'Arcahaie, Wilner René, déclare au Nouvelliste que la commune est en situation d'urgence humanitaire. Il situe le manque d'assistance une semaine après les violences du 31 octobre au 2 novembre.",
+      ht: "Majistra Akayè a, Wilner René, te mande mardi 10 novanm, nan matinal Magik9, yon operasyon lapolis pou debarase bandi ki pran refij nan Trou Forban ak Bercy. Li bay 24 moun mouri ak 1898 fanmi deplase, dapre Le Nouvelliste.",
+      fr: "Le maire de l'Arcahaie, Wilner René, a réclamé mardi 10 novembre, à la matinale de Magik9, une opération policière pour déloger les bandits réfugiés à Trou Forban et à Bercy. Il avance 24 morts et 1898 familles déplacées, selon Le Nouvelliste.",
     },
     body: {
-      ht: "Majistra Akayè a, Wilner René, afime komin nan « an sitiyasyon ijans imanitè », li deklare nan Le Nouvelliste lendi 9 novanm. Yon semèn apre atak gwoup ame yo, fanmi deplase yo poko jwenn èd otorite santral yo, dapre majistra a.\n\nJounal la mete vyolans yo ant samdi 31 oktòb ak lendi 2 novanm 2026. Dapre René, aktivite yo rete paralize nan komin nan, e okenn enstitisyon poko pote sipò pou deplase entèn yo.\n\nPawòl sa yo konsène èd imanitè yon semèn apre atak yo. Kont randi Le Nouvelliste a pa bay okenn nouvo bilan moun ofisyèl.",
-      fr: "Le maire de l'Arcahaie, Wilner René, affirme que la commune est « en situation d'urgence humanitaire », a-t-il déclaré au Nouvelliste lundi 9 novembre. Une semaine après les attaques de groupes armés, les familles déplacées n'ont toujours pas reçu d'aide des autorités centrales, selon le maire.\n\nLe journal situe les violences entre le samedi 31 octobre et le lundi 2 novembre 2026. D'après René, les activités restent paralysées dans la commune et aucune institution n'a encore apporté de soutien aux déplacés internes.\n\nCes propos portent sur l'aide humanitaire une semaine après les attaques. Le compte rendu du Nouvelliste ne fournit pas de nouveau bilan humain officiel.",
+      ht: "Wilner René, envite nan matinal Magik9 mardi 10 novanm, te mande yon operasyon lapolis pou debarase bandi ki pran refij nan Trou Forban ak Bercy, Le Nouvelliste ekri. Li te mande tou yon èd ijans pou fanmi yo te deplase akoz vyolans gang yo nan komin nan.\n\nDapre chif li kominike yo, dènye atak yo kont Cité du drapeau te fè 24 mouri, ladan yo 17 moun yo te antere nan yon fos komen. Atak sa yo te deplase 1898 fanmi, ki rete kounye a nan lekòl ak nan kote yo fè sèvis. Se majistra a ki bay chif sa yo, se pa yon bilan lapolis oswa yon ajans imanitè.\n\nNan yon lòt atik, menm jounal la te deja relè, lendi 9 novanm, pawòl René sou yon ijans imanitè, yon semèn apre vyolans 31 oktòb rive 2 novanm. Li te di lè sa a wout yo rete bloke nan Lévêque, Montrouis ak Kabarè, e fanmi deplase yo poko jwenn èd otorite santral yo.",
+      fr: "Wilner René, invité à la matinale de Magik9 mardi 10 novembre, a réclamé une opération policière pour déloger les bandits réfugiés à Trou Forban et à Bercy, écrit Le Nouvelliste. Il a aussi demandé une aide d'urgence pour les familles déplacées par les violences des gangs dans la commune.\n\nSelon les chiffres qu'il a communiqués, les dernières attaques contre la Cité du drapeau ont fait 24 morts, dont 17 personnes enterrées dans une fosse commune. Elles ont aussi provoqué le déplacement de 1898 familles, aujourd'hui hébergées dans des établissements scolaires et des lieux de culte. Ces chiffres viennent du maire, pas d'un bilan de police ou d'une agence humanitaire.\n\nDans un autre article, le même journal avait déjà relaté, lundi 9 novembre, les propos de René sur une urgence humanitaire, une semaine après les violences du 31 octobre au 2 novembre. Il disait alors que les routes restaient bloquées au niveau de Lévêque, de Montrouis et de Cabaret, et que les familles déplacées n'avaient pas encore reçu d'aide des autorités centrales.",
     },
-    sources: ["Le Nouvelliste"],
+    sources: ["Le Nouvelliste", "Magik9"],
     sourceLinks: [
-      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273725/arcahaie-est-en-situation-durgence-humanitaire-selon-wilner-rene" },
+      { name: "Le Nouvelliste, 10 novembre", url: "https://lenouvelliste.com/article/273741/arcahaie-wilner-rene-reclame-une-operation-policiere-a-trou-forban-et-a-bercy" },
+      { name: "Le Nouvelliste, 9 novembre", url: "https://lenouvelliste.com/article/273725/arcahaie-est-en-situation-durgence-humanitaire-selon-wilner-rene" }
     ],
   },
   {
