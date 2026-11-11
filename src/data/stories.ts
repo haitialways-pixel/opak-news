@@ -16,6 +16,35 @@ import type { Story } from "../types";
  */
 export const STORIES: Story[] = [
   {
+    id: "qh-montecristi-deux-dominicains-eaux-haiti-2026-11-10",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-11",
+    publishedTime: "2026-11-11T01:51:00-05:00",
+    headline: {
+      ht: "De Dominiken ki soti Buen Hombre yo jwenn mouri ak bal nan dlo ayisyen, dapre Diario Libre",
+      fr: "Deux Dominicains de Buen Hombre retrouvés morts par balles dans des eaux haïtiennes, selon Diario Libre",
+    },
+    teaser: {
+      ht: "Jounal la, ki site yon moun li pa nonmen, pale de yon presime trafik sigarèt. Lapolis dominikèn di li ap mennen ankèt, san detay presize pou kounye a.",
+      fr: "Le journal, qui cite une source non identifiée, parle d'un présumé trafic de cigarettes. La police dominicaine dit enquêter, sans informations précises pour l'instant.",
+    },
+    brief: {
+      ht: "Diario Libre idantifye yo kòm Frandeli Andújar Reyes ak yon lòt nonm yo rele Concote. Li site yon enfòmatè ki pa nonmen pou vèsyon presime trafik sigarèt la. Pòtpawòl lapolis Diego Pesqueira di ankèt la ap kontinye.",
+      fr: "Diario Libre identifie les victimes comme Frandeli Andújar Reyes et un autre homme connu sous le nom de Concote. Il s'appuie sur un informateur non nommé pour la version d'un présumé trafic de cigarettes. Le porte-parole de la police, Diego Pesqueira, dit que l'enquête continue.",
+    },
+    body: {
+      ht: "De Dominiken ki soti nan kominote Buen Hombre, nan pwovens Montecristi, yo jwenn yo mouri, yo te pran bal, nan dlo teritwa ayisyen, Diario Libre ekri 10 novanm. Viktim yo idantifye kòm Frandeli Andújar Reyes ak yon lòt nonm yo konnen sèlman sou non Concote. Yo te siyale yo disparèt apre yo te kite Punta Rucia nan yon bato ki t ap vin Ayiti, dapre jounal la.\n\nDiario Libre apiye sou temwayaj yon moun ki lyen ak ankèt yo, li pa nonmen l. Dapre vèsyon sa a, de mesye yo t ap vwayaje ak yon twazyèm konpayon pou yon presime acha sigarèt kontrebann. Lè yo rive sou teritwa ayisyen, yo ta kidnape yo, moun ki ta eseye pran bato a ak motè yo. Enfòmatè a di atakan yo touye de mesye yo, jete kò yo nan dlo, e ke yon twazyèm pasaje, blese ak bal, rive chape tounen nan Repiblik Dominikèn. Toujou dapre vèsyon sa a, kèk pechè te ranmase kadav yo nan dlo toupre Ayiti epi mennen yo sou teritwa dominiken, kote yo antere yo lendi swa. Diario Libre presize yo t ap tann toujou yon enfòmasyon ofisyèl sou sikonstans lanmò yo.\n\nMenm jou a, pòtpawòl Lapolis nasyonal dominikèn, Diego Pesqueira, di envestigasyon yo ap kontinye e otorite yo poko gen enfòmasyon presize. « Dosye sa a ap devlope pou nou ka etabli si vre moun sa yo te touye sou teritwa ayisyen, epi transfere apre sa sou teritwa dominiken », li di, dapre yon lòt atik Diario Libre. Nan pawòl sa yo, lapolis pa konfime presime trafik sigarèt la, ni kidnaping lan, ni prezans yon twazyèm nonm ki blese.",
+      fr: "Deux Dominicains originaires de Buen Hombre, dans la province de Montecristi, ont été retrouvés morts, atteints de balles, dans des eaux territoriales haïtiennes, écrit Diario Libre le 10 novembre. Les victimes ont été identifiées comme Frandeli Andújar Reyes et un autre homme connu seulement sous le nom de Concote. Ils avaient été signalés disparus après avoir quitté Punta Rucia à bord d'une embarcation à destination d'Haïti, selon le journal.\n\nDiario Libre s'appuie sur le témoignage d'une personne liée aux enquêtes, qu'il ne nomme pas. Selon cette version, les deux hommes voyageaient avec un troisième compagnon pour un présumé achat de cigarettes de contrebande. Arrivés en territoire haïtien, ils auraient été enlevés par des individus qui, toujours selon cette source, tentaient de s'emparer de l'embarcation et des moteurs hors-bord. L'informateur affirme que les assaillants ont tué les deux hommes et jeté leurs corps à l'eau, et qu'un troisième occupant, blessé par balle, a réussi à s'enfuir et à regagner la République dominicaine. Toujours selon cette version, des pêcheurs ont récupéré les cadavres dans des eaux proches d'Haïti et les ont transférés en territoire dominicain, où ils ont été enterrés lundi soir. Diario Libre précise qu'on attendait encore une information officielle sur les circonstances des morts.\n\nLe même jour, le porte-parole de la Police nationale dominicaine, Diego Pesqueira, a déclaré que les investigations continuaient et que les autorités n'avaient pas encore d'informations précises. « Cette affaire est en cours, pour établir si ces personnes ont bien été tuées en territoire haïtien, puis transférées en territoire dominicain », a-t-il indiqué, selon un autre article de Diario Libre. La police ne confirme pas, dans ces propos, le présumé trafic de cigarettes, ni l'enlèvement, ni la présence d'un troisième homme blessé.",
+    },
+    sources: ["Diario Libre", "Diario Libre (police)"],
+    sourceLinks: [
+      { name: "Diario Libre", url: "https://www.diariolibre.com/actualidad/sucesos/2026/11/10/mueren-dos-dominicanos-en-haiti-por-contrabando-de-cigarrillos/3716551" },
+      { name: "Diario Libre (Pesqueira)", url: "https://www.diariolibre.com/actualidad/sucesos/2026/11/10/muertos-en-los-mina-y-monte-plata-por-hechos-violentos/3716630" },
+    ],
+  },
+
+  {
     id: "ntk-croix-des-bouquets-operation-pnh-salvador-2026-11-10",
     tier: "need-to-know",
     topic: "security",
@@ -42,30 +71,32 @@ export const STORIES: Story[] = [
       { name: "Alternance Média", url: "https://alternance-media.com/police-justice/croix-des-bouquets-la-pnh-et-les-soldats-salvadoriens-menent-une-operation-denvergure-ce-mardi-10-novembre/" },
     ],
   },
-  {
+    {
     id: "ntk-martissant-drones-operation-2026-11-10",
     tier: "need-to-know",
     topic: "security",
-    publishedAt: "2026-11-10",
-    publishedTime: "2026-11-10T16:11:40-05:00",
+    publishedAt: "2026-11-11",
+    publishedTime: "2026-11-11T01:52:00-05:00",
+    isFollowUp: true,
     headline: {
-      ht: "Matisan : operasyon lapolis ak drone ap fèt madi midi, dapre Radiographie",
-      fr: "Martissant : opération policière avec drones en cours mardi midi, selon Radiographie",
+      ht: "Matisan : plis pase yon dizèn blende; Andrésol konfime yo te vize Matisan 2 ak Sent Bènadèt",
+      fr: "Martissant : plus d'une dizaine de blindés ; Andrésol confirme que Martissant 2 et Sainte-Bernadette ont été visés",
     },
     teaser: {
-      ht: "A 12:28, PNH te gen sipò Task Force. Yo te wè ekipman lapolis jouk Matisan 2A. Pa gen bilan.",
-      fr: "À 12 h 28, la PNH était appuyée par la Task Force. Des engins de la police ont été vus jusqu'à Martissant 2A. Pas de bilan.",
+      ht: "Sikilasyon an pa t ka fèt. Plizyè santèn rezidan ki te dwe ale Kafou te rasanble nan Chanmas, Le Nouvelliste ekri.",
+      fr: "La circulation était impraticable. Des centaines de résidents qui devaient se rendre à Carrefour se sont massés au Champ de Mars, écrit Le Nouvelliste.",
     },
     brief: {
-      ht: "Radiographie mete yon operasyon k ap fèt madi 10 novanm vers 12:28 nan Matisan, nan 3e sikonskripsyon Pòtoprens. Medya a pa pibliye bilan.",
-      fr: "Radiographie situe une opération en cours le mardi 10 novembre vers 12 h 28 à Martissant, dans la 3e circonscription de Port-au-Prince. Le média ne publie pas de bilan.",
+      ht: "Le Nouvelliste, nan yon atik ki soti mardi aswè 10 novanm, di PNH, FAd'H ak Task Force te mennen yon operasyon nan Matisan. Minis defans Mario Andrésol konfime yo te vize Matisan 2 ak sektè legliz Sent Bènadèt, pami lòt kote. Pa gen bilan ofisyèl.",
+      fr: "Le Nouvelliste, dans un article paru mardi soir 10 novembre, écrit que la PNH, les FAd'H et la Task Force ont mené une opération à Martissant. Le ministre de la Défense, Mario Andrésol, confirme que Martissant 2 et le secteur de l'église Sainte-Bernadette, entre autres, ont été visés. Pas de bilan officiel.",
     },
     body: {
-      ht: "Yon operasyon lapolis t ap fèt madi 10 novanm vers 12:28 nan Matisan, nan 3e sikonskripsyon Pòtoprens, dapre Radiographie. Inite PNH yo te gen sipò Task Force, ki t ap sèvi ak drone kamikaz sou baszyon gwoup ame yo, dapre medya a.\n\nRadiographie ajoute yo te remake ekipman lapolis jouk Matisan 2A. Kont randi a, yo ekri l pandan operasyon an t ap fèt, pa bay ni bilan ni dire. Pou kounye a, Radiographie se sèl sous nou site isit la.",
-      fr: "Une opération policière était en cours mardi 10 novembre vers 12 h 28 à Martissant, dans la 3e circonscription de Port-au-Prince, écrit Radiographie. Les unités de la PNH étaient appuyées par la Task Force, qui utilisait des drones kamikazes contre des bastions de groupes armés, selon le média.\n\nRadiographie ajoute que des engins de la police ont été remarqués jusqu'à Martissant 2A. Le compte rendu, rédigé pendant l'opération, ne donne ni bilan ni durée. Radiographie est, pour l'heure, la seule source citée ici.",
+      ht: "Le Nouvelliste, nan yon atik ki soti mardi aswè 10 novanm, ekri Polis nasyonal Ayiti, Fòs lame Ayiti ak Task Force te mennen yon operasyon nan Matisan. Jounal la di yo te mobilize plis pase yon dizèn blende. Minis defans lan, Mario Andrésol, ke Le Nouvelliste te jwenn, konfime enfòmasyon an. « Matisan 2, sektè legliz Sent Bènadèt, pami lòt kote, yo te vize yo », li di.\n\nPandan entèvansyon an, sikilasyon sou wout yo pa t ka fèt, jounal la kontinye. Plizyè santèn rezidan ki te dwe ale nan Kafou te rasanble nan Chanmas, jouk sitiyasyon an kalme. Le Nouvelliste aprann operasyon nan Matisan yo te lakoz panik nan Kafou, komin vwazin nan. Pifò lekòl yo te renvwaye elèv yo. Gwoup ame nan komin sa a, ki pa gen reprezantan gouvènman depi plizyè ane, dapre jounal la, te mete barikad pou ralanti yon avans fòs yo ta ka fè.\n\nPi bonè mardi a, vers 12:28, Radiographie te pale de yon operasyon k ap fèt nan Matisan, nan 3e sikonskripsyon Pòtoprens. Medya a te ekri inite PNH yo te gen sipò Task Force, ak drone kamikaz, e yo te remake ekipman lapolis jouk Matisan 2A. Kont randi sa a, yo te ekri l pandan operasyon an t ap fèt, pa t bay ni bilan ni dire. Le Nouvelliste, mardi aswè, pa pibliye bilan non plis.",
+      fr: "Le Nouvelliste, dans un article paru mardi soir 10 novembre, écrit que la Police nationale d'Haïti, les Forces armées d'Haïti et la Task Force ont mené une opération à Martissant. Plus d'une dizaine de blindés ont été mobilisés, selon le journal. Joint par Le Nouvelliste, le ministre de la Défense, Mario Andrésol, a confirmé l'information. « Martissant 2, le secteur de l'église Sainte-Bernadette, entre autres, ont été visés », a-t-il indiqué.\n\nAu cours de l'intervention, la circulation routière était impraticable, poursuit le journal. Des centaines de résidents qui devaient se rendre à Carrefour se sont massés au Champ de Mars, le temps que la situation se calme. Le Nouvelliste a appris que les opérations à Martissant ont provoqué la panique dans la commune voisine de Carrefour. La plupart des écoles y ont renvoyé les élèves. Des groupes armés de cette commune, qui n'a plus de représentants du gouvernement depuis plusieurs années, selon le journal, ont érigé des barricades pour ralentir une éventuelle avancée des forces de l'ordre.\n\nPlus tôt mardi, vers 12 h 28, Radiographie situait une opération en cours à Martissant, dans la 3e circonscription de Port-au-Prince. Le média écrivait que les unités de la PNH étaient appuyées par la Task Force, avec des drones kamikazes, et que des engins de la police avaient été remarqués jusqu'à Martissant 2A. Ce compte rendu, rédigé pendant l'opération, ne donnait ni bilan ni durée. Le Nouvelliste, mardi soir, n'en publie pas non plus.",
     },
-    sources: ["Radiographie"],
+    sources: ["Le Nouvelliste", "Radiographie"],
     sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273774/operations-des-forces-de-lordre-a-martissant" },
       { name: "Radiographie", url: "https://radiographieht.com/operation-policiere-a-martissant/" },
     ],
   },
@@ -1348,6 +1379,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-cite-soleil-mairie-pm-2026-11-03",
+    archived: true,
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-11-03",
@@ -1375,6 +1407,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-salvadoriens-commandement-2026-11-03",
+    archived: true,
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-11-03",
@@ -1407,6 +1440,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-fils-aime-discours-territoire-2026-11-03",
+    archived: true,
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-11-03",
@@ -1496,6 +1530,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-fils-aime-jet-contrats-2026-11-03",
+    archived: true,
     tier: "quick-hit",
     topic: "gossip",
     publishedAt: "2026-11-03",
