@@ -15,6 +15,296 @@ import type { Story } from "../types";
  * sort newest first by it.
  */
 export const STORIES: Story[] = [
+
+  {
+    id: "qh-fencebridge-soto-armes-pnh-2026-11-12",
+    tier: "quick-hit",
+    topic: "gossip",
+    publishedAt: "2026-11-12",
+    publishedTime: "2026-11-12T08:48:20-05:00",
+    headline: {
+      ht: "Kontra zam PNH: Miami Herald lyen Ellie Soto, ki te deja trete pou fwod nan Texas, ak omwen 7 milyon dola ki disparèt",
+      fr: "Contrat d'armes de la PNH : le Miami Herald relie Ellie Soto, déjà visée pour fraude au Texas, à au moins 7 millions de dollars manquants",
+    },
+    teaser: {
+      ht: "Kontra Fencebridge la pa livrez nèt. Minis Pélissier di li pa janm wè non Soto. Yon kabinè nan Boston ap prepare pou rekipere lajan an.",
+      fr: "Le contrat Fencebridge n'a été que partiellement honoré. Le ministre Pélissier dit n'avoir jamais vu le nom de Soto. Un cabinet de Boston prépare le recouvrement.",
+    },
+    brief: {
+      ht: "Miami Herald ekri kontra ant Polis nasyonal ak konpayi Fencebridge Strategic Risk la, pou fizi semi-otomatik ak minisyon, pa livrez nèt. Omwen 7 milyon dola, sou anviwon 15 milyon ki te voye bay Ellie Soto, poko jwenn, dapre jounal la.",
+      fr: "Le Miami Herald écrit que le contrat conclu entre la Police nationale et la société Fencebridge Strategic Risk, pour des fusils semi-automatiques et des munitions, n'a été que partiellement honoré. Au moins 7 millions de dollars, sur environ 15 millions envoyés à Ellie Soto, n'ont pas été retrouvés, selon le journal.",
+    },
+    body: {
+      ht: "Yon fanm ki rete nan zòn Houston, Ellie Soto, vin yon figi santral nan yon kontra zam ant Polis nasyonal d'Ayiti ak Fencebridge Strategic Risk, yon konpayi Bryan Seaver dirije, Miami Herald ekri 11 novanm, nan yon atik Shirsho Dasgupta ak Jacqueline Charles siyen. Jounal la idantifye Seaver kòm neve chantè Dolly Parton.\n\nKontra a, pou fizi semi-otomatik ak plizyè milye katouch, pa livrez nèt, jounal la di. Sous ayisyen konfime bay Miami Herald yo te voye omwen 15 milyon dola bay Soto. Omwen 7 milyon dola fon piblik ayisyen disparèt, ak dènye tras la nan yon kont eskrow ki te nan men Soto, dapre Herald la. Fencebridge di li poko resevwa anviwon mwatye lajan sa a.\n\nMinis jistis Patrick Pélissier, ki sipèvize polis nasyonal la, di Herald la aranjman peman an te fèt ant ministè Finans, Bank santral ak Fencebridge, e ke tribinal kont ak litig administratif te dakò ak kontra a. « Non Ellie Soto pa t janm parèt okenn kote. Mwen pa janm wè non sa a », li di. Li ajoute se apre zam yo pa t rive, lè li te kontakte yon kabinè nan Boston, non Soto parèt. Li presize aksyon legal Ayiti ap pouswiv Ozetazini se kont Fencebridge.\n\nKabinè Roberson Law Group, ki nan Boston, konfime bay Herald la li prèt pou fini yon akò pou reprezante gouvènman ayisyen an nan efò pou rekipere lajan an. Avoka Kerby Roberson di kabinè a eseye kontakte Soto, men li poko depoze yon pwosè. Li di yo detèmine pou rekipere lajan an pa tout mwayen legal. Fencebridge di li okouran demach sa yo. Herald la di li eseye kontakte Soto plizyè fwa, san repons.\n\nJounal la ekri tou ke dosye legal nan Texas montre Soto, ant 2013 ak 2019, te nan plizyè zafè tribinal yo te jije kòm fwod sou envestisè, pou plizyè santèn mil dola. An 2022, yon gran jiri nan Texas te akize l pou fwod sou tit. Dosye a te fini ak yon akò pledwaye ak yon pwogram diversion anvan jijman, an me 2023, dapre Herald la. Atik la pa di otorite ayisyen yo te konnen dosye sa a lè kontra a te siyen.",
+      fr: "Une habitante de la région de Houston, Ellie Soto, est devenue une figure centrale d'un contrat d'armes conclu entre la Police nationale d'Haïti et Fencebridge Strategic Risk, une société dirigée par Bryan Seaver, écrit le Miami Herald le 11 novembre, dans un article signé Shirsho Dasgupta et Jacqueline Charles. Le journal identifie Seaver comme le neveu de la chanteuse Dolly Parton.\n\nLe contrat, qui porte sur des fusils semi-automatiques et des milliers de cartouches, n'a été que partiellement honoré, selon le journal. Des sources haïtiennes ont confirmé au Herald avoir envoyé au moins 15 millions de dollars à Soto. Au moins 7 millions de dollars de fonds publics haïtiens manquent, la dernière trace de cet argent se trouvant dans un compte séquestre détenu par Soto, d'après le Herald. Fencebridge dit n'avoir pas encore reçu environ la moitié de cette somme.\n\nLe ministre de la Justice, Patrick Pélissier, qui a la tutelle de la police nationale, a déclaré au Herald que les modalités de paiement avaient été réglées entre le ministère des Finances, la banque centrale et Fencebridge, et que la Cour supérieure des comptes et du contentieux administratif avait approuvé le contrat. « Le nom d'Ellie Soto n'a jamais été mentionné nulle part. Je n'ai jamais vu ce nom », a-t-il dit. Il ajoute que ce nom n'est apparu qu'après l'échec des livraisons, lorsqu'il a contacté un cabinet à Boston. L'action engagée aux États-Unis, précise-t-il, vise Fencebridge.\n\nLe cabinet Roberson Law Group, basé à Boston, a confirmé au Herald qu'il s'apprêtait à finaliser un accord pour représenter le gouvernement haïtien dans l'effort de recouvrement. L'avocat Kerby Roberson dit que le cabinet a tenté de joindre Soto, mais qu'aucune plainte n'a encore été déposée. Il affirme que ses clients sont déterminés à récupérer l'argent par toutes les voies légales. Fencebridge dit être informée de ces démarches. Le Herald indique avoir tenté à plusieurs reprises de joindre Soto, sans réponse.\n\nLe journal écrit aussi que des dossiers judiciaires du Texas montrent que Soto, entre 2013 et 2019, a été impliquée dans plusieurs affaires que les tribunaux de cet État ont jugées comme des fraudes envers des investisseurs, pour des centaines de milliers de dollars. En 2022, un grand jury texan l'a inculpée pour fraude sur titres. L'affaire s'est close par un accord de plaider-coupable et un programme de diversion avant procès, en mai 2023, selon le Herald. L'article n'établit pas que les autorités haïtiennes connaissaient ce passé au moment de la signature du contrat.",
+    },
+    sources: ["Miami Herald"],
+    sourceLinks: [
+      { name: "Miami Herald", url: "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article317979858.html" },
+    ],
+  },
+  {
+    id: "qh-wanique-pierre-renvoi-criminel-2026-11-12",
+    tier: "quick-hit",
+    topic: "justice",
+    publishedAt: "2026-11-12",
+    publishedTime: "2026-11-12T08:48:00-05:00",
+    headline: {
+      ht: "Presime detounman machin Sena: ansyen senatè Wanique Pierre ak yon ansyen chèf kontab yo voye devan tribinal kriminèl",
+      fr: "Détournement présumé de véhicules du Sénat : l'ex-sénateur Wanique Pierre et un ancien chef comptable renvoyés en criminel",
+    },
+    teaser: {
+      ht: "Jij Mathieu Chanlatte te bay òdonans 9 oktòb la, Le Nouvelliste ekri. Yo pouswiv yo pou presime detounman byen piblik.",
+      fr: "Le juge Mathieu Chanlatte a rendu son ordonnance le 9 octobre, écrit Le Nouvelliste. Ils sont poursuivis pour détournement présumé de biens publics.",
+    },
+    brief: {
+      ht: "Jij enstriksyon Mathieu Chanlatte òdone renvoi ansyen senatè Nòdès Wanique Pierre ak Alexandre Joseph, ansyen chèf kontab Sena a, devan tribinal premye enstans Pòtoprens, nan atribisyon kriminèl li yo, san jiri, Le Nouvelliste ekri.",
+      fr: "Le juge d'instruction Mathieu Chanlatte a ordonné le renvoi de l'ancien sénateur du Nord-Est Wanique Pierre et d'Alexandre Joseph, ancien chef comptable du Sénat, devant le tribunal de première instance de Port-au-Prince, siégeant au criminel sans jury, écrit Le Nouvelliste.",
+    },
+    body: {
+      ht: "Ansyen senatè Nòdès Wanique Pierre ak Alexandre Joseph, ansyen chèf kontab Sena Repiblik la, yo renvoye devan tribinal premye enstans Pòtoprens, ki pral chita nan atribisyon kriminèl li yo san asistans jiri, Le Nouvelliste ekri 11 novanm, nan yon atik Michelson Césaire siyen.\n\nJij enstriksyon Mathieu Chanlatte te pran desizyon sa a nan yon òdonans 9 oktòb 2026, jounal la rapòte. De mesye yo pouswiv pou detounman byen piblik, nan yon ankèt ki pote sitou sou machin yo pa t remèt lè manda ansyen senatè yo te fini.\n\nÒdonans lan se yon etap nan pwosedi a. Li pa yon jijman sou fon an. Akizasyon yo rete presime toutotan yon tribinal pa t pwononse.",
+      fr: "L'ancien sénateur du Nord-Est Wanique Pierre et Alexandre Joseph, ancien chef comptable du Sénat de la République, ont été renvoyés devant le tribunal de première instance de Port-au-Prince, siégeant en ses attributions criminelles sans assistance de jury, écrit Le Nouvelliste le 11 novembre, dans un article signé Michelson Césaire.\n\nLe juge d'instruction Mathieu Chanlatte a pris cette décision dans une ordonnance datée du 9 octobre 2026, rapporte le journal. Les deux hommes sont poursuivis pour détournement de biens publics, dans le cadre d'une enquête portant notamment sur la non-restitution de véhicules à la fin du mandat des anciens sénateurs.\n\nL'ordonnance est une étape de la procédure. Elle n'est pas un jugement sur le fond. Les accusations restent présumées tant qu'un tribunal ne s'est pas prononcé.",
+    },
+    sources: ["Le Nouvelliste"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273806/detournement-de-biens-publics-lex-senateur-wanique-pierre-et-un-ancien-chef-comptable-du-senat-renvoyes-devant-le-tribunal-criminel" },
+    ],
+  },
+  {
+    id: "ntk-frg-aeroport-saisie-armes-2026-11-11",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-12",
+    publishedTime: "2026-11-12T08:50:00-05:00",
+    headline: {
+      ht: "FRG: yo sezi zam ak minisyon nan nò ayewopò Toussaint-Louverture",
+      fr: "FRG : des armes et des munitions saisies au nord de l'aéroport Toussaint-Louverture",
+    },
+    teaser: {
+      ht: "Fòs la te fè operasyon mercredi 11 novanm, li ekri sou X. Gazette Haiti di zam yo te nan men gwoup Viv Ansanm.",
+      fr: "La force a mené l'opération mercredi 11 novembre, a-t-elle écrit sur X. Gazette Haiti affirme que les armes appartenaient à des groupes de Viv Ansanm.",
+    },
+    brief: {
+      ht: "Fòs represyon gang yo (FRG, oswa GSF) mennen mercredi 11 novanm yon operasyon nan nò ayewopò entènasyonal Toussaint-Louverture, kote li sezi zam ak minisyon, daprè nòt li pibliye sou X ak Gazette Haiti.",
+      fr: "La Force de répression des gangs (FRG, ou GSF) a mené mercredi 11 novembre une opération au nord de l'aéroport international Toussaint-Louverture, au cours de laquelle elle a saisi des armes et des munitions, selon la note publiée sur son compte X et Gazette Haiti.",
+    },
+    body: {
+      ht: "Fòs represyon gang yo te mennen, mercredi 11 novanm 2026, yon operasyon nan nò ayewopò entènasyonal Toussaint-Louverture, nan Pòtoprens. Nan mesaj li pibliye menm jou a sou kont X li a, @GSForceHaiti, fòs la di pèsonèl li sezi plizyè zam ak minisyon.\n\nNòt la di operasyon yo ap kontinye pou repran zòn ki anba kontwòl gang ame yo, sitou kote yo itilize kòm kachèt, pwen rasanbleman ak baz ravitayman. Li ajoute sekirize zòn sa yo enpòtan pou ranfòse sekirite ayewopò a ak katye bò kote l yo, pou moun ka sikile, e pou kreye kondisyon pou moun ki deplase yo tounen.\n\nGazette Haiti, ki relè nòt la, ekri zam ak minisyon yo te nan men gwoup ame nan kowalisyon kriminèl Viv Ansanm, ki te retranche toupre enfrastrikti a. Nòt ofisyèl FRG a, jan Diario Libre relè l, pa nonmen Viv Ansanm.\n\nFòs la di pwogrè a ap kontinye « zòn pa zòn, katye pa katye ».",
+      fr: "La Force de répression des gangs a mené, mercredi 11 novembre 2026, une opération au nord de l'aéroport international Toussaint-Louverture, à Port-au-Prince. Dans le message publié le même jour sur son compte X, @GSForceHaiti, elle indique que son personnel a saisi plusieurs armes et munitions.\n\nLa note précise que les opérations se poursuivent pour reprendre des zones placées sous le contrôle de gangs armés, notamment des lieux utilisés comme caches, points de rassemblement et bases de ravitaillement. Elle ajoute que la sécurisation de ces zones est essentielle pour renforcer la sécurité de l'aéroport et des quartiers voisins, pour rétablir la circulation et pour créer des conditions favorables au retour des personnes déplacées.\n\nGazette Haiti, qui relaie cette note, écrit que les armes et munitions appartenaient à des groupes armés de la coalition criminelle Viv Ansanm, retranchés près de l'infrastructure. Le message officiel de la FRG, tel que repris par Diario Libre, ne nomme pas Viv Ansanm.\n\nLa force affirme que les progrès se poursuivent « zone par zone, quartier par quartier ».",
+    },
+    sources: ["Gazette Haiti", "GSF / FRG (X)", "Diario Libre"],
+    sourceLinks: [
+      { name: "Gazette Haiti", url: "https://gazettehaiti.com/node/14526" },
+      { name: "Diario Libre", url: "https://www.diariolibre.com/mundo/haiti/2026/11/11/fuerza-antipandillas-incauta-armas-y-municiones-en-haiti/3718157" },
+    ],
+  },
+  {
+    id: "qh-rasanble-cep-mandataire-2026-11-12",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-12",
+    publishedTime: "2026-11-12T08:47:40-05:00",
+    headline: {
+      ht: "RASANBLE: nouvo dirèktwa a mande CEP ranplase Innocent Joseph pa Josias Benoit, epi yon lòt delè apre 15 novanm",
+      fr: "RASANBLE : le nouveau directoire demande au CEP de remplacer Innocent Joseph par Josias Benoit et un délai après le 15 novembre",
+    },
+    teaser: {
+      ht: "Nan yon memorandòm 9 novanm, li di li pa ka antre nan platfòm enskripsyon an. Se pozisyon nouvo ekip la, pa yon desizyon CEP.",
+      fr: "Dans un mémorandum du 9 novembre, il dit ne pas pouvoir accéder à la plateforme d'inscription. C'est la position de la nouvelle équipe, pas une décision du CEP.",
+    },
+    brief: {
+      ht: "Nouvo dirèktwa pati RASANBLE a, nan yon memorandòm 9 novanm bay prezidan CEP Peterson Pierre-Louis, mande pou yo retire Innocent Joseph kòm mandataire epi mete sekretè jeneral Josias Benoit nan plas li, epi yon delè apre 15 novanm pou enskri kandida, HPN ak Radio Graphie ekri.",
+      fr: "Le nouveau directoire du parti RASANBLE, dans un mémorandum du 9 novembre adressé au président du CEP, Peterson Pierre-Louis, demande le retrait d'Innocent Joseph comme mandataire, son remplacement par le secrétaire général Josias Benoit, et un délai après le 15 novembre pour inscrire ses candidats, écrivent HPN et Radio Graphie.",
+    },
+    body: {
+      ht: "Pati politik RASANBLE voye 9 novanm 2026 yon memorandòm bay prezidan Konsèy elektoral pwovizwa a, Peterson Pierre-Louis, pou mande chanjman mandataire li nan enstitisyon an. HPN ak Radio Graphie relè dokiman an. Nouvo dirèktwa a mande pou yo retire Innocent Joseph nan sistèm CEP la epi enskri Josias Benoit, sekretè jeneral pati a, nan plas li. Li mande tou yon delè anplis apre 15 novanm 2026, dat limit enskripsyon an liy, pou li ka anrejistre kandida li yo.\n\nDirèktwa a di asanble jeneral 27 jiyè 2026 te mete yon nouvo direksyon an plas, ak doktè Franche Lawson kòm prezidan ak Josias Benoit kòm sekretè jeneral. Li di ministè Jistis ak Sekirite piblik te rekonèt estati notarye yo ak konpozisyon dirèktwa a nan yon korespondans 24 out 2026. Malgre sa, li deplore Innocent Joseph rete enskri kòm reprezantan ofisyèl pati a nan sistèm CEP la, e ke sa anpeche nouvo ekip la antre nan platfòm enskripsyon an.\n\nNouvo direksyon an akize tou Innocent Joseph kòm moun ki te kòmanse enskri kandida san konsilte enstans yo. Li di plizyè moun ki anrejistre yo pa manm pati a, e ke yon chanjman estati ta fèt san akò ògàn konpetan yo, yon dosye li di ki devan tribinal. Se afimasyon dirèktwa a yo ye. Opak News pa verifye yo poukont li, e nou pa gen repons Innocent Joseph ni CEP nan sous nou yo.\n\nMemorandòm nan, Radio Graphie pibliye a, siyen pa vis-prezidan Jean Renol Saint-vil. Li mande CEP fè konnen desizyon li sou diferan sa a.",
+      fr: "Le parti politique RASANBLE a adressé le 9 novembre 2026 un mémorandum au président du Conseil électoral provisoire, Peterson Pierre-Louis, pour demander un changement de son mandataire auprès de l'institution. HPN et Radio Graphie relaient ce document. Le nouveau directoire demande le retrait d'Innocent Joseph du système du CEP et l'inscription, à sa place, de Josias Benoit, secrétaire général du parti. Il sollicite aussi un délai supplémentaire après le 15 novembre 2026, date limite de l'inscription en ligne, pour enregistrer ses candidats.\n\nLe directoire affirme que l'assemblée générale du 27 juillet 2026 a mis en place une nouvelle direction, avec le docteur Franche Lawson à la présidence et Josias Benoit au secrétariat général. Il dit que le ministère de la Justice et de la Sécurité publique a reconnu les statuts notariés et la composition de ce directoire dans une correspondance du 24 août 2026. Il déplore qu'Innocent Joseph figure encore comme représentant officiel du parti dans le système du CEP, ce qui, selon lui, empêche la nouvelle équipe d'accéder à la plateforme d'inscription.\n\nLa nouvelle direction accuse aussi Innocent Joseph d'avoir engagé l'inscription de candidats sans consulter les instances dirigeantes. Elle soutient que plusieurs personnes enregistrées ne sont pas membres du parti, et qu'une modification des statuts aurait été faite sans l'accord des organes compétents, un dossier qu'elle dit déjà porté devant les juridictions. Ce sont les affirmations du directoire. Opak News ne les a pas vérifiées de manière indépendante, et nos sources ne comportent pas de réponse d'Innocent Joseph ni du CEP.\n\nLe mémorandum, publié par Radio Graphie, est signé par le vice-président Jean Renol Saint-vil. Il demande au CEP de rendre publique sa décision sur ce différend.",
+    },
+    sources: ["HPN", "Radio Graphie"],
+    sourceLinks: [
+      { name: "HPN", url: "https://www.hpninfo.com/post/le-parti-rasanble-interpelle-le-cep-et-r%C3%A9clame-le-remplacement-de-son-mandataire" },
+      { name: "Radio Graphie", url: "https://radiographieht.com/conflit-au-sein-du-parti-politique-rasanble-le-directoire-adresse-un-memorandum-au-cep/" },
+    ],
+  },
+  {
+    id: "ntk-cep-inscriptions-dupuy-pvd-2026-11-12",
+    tier: "need-to-know",
+    topic: "politics",
+    publishedAt: "2026-11-12",
+    publishedTime: "2026-11-12T08:49:40-05:00",
+    headline: {
+      ht: "Prezidansyèl: Dominique Dupuy enskri sou entènèt pou PVD; 26 enskripsyon a 1 h 52, yo fèmen 15 novanm minwi",
+      fr: "Présidentielle : Dominique Dupuy s'inscrit en ligne pour le PVD ; 26 inscriptions à 1 h 52, clôture le 15 novembre à minuit",
+    },
+    teaser: {
+      ht: "Enskripsyon an liy pa vle di dosye a konplè, ni ke CEP valide kandidati a, Haiti OSINT presize. Depo pyès yo fini 30 novanm.",
+      fr: "L'inscription en ligne ne vaut ni dossier complet ni validation par le CEP, précise Haiti OSINT. Le dépôt des pièces se termine le 30 novembre.",
+    },
+    brief: {
+      ht: "Ansyen minis zafè etranje Dominique Dupuy parèt nan rejis an liy CEP la kòm pretandan prezidans pou Parti Visionnaire pour le Développement d'Haïti (PVD). A 1 h 52, 12 novanm, platfòm nan te konte 26 enskripsyon pou prezidans, Haiti OSINT ekri.",
+      fr: "L'ancienne ministre des Affaires étrangères Dominique Dupuy figure dans le registre en ligne du CEP comme prétendante à la présidence pour le Parti Visionnaire pour le Développement d'Haïti (PVD). À 1 h 52, le 12 novembre, la plateforme comptait 26 inscriptions à la présidence, écrit Haiti OSINT.",
+    },
+    body: {
+      ht: "Dominique Dupuy, ansyen minis zafè etranje ak kilt, parèt nan rejis an liy Konsèy elektoral pwovizwa a kòm pretandan prezidans sou banyè Parti Visionnaire pour le Développement d'Haïti (PVD), Haiti OSINT ekri 12 novanm. Medya a di li te fè konnen desizyon an nan yon videyo 11 novanm sou kont Instagram li, ak tit « Manman an Rive ».\n\nHaiti OSINT presize enskripsyon an liy se yon premye etap administratif. Li pa vle di dosye a konplè, ni ke CEP valide kandidati a. Enstitisyon an avèti done platfòm nan « dinamik e strikteman preliminè ». Lis definitif kandida yo ap soti sèlman apre verifikasyon ak validasyon dosye yo.\n\nNan yon nòt 10 novanm, CEP raple enskripsyon an liy pou kandida prezidans ak lejislatif yo pral fini 15 novanm 2026, a minwi. Peryòd depo pyès yo mande pou dosye kandidati yo pral fini 30 novanm 2026.\n\nA 1 h 52, lè platfòm CEP te afiche 12 novanm, te gen 26 enskripsyon pou prezidans. Pataj fanm yo te bay a 7,7 %, sètadi 2 enskripsyon sou 26, Haiti OSINT ekri. Chif sa yo se yon foto yon rejis ki poko fèmen. Yo ka chanje jiskaske platfòm nan fèmen, e yo pa lis definitif la.",
+      fr: "Dominique Dupuy, ancienne ministre des Affaires étrangères et des Cultes, figure dans le registre en ligne du Conseil électoral provisoire comme prétendante à la présidence sous la bannière du Parti Visionnaire pour le Développement d'Haïti (PVD), écrit Haiti OSINT le 12 novembre. Le média indique qu'elle a rendu publique sa décision dans une vidéo diffusée le 11 novembre sur son compte Instagram, sous le titre « Manman an Rive ».\n\nHaiti OSINT précise que l'inscription en ligne est une première étape administrative. Elle ne vaut ni dépôt complet du dossier, ni validation de la candidature par le CEP. L'institution avertit que les données de sa plateforme sont « dynamiques et strictement préliminaires ». La liste définitive des candidats ne sera établie qu'après vérification et validation des dossiers.\n\nDans une note du 10 novembre, le CEP rappelle que l'inscription en ligne des candidats à la présidence et aux législatives prendra fin le 15 novembre 2026, à minuit. La période consacrée au dépôt des pièces requises pour les dossiers de candidature prendra fin le 30 novembre 2026.\n\nÀ 1 h 52, heure affichée par le portail du CEP le 12 novembre, la plateforme comptait 26 inscriptions à la présidence. La part des femmes y était donnée à 7,7 %, soit 2 inscriptions sur 26, écrit Haiti OSINT. Ces chiffres sont une photographie d'un registre encore ouvert. Ils peuvent changer jusqu'à la fermeture de la plateforme, et ne correspondent pas à la liste définitive.",
+    },
+    sources: ["Haiti OSINT", "CEP"],
+    sourceLinks: [
+      { name: "Haiti OSINT", url: "https://haitiosint.com/presidentielle-dominique-dupuy-inscription-en-ligne-pvd-novembre-2026/" },
+      { name: "CEP, note du 10 novembre 2026", url: "https://cephaiti.ht/cloture-de-la-periode-dinscription-en-ligne-des-candidats-le-15-novembre-et-de-celle-consacree-au-depot-des-pieces-le-30-novembre-2026/" },
+    ],
+    readMoreLink: {
+      fr: { before: "Pour lire notre suivi sur les inscriptions préliminaires au CEP, ", link: "cliquez ici", after: ".", href: "/story/ntk-cep-inscriptions-preliminaires-2026-11-01" },
+      ht: { before: "Pou li swivi nou an sou enskripsyon preliminè yo nan CEP, ", link: "klike la a", after: ".", href: "/ht/story/ntk-cep-inscriptions-preliminaires-2026-11-01" },
+    },
+  },
+  {
+    id: "ntk-nippes-pnh-patrouilles-2026-11-11",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-12",
+    publishedTime: "2026-11-12T08:49:20-05:00",
+    headline: {
+      ht: "Nip: PNH ranfòse patwouy ak kontwòl pou anpeche gang k ap kouri yo vin kache nan depatman an",
+      fr: "Nippes : la PNH renforce les patrouilles et les contrôles pour empêcher des gangs en fuite de s'y réfugier",
+    },
+    teaser: {
+      ht: "Direksyon depatmantal la pale de plizyè komin, Le Nouvelliste ekri 11 novanm. Pa gen bilan arestasyon nan atik la.",
+      fr: "La direction départementale parle de plusieurs communes, écrit Le Nouvelliste le 11 novembre. L'article ne donne pas de bilan d'arrestations.",
+    },
+    brief: {
+      ht: "Direksyon depatmantal Polis nasyonal nan Nip (DDNI) ap entansifye patwouy ak kontwòl sekirite nan plizyè komin depatman an, pou anpeche gwoup kriminèl k ap kouri operasyon nan zòn metwopolitèn Pòtoprens vin kache la, Le Nouvelliste ekri, daprè PNH.",
+      fr: "La Direction départementale de la Police nationale dans les Nippes (DDNI) intensifie les patrouilles et les contrôles de sécurité dans plusieurs communes du département, afin d'empêcher des groupes criminels fuyant les opérations dans la région métropolitaine de Port-au-Prince d'y trouver refuge, écrit Le Nouvelliste, selon la PNH.",
+    },
+    body: {
+      ht: "Direksyon depatmantal Polis nasyonal d'Ayiti nan Nip, DDNI, ap ranfòse patwouy ak kontwòl sekirite nan plizyè komin depatman an, Le Nouvelliste ekri 11 novanm. Daprè PNH, mobilizasyon sa a gen pou objektif anpeche enfiltrasyon gwoup kriminèl nan zòn ki poko frape ak vyolans lan.\n\nPolisye yo ap ranfòse pwen fiks yo, kontwole machin ak motosiklèt, epi yo fè palpasyon sou moun sou gwo wout yo, jounal la rapòte. DDNI di li vle anpeche bandi k ap kouri operasyon polis nan zòn metwopolitèn Pòtoprens yo jwenn refij nan depatman an.\n\nLe Nouvelliste pa nonmen komin yo youn pa youn, ni li pa bay yon balans arestasyon, ni yon dat fini pou dispozitif la. Se anons PNH a li relè.",
+      fr: "La Direction départementale de la Police nationale d'Haïti dans les Nippes, la DDNI, renforce les patrouilles et les contrôles de sécurité dans plusieurs communes du département, écrit Le Nouvelliste le 11 novembre. Selon la PNH, cette mobilisation vise à prévenir l'infiltration de groupes criminels dans des zones encore épargnées par la violence.\n\nLes policiers renforcent les points fixes, contrôlent les véhicules et les motocyclettes, et procèdent à des palpations de personnes sur les principaux axes de circulation, rapporte le journal. La DDNI entend notamment empêcher des bandits fuyant les opérations policières dans la région métropolitaine de Port-au-Prince de trouver refuge dans le département.\n\nLe Nouvelliste ne nomme pas les communes une à une, et ne donne ni bilan d'arrestations, ni durée annoncée du dispositif. Il relaie l'annonce de la PNH.",
+    },
+    sources: ["Le Nouvelliste"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273804/nippes-la-pnh-renforce-les-patrouilles-et-les-controles-de-securite" },
+    ],
+  },
+  {
+    id: "qh-celestin-saint-hilaire-400-mawozo-2026-11-12",
+    tier: "quick-hit",
+    topic: "gossip",
+    publishedAt: "2026-11-12",
+    publishedTime: "2026-11-12T08:47:20-05:00",
+    headline: {
+      ht: "Yon kronikè dominiken akize ansyen senatè Rony Célestin kòm presime finansye 400 Mawozo; yon rapò Nasyonzini te site l pami finansye yo",
+      fr: "Un chroniqueur dominicain accuse l'ex-sénateur Rony Célestin de financer présumément 400 Mawozo ; un rapport de l'ONU l'avait cité parmi les financiers",
+    },
+    teaser: {
+      ht: "Montecristi.net presize Nasyonzini te pale de finansman, li pa di Célestin se chèf gang lan. Akizasyon yo rete presime.",
+      fr: "Montecristi.net précise que l'ONU a parlé de financement, sans dire que Célestin dirige le gang. Les accusations restent présumées.",
+    },
+    brief: {
+      ht: "Kronikè dominiken Eduardo Saint-Hilaire akize ansyen senatè ayisyen Rony Célestin kòm presime sèvo oswa finansye gang 400 Mawozo, Montecristi.net ekri. Rapò Gwoup ekspè Nasyonzini an, pibliye 30 septanm 2024, te site l pami finansye òganizasyon sa a, san li pa prezante l kòm chèf li.",
+      fr: "Le chroniqueur dominicain Eduardo Saint-Hilaire accuse l'ancien sénateur haïtien Rony Célestin d'être le cerveau présumé, ou l'un des financiers, du gang 400 Mawozo, écrit Montecristi.net. Le rapport du Groupe d'experts de l'ONU, publié le 30 septembre 2024, l'avait cité parmi les financiers de cette organisation, sans en faire le chef.",
+    },
+    body: {
+      ht: "Nan yon deba televize, kronikè dominiken Eduardo Saint-Hilaire te nonmen ansyen senatè ayisyen Rony Célestin kòm presime vre sèvo gang 400 Mawozo, e li te pale de lyen ak yon rezo kontrebann sou fwontyè a, Montecristi.net ekri 11 novanm. Medya a presize se akizasyon yon kominikatè yo ye, yo dwe separe yo ak sa dokiman Nasyonzini yo di.\n\nRapò S/2024/704 Konsèy sekirite Nasyonzini, ki te pibliye 30 septanm 2024, idantifye ansyen senatè a kòm youn nan finansye òganizasyon sa a, Montecristi.net ekri. Dapre medya a, paragraf 167, 168 ak 169 dokiman an dekri yon rezo transfwontyè. Kèk sous konfidansyèl, rapò a di, te pale de machandiz kontrebann ki te ka gen zam ak minisyon kache pou 400 Mawozo, presizeman ak konesans ansyen lejislatè a, toujou dapre rapò a jan medya a relè l. Rapò a pa di Célestin se chèf gang lan. Afimasyon sou yon « sèvo » se entèpretasyon kronikè a, Montecristi.net presize.\n\nAmitié FM, ki tounen sou dosye a, ekri menm konklizyon sou finansman ak kontrebann te deja nan rapò 2024 la, e ke Gwoup ekspè a tounen sou ka a nan rapò final septanm 2026 li a, kòm egzanp sou wòl aktè ekonomik nan finansman gang yo. Li atribiye analiz sa a bay Nasyonzini.\n\nRony Célestin pa jije koupab nan nòt sa a. Akizasyon yo rete presime. Opak News pa adopte ni vèsyon kronikè a, ni yon defans, ni yon kondanasyon.",
+      fr: "Lors d'un débat télévisé, le chroniqueur dominicain Eduardo Saint-Hilaire a désigné l'ancien sénateur haïtien Rony Célestin comme le véritable cerveau présumé du gang 400 Mawozo, et a évoqué des liens avec un réseau de contrebande à la frontière, écrit Montecristi.net le 11 novembre. Le média souligne qu'il s'agit des accusations d'un communicateur, à distinguer de ce que disent les documents de l'ONU.\n\nLe rapport S/2024/704 du Conseil de sécurité, publié le 30 septembre 2024, identifie l'ancien sénateur comme l'un des financiers de cette organisation, écrit Montecristi.net. Selon le média, les paragraphes 167, 168 et 169 du document décrivent un réseau transfrontalier. Certaines sources confidentielles, d'après ce rapport tel qu'il est relayé, ont évoqué des cargaisons de contrebande qui pouvaient inclure des armes et des munitions destinées à 400 Mawozo, présumément avec la connaissance de l'ancien législateur. Le rapport ne dit pas que Célestin dirige le gang. L'affirmation selon laquelle il en serait le « cerveau » relève de l'interprétation du chroniqueur, précise Montecristi.net.\n\nAmitié FM, qui revient sur ce dossier, écrit que ces conclusions sur le financement et la contrebande figuraient déjà dans le rapport de 2024, et que le Groupe d'experts y est revenu dans son rapport final de septembre 2026, comme illustration du rôle d'acteurs économiques dans le financement des gangs. Il attribue cette analyse aux Nations unies.\n\nRony Célestin n'est pas jugé sur le fond dans cette note. Les accusations restent présumées. Opak News n'adopte ni la version du chroniqueur, ni une défense, ni une condamnation.",
+    },
+    sources: ["Montecristi.net", "Amitié FM"],
+    sourceLinks: [
+      { name: "Montecristi.net", url: "https://montecristi.net/actualidad/eduardo-senala-exsenador-haitiano-400-mawozo" },
+      { name: "Amitié FM", url: "https://www.amitiefm.ht/post/rony-c%C3%A9lestin-le-syst%C3%A8me-de-contrebande-d%C3%A9crit-par-l-onu" },
+    ],
+  },
+  {
+    id: "ntk-american-airlines-quotidien-cap-2026-11-12",
+    tier: "need-to-know",
+    topic: "commerce",
+    publishedAt: "2026-11-12",
+    publishedTime: "2026-11-12T08:48:40-05:00",
+    isFollowUp: true,
+    headline: {
+      ht: "American Airlines ap vole chak jou pou Okap; Air Canada ak Air Transat pa prevwa tounen pou kounye a",
+      fr: "American Airlines vole chaque jour vers Cap-Haïtien ; Air Canada et Air Transat ne prévoient pas de revenir pour l'instant",
+    },
+    teaser: {
+      ht: "Depatman Deta a di li akeyi wout la, men li kenbe avètisman pou pa vwayaje ann Ayiti, CBC ekri.",
+      fr: "Le Département d'État dit accueillir favorablement la liaison, tout en maintenant son avis de ne pas voyager en Haïti, écrit CBC.",
+    },
+    brief: {
+      ht: "American Airlines relanse nan kòmansman novanm yon vòl chak jou san eskal Miami–Okap. Air Canada ak Air Transat di yo pa gen plan pou retounen toutsuit, CBC ekri 12 novanm.",
+      fr: "American Airlines a relancé au début de novembre une liaison quotidienne sans escale Miami–Cap-Haïtien. Air Canada et Air Transat disent ne pas prévoir de revenir dans l'immédiat, écrit CBC le 12 novembre.",
+    },
+    body: {
+      ht: "American Airlines kòmanse ankò, nan kòmansman novanm, yon sèvis chak jou san eskal ant Miami ak Okap, apre plizyè ane absans, CBC ekri 12 novanm. Konpayi an di li « kontan retounen ann Ayiti », nan yon mesaj li voye bay televizyon kanadyen an.\n\nDepatman Deta ameriken an di CBC li « akeyi » nouvo sèvis sa a pou Okap. Men avètisman vwayaj li a pa chanje: li konseye moun pa vwayaje ann Ayiti pou okenn rezon, poutèt eta dijans lan ak risk sekirite, tankou krim, kidnaping ak dezòd. Gouvènman Kanada a tou avèti moun pou yo evite tout vwayaj ann Ayiti, CBC raple, paske sitiyasyon sekirite a « ekstrèmman enstab », dapre Afè mondyal Kanada.\n\nAir Transat pa prevwa relanse sèvis li pou Pòtoprens nan yon delè kout, pòtpawòl Stéphanie Dussault di CBC pa imèl. Li ajoute konpayi an ap kontinye evalye sitiyasyon an, ak sekirite pasaje ak ekipaj kòm premye kritè. Air Canada, nan yon mesaj pòtpawòl Yasmine Mehdi, di li pa ap opere vòl ann Ayiti kounye a, e ke li ap swiv sitiyasyon an pou evalye yon retou « lè kondisyon yo pèmèt ».\n\nCBC raple FAA te entèdi vòl ameriken yo atè nan kapital la apre tire sou avyon an novanm 2024, yon entèdiksyon ki pwolonje jouk 2027. Wout American Airlines lan se Okap sèlman, se pa Pòtoprens.",
+      fr: "American Airlines a recommencé, au début de novembre, une liaison quotidienne sans escale entre Miami et Cap-Haïtien, après plusieurs années d'absence, écrit CBC le 12 novembre. La compagnie a déclaré être « heureuse de revenir en Haïti », dans un message adressé à la télévision canadienne.\n\nLe Département d'État américain a dit à CBC qu'il « accueille favorablement » cette nouvelle desserte de Cap-Haïtien. Son avis aux voyageurs reste toutefois inchangé: il recommande de ne se rendre en Haïti pour aucune raison, en raison de l'état d'urgence et de risques de sécurité, notamment le crime, les enlèvements et les troubles. Le gouvernement canadien met aussi en garde contre tout voyage en Haïti, rappelle CBC, la situation sécuritaire y étant « extrêmement volatile », selon Affaires mondiales Canada.\n\nAir Transat n'anticipe pas de reprendre son service vers Port-au-Prince dans un avenir proche, a indiqué à CBC, par courriel, la porte-parole Stéphanie Dussault. La compagnie dit continuer d'évaluer la situation, la sécurité des passagers et de l'équipage guidant toute décision. Air Canada, par la voix de la porte-parole Yasmine Mehdi, indique qu'elle n'opère pas de vols vers Haïti pour le moment, et qu'elle suivra la situation pour examiner une reprise « lorsque les conditions le permettront ».\n\nCBC rappelle que la FAA a interdit aux vols américains d'atterrir dans la capitale après des tirs sur des appareils en novembre 2024, une interdiction prolongée jusqu'en 2027. La liaison d'American Airlines dessert Cap-Haïtien seulement, pas Port-au-Prince.",
+    },
+    sources: ["CBC"],
+    sourceLinks: [
+      { name: "CBC", url: "https://www.cbc.ca/news/world/american-airlines-haiti-air-service-9.7416000" },
+    ],
+    readMoreLink: {
+      fr: { before: "Pour relire notre article du 31 octobre sur le retour d'American Airlines au Cap-Haïtien, ", link: "cliquez ici", after: ".", href: "/story/ntk-american-airlines-cap-haitien-2026-10-31" },
+      ht: { before: "Pou relire atik 31 oktòb nou an sou retou American Airlines nan Okap, ", link: "klike la a", after: ".", href: "/ht/story/ntk-american-airlines-cap-haitien-2026-10-31" },
+    },
+  },
+  {
+    id: "qh-stca-tps-haitiens-canada-2026-11-11",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-12",
+    publishedTime: "2026-11-12T08:47:00-05:00",
+    headline: {
+      ht: "Akò sou peyi tyè ki an sekirite: Kanada voye plizyè dizèn Ayisyen pa mwa tounen Ozetazini, kote TPS fini, dapre The Gazette",
+      fr: "Accord sur les tiers pays sûrs : le Canada renvoie des dizaines d'Haïtiens par mois vers les États-Unis, où le TPS a pris fin, selon The Gazette",
+    },
+    teaser: {
+      ht: "Kanada pa depòte Ayisyen yo nan peyi yo, jounal la ekri, men li voye yo Ozetazini, kote depòtasyon yo ogmante.",
+      fr: "Le Canada ne déporte pas les Haïtiens vers leur pays, écrit le journal, mais il les renvoie vers les États-Unis, où les expulsions ont augmenté.",
+    },
+    brief: {
+      ht: "The Gazette, nan yon ankèt Investigative Journalism Bureau, ekri Kanada pa depòte Ayisyen nan peyi yo, men li toujou voye plizyè dizèn Ayisyen pa mwa Ozetazini, ki menm ap depòte. Avoka yo di Akò sou peyi tyè ki an sekirite a mete refijye ayisyen an danje.",
+      fr: "The Gazette, dans une enquête de l'Investigative Journalism Bureau, écrit que le Canada ne déporte pas les Haïtiens vers leur pays, mais qu'il envoie encore des dizaines d'Haïtiens par mois vers les États-Unis, qui, eux, procèdent à des expulsions. Des défenseurs estiment que l'Accord sur les tiers pays sûrs met en danger des réfugiés haïtiens.",
+    },
+    body: {
+      ht: "The Montreal Gazette pibliye 11 novanm yon ankèt Anna Mehler Paperny siyen, pou Investigative Journalism Bureau. Tit la di avoka yo diskite Akò sou peyi tyè ki an sekirite a (Safe Third Country Agreement) mete refijye ayisyen an danje. Anba tit la, jounal la raple Etazini sispann Temporary Protected Status (TPS) pou Ayisyen ki sou teritwa li, e ke depòtasyon yo ogmante.\n\nPremye paragraf atik la di Kanada pa depòte Ayisyen yo nan peyi yo, kote dezòd ak vyolans ta ka mete yo an danje, men li toujou voye plizyè dizèn Ayisyen pa mwa Ozetazini, ki menm ap fè depòtasyon. Se sa jounal la ekri. Rès atik la se dèyè yon pèman; nou pa relè detay nou pa t ka li nèt.\n\nPozisyon avoka yo, jan tit la prezante l, se ke akò ant Kanada ak Etazini an ekspoze Ayisyen yo a yon risk, kounye a TPS fini e depòtasyon ameriken yo monte. Se agiman yo, jan The Gazette relè l, pa yon desizyon tribinal nan nòt sa a.",
+      fr: "The Montreal Gazette a publié le 11 novembre une enquête signée Anna Mehler Paperny, pour l'Investigative Journalism Bureau. Le titre indique que des défenseurs estiment que l'Accord sur les tiers pays sûrs (Safe Third Country Agreement) met en danger des réfugiés haïtiens. En chapô, le journal rappelle que les États-Unis ont mis fin au Temporary Protected Status (TPS) des Haïtiens présents sur leur sol, et que les expulsions ont augmenté.\n\nLe premier paragraphe de l'article indique que le Canada ne déporte pas les Haïtiens vers leur pays, où le désordre et la violence pourraient les mettre en danger, mais qu'il envoie encore des dizaines d'Haïtiens par mois vers les États-Unis, qui, eux, procèdent à des expulsions. C'est ce qu'écrit le journal. Le reste de l'article est derrière un péage; nous ne relayons pas des détails que nous n'avons pas pu lire en entier.\n\nL'argument des défenseurs, tel que le titre le présente, est que cet accord entre le Canada et les États-Unis expose des Haïtiens à un risque, maintenant que le TPS a pris fin et que les expulsions américaines ont augmenté. C'est leur thèse, telle que The Gazette la rapporte, et non une décision de justice dans cette note.",
+    },
+    sources: ["The Montreal Gazette / Investigative Journalism Bureau"],
+    sourceLinks: [
+      { name: "The Montreal Gazette", url: "https://montrealgazette.com/news/world/advocates-argue-the-safe-third-country-agreement-puts-haitian-refugees-in-danger/" },
+    ],
+  },
+  {
+    id: "ntk-g7-duval-sanctions-bukele-2026-11-12",
+    tier: "need-to-know",
+    topic: "politics",
+    publishedAt: "2026-11-12",
+    publishedTime: "2026-11-12T08:49:00-05:00",
+    isFollowUp: true,
+    headline: {
+      ht: "G7: Frantz Duval poze kesyon si yo pral wete moun ki sanksyone yo nan kous prezidansyèl la; France Inter pale de parye Bukele a",
+      fr: "G7 : Frantz Duval interroge sur l'éviction des personnalités sanctionnées de la course ; France Inter revient sur le pari de Bukele",
+    },
+    teaser: {
+      ht: "Editoryal Le Nouvelliste a tounen sou enkyetid minis G7 yo. France Inter dekri voye sòlda salvadorien yo kòm yon parye sou fòs.",
+      fr: "L'éditorial du Nouvelliste revient sur l'inquiétude des ministres du G7. France Inter décrit l'envoi de soldats salvadoriens comme un pari sur la force.",
+    },
+    brief: {
+      ht: "Nan yon editoryal 11 novanm, Frantz Duval raple minis G7 yo ak Gran reprezantan Inyon ewopeyen an te di yo enkyete pou patisipasyon moun ki sanksyone nan pwosesis politik ayisyen an, epi li poze kesyon si gwoup la pral peze pou yo pa nan kous prezidansyèl la.",
+      fr: "Dans un éditorial du 11 novembre, Frantz Duval rappelle que les ministres du G7 et la Haute représentante de l'Union européenne ont dit leur inquiétude face à la participation de personnes sanctionnées au processus politique haïtien, et demande si le groupe pèsera pour les écarter de la course présidentielle.",
+    },
+    body: {
+      ht: "Frantz Duval, nan yon editoryal Le Nouvelliste pibliye 11 novanm, raple minis zafè etranje Almay, Kanada, Etazini, Frans, Itali, Japon, Wayòm Ini ak Gran reprezantan Inyon ewopeyen an te pran lapawòl sou dosye Ayiti. Yo te eksprime enkyetid yo sou patisipasyon, nan pwosesis politik ayisyen an, moun ki vize ak sanksyon entènasyonal.\n\nRedaktè an chèf la poze kesyon an: èske G7 a pral peze pou fè wete moun ki sanksyone yo nan sèn politik ayisyen an, sitou nan kous prezidansyèl la? Se yon kesyon li poze, se pa yon desizyon G7 ki deja pran.\n\nMenm maten 12 novanm, nan emisyon « Géopolitique » sou France Inter, yon chronik dekri angajman lame salvadoryen an ann Ayiti kòm « parye » prezidan Nayib Bukele. France Inter ekri Bukele voye 2000 sòlda pou konbat gang yo, epi li prezante deplisman sa a kòm yon parye sou fòs, san yon mandan Nasyonzini pou kontenjan sa a, nan lekti medya franse a. Li ajoute yon pati nan popilasyon an akeyi l byen, menm si li wè yon risk vyolans.\n\nNòt sa a rapòte kesyon Duval la ak lekti France Inter la. Li pa di G7 a pral evite okenn kandidati, ni ke operasyon salvadoryen yo deja reyisi.",
+      fr: "Frantz Duval, dans un éditorial du Nouvelliste publié le 11 novembre, rappelle que les ministres des Affaires étrangères de l'Allemagne, du Canada, des États-Unis, de la France, de l'Italie, du Japon, du Royaume-Uni et la Haute représentante de l'Union européenne se sont exprimés sur le dossier haïtien. Ils ont dit leur préoccupation face à la participation, au processus politique en Haïti, de personnes visées par des sanctions internationales.\n\nLe rédacteur en chef pose la question: le G7 va-t-il peser pour faire écarter les personnalités sanctionnées de la scène politique haïtienne, et plus particulièrement de la course présidentielle? C'est une interrogation, pas une décision déjà prise par le G7.\n\nLe matin du 12 novembre, dans l'émission « Géopolitique » de France Inter, une chronique décrit l'engagement de l'armée salvadorienne en Haïti comme le « pari » du président Nayib Bukele. France Inter écrit que Bukele a envoyé 2000 soldats pour combattre les gangs, et présente ce déploiement comme un pari sur la force, sans mandat de l'ONU pour ce contingent, selon la lecture du média français. Elle ajoute qu'une partie de la population l'accueille favorablement, tout en y voyant un risque de violence.\n\nCette note rapporte la question de Duval et la lecture de France Inter. Elle n'affirme pas que le G7 écartera une candidature, ni que les opérations salvadoriennes ont déjà réussi.",
+    },
+    sources: ["Le Nouvelliste (Frantz Duval)", "France Inter"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273823/haiti-entre-pressions-pour-des-sanctions-et-actions-du-salvador" },
+      { name: "France Inter", url: "https://www.radiofrance.fr/franceinter/podcasts/geopolitique/geopolitique-du-jeudi-12-novembre-2026-4790210" },
+    ],
+    readMoreLink: {
+      fr: { before: "Pour relire notre article sur la déclaration du G7 et de l'UE à Paris, ", link: "cliquez ici", after: ".", href: "/story/ntk-g7-ue-elections-gsf-2026-11-11" },
+      ht: { before: "Pou relire atik nou an sou deklarasyon G7 ak Inyon ewopeyen an nan Pari, ", link: "klike la a", after: ".", href: "/ht/story/ntk-g7-ue-elections-gsf-2026-11-11" },
+    },
+  },
   {
     id: "ntk-grand-lettre-cep-2026-11-08",
     tier: "need-to-know",
@@ -2106,7 +2396,7 @@ export const STORIES: Story[] = [
       fr: "Mise à jour du 4 novembre, 7 h : Selon Radio Télévision Caraïbes (RTC), des médias haïtiens font état d'au moins 12 personnes tuées dans des affrontements à Santo et Croix-des-Missions. Mise à jour du 3 novembre, 5 h 30 : Selon AyiboPost et L'Observatoire, des familles fuient plusieurs quartiers de la Plaine du Cul-de-Sac pendant que les gangs barricadent les routes et recrutent de force des jeunes hommes. La PNH dit avoir lancé ce lundi 2 novembre, avec l'appui de la GSF, une vaste opération dans la Plaine du Cul-de-Sac. Selon EFE, les soldats salvadoriens avancent au sol pour la première fois contre Chen Mechan et 400 Mawozo. Une dizaine de bandits auraient été tués, chiffre non officiel.",
     },
     body: {
-      ht: "Mizajou 4 novanm, 7 h : Dapre Radio Télévision Caraïbes (RTC), sòlda salvadoryen yo lanse lendi premye gwo operasyon yo nan Plenn Kildesak, kont gang Chen Mechan ak 400 Mawozo. RTC di medya ayisyen rapòte omwen 12 moun mouri nan batay ant gang yo ak sòlda salvadoryen yo nan Santo ak Kwadèmisyon. Sous la pa di kiyès moun sa yo ye, ni si gen sivil ladan yo. Ni PNH ni Salvadò poko bay bilan ofisyèl.\n\nDapre RTC, PNH, ak sipò GSF, deplwaye blende ak inite a pye nan Kafou Shada, pon Kwadèmisyon ak Santo 17.\n\nKesyon pou lektè yo :\n• Konbyen nan 12 moun sa yo ki te sivil ?\n• Kilè PNH oswa Salvadò ap pibliye yon bilan ofisyèl ?\nMizajou 3 novanm, 5 h 30 : Dapre jounal L'Observatoire, fanmi ap kite kay yo prese prese nan Sarthe, Kanaran, Kwadèmisyon ak Bon-Repos, paske yo pè pou yo pa pran nan mitan gang yo ak yon ofansiv salvadoryen. Dapre plizyè temwayaj jounal la ranmase, gang yo ta di moun k ap kite yo y ap gen pou yo peye pou yo retounen.\n\nAyiboPost, ki pale ak yon demi douzèn moun, di gang yo ap bati barikad nan Lilavwa, Lizon, Maren, Lathan, Kafou Shada, Santo ak Damyen. Yo ta fòse jèn gason antre nan gang e yo ta fòse moun ede yo bati barikad ak patisipe nan manifestasyon kont prezans etranje. De moun Santo di gang yo menase moun ki eseye kite zòn nan.\n\nAyiboPost di tou apèn 200 nan plis pase 2000 sòlda salvadoryen ki rive yo ap anba kòmandman GSF. Yon sous ki pre Chen Mechan (Claudy Célestin) di nan gwoup la yo konsidere swadizan asasina Salvadoryen yo kòm yon \"erè\". Se yon sèl sous ki di sa, e nou pa ka verifye l.\n\nKesyon pou lektè yo :\n• Kiyès ki pral pwoteje moun ki kouri yo, e ki kote yo pral dòmi ?\n• Si gang yo fòse jèn yo pran zam, kiyès k ap fè diferans ant yon jèn yo fòse ak yon bandi ?\nNan yon kominike PouSiOuPaTKonnen repran, Polis nasyonal d Ayiti (PNH) di li lanse lendi 2 novanm 2026, « ak sipò GSF », yon gwo operasyon nan plizyè zòn nan Plenn Kildesak. Dapre PNH, objektif la se kraze peyaj klandesten yo, bloke tantativ kidnapin ak tout abi bandi yo fè popilasyon an sibi. Operasyon an t ap fèt nan kafou Chada, pon Kwadèmisyon ak Santo 17, e wo kòmandman PNH mobilize plizyè blende. Kominike a pa pale de sòlda salvadoryen ki disparèt yo.\n\nDapre ajans EFE, nan yon depèch Infobae pibliye, se premye gwo operasyon sòlda Salvadò yo depi yo kòmanse rive 22 oktòb. Yo avanse nan yon dizèn machin blende pou demantle gang Chen Mechan ak 400 Mawozo, gang Lanmò Sanjou dirije. Gang sa yo akize nan disparisyon 4 sòlda salvadoryen apre yon anbiskad nan Kwadebouke. Toujou dapre EFE, bandi yo leve barikad pou bloke antre sòlda yo.\n\nDapre EFE, ki site laprès ayisyen, omwen yon dizèn manm gang mouri nan batay nan Santo ak Kwadèmisyon. PouSiOuPaTKonnen pale tou de dron kamikaz ak yon dizèn bandi mouri, men li presize rapò sa yo poko ofisyèl. PNH pa bay bilan. Opak News pa ka verifye chif sa yo.\n\nEFE rapòte tou, dapre kèk medya, koalisyon Viv Ansanm ta fòse abitan nan zòn Laplèn desann nan lari anba menas lanmò pou pwoteste kont operasyon an. Enfòmasyon sa a pa verifye.\n\nKesyon pou lektè yo : • Ki pwoteksyon sivil Plenn Kildesak yo genyen pandan operasyon an ? • Kilè PNH ap bay yon bilan ofisyèl ? • Èske operasyon sa a ap mennen nan 4 sòlda salvadoryen yo ?",
+      ht: "Mizajou 4 novanm, 7 h : Dapre Radio Télévision Caraïbes (RTC), sòlda salvadoryen yo lanse lendi premye gwo operasyon yo nan Plenn Kildesak, kont gang Chen Mechan ak 400 Mawozo. RTC di medya ayisyen rapòte omwen 12 moun mouri nan batay ant gang yo ak sòlda salvadoryen yo nan Santo ak Kwadèmisyon. Sous la pa di kiyès moun sa yo ye, ni si gen sivil ladan yo. Ni PNH ni Salvadò poko bay bilan ofisyèl.\n\nDapre RTC, PNH, ak sipò GSF, deplwaye blende ak inite a pye nan Kafou Shada, pon Kwadèmisyon ak Santo 17.\n\nKesyon pou lektè yo :\n• Konbyen nan 12 moun sa yo ki te sivil ?\n• Kilè PNH oswa Salvadò ap pibliye yon bilan ofisyèl ?\nMizajou 3 novanm, 5 h 30 : Dapre jounal L'Observatoire, fanmi ap kite kay yo prese prese nan Sarthe, Kanaran, Kwadèmisyon ak Bon-Repos, paske yo pè pou yo pa pran nan mitan gang yo ak yon ofansiv salvadoryen. Dapre plizyè temwayaj jounal la ranmase, gang yo ta di moun k ap kite yo y ap gen pou yo peye pou yo retounen.\n\nAyiboPost, ki pale ak yon demi douzèn moun, di gang yo ap bati barikad nan Lilavwa, Lizon, Maren, Lathan, Kafou Shada, Santo ak Damyen. Yo ta fòse jèn gason antre nan gang e yo ta fòse moun ede yo bati barikad ak patisipe nan manifestasyon kont prezans etranje. De moun Santo di gang yo menase moun ki eseye kite zòn nan.\n\nAyiboPost di tou apèn 200 nan plis pase 2000 sòlda salvadoryen ki rive yo ap anba kòmandman GSF. Yon sous ki pre Chen Mechan (Claudy Célestin) di nan gwoup la yo konsidere swadizan asasina Salvadoryen yo kòm yon \"erè\". Se yon sèl sous ki di sa, e nou pa ka verifye l.\n\nKesyon pou lektè yo :\n• Kiyès ki pral pwoteje moun ki kouri yo, e ki kote yo pral dòmi ?\n• Si gang yo fòse jèn yo pran zam, kiyès k ap fè diferans ant yon jèn yo fòse ak yon bandi ?\nNan yon kominike PouSiOuPaTKonnen repran, Polis nasyonal d'Ayiti (PNH) di li lanse lendi 2 novanm 2026, « ak sipò GSF », yon gwo operasyon nan plizyè zòn nan Plenn Kildesak. Dapre PNH, objektif la se kraze peyaj klandesten yo, bloke tantativ kidnapin ak tout abi bandi yo fè popilasyon an sibi. Operasyon an t ap fèt nan kafou Chada, pon Kwadèmisyon ak Santo 17, e wo kòmandman PNH mobilize plizyè blende. Kominike a pa pale de sòlda salvadoryen ki disparèt yo.\n\nDapre ajans EFE, nan yon depèch Infobae pibliye, se premye gwo operasyon sòlda Salvadò yo depi yo kòmanse rive 22 oktòb. Yo avanse nan yon dizèn machin blende pou demantle gang Chen Mechan ak 400 Mawozo, gang Lanmò Sanjou dirije. Gang sa yo akize nan disparisyon 4 sòlda salvadoryen apre yon anbiskad nan Kwadebouke. Toujou dapre EFE, bandi yo leve barikad pou bloke antre sòlda yo.\n\nDapre EFE, ki site laprès ayisyen, omwen yon dizèn manm gang mouri nan batay nan Santo ak Kwadèmisyon. PouSiOuPaTKonnen pale tou de dron kamikaz ak yon dizèn bandi mouri, men li presize rapò sa yo poko ofisyèl. PNH pa bay bilan. Opak News pa ka verifye chif sa yo.\n\nEFE rapòte tou, dapre kèk medya, koalisyon Viv Ansanm ta fòse abitan nan zòn Laplèn desann nan lari anba menas lanmò pou pwoteste kont operasyon an. Enfòmasyon sa a pa verifye.\n\nKesyon pou lektè yo : • Ki pwoteksyon sivil Plenn Kildesak yo genyen pandan operasyon an ? • Kilè PNH ap bay yon bilan ofisyèl ? • Èske operasyon sa a ap mennen nan 4 sòlda salvadoryen yo ?",
       fr: "Mise à jour du 4 novembre, 7 h : Selon Radio Télévision Caraïbes (RTC), les troupes salvadoriennes ont lancé lundi leur première grande opération dans la Plaine du Cul-de-Sac, contre les gangs Chen Mechan et 400 Mawozo. RTC indique que des médias haïtiens font état d'au moins 12 personnes tuées lors d'affrontements entre les gangs et les troupes salvadoriennes à Santo et Croix-des-Missions. La source ne dit pas qui sont ces personnes ni s'il y a des civils parmi elles. Ni la PNH ni le Salvador n'ont publié de bilan officiel.\n\nSelon RTC, la PNH, appuyée par la GSF, a déployé des blindés et des unités au sol à Carrefour Shada, au pont de Croix-des-Missions et à Santo 17.\n\nQuestions aux lecteurs :\n• Combien de ces 12 morts étaient des civils ?\n• Quand la PNH ou le Salvador publieront-ils un bilan officiel ?\nMise à jour du 3 novembre, 5 h 30 : Selon le journal L'Observatoire, des familles quittent leurs maisons à la hâte à Sarthe, Canaan, Croix-des-Missions et Bon-Repos, craignant de se retrouver prises entre les gangs et une offensive salvadorienne. D'après plusieurs témoignages recueillis par le journal, les gangs feraient savoir aux partants que leur retour pourrait dépendre du paiement d'une somme d'argent.\n\nAyiboPost, qui cite une demi-douzaine de personnes, rapporte des barricades à Lillavois, Lizon, Marin, Lathan, Carrefour Shada, Santo et Damien. Les gangs recruteraient de force des jeunes hommes, obligeraient des habitants à construire les barricades et à participer à des manifestations contre la présence étrangère. Deux habitants de Santo disent que des hommes armés menacent ceux qui tentent de partir.\n\nAyiboPost affirme aussi qu'à peine 200 des plus de 2000 soldats salvadoriens arrivés seront placés sous le commandement de la GSF. Une source proche de Chen Mechan (Claudy Célestin) affirme qu'au sein du groupe, l'assassinat présumé des Salvadoriens serait considéré comme une « erreur ». Cette affirmation vient d'une seule source et nous ne pouvons pas la vérifier.\n\nQuestions aux lecteurs :\n• Qui va protéger les familles qui fuient, et où vont-elles dormir ?\n• Si les gangs forcent des jeunes à prendre les armes, qui fera la différence entre un jeune contraint et un bandit ?\nDans un communiqué relayé par PouSiOuPaTKonnen, la Police nationale d'Haïti (PNH) dit avoir lancé ce lundi 2 novembre 2026, « avec le soutien de la GSF », une importante opération dans plusieurs zones de la Plaine du Cul-de-Sac. Selon la PNH, elle vise à supprimer les péages clandestins, à endiguer les tentatives d'enlèvement et les exactions subies par la population. L'opération se déroulait au carrefour de Chada, au pont de Croix-des-Missions et à Santo 17, et le haut commandement a mobilisé plusieurs blindés. Le communiqué ne mentionne pas les soldats salvadoriens disparus.\n\nSelon l'agence EFE, dans une dépêche publiée par Infobae, il s'agit de la première grande opération des troupes salvadoriennes, arrivées à partir du 22 octobre. Elles avancent à bord d'une dizaine de blindés pour démanteler les gangs Chen Mechan et 400 Mawozo, ce dernier dirigé par Lanmò Sanjou. Ces gangs sont désignés comme responsables de la disparition de 4 militaires salvadoriens après une embuscade à Croix-des-Bouquets. Toujours selon EFE, les bandits ont érigé des barricades pour bloquer l'entrée des soldats.\n\nSelon EFE, qui cite la presse haïtienne, au moins une dizaine de membres de gangs ont été tués lors des affrontements à Santo et à Croix-des-Missions. PouSiOuPaTKonnen évoque aussi des drones kamikazes et une dizaine de bandits tués, en précisant que ces rapports ne sont pas officiels. La PNH n'a donné aucun bilan. Opak News ne peut pas vérifier ces chiffres.\n\nEFE rapporte aussi que, selon certains médias, la coalition Viv Ansanm aurait forcé des habitants de La Plaine à manifester sous menace de mort contre l'opération. Cette information n'est pas vérifiée.\n\nQuestions aux lecteurs : • Quelle protection pour les civils de la Plaine du Cul-de-Sac pendant l'opération ? • Quand la PNH publiera-t-elle un bilan officiel ? • Cette offensive mènera-t-elle aux 4 militaires salvadoriens ?",
     },
     sources: ["Radio Télévision Caraïbes", "AyiboPost", "L'Observatoire", "EFE (via Infobae)", "PouSiOuPaTKonnen"],
