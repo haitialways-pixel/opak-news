@@ -17,6 +17,244 @@ import type { Story } from "../types";
 export const STORIES: Story[] = [
 
   {
+    id: "ntk-sylvio-cator-pnh-salvador-2026-11-12",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-12",
+    publishedTime: "2026-11-12T18:05:00-05:00",
+    isUrgent: true,
+    urgentHours: 24,
+    headline: {
+      ht: "PNH ak Task Force reprann estad Sylvio Cator epi remèt li bay sòlda salvadorien yo",
+      fr: "La PNH et la Task Force reprennent le stade Sylvio Cator et le remettent aux soldats salvadoriens",
+    },
+    teaser: {
+      ht: "Operasyon an fèt jedi maten nan Pòtoprens, PNH di. Pa gen bilan viktim. Itilizasyon kòm baz poko ofisyèl.",
+      fr: "L'opération a eu lieu jeudi matin à Port-au-Prince, selon la PNH. Pas de bilan de victimes. L'usage comme base n'est pas encore officiel.",
+    },
+    brief: {
+      ht: "Polis nasyonal di li reprann kontwòl estad Sylvio Cator ak zòn bò kote l yo, jedi 12 novanm maten, ansanm ak Task Force, epi li remèt sit la bay fòs ame salvadoryen yo.",
+      fr: "La Police nationale dit avoir repris le contrôle du stade Sylvio Cator et de ses abords, jeudi 12 novembre au matin, avec la Task Force, puis avoir remis le site aux forces armées salvadoriennes.",
+    },
+    body: {
+      ht: "Polis nasyonal d'Ayiti anonse li reprann kontwòl estad Sylvio Cator ak anviron li yo, nan sant Pòtoprens, apre yon operasyon ki fèt granmaten jedi 12 novanm 2026, ansanm ak Task Force. Nan yon kominike, enstitisyon an di li remèt kontwòl sit la bay fòs ame El Salvador, ki pran relè a pou konsolide espas yo rekipere yo. Diario Libre relè pasaj sa a, ki te pibliye an kreyòl.\n\nLe Nouvelliste, ki pale ak yon sous pre fòs ame d'Ayiti (FAD'H), konfime jedi sòlda salvadoryen yo pran pozisyon nan estad nasyonal la. Sous sa a di twoup FAD'H yo te deja sou teren an. Jounal la ekri plis pase 20 machin blende ak kamyon ki pote sòlda salvadoryen yo kanpe andedan lokal espòtif la. Li ajoute FAD'H ta kontinye aktivite konsolidasyon nan sant vil la.\n\nKominike PNH a, Diario Libre presize, pa di konbyen sòlda ki te patisipe, ni si te gen konfwontasyon oswa viktim. Nou pa bay okenn chif viktim. Le Quotidien 509 ekri abitan zòn nan rapòte yo tande gwo detonation nan maten an, ansanm ak eksplozyon drone. Se temwayaj sa yo, se pa yon bilan ofisyèl.\n\nMedya a ekri estad la ta dwe sèvi kounye a kòm baz operasyon pou sòlda salvadoryen yo. Sa poko konfime ofisyèlman kòm yon baz. Diario Libre di kowalisyon Viv Ansanm te okipe instalasyon yo depi fevriye 2024. Li mete estad la toupre Bisantnè, Pòtay Leyogàn ak wout ki mennen Matisan. Le Quotidien 509 pale pito de Village-de-Dieu, Fontamara ak Grand-Ravine. PNH te pibliye imaj ayeryen ki montre machin blende nan estad la ak bò kote l, Diario Libre ekri.",
+      fr: "La Police nationale d'Haïti annonce avoir repris le contrôle du stade Sylvio Cator et de ses abords, au centre de Port-au-Prince, à l'issue d'une opération menée tôt dans la matinée du jeudi 12 novembre 2026, avec la Task Force. Dans un communiqué, l'institution dit avoir remis le contrôle du site aux forces armées du Salvador, qui prennent le relais pour consolider les espaces récupérés. Diario Libre relaie ce passage, publié d'abord en créole.\n\nLe Nouvelliste, qui s'appuie sur une source proche des Forces armées d'Haïti (FAD'H), confirme jeudi que des soldats salvadoriens ont pris position dans le stade national. Cette source indique que des troupes des FAD'H étaient déjà sur place. Le journal écrit que plus de 20 véhicules blindés et camions transportant des soldats salvadoriens sont stationnés à l'intérieur de l'enceinte sportive. Il ajoute que les FAD'H poursuivraient leurs activités de consolidation dans le centre-ville.\n\nLe communiqué de la PNH, précise Diario Libre, n'indique ni le nombre de soldats engagés, ni s'il y a eu des affrontements ou des victimes. Nous ne publions aucun bilan de victimes. Le Quotidien 509 écrit que des habitants de la zone rapportent avoir entendu de fortes détonations dans la matinée, ainsi que des explosions provoquées par des drones. Ce sont ces témoignages, pas un bilan officiel.\n\nLe média écrit que le stade devrait désormais servir de base opérationnelle aux soldats salvadoriens. Cela n'est pas encore confirmé officiellement comme base. Diario Libre affirme que la coalition Viv Ansanm occupait les installations depuis février 2024. Il situe le stade près du Bicentenaire, du Portail de Léogâne et des voies vers Martissant. Le Quotidien 509 parle plutôt de Village-de-Dieu, Fontamara et Grand-Ravine. La PNH a publié des images aériennes montrant des véhicules blindés dans le stade et alentour, écrit Diario Libre.",
+    },
+    sources: ["Le Quotidien 509", "Le Nouvelliste", "Diario Libre"],
+    sourceLinks: [
+      { name: "Le Quotidien 509", url: "https://lequotidien509.com/la-pnh-reprend-le-controle-du-stade-sylvio-cator-et-le-remet-aux-soldats-salvadoriens/" },
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/en/article/273831/salvadoran-soldiers-take-position-at-the-sylvio-cator-stadium" },
+      { name: "Diario Libre", url: "https://www.diariolibre.com/mundo/haiti/2026/11/12/tropas-de-bukele-toman-estadio-haitiano-ocupado-por-bandas-desde-2024/3718955" },
+    ],
+  },
+  {
+    id: "ntk-forbin-kogri-paris-tchad-2026-11-12",
+    tier: "need-to-know",
+    topic: "politics",
+    publishedAt: "2026-11-12",
+    publishedTime: "2026-11-12T18:04:40-05:00",
+    headline: {
+      ht: "Pari: Forbin ak Kogri pale pou ranfòse koperasyon sekirite ant Ayiti ak Tchad",
+      fr: "Paris : Forbin et Kogri s'entretiennent pour renforcer la coopération de sécurité entre Haïti et le Tchad",
+    },
+    teaser: {
+      ht: "Rankont 11 novanm lan te fèt sou kote 9e Fòwòm Pari sou lapè, Le Nouvelliste ekri. Yo pale pou fòmalize relasyon diplomatik yo tou.",
+      fr: "L'entretien du 11 novembre a eu lieu en marge du 9e Forum de Paris sur la paix, écrit Le Nouvelliste. Ils évoquent aussi la formalisation des relations diplomatiques.",
+    },
+    brief: {
+      ht: "Minis zafè etranje Raina Forbin te rankontre 11 novanm omològ tchadien li Ahmed Kogri, pou ranfòse koperasyon bilateral nan zafè sekirite, Le Nouvelliste ekri.",
+      fr: "La ministre des Affaires étrangères Raina Forbin s'est entretenue le 11 novembre avec son homologue tchadien Ahmed Kogri, pour renforcer la coopération bilatérale en matière de sécurité, écrit Le Nouvelliste.",
+    },
+    body: {
+      ht: "Minis zafè etranje ak kilt Raina Forbin te gen yon antretyen, 11 novanm, ak minis eta tchadien an chaj zafè etranje, entegrasyon afriken ak Tchadien ki lòt bò dlo, Ahmed Kogri, sou ranfòsman koperasyon bilateral de peyi yo nan zafè sekirite, Le Nouvelliste ekri 12 novanm.\n\nRankont lan te fèt sou kote 9e Fòwòm Pari sou lapè, an prezans anbasadè Tchad an Frans, Amina Priscille Longoh, ak anbasadè Ayiti an Frans, Louino Volcy. De minis yo pale de perspektiv pou ranfòse epi fòmalize relasyon diplomatik ant Ayiti ak Tchad, epi yo di yo vle yon dyalòg bilateral ki pi òganize. Yo te reyafime angajman yo pou travay ansanm pou retablisman sekirite ann Ayiti, jounal la rapòte.\n\nAtik la pa detaye yon akò siyen, ni yon kalandriye, ni yon kontenjan. Se volonte de minis yo, jan Le Nouvelliste relè l.",
+      fr: "La ministre des Affaires étrangères et des Cultes, Raina Forbin, s'est entretenue le 11 novembre avec le ministre d'État tchadien des Affaires étrangères, de l'Intégration africaine et des Tchadiens de l'étranger, Ahmed Kogri, au sujet du renforcement de la coopération bilatérale en matière de sécurité, écrit Le Nouvelliste le 12 novembre.\n\nLa rencontre s'est tenue en marge du 9e Forum de Paris sur la paix, en présence de l'ambassadrice du Tchad en France, Amina Priscille Longoh, et de l'ambassadeur d'Haïti en France, Louino Volcy. Les deux ministres ont évoqué les perspectives de renforcement et de formalisation des relations diplomatiques entre Haïti et le Tchad, et ont dit vouloir un dialogue bilatéral plus structuré. Ils ont aussi réaffirmé leur engagement à œuvrer conjointement pour le rétablissement de la sécurité en Haïti, rapporte le journal.\n\nL'article ne détaille ni un accord signé, ni un calendrier, ni un contingent. Il s'agit de la volonté des deux ministres, telle que Le Nouvelliste la relaie.",
+    },
+    sources: ["Le Nouvelliste"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273832/haiti-et-le-tchad-renforcent-leur-cooperation-bilaterale-en-matiere-de-securite" },
+    ],
+    readMoreLink: {
+      fr: { before: "Pour relire notre article sur les entretiens de Forbin à Madrid, ", link: "cliquez ici", after: ".", href: "/story/ntk-forbin-madrid-salvador-ulloa-2026-11-05" },
+      ht: { before: "Pou relire atik nou an sou antretyen Forbin yo nan Madrid, ", link: "klike la a", after: ".", href: "/ht/story/ntk-forbin-madrid-salvador-ulloa-2026-11-05" },
+    },
+  },
+  {
+    id: "qh-fils-aime-constitution-ritz-2026-11-12",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-12",
+    publishedTime: "2026-11-12T18:04:20-05:00",
+    headline: {
+      ht: "Revizyon Konstitisyon: premye minis Fils-Aimé mande yon konsiltasyon nasyonal",
+      fr: "Révision de la Constitution : le Premier ministre Fils-Aimé appelle à une concertation nationale",
+    },
+    teaser: {
+      ht: "Li te nan yon rankont jedi nan otèl Ritz, ak plizyè chèf medya, sou inisyativ gwoup travay Pak nasyonal la, Le Nouvelliste ekri.",
+      fr: "Il a participé jeudi à une rencontre à l'hôtel Le Ritz, avec plusieurs responsables de médias, à l'initiative du groupe de travail du Pacte national, écrit Le Nouvelliste.",
+    },
+    brief: {
+      ht: "Alix Didier Fils-Aimé te patisipe jedi nan yon rankont sou revizyon Konstitisyon 29 mas 1987, nan otèl Le Ritz nan Pòtoprens, Le Nouvelliste ekri. Li mande yon dyalòg ouvè e enklizif.",
+      fr: "Alix Didier Fils-Aimé a participé jeudi à une rencontre sur la révision de la Constitution du 29 mars 1987, à l'hôtel Le Ritz, à Port-au-Prince, écrit Le Nouvelliste. Il a plaidé pour un dialogue ouvert et inclusif.",
+    },
+    body: {
+      ht: "Premye minis Alix Didier Fils-Aimé te patisipe jedi 12 novanm nan yon rankont sou revizyon Konstitisyon 29 mas 1987, ki te òganize nan otèl Le Ritz, nan Pòtoprens, sou inisyativ Gwoup travay Pak nasyonal pou estabilite ak òganizasyon eleksyon yo, Le Nouvelliste ekri.\n\nRankont lan te reyini plizyè responsab medya, pami yo Max Chauvet (Le Nouvelliste), Marvel Dandin (radyo Kiskeya), Jean-Lucien Borges (radyo Tele Ginen), Léopold Berlanger (radyo Vision 2000), Hervé Lerouge (radyo Tele Pacific), Gotson Pierre (AlterPresse) ak Hérold Jean-François (radyo Ibo).\n\nChèf gouvènman an te pran konesans travay ak rapò plizyè komisyon espesyalize, ansanm ak travay Chèz Louis-Joseph Janvier nan Inivèsite Kiskeya, sou evolisyon kad konstitisyonèl la ak fonksyònman enstitisyon eta a. Li te plede pou yon dyalòg ouvè e enklizif, epi li envite responsab medya yo, aktè sosyete sivil la ak reprezantan pati politik yo kontribye nan refleksyon an, pou yo ka rive jwenn yon konsansis sou pwoblèm konstitisyonèl yo, jounal la rapòte.\n\nAtik la pa di yon kalandriye pou revizyon an, ni yon pwojè tèks ki deja adopte.",
+      fr: "Le Premier ministre Alix Didier Fils-Aimé a participé jeudi 12 novembre à une rencontre sur la révision de la Constitution du 29 mars 1987, organisée à l'hôtel Le Ritz, à Port-au-Prince, à l'initiative du Groupe de travail du Pacte national pour la stabilité et l'organisation des élections, écrit Le Nouvelliste.\n\nLa rencontre a réuni plusieurs responsables de médias, dont Max Chauvet (Le Nouvelliste), Marvel Dandin (Radio Kiskeya), Jean-Lucien Borges (Radio Télé Ginen), Léopold Berlanger (Radio Vision 2000), Hervé Lerouge (Radio Télé Pacific), Gotson Pierre (AlterPresse) et Hérold Jean-François (Radio Ibo).\n\nLe chef du gouvernement a pris connaissance des travaux et rapports de plusieurs commissions spécialisées, ainsi que de ceux de la Chaire Louis-Joseph Janvier de l'Université Quisqueya, sur l'évolution du cadre constitutionnel et le fonctionnement des institutions de l'État. Il a plaidé pour un dialogue ouvert et inclusif, et a invité les responsables des médias, les acteurs de la société civile et les représentants des partis politiques à contribuer à la réflexion, en vue d'un consensus sur les enjeux constitutionnels, rapporte le journal.\n\nL'article ne donne ni calendrier pour la révision, ni projet de texte déjà adopté.",
+    },
+    sources: ["Le Nouvelliste"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273835/revision-de-la-constitution-le-premier-ministre-appelle-a-une-concertation-nationale" },
+    ],
+  },
+  {
+    id: "qh-volcy-assad-senat-nippes-viktwa-2026-11-12",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-12",
+    publishedTime: "2026-11-12T18:04:00-05:00",
+    headline: {
+      ht: "Nip: Volcy Assad kandida pou Sena a sou banyè VIKTWA; 31 enskripsyon nan depatman an",
+      fr: "Nippes : Volcy Assad candidat au Sénat sous la bannière de VIKTWA ; 31 inscriptions dans le département",
+    },
+    teaser: {
+      ht: "Non li parèt sou lis piblik CEP la, NAGO ekri. Enskripsyon an liy poko vle di dosye a valide.",
+      fr: "Son nom figure sur la liste publique du CEP, écrit NAGO. L'inscription en ligne ne vaut pas encore validation du dossier.",
+    },
+    brief: {
+      ht: "Volcy Assad anonse kandidati l pou Sena a nan Nip, sou banyè VIKTWA. Biwo kominikasyon li di li enskri sou entènèt nan CEP. Non li parèt kòm kandida titilè, NAGO ekri. CEP poko egzamine dosye a.",
+      fr: "Volcy Assad a annoncé sa candidature au Sénat dans les Nippes, sous la bannière de VIKTWA. Son bureau de communication dit qu'il s'est inscrit en ligne auprès du CEP. Son nom y figure comme candidat titulaire, écrit NAGO. Le CEP doit encore examiner le dossier.",
+    },
+    body: {
+      ht: "Volcy Assad anonse li kandida pou Sena a nan depatman Nip, sou banyè estrikti politik VIKTWA, NAGO ekri 12 novanm. Dapre yon nòt biwo kominikasyon li, li fè enskripsyon an liy sou platfòm Konsèy elektoral pwovizwa a. Non li parèt nan tablo piblik kandidati CEP la, kòm kandida titilè pou pòs senatè nan Nip pou VIKTWA.\n\nNAGO presize tablo CEP la konte 31 kandidati pou Sena a nan depatman sa a, ladan yo twa sou banyè VIKTWA: Volcy Assad, Claude Luc Guillaume ak Jean-Alex St Cyr. Medya a ekri VIKTWA prezante tou Wilner Joseph nan eleksyon prezidansyèl la.\n\nEnskripsyon an liy se yon etap preliminè. Li dwe swiv ak depo pyès yo mande, epi ak egzamen dosye a pa CEP. Sa vle di kandidati a poko valide.",
+      fr: "Volcy Assad a annoncé sa candidature au Sénat pour le département des Nippes, sous la bannière de la structure politique VIKTWA, écrit NAGO le 12 novembre. Selon une note de son bureau de communication, il a effectué son inscription en ligne sur la plateforme du Conseil électoral provisoire. Son nom figure dans le tableau public des candidatures du CEP, comme candidat titulaire au poste de sénateur dans les Nippes pour VIKTWA.\n\nNAGO précise que le tableau du CEP compte 31 candidatures au Sénat dans ce département, dont trois sous la bannière de VIKTWA : celles de Volcy Assad, de Claude Luc Guillaume et de Jean-Alex St Cyr. Le média écrit que VIKTWA présente aussi Wilner Joseph à l'élection présidentielle.\n\nL'inscription en ligne n'est qu'une étape préliminaire. Elle doit être suivie du dépôt des pièces requises et de l'examen du dossier par le CEP. Autrement dit, la candidature n'est pas encore validée.",
+    },
+    sources: ["NAGO"],
+    sourceLinks: [
+      { name: "NAGO News", url: "https://news.nago.tv/volcy-assad-candidat-senat-nippes-viktwa" },
+      { name: "NAGO, Flash Info 15 h", url: "https://nago.tv/flash-info/2026-11-12-15" },
+    ],
+  },
+  {
+    id: "qh-cep-rae-saint-domingue-2026-11-12",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-12",
+    publishedTime: "2026-11-12T18:03:40-05:00",
+    headline: {
+      ht: "CEP: prezidan Peterson Pierre-Louis nan 19e Rankont entèameriken otorite elektoral yo, nan Sen Domeng",
+      fr: "CEP : le président Peterson Pierre-Louis à la 19e Rencontre interaméricaine des autorités électorales, à Saint-Domingue",
+    },
+    teaser: {
+      ht: "Reyinyon an fèt 11 rive 13 novanm, Le Nouvelliste ak yon nòt CEP ekri.",
+      fr: "La rencontre se tient du 11 au 13 novembre, écrivent Le Nouvelliste et une note du CEP.",
+    },
+    brief: {
+      ht: "Prezidan Konsèy elektoral pwovizwa a, Peterson Pierre-Louis, reprezante enstitisyon an nan 19e Rankont entèameriken otorite elektoral yo (RAE), ki fèt 11 rive 13 novanm 2026 nan Sen Domeng, Le Nouvelliste ekri.",
+      fr: "Le président du Conseil électoral provisoire, Peterson Pierre-Louis, représente l'institution à la 19e Rencontre interaméricaine des autorités électorales (RAE), qui se tient du 11 au 13 novembre 2026 à Saint-Domingue, écrit Le Nouvelliste.",
+    },
+    body: {
+      ht: "Prezidan CEP Peterson Pierre-Louis kite peyi a pou reprezante enstitisyon an nan 19e Rankont entèameriken otorite elektoral yo (RAE), ki fèt 11, 12 ak 13 novanm 2026 nan Sen Domeng, Le Nouvelliste ekri 11 novanm.\n\nNan yon nòt 10 novanm, CEP presize rankont lan òganize ansanm pa Komisyon santral elektoral Repiblik Dominikèn ak Depatman koperasyon elektoral ak obsèvasyon eleksyon Òganizasyon eta ameriken yo (OEA), kòm sekretarya teknik RAE.\n\nEchanj yo pral sou egalite nan kanpay yo, finansman politik nan epòk aktif dijital, entèlijans atifisyèl ak dezenfòmasyon, gouvènans teknoloji elektoral, ansanm ak ranfòsman rezilyans enstitisyon elektoral yo, jan Le Nouvelliste ak nòt CEP la rezime.\n\nNòt sa a pa di ki entèvansyon prezidan CEP la te fè deja nan reyinyon an.",
+      fr: "Le président du CEP, Peterson Pierre-Louis, a quitté le pays pour représenter l'institution à la 19e Rencontre interaméricaine des autorités électorales (RAE), qui se tient les 11, 12 et 13 novembre 2026 à Saint-Domingue, écrit Le Nouvelliste le 11 novembre.\n\nDans une note du 10 novembre, le CEP précise que la rencontre est organisée conjointement par la Commission centrale électorale de la République dominicaine et le Département de la coopération électorale et de l'observation des élections de l'Organisation des États américains (OEA), en tant que secrétariat technique de la RAE.\n\nLes échanges portent notamment sur l'équité des campagnes, le financement politique à l'ère des actifs numériques, l'intelligence artificielle et la désinformation, la gouvernance des technologies électorales, ainsi que le renforcement de la résilience des organismes électoraux, comme le résument Le Nouvelliste et la note du CEP.\n\nCette note n'indique pas quelles interventions le président du CEP a déjà faites durant la rencontre.",
+    },
+    sources: ["Le Nouvelliste", "CEP"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273818/le-president-du-cep-a-saint-domingue-pour-participer-a-la-xix-rencontre-interamericaine-des-autorites-electorales" },
+      { name: "CEP, note du 10 novembre 2026", url: "https://cephaiti.ht/le-cep-participe-du-11-au-13-novembre-2026-a-saint-domingue-a-la-xixe-rencontre-interamericaine-des-autorites-electorales/" },
+    ],
+  },
+  {
+    id: "qh-anse-pitres-reouverture-frontiere-2026-11-12",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-12",
+    publishedTime: "2026-11-12T18:03:20-05:00",
+    isFollowUp: true,
+    headline: {
+      ht: "Ansapitr: yo relouvri pas fwontyè a apre twa jou tansyon pou lanmò de Ayisyen",
+      fr: "Anse-à-Pitres : le passage frontalier rouvre après trois jours de tension liés à la mort de deux Haïtiens",
+    },
+    teaser: {
+      ht: "Otorite Pedernales ak Ansapitr te jwenn yon akò mèkredi, Diario Libre ekri. Moun ki responsab lanmò yo poko idantifye ofisyèlman.",
+      fr: "Les autorités de Pedernales et d'Anse-à-Pitres ont trouvé un accord mercredi, écrit Diario Libre. Les responsables des morts n'ont pas encore été identifiés officiellement.",
+    },
+    brief: {
+      ht: "Apre lanmò de sitwayen ayisyen nan Ansapitr, pas fwontyè sid la te fèmen e mache binasyonal lendi a pa t fèt. Yo relouvri l apre yon akò mèkredi, Diario Libre ekri 12 novanm.",
+      fr: "Après la mort de deux citoyens haïtiens à Anse-à-Pitres, le passage frontalier sud a été fermé et le marché binational de lundi n'a pas eu lieu. Il a rouvert après un accord mercredi, écrit Diario Libre le 12 novembre.",
+    },
+    body: {
+      ht: "Lanmò de sitwayen ayisyen, nan yon zak vyolan nan Ansapitr, te koze twa jou tansyon sou fwontyè sid la epi kanpe aktivite komèsyal ant Ayiti ak Repiblik Dominikèn, Diario Libre ekri 12 novanm. Jounal la di ensidan an, kote moun ki responsab yo poko idantifye ofisyèlman, te mennen otorite ayisyen yo fèmen pòt aksè sou tèritwa yo, kòm presyon pou mande kolaborasyon dominikèn nan chèche klè sou lanmò yo, ke yo prezante kòm presime zak sitwayen dominiken. Se akizasyon ki rapòte, se pa yon konklizyon ofisyèl.\n\nDesizyon an te anpeche mache binasyonal lendi a. Apre plizyè jou ensètitid, otorite Pedernales ak Ansapitr te rive jwenn, mèkredi, yon akò ki pèmèt relouvri pas fwontyè a, jounal la ekri.\n\nReyinyon an te fèt nan sal evènman Gouvènasyon Pedernales. Diario Libre di reprezantan dominiken yo te angaje yo pou kolabore nan ankèt yo, pou idantifye, arete epi mennen devan jistis moun ki responsab yo. Reyinyon an te gen gouvènè Pedernales, Edirda D'Óleo Peña, ansanm ak plizyè responsab lame, lapolis, Migrasyon, Cesfront ak majistra Pedernales, Alfredo Francés. Pou delegasyon ayisyen an, te gen majistra Ansapitr, Decembre Selio Jean Julies, ak lòt otorite minisipal ak polisye, toujou dapre jounal la.\n\nTe gen vèsyon sou yon twazyèm moun ki ta blese, ak yon presime lyen ak dwòg. Diario Libre presize enfòmasyon sa yo poko konfime ofisyèlman, e sikonstans egzak lanmò yo poko etabli piblikman.",
+      fr: "La mort de deux citoyens haïtiens, dans un fait violent survenu à Anse-à-Pitres, a provoqué trois jours de tension sur la frontière sud et l'arrêt des activités commerciales entre Haïti et la République dominicaine, écrit Diario Libre le 12 novembre. Le journal indique que cet incident, dont les responsables n'ont pas encore été identifiés officiellement, a conduit les autorités haïtiennes à fermer l'accès depuis leur territoire, pour exiger une collaboration dominicaine dans l'éclaircissement de ces morts, présentées comme présumément causées par des citoyens dominicains. Il s'agit d'accusations rapportées, pas d'une conclusion officielle.\n\nCette décision a empêché la tenue du marché binational de lundi. Après plusieurs jours d'incertitude, les autorités de Pedernales et d'Anse-à-Pitres sont parvenues, mercredi, à un accord qui a permis de rouvrir le passage frontalier, écrit le journal.\n\nLa réunion s'est tenue dans le salon d'événements de la gouvernance de Pedernales. Diario Libre écrit que des représentants dominicains se sont engagés à collaborer aux enquêtes pour identifier, arrêter et traduire en justice les responsables. La rencontre était dirigée par la gouverneure de Pedernales, Edirda D'Óleo Peña, avec plusieurs responsables de l'armée, de la police, de l'immigration, du Cesfront et le maire de Pedernales, Alfredo Francés. Pour la délégation haïtienne, le maire d'Anse-à-Pitres, Decembre Selio Jean Julies, ainsi que d'autres autorités municipales et policières, étaient présents, toujours selon le journal.\n\nDes versions ont circulé sur une troisième personne qui aurait été blessée, et sur un présumé lien avec la drogue. Diario Libre précise que ces informations n'ont pas été confirmées officiellement, et que les circonstances exactes des morts n'ont pas encore été établies publiquement.",
+    },
+    sources: ["Diario Libre"],
+    sourceLinks: [
+      { name: "Diario Libre", url: "https://www.diariolibre.com/actualidad/sucesos/2026/11/12/reabren-comercio-en-la-frontera-tras-tension-por-muerte-de-haitianos/3718435" },
+    ],
+    readMoreLink: {
+      fr: { before: "Pour relire notre article sur la fermeture du marché binational lundi, ", link: "cliquez ici", after: ".", href: "/story/ntk-pedernales-marche-anse-a-pitres-2026-11-10" },
+      ht: { before: "Pou relire atik nou an sou fèmen mache binasyonal lendi a, ", link: "klike la a", after: ".", href: "/ht/story/ntk-pedernales-marche-anse-a-pitres-2026-11-10" },
+    },
+  },
+  {
+    id: "qh-bahamas-rapatriement-62-2026-11-12",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-12",
+    publishedTime: "2026-11-12T18:03:00-05:00",
+    headline: {
+      ht: "Bahamas rapatriye 62 Ayisyen; imigrasyon avèti moun ki pa gen estati yo",
+      fr: "Les Bahamas rapatrient 62 Haïtiens ; l'immigration avertit les personnes sans statut",
+    },
+    teaser: {
+      ht: "Te gen 51 gason ak 11 fanm, The Tribune ekri. Yo te voye sitwayen dominiken ak chinwa tounen nan lòt operasyon, san chif.",
+      fr: "Il y avait 51 hommes et 11 femmes, écrit The Tribune. Des ressortissants dominicains et chinois ont aussi été renvoyés dans d'autres opérations, sans effectifs précisés.",
+    },
+    brief: {
+      ht: "Depatman Imigrasyon Bahamas rapatriye 62 Ayisyen mèkredi, 51 gason ak 11 fanm, The Tribune ekri 12 novanm. Yon responsab avèti moun ki pa gen estati legal yo ka arete, pouswiv epi depòte.",
+      fr: "Le Département de l'immigration des Bahamas a rapatrié mercredi 62 Haïtiens, 51 hommes et 11 femmes, écrit The Tribune le 12 novembre. Un responsable avertit que les personnes sans statut légal peuvent être arrêtées, poursuivies et expulsées.",
+    },
+    body: {
+      ht: "Depatman Imigrasyon Bahamas rapatriye 62 sitwayen ayisyen mèkredi, The Tribune ekri jedi 12 novanm. Gwoup la te gen 51 gason ak 11 fanm. Jounal la di yo te voye sitwayen dominiken ak chinwa tounen lakay yo nan lòt operasyon, men otorite yo pa di konbyen.\n\nChedville Adams, ke yo rele tou Chad, asistan direktè imigrasyon an chaj operasyon yo pa entèrim, avèti moun ki pa gen estati nan Commonwealth Bahamas yo ka arete, pouswiv, depòte epi anpeche tounen tousuit, The Tribune relè.\n\nJounal la prezante operasyon sa a kòm dènye nan yon seri rapatriyman ane sa a, pami yo 184 Ayisyen nan mwa septanm, 116 nan 27 out, 114 nan mwa jen ak 107 nan 15 me, sou vòl pou Okap. Se chif The Tribune relè, nou pa verifye yo youn pa youn nan nòt sa a.",
+      fr: "Le Département de l'immigration des Bahamas a rapatrié mercredi 62 ressortissants haïtiens, écrit The Tribune jeudi 12 novembre. Le groupe comptait 51 hommes et 11 femmes. Le journal indique que des ressortissants dominicains et chinois ont aussi été renvoyés dans d'autres opérations, sans que les autorités en précisent le nombre.\n\nChedville Adams, dit Chad, assistant directeur de l'immigration chargé des opérations par intérim, a averti que les personnes sans statut dans le Commonwealth des Bahamas s'exposent à l'arrestation, à des poursuites, à l'expulsion et à une interdiction de revenir dans l'immédiat, selon The Tribune.\n\nLe journal présente cette opération comme la dernière d'une série de rapatriements cette année, dont 184 Haïtiens en septembre, 116 le 27 août, 114 en juin et 107 le 15 mai, vers Cap-Haïtien. Ce sont les chiffres relayés par The Tribune ; nous ne les avons pas vérifiés un par un dans cette note.",
+    },
+    sources: ["The Tribune"],
+    sourceLinks: [
+      { name: "The Tribune", url: "https://www.tribune242.com/news/2026/nov/12/bahamas-repatriates-62-haitians-as-immigration-warns-of-removals/" },
+    ],
+  },
+  {
+    id: "qh-grenadiers-ciceron-blessures-2026-11-12",
+    tier: "quick-hit",
+    topic: "sports",
+    publishedAt: "2026-11-12",
+    publishedTime: "2026-11-12T18:02:40-05:00",
+    isFollowUp: true,
+    headline: {
+      ht: "Grenadye yo: Fernando Cicéron, kòmandan Violette, jwenn premye konvokasyon li; vag blesi kontinye",
+      fr: "Grenadiers : Fernando Cicéron, capitaine du Violette, obtient sa première convocation ; la vague de blessures continue",
+    },
+    teaser: {
+      ht: "Violette AC te fè anons ofisyèl la, Le Nouvelliste ekri. Pokò konnen kilè li pral jwenn gwoup la an Florid.",
+      fr: "Le Violette AC a fait l'annonce officielle, écrit Le Nouvelliste. On ne sait pas encore quand il rejoindra le groupe en Floride.",
+    },
+    brief: {
+      ht: "Seleksyonè David Badia konvoke Fernando Cicéron, kòmandan Violette AC, nan ekip nasyonal la, Le Nouvelliste ekri. Se premye reprezantan chanpyona nasyonal D1 a nan rasanbleman an, pandan plizyè titilè fòfè poutèt blesi.",
+      fr: "Le sélectionneur David Badia a convoqué Fernando Cicéron, capitaine du Violette AC, en équipe nationale, écrit Le Nouvelliste. C'est le seul représentant du championnat national de D1 dans le rassemblement, alors que plusieurs titulaires sont forfaits sur blessure.",
+    },
+    body: {
+      ht: "Fernando Cicéron, kòmandan Violette AC, jwenn yon konvokasyon nan ekip nasyonal la, Le Nouvelliste ekri 12 novanm. Jounal la prezante l kòm chanpyon ak Vieux Tigre nan D3, D2 ak D1, e li di se premye reprezantan chanpyona nasyonal D1 a ki antre nan rasanbleman Grenadye yo. Anons ofisyèl la soti nan Violette AC. Pokò konnen kilè li pral jwenn gwoup la an Florid, pou de match kont Etazini, 14 ak 17 novanm.\n\nKonvokasyon an vin nan yon moman kote seleksyon an pèdi plizyè jwè poutèt blesi. Haiti Tempo, nan yon atik 10 novanm, te deja ekri vag blesi a manyen defansè Jean-Kevin Duverne, milye teren Jean-Ricner Bellegarde, epi atakan Frantzdy Pierrot, ke Federasyon foutbòl Ayiti te anonse fòfè tou. Nou te deja relè fòfè sa yo.\n\nSe yon konvokasyon. Li pa di Cicéron pral titilè, ni ki tan li va rive nan kan an.",
+      fr: "Fernando Cicéron, capitaine du Violette AC, a été convoqué en équipe nationale, écrit Le Nouvelliste le 12 novembre. Le journal le présente comme champion avec le Vieux Tigre en D3, D2 et D1, et indique qu'il est le seul représentant du championnat national de D1 à rejoindre le rassemblement des Grenadiers. L'annonce officielle a été faite par le Violette AC. On ne sait pas encore quand il rejoindra le groupe en Floride, pour les deux matchs contre les États-Unis, les 14 et 17 novembre.\n\nCette convocation intervient alors que la sélection est privée de plusieurs joueurs sur blessure. Haiti Tempo, dans un article du 10 novembre, avait déjà écrit que cette vague touchait le défenseur Jean-Kevin Duverne, le milieu Jean-Ricner Bellegarde, puis l'attaquant Frantzdy Pierrot, dont la Fédération haïtienne de football a aussi annoncé le forfait. Nous avons déjà relaté ces forfaits.\n\nIl s'agit d'une convocation. Elle ne dit ni que Cicéron sera titulaire, ni à quel moment il arrivera au camp.",
+    },
+    sources: ["Le Nouvelliste", "Haiti Tempo"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273836/fernando-ciceron-convoque-par-david-badia" },
+      { name: "Haiti Tempo", url: "https://haititempo.com/foot-selection-une-vague-de-blessures-frappe-les-grenadiers-avant-usa/" },
+    ],
+    readMoreLink: {
+      fr: { before: "Pour relire notre article sur les forfaits de Pierrot, Duverne et Bellegarde, ", link: "cliquez ici", after: ".", href: "/story/qh-grenadiers-usa-ligue-nations-2026-11-01" },
+      ht: { before: "Pou relire atik nou an sou fòfè Pierrot, Duverne ak Bellegarde, ", link: "klike la a", after: ".", href: "/ht/story/qh-grenadiers-usa-ligue-nations-2026-11-01" },
+    },
+  },
+
+  {
     id: "ntk-abinader-soutien-bukele-salvador-2026-11-12",
     tier: "need-to-know",
     topic: "security",
@@ -676,9 +914,10 @@ export const STORIES: Story[] = [
       ht: "Meri Okap ak Chanm komès ayisyen Kanada siyen, mardi 10 novanm 2026, yon pwotokòl dakò, Vant Bèf Info ekri. Majistra Michel St-Croix ak prezidant Chanm nan, Luckny Guerrier, te siyen dokiman an. Biwo Fasilite Zafè yo (BFA) te patisipe nan seremoni an.\n\nDapre medya a, de enstitisyon yo vle devlope antreprenarya, touris, envestisman ak ranfòsman kapasite, epi akonpaye antrepriz lokal yo. Pwotokòl la prevwa yon mekanis pou kowòdone ak swiv pwojè komen yo. Nan kad sa a, BFA dwe bay de enstitisyon yo yon sipò teknik.\n\nLuckny Guerrier te souliye wòl dyaspora a nan devlopman ekonomik peyi a. Li di chanm nan vle pwoche antreprenè yo, fasilite echanj komèsyal epi mobilize resous ak konpetans dyaspora a. Majistra St-Croix salue inisyativ la, epi li di li ta vle patenarya a kontinye pi lwen pase manda Komisyon minisipal ki la kounye a.\n\nSe yon kad koperasyon yo siyen. Kont randi a pa detaye ni yon lis pwojè ki deja finanse, ni yon kalandriye, ni yon montan envestisman.",
       fr: "La mairie du Cap-Haïtien et la Chambre de commerce haïtienne du Canada ont signé, mardi 10 novembre 2026, un protocole d'accord, écrit Vant Bèf Info. Le maire Michel St-Croix et la présidente de la Chambre, Luckny Guerrier, ont signé le document. Le Bureau de facilitation des affaires (BFA) a pris part à la cérémonie.\n\nSelon le média, les deux institutions entendent développer l'entrepreneuriat, le tourisme, les investissements et le renforcement des capacités, et accompagner les entreprises locales. Le protocole prévoit un mécanisme de coordination et de suivi des projets communs. Dans ce cadre, le BFA doit apporter un appui technique aux deux institutions.\n\nLuckny Guerrier a souligné le rôle de la diaspora dans le développement économique du pays. Elle a dit que sa chambre veut rapprocher les entrepreneurs, faciliter les échanges commerciaux et mobiliser les ressources et les compétences de la diaspora. Le maire St-Croix a salué l'initiative, et a dit souhaiter que le partenariat se poursuive au-delà du mandat de l'actuelle Commission municipale.\n\nIl s'agit d'un cadre de coopération. Le compte rendu ne détaille ni une liste de projets déjà financés, ni un calendrier, ni un montant d'investissement.",
     },
-    sources: ["Vant Bèf Info"],
+    sources: ["Vant Bèf Info", "Le Nouvelliste"],
     sourceLinks: [
       { name: "Vant Bèf Info", url: "https://vantbefinfo.com/cap-haitien-la-mairie-signe-un-accord-economique-avec-la-chambre-de-commerce-haitienne-du-canada/" },
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273780/cooperation-la-mairie-du-cap-haitien-signe-un-accord-avec-la-chambre-de-commerce-haitienne-du-canada" },
     ],
   },
   {
@@ -2017,6 +2256,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-brana-suspension-insecurite-2026-11-04",
+    archived: true,
     tier: "need-to-know",
     topic: "commerce",
     publishedAt: "2026-11-05",
@@ -2287,6 +2527,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-judo-montreal-panam-open-2026-11-05",
+    archived: true,
     tier: "quick-hit",
     topic: "sports",
     publishedAt: "2026-11-05",
