@@ -17,6 +17,41 @@ import type { Story } from "../types";
 export const STORIES: Story[] = [
 
   {
+    id: "ntk-abinader-soutien-bukele-salvador-2026-11-12",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-12",
+    publishedTime: "2026-11-12T12:58:00-05:00",
+    isFollowUp: true,
+    headline: {
+      ht: "Abinader di li sipòte Bukele ak prezans sòlda salvadorien yo ann Ayiti, ak lojistik ak entèlijans, dapre AP",
+      fr: "Abinader dit soutenir Bukele et la présence de troupes salvadoriennes en Haïti, avec de la logistique et du renseignement, selon l'AP",
+    },
+    teaser: {
+      ht: "Listín Diario site chanselye Bisonó: GSF gen 2181 manm kounye a, li ta dwe rive 5500 nan anviwon 3 mwa, e RD te mete 20 milyon dola.",
+      fr: "Listín Diario cite le chancelier Bisonó : la GSF a 2181 membres actuellement, elle devrait atteindre 5500 dans environ 3 mois, et la RD a versé 20 millions de dollars.",
+    },
+    brief: {
+      ht: "Prezidan dominiken Luis Abinader di gouvènman li a ap kolabore ak operasyon El Salvador ann Ayiti, li ba li lojistik ak entèlijans, pandan anviwon 2500 sòlda salvadorien ap konbat gang yo, AP ekri.",
+      fr: "Le président dominicain Luis Abinader affirme que son gouvernement collabore avec l'opération du Salvador en Haïti, en lui fournissant de la logistique et du renseignement, alors qu'environ 2500 soldats salvadoriens combattent les gangs, écrit l'AP.",
+    },
+    body: {
+      ht: "Prezidan Repiblik Dominikèn nan, Luis Abinader, di gouvènman li a ap kolabore ak operasyon El Salvador ann Ayiti, epi li ba li lojistik ak entèlijans, Associated Press ekri 12 novanm, nan yon atik Dánica Coto siyen, ke Los Angeles Times pibliye an panyòl. AP pale de anviwon 2500 sòlda salvadorien k ap konbat gang yo nan peyi a. Se chif ajans lan, nou pa verifye l poukont nou.\n\nAbinader te mande fòs entènasyonal la kowòdone aksyon li ak twoup salvadorien yo epi « sipòte yon fason desizif lame salvadorien an ak atitid prezidan Bukele », dapre sitasyon AP a. Li di minis defans El Salvador ap pale prèske chak jou ak parèy li nan Repiblik Dominikèn. Yon pòtpawòl Abinader te refize bay detay sou ki kalite èd peyi a ba El Salvador.\n\nAP ekri twoup salvadorien yo ki fèk deplwaye yo sou je, paske yo ap opere an gwo andeyò kad Fòs represyon gang yo (GSF, oswa FRG), yon fòs miltinasyonal Nasyonzini soutni. Se fòmilaj ajans lan. Igor Rugwiza, pòtpawòl GSF, di AP fòs la ap kowòdone sere ak otorite ayisyen yo ak patnè entènasyonal ki konsène, « pou sipòte objektif sekirite yo pataje ». Li ajoute kowòdinasyon efikas, ak evite yonn antre nan wout lòt ant tout aktè sekirite k ap travay ann Ayiti, esansyèl pou rezilta ki dire. Li di tout aktivite GSF fèt selon mandat li, aranjman kòmandman ak kontwòl, règ angajman yo ak obligasyon sou dwa moun.\n\nPremye minis Alix Didier Fils-Aimé te remèsye Bukele mardi sou X pou sipò li nan batay kont gang yo, AP raple. Ajans lan di tou yo prevwa Fils-Aimé vwayaje nan El Salvador semèn pwochèn pou pale de avni twoup salvadorien yo. AP raple Bukele te selebre yon atak lapolis ayisyen ak twoup salvadorien te fè sou kay Wilson Joseph, ke yo rele Lanmò San Jou, lidè gang 400 Mawozo. Joseph pa t touye, ajans lan presize.\n\nNan yon atik 12 novanm, Listín Diario site chanselye dominiken Víctor Bisonó, ke yo rele « Ito ». Dapre jounal la, Bisonó di GSF gen 2181 manm kounye a nan Ayiti, e ke nan « anviwon twa mwa » fòs la ta dwe rive 5500 sòlda ak polisye, jan Konsèy sekirite Nasyonzini te etabli. Li di Repiblik Dominikèn, ki pa patisipe nan fòs miltinasyonal la, te deja peye 20 milyon dola pou kontribye nan operasyon yo. Se chif Listín Diario atribiye bay chanselye a; atik la pa di ki jou li te pale.",
+      fr: "Le président de la République dominicaine, Luis Abinader, affirme que son gouvernement collabore avec l'opération du Salvador en Haïti et lui fournit de la logistique et du renseignement, écrit Associated Press le 12 novembre, dans un article signé Dánica Coto, repris en espagnol par le Los Angeles Times. L'AP parle d'environ 2500 soldats salvadoriens qui combattent les gangs dans le pays. C'est le chiffre de l'agence, que nous n'avons pas vérifié de manière indépendante.\n\nAbinader a appelé la force internationale à coordonner ses actions avec les troupes salvadoriennes et à « soutenir de manière décisive l'armée salvadorienne et l'attitude du président Bukele », selon la citation rapportée par l'AP. Il a dit que le ministre de la Défense du Salvador s'entretient presque quotidiennement avec son homologue dominicain. Un porte-parole d'Abinader a refusé de préciser la nature de l'aide apportée au Salvador.\n\nL'AP écrit que les troupes salvadoriennes récemment déployées font l'objet d'un examen attentif, parce qu'elles opèrent en grande partie en dehors du cadre de la Force de répression des gangs (GSF, ou FRG), une force multinationale soutenue par l'ONU. C'est la formulation de l'agence. Igor Rugwiza, porte-parole de la GSF, a déclaré à l'AP que la force coordonne étroitement avec les autorités haïtiennes et les partenaires internationaux concernés, « à l'appui d'objectifs de sécurité partagés ». Il a ajouté qu'une coordination efficace, et le fait d'éviter que les uns n'entravent les autres parmi tous les acteurs de sécurité présents en Haïti, sont essentiels pour des résultats durables. Il a soutenu que toute activité de la force se fait conformément à son mandat, aux arrangements de commandement et de contrôle, aux règles d'engagement et aux obligations en matière de droits humains.\n\nLe premier ministre Alix Didier Fils-Aimé a remercié Bukele mardi sur X pour son soutien dans la lutte contre les gangs, rappelle l'AP. L'agence indique aussi que Fils-Aimé doit se rendre la semaine prochaine au Salvador pour discuter de l'avenir des troupes salvadoriennes. L'AP rappelle que Bukele a célébré une attaque menée par la police haïtienne et des troupes salvadoriennes contre la maison de Wilson Joseph, alias Lanmò San Jou, chef du gang 400 Mawozo. Joseph n'a pas été tué, précise l'agence.\n\nDans un article du 12 novembre, Listín Diario cite le chancelier dominicain Víctor Bisonó, dit « Ito ». Selon le journal, Bisonó affirme que la GSF compte actuellement 2181 membres en Haïti, et que « dans environ trois mois » la force devrait atteindre 5500 militaires et policiers, comme l'a fixé le Conseil de sécurité de l'ONU. Il dit que la République dominicaine, qui ne participe pas à cette force multinationale, a déjà versé 20 millions de dollars pour contribuer à ses opérations. Ce sont les chiffres que Listín Diario attribue au chancelier ; l'article ne dit pas à quelle date il s'est exprimé.",
+    },
+    sources: ["Associated Press / Los Angeles Times", "Listín Diario"],
+    sourceLinks: [
+      { name: "Los Angeles Times (AP)", url: "https://www.latimes.com/espanol/internacional/articulo/2026-11-12/presidente-dominicano-dice-que-apoya-bukele-y-la-presencia-de-tropas-salvadorenas-en-haiti" },
+      { name: "AP", url: "https://apnews.com/article/dominican-republic-abinader-salvador-haiti-gangs-troops-55c1bdb8c82fce3b5d49ad33e6d8c194" },
+      { name: "Listín Diario", url: "https://listindiario.com/las-mundiales/haiti/20261112/fuerzas-supresion-pandilla-haiti-incauta-armas-municiones-aeropuerto-puerto-principe_929842.html" },
+    ],
+    readMoreLink: {
+      fr: { before: "Pour relire notre article sur la frappe contre Lanmò San Jou et le débat sur le mandat, ", link: "cliquez ici", after: ".", href: "/story/ntk-mansion-lanmo-san-jou-2026-11-10" },
+      ht: { before: "Pou relire atik nou an sou frap Lanmò San Jou a ak deba sou mandat la, ", link: "klike la a", after: ".", href: "/ht/story/ntk-mansion-lanmo-san-jou-2026-11-10" },
+    },
+  },
+
+  {
     id: "qh-fencebridge-soto-armes-pnh-2026-11-12",
     tier: "quick-hit",
     topic: "gossip",
