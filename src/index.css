@@ -112,6 +112,20 @@ a:hover {
   margin-bottom: 0.75rem;
 }
 
+/* Full story pages only: keep the compact Opak News masthead frozen at the top while reading. */
+.page-story .masthead {
+  position: sticky;
+  top: 0;
+  z-index: 200;
+  background-color: var(--bg);
+}
+
+.page-story .detail-headline,
+.page-story .story-detail :target {
+  scroll-margin-top: 5.75rem;
+}
+
+
 .back-row {
   margin: 001rem;
 }
