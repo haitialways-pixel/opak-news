@@ -21,31 +21,33 @@ export const STORIES: Story[] = [
     tier: "need-to-know",
     topic: "society",
     publishedAt: "2026-11-13",
-    publishedTime: "2026-11-13T17:20:00-05:00",
+    publishedTime: "2026-11-13T17:25:00-05:00",
     isUrgent: true,
-    urgentHours: 12,
+    urgentHours: 24,
     headline: {
       ht: "Etazini: FAA sispann dekòlaj nan tout ayewopò ameriken yo ; vòl Ayiti–Etazini ka afekte",
       fr: "États-Unis : la FAA interrompt les décollages dans tous les aéroports américains ; les vols Haïti–États-Unis peuvent être affectés",
     },
     teaser: {
-      ht: "Se yon mezi ameriken, se pa yon fèmen ayewopò ayisyen. Pokò gen anilasyon konfime sou vòl Okap yo.",
-      fr: "C'est une mesure américaine, pas une fermeture d'aéroports haïtiens. Aucune annulation n'est confirmée pour l'instant sur les vols vers le Cap-Haïtien.",
+      ht: "Alantou 17h25, mezi ameriken an poko te leve. Se pa yon fèmen ayewopò ayisyen.",
+      fr: "Vers 17h25, la mesure américaine n'était pas encore levée. Ce n'est pas une fermeture d'aéroports haïtiens.",
     },
     brief: {
-      ht: "Vandredi 13 novanm, alantou 16h52, FAA te bay lòd pou tout avyon rete atè nan ayewopò Etazini yo, poutèt yon pwoblèm kominikasyon nan sant kontwòl trafik lè. Se pa yon fèmen ayewopò ann Ayiti.",
-      fr: "Vendredi 13 novembre, vers 16h52, la FAA a ordonné que tous les avions restent au sol dans les aéroports des États-Unis, en raison d'un problème de communication dans les centres de contrôle aérien. Ce n'est pas une fermeture d'aéroports en Haïti.",
+      ht: "Vandredi 13 novanm, alantou 16h52, FAA te bay lòd pou tout avyon rete atè nan ayewopò Etazini yo, poutèt yon pwoblèm kominikasyon. Alantou 17h25, mezi a poko te leve. Se pa yon fèmen ayewopò ann Ayiti.",
+      fr: "Vendredi 13 novembre, vers 16h52, la FAA a ordonné que tous les avions restent au sol dans les aéroports des États-Unis, en raison d'un problème de communication. Vers 17h25, la mesure n'était pas encore levée. Ce n'est pas une fermeture d'aéroports en Haïti.",
     },
     body: {
-      ht: "Administrasyon federal aviyasyon Etazini (FAA) te bay lòd, vandredi 13 novanm 2026 apremidi, pou sispann tout dekòlaj nan ayewopò ameriken yo, jiskaske yo di okontrè. AP, Reuters ak Washington Post relè aviz FAA a, ki pale de « sikonstans ekstraòdinè » ak rezon sekirite. Se yon mezi sou tè Etazini. Li pa vle di otorite ayisyen yo fèmen ayewopò ann Ayiti.\n\nSekretè Transpò ameriken an, Sean Duffy, di sou X pwoblèm nan se yon pwoblèm kominikasyon ki manyen tout sant kontwòl wout lè yo (Air Route Traffic Control Centers). AP presize se 22 sant rejyonal k ap dirije avyon ant ayewopò yo. Duffy ajoute teknisyen FAA yo ap mennen ankèt, epi y ap bay lòt nouvèl le yo genyen. Washington Post ekri enfòmasyon FAA yo poko final, e yo ka chanje.\n\nDapre aviz FAA a, vòl k ap vini Etazini soti lòt peyi yo ap trete ka pa ka. Jiska lè n ap pibliye, alantou 17h10, pa gen anons ke mezi a deja leve. Tablo ofisyèl FAA a te toujou montre, alantou 17h09, reta sou dekòlaj nan Miyami, lyen ak sispansyon nasyonal la.\n\nVòl ant Ayiti ak Etazini, sitou sa k soti oswa rive Miyami pou Okap, ka pran reta oswa yo ka anile. Nou pa gen, nan moman sa a, okenn konfimasyon ke yon vòl American Airlines ant Miyami ak Okap, oswa yon vòl Sunrise Airways, te anile. Vwayajè yo dwe tcheke dirèkteman ak konpayi yo.\n\nOkap rete prensipal pòt entènasyonal peyi a. Restriksyon FAA sou vòl sivil ameriken nan zòn Pòtoprens lan rete an vigè jouk 2 mas 2027.",
-      fr: "L'Administration fédérale de l'aviation des États-Unis (FAA) a ordonné, vendredi 13 novembre 2026 dans l'après-midi, l'arrêt de tous les décollages depuis les aéroports américains, jusqu'à nouvel ordre. L'AP, Reuters et le Washington Post relaient l'avis de la FAA, qui invoque des « circonstances extraordinaires » et des raisons de sécurité. Il s'agit d'une mesure prise aux États-Unis. Elle ne signifie pas que les autorités haïtiennes ont fermé les aéroports en Haïti.\n\nLe secrétaire américain aux Transports, Sean Duffy, a indiqué sur X qu'un problème de communication touche l'ensemble des centres de contrôle en route (Air Route Traffic Control Centers). L'AP précise qu'il s'agit des 22 centres régionaux qui dirigent les avions entre les aéroports. Duffy a ajouté que les techniciens de la FAA enquêtent et qu'ils donneront des mises à jour dès qu'ils en auront. Le Washington Post écrit que les informations de la FAA sont préliminaires et peuvent encore changer.\n\nSelon l'avis de la FAA, les vols internationaux à destination des États-Unis seront traités au cas par cas. Au moment de publier, vers 17h10, rien n'indiquait que la mesure avait déjà été levée. Le tableau officiel de la FAA montrait encore, vers 17h09, des retards au départ à Miami, liés à cette interruption nationale.\n\nLes vols entre Haïti et les États-Unis, notamment ceux qui partent de Miami ou y arrivent pour le Cap-Haïtien, peuvent être retardés ou annulés. Nous n'avons, à cette heure, aucune confirmation qu'un vol d'American Airlines entre Miami et le Cap-Haïtien, ou un vol de Sunrise Airways, ait été annulé. Les voyageurs doivent vérifier directement auprès de leur compagnie.\n\nLe Cap-Haïtien reste la principale porte d'entrée internationale du pays. La restriction de la FAA sur les vols civils américains dans la zone de Port-au-Prince reste en vigueur jusqu'au 2 mars 2027.",
+      ht: "Administrasyon federal aviyasyon Etazini (FAA) te bay lòd, vandredi 13 novanm 2026 apremidi, pou sispann tout dekòlaj nan ayewopò ameriken yo, jiskaske yo di okontrè. AP, Reuters ak Washington Post relè aviz FAA a, ki pale de « sikonstans ekstraòdinè » ak rezon sekirite. Se yon mezi sou tè Etazini. Li pa vle di otorite ayisyen yo fèmen ayewopò ann Ayiti.\n\nSekretè Transpò ameriken an, Sean Duffy, di sou X pwoblèm nan se yon pwoblèm kominikasyon ki manyen tout sant kontwòl wout lè yo (Air Route Traffic Control Centers). AP presize se 22 sant rejyonal k ap dirije avyon ant ayewopò yo. Duffy ajoute teknisyen FAA yo ap mennen ankèt, epi y ap bay lòt nouvèl le yo genyen. Washington Post ekri enfòmasyon FAA yo poko final, e yo ka chanje.\n\nDapre aviz FAA a, vòl k ap vini Etazini soti lòt peyi yo ap trete ka pa ka. Sou X, FAA pale de yon « pann telekominikasyon tanporè ». Li presize yo sispann tout vòl pa prekosyon, yo idantifye chak vòl, e vòl entènasyonal yo ap trete ka pa ka.\n\nAlantou 17h25, AP ak CBS New York t ap rapòte mezi nasyonal la te toujou an vigè. FAA pa t anonse yo te deja leve l. Sekretè Sekirite Enteryè ameriken an, Markwayne Mullin, te di jounalis yo, yon ti tan apre 17h, se yon pann telekominikasyon, pokò gen endikasyon se yon atak, e yo poko fikse yon lè pou leve mezi a.\n\nVòl ant Ayiti ak Etazini, sitou sa k soti oswa rive Miyami pou Okap, ka pran reta oswa yo ka anile. Nou pa gen, nan moman sa a, okenn konfimasyon ke yon vòl American Airlines ant Miyami ak Okap, oswa yon vòl Sunrise Airways, te anile. Vwayajè yo dwe tcheke dirèkteman ak konpayi yo.\n\nOkap rete prensipal pòt entènasyonal peyi a. Restriksyon FAA sou vòl sivil ameriken nan zòn Pòtoprens lan rete an vigè jouk 2 mas 2027.",
+      fr: "L'Administration fédérale de l'aviation des États-Unis (FAA) a ordonné, vendredi 13 novembre 2026 dans l'après-midi, l'arrêt de tous les décollages depuis les aéroports américains, jusqu'à nouvel ordre. L'AP, Reuters et le Washington Post relaient l'avis de la FAA, qui invoque des « circonstances extraordinaires » et des raisons de sécurité. Il s'agit d'une mesure prise aux États-Unis. Elle ne signifie pas que les autorités haïtiennes ont fermé les aéroports en Haïti.\n\nLe secrétaire américain aux Transports, Sean Duffy, a indiqué sur X qu'un problème de communication touche l'ensemble des centres de contrôle en route (Air Route Traffic Control Centers). L'AP précise qu'il s'agit des 22 centres régionaux qui dirigent les avions entre les aéroports. Duffy a ajouté que les techniciens de la FAA enquêtent et qu'ils donneront des mises à jour dès qu'ils en auront. Le Washington Post écrit que les informations de la FAA sont préliminaires et peuvent encore changer.\n\nSelon l'avis de la FAA, les vols internationaux à destination des États-Unis seront traités au cas par cas. Sur X, la FAA a ensuite parlé d'une « panne de télécommunications temporaire ». Elle a précisé que tous les vols ont été interrompus par mesure de prudence, que chaque vol a été identifié, et que les vols internationaux seront traités au cas par cas.\n\nVers 17h25, l'AP et CBS New York indiquaient que l'interruption nationale était toujours en vigueur. La FAA n'avait pas annoncé sa levée. Le secrétaire américain à la Sécurité intérieure, Markwayne Mullin, a déclaré aux journalistes, un peu après 17h, qu'il s'agissait d'une panne de télécommunications, qu'il n'y avait pas encore d'indication qu'il s'agisse d'une attaque, et qu'aucun délai n'était fixé pour lever la mesure.\n\nLes vols entre Haïti et les États-Unis, notamment ceux qui partent de Miami ou y arrivent pour le Cap-Haïtien, peuvent être retardés ou annulés. Nous n'avons, à cette heure, aucune confirmation qu'un vol d'American Airlines entre Miami et le Cap-Haïtien, ou un vol de Sunrise Airways, ait été annulé. Les voyageurs doivent vérifier directement auprès de leur compagnie.\n\nLe Cap-Haïtien reste la principale porte d'entrée internationale du pays. La restriction de la FAA sur les vols civils américains dans la zone de Port-au-Prince reste en vigueur jusqu'au 2 mars 2027.",
     },
-    sources: ["AP", "Reuters", "The Washington Post", "FAA"],
+    sources: ["AP", "Reuters", "The Washington Post", "FAA", "CBS New York"],
     sourceLinks: [
       { name: "AP", url: "https://apnews.com/article/flights-halted-airports-faa-f81b0904331dafad6133f291e5f531a8" },
+      { name: "AP, suivi en direct", url: "https://apnews.com/live/ground-stop-aviation-flights-news-updates-11-13-2026" },
       { name: "Reuters (Investing.com)", url: "https://www.investing.com/news/world-news/faa-issues-national-ground-stop-due-to-extraordinary-circumstance-and-reasons-for-safety-5026504" },
       { name: "The Washington Post", url: "https://www.washingtonpost.com/transportation/2026/11/13/faa-grounds-flights-all-us-airports-citing-communications-issue/" },
       { name: "FAA, National Airspace System Status", url: "https://nasstatus.faa.gov/" },
+      { name: "CBS New York", url: "https://www.cbsnews.com/newyork/news/jfk-laguardia-newark-airports-nationwide-ground-stop/" },
     ],
   },
 
@@ -4705,21 +4707,39 @@ export function isNewStory(story: Story, now = Date.now()): boolean {
 
 export function needToKnowStories(): Story[] {
   // Standing rule: Sports stories never take top-story (Need to Know) slots; they live only in the Sports section.
-  // Editorial hold: the prolonged-detention opinion stays pinned at #1.
-  // Approved 11 Nov 2026 (t383u): the GRAND letter to the CEP sits at #2, directly after that pin.
-  // Approved 8 Nov 2026: the seed story sits at #3, immediately after those two.
+  // Breaking lead, 13 Nov 2026: the FAA nationwide ground stop sits at #1 while that story is live.
+  // Editorial hold: the prolonged-detention opinion stays immediately after that lead (and at #1 if the lead is gone).
+  // Approved 11 Nov 2026 (t383u): the GRAND letter to the CEP sits next, after the detention opinion.
+  // Approved 8 Nov 2026: the seed story sits immediately after those.
   const list = sortNewestFirst(STORIES.filter((s) => !s.archived && s.tier === "need-to-know" && s.topic !== "sports"));
+  const leadId = "ntk-faa-ground-stop-vols-haiti-2026-11-13";
+  const leadAt = list.findIndex((s) => s.id === leadId);
+  const hasLead = leadAt !== -1;
+  if (hasLead && leadAt > 0) {
+    const [lead] = list.splice(leadAt, 1);
+    list.splice(0, 0, lead);
+  }
+  if (hasLead) {
+    const detentionId = "ntk-detention-preventive-commissariats-2026-10-30";
+    const detentionAt = list.findIndex((s) => s.id === detentionId);
+    if (detentionAt > 1) {
+      const [det] = list.splice(detentionAt, 1);
+      list.splice(1, 0, det);
+    }
+  }
   const holdId = "ntk-grand-lettre-cep-2026-11-08";
   const holdAt = list.findIndex((s) => s.id === holdId);
-  if (holdAt > 1) {
+  const grandIndex = hasLead ? 2 : 1;
+  if (holdAt > grandIndex) {
     const [held] = list.splice(holdAt, 1);
-    list.splice(1, 0, held);
+    list.splice(grandIndex, 0, held);
   }
   const seedsId = "ntk-sud-semences-garanties-2026-11-08";
   const seedsAt = list.findIndex((s) => s.id === seedsId);
-  if (seedsAt > 2) {
+  const seedsIndex = hasLead ? 3 : 2;
+  if (seedsAt > seedsIndex) {
     const [seeds] = list.splice(seedsAt, 1);
-    list.splice(2, 0, seeds);
+    list.splice(seedsIndex, 0, seeds);
   }
   return list;
 }
