@@ -17,6 +17,39 @@ import type { Story } from "../types";
 export const STORIES: Story[] = [
 
   {
+    id: "ntk-faa-ground-stop-vols-haiti-2026-11-13",
+    tier: "need-to-know",
+    topic: "society",
+    publishedAt: "2026-11-13",
+    publishedTime: "2026-11-13T17:20:00-05:00",
+    isUrgent: true,
+    urgentHours: 12,
+    headline: {
+      ht: "Etazini: FAA sispann dekòlaj nan tout ayewopò ameriken yo ; vòl Ayiti–Etazini ka afekte",
+      fr: "États-Unis : la FAA interrompt les décollages dans tous les aéroports américains ; les vols Haïti–États-Unis peuvent être affectés",
+    },
+    teaser: {
+      ht: "Se yon mezi ameriken, se pa yon fèmen ayewopò ayisyen. Pokò gen anilasyon konfime sou vòl Okap yo.",
+      fr: "C'est une mesure américaine, pas une fermeture d'aéroports haïtiens. Aucune annulation n'est confirmée pour l'instant sur les vols vers le Cap-Haïtien.",
+    },
+    brief: {
+      ht: "Vandredi 13 novanm, alantou 16h52, FAA te bay lòd pou tout avyon rete atè nan ayewopò Etazini yo, poutèt yon pwoblèm kominikasyon nan sant kontwòl trafik lè. Se pa yon fèmen ayewopò ann Ayiti.",
+      fr: "Vendredi 13 novembre, vers 16h52, la FAA a ordonné que tous les avions restent au sol dans les aéroports des États-Unis, en raison d'un problème de communication dans les centres de contrôle aérien. Ce n'est pas une fermeture d'aéroports en Haïti.",
+    },
+    body: {
+      ht: "Administrasyon federal aviyasyon Etazini (FAA) te bay lòd, vandredi 13 novanm 2026 apremidi, pou sispann tout dekòlaj nan ayewopò ameriken yo, jiskaske yo di okontrè. AP, Reuters ak Washington Post relè aviz FAA a, ki pale de « sikonstans ekstraòdinè » ak rezon sekirite. Se yon mezi sou tè Etazini. Li pa vle di otorite ayisyen yo fèmen ayewopò ann Ayiti.\n\nSekretè Transpò ameriken an, Sean Duffy, di sou X pwoblèm nan se yon pwoblèm kominikasyon ki manyen tout sant kontwòl wout lè yo (Air Route Traffic Control Centers). AP presize se 22 sant rejyonal k ap dirije avyon ant ayewopò yo. Duffy ajoute teknisyen FAA yo ap mennen ankèt, epi y ap bay lòt nouvèl le yo genyen. Washington Post ekri enfòmasyon FAA yo poko final, e yo ka chanje.\n\nDapre aviz FAA a, vòl k ap vini Etazini soti lòt peyi yo ap trete ka pa ka. Jiska lè n ap pibliye, alantou 17h10, pa gen anons ke mezi a deja leve. Tablo ofisyèl FAA a te toujou montre, alantou 17h09, reta sou dekòlaj nan Miyami, lyen ak sispansyon nasyonal la.\n\nVòl ant Ayiti ak Etazini, sitou sa k soti oswa rive Miyami pou Okap, ka pran reta oswa yo ka anile. Nou pa gen, nan moman sa a, okenn konfimasyon ke yon vòl American Airlines ant Miyami ak Okap, oswa yon vòl Sunrise Airways, te anile. Vwayajè yo dwe tcheke dirèkteman ak konpayi yo.\n\nOkap rete prensipal pòt entènasyonal peyi a. Restriksyon FAA sou vòl sivil ameriken nan zòn Pòtoprens lan rete an vigè jouk 2 mas 2027.",
+      fr: "L'Administration fédérale de l'aviation des États-Unis (FAA) a ordonné, vendredi 13 novembre 2026 dans l'après-midi, l'arrêt de tous les décollages depuis les aéroports américains, jusqu'à nouvel ordre. L'AP, Reuters et le Washington Post relaient l'avis de la FAA, qui invoque des « circonstances extraordinaires » et des raisons de sécurité. Il s'agit d'une mesure prise aux États-Unis. Elle ne signifie pas que les autorités haïtiennes ont fermé les aéroports en Haïti.\n\nLe secrétaire américain aux Transports, Sean Duffy, a indiqué sur X qu'un problème de communication touche l'ensemble des centres de contrôle en route (Air Route Traffic Control Centers). L'AP précise qu'il s'agit des 22 centres régionaux qui dirigent les avions entre les aéroports. Duffy a ajouté que les techniciens de la FAA enquêtent et qu'ils donneront des mises à jour dès qu'ils en auront. Le Washington Post écrit que les informations de la FAA sont préliminaires et peuvent encore changer.\n\nSelon l'avis de la FAA, les vols internationaux à destination des États-Unis seront traités au cas par cas. Au moment de publier, vers 17h10, rien n'indiquait que la mesure avait déjà été levée. Le tableau officiel de la FAA montrait encore, vers 17h09, des retards au départ à Miami, liés à cette interruption nationale.\n\nLes vols entre Haïti et les États-Unis, notamment ceux qui partent de Miami ou y arrivent pour le Cap-Haïtien, peuvent être retardés ou annulés. Nous n'avons, à cette heure, aucune confirmation qu'un vol d'American Airlines entre Miami et le Cap-Haïtien, ou un vol de Sunrise Airways, ait été annulé. Les voyageurs doivent vérifier directement auprès de leur compagnie.\n\nLe Cap-Haïtien reste la principale porte d'entrée internationale du pays. La restriction de la FAA sur les vols civils américains dans la zone de Port-au-Prince reste en vigueur jusqu'au 2 mars 2027.",
+    },
+    sources: ["AP", "Reuters", "The Washington Post", "FAA"],
+    sourceLinks: [
+      { name: "AP", url: "https://apnews.com/article/flights-halted-airports-faa-f81b0904331dafad6133f291e5f531a8" },
+      { name: "Reuters (Investing.com)", url: "https://www.investing.com/news/world-news/faa-issues-national-ground-stop-due-to-extraordinary-circumstance-and-reasons-for-safety-5026504" },
+      { name: "The Washington Post", url: "https://www.washingtonpost.com/transportation/2026/11/13/faa-grounds-flights-all-us-airports-citing-communications-issue/" },
+      { name: "FAA, National Airspace System Status", url: "https://nasstatus.faa.gov/" },
+    ],
+  },
+
+  {
     id: "ntk-martissant-cite-soleil-operations-2026-11-12",
     tier: "need-to-know",
     topic: "security",
@@ -1959,6 +1992,7 @@ export const STORIES: Story[] = [
 
   {
     id: "ntk-opinion-institutions-gryla-2026-11-06",
+    archived: true,
     tier: "need-to-know",
     topic: "governance",
     publishedAt: "2026-11-06",
@@ -2245,6 +2279,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-haitiens-rd-soutien-salvador-civils-2026-11-05",
+    archived: true,
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-11-06",
@@ -2272,6 +2307,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-forbin-madrid-salvador-ulloa-2026-11-05",
+    archived: true,
     tier: "need-to-know",
     topic: "politics",
     publishedAt: "2026-11-06",
@@ -2305,6 +2341,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-fils-aime-corps-diplomatique-2026-11-05",
+    archived: true,
     tier: "need-to-know",
     topic: "politics",
     publishedAt: "2026-11-06",
@@ -2372,6 +2409,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-cermicol-fievre-mineurs-2026-11-05",
+    archived: true,
     tier: "need-to-know",
     topic: "justice",
     publishedAt: "2026-11-06",
@@ -2428,6 +2466,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-ayitibon-7000-mots-phase2-2026-11-05",
+    archived: true,
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-11-06",
@@ -2455,6 +2494,7 @@ export const STORIES: Story[] = [
   },
   {
     id: "qh-lenny-joseph-milan-europa-2026-11-05",
+    archived: true,
     tier: "quick-hit",
     topic: "sports",
     publishedAt: "2026-11-06",
