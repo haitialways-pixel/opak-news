@@ -16,38 +16,350 @@ import type { Story } from "../types";
  */
 export const STORIES: Story[] = [
 
+
+  {
+    id: "ntk-djouly-jean-65-deportes-cap-2026-11-13",
+    tier: "need-to-know",
+    topic: "society",
+    publishedAt: "2026-11-13",
+    publishedTime: "2026-11-13T23:40:00-05:00",
+    headline: {
+      ht: "Etazini depòte 65 Ayisyen nan Okap, pami yo tiktokeuse Djouly Jean",
+      fr: "Les États-Unis expulsent 65 Haïtiens au Cap-Haïtien, dont la tiktokeuse Djouly Jean",
+    },
+    teaser: {
+      ht: "Yo te rive jedi 12 novanm, sou yon avyon ICE. ONM di se 57 gason ak 8 fi.",
+      fr: "Ils sont arrivés jeudi 12 novembre, à bord d'un avion de l'ICE. L'ONM parle de 57 hommes et 8 femmes.",
+    },
+    brief: {
+      ht: "Jedi 12 novanm, 65 Ayisyen ki te depòte soti Etazini te rive nan ayewopò entènasyonal Okap, sou yon avyon ICE. Pami yo te gen kreyatè kontni Djouly Jean, ke yo konnen kòm Djouly Best.",
+      fr: "Jeudi 12 novembre, 65 Haïtiens expulsés des États-Unis sont arrivés à l'aéroport international du Cap-Haïtien, à bord d'un avion affrété par l'ICE. Parmi eux se trouvait la créatrice de contenu Djouly Jean, connue sous le nom de Djouly Best.",
+    },
+    body: {
+      ht: "Otorite ameriken yo te rapatriye, jedi 12 novanm 2026, 65 sitwayen ayisyen nan ayewopò entènasyonal Okap, sou yon avyon sèvis imigrasyon Etazini (ICE) te lwe. Le Nouvelliste, Gazette Haiti, Radio Télé Caramel ak Amitie FM relè arive sa a. Pami moun yo te gen Djouly Jean, yon tiktokeuse yo konnen kòm Djouly Best.\n\nBiwo Nasyonal Migrasyon (ONM), dapre yon nòt Amitie FM relè, presize se 12yèm kontenjan an: 57 gason ak 8 fi. Chak moun ki tounen resevwa yon alokasyon 25 000 goud, ansanm ak yon èd medikal, sikososyal ak lojistik, jounal la ekri. Caramel di avyon an te soti Alexandria, nan Lwizyàn.\n\nDjouly Jean te arete 2 novanm nan sid Florid. Caramel, ki relè Miami Herald, ekri pres ameriken an pa di li te antre ilegalman nan peyi a; yo ta sispèk li te bay ajan imigrasyon yo fo enfòmasyon. Se yon akizasyon, li poko jije. Amitie FM ekri, lè li rive Okap, li te di li pase uit jou nan detansyon san aksè a medikaman l yo, apre yon operasyon pou fibwòm. Li ajoute, dapre li, priz pawòl li sou rezo sosyal yo ta kontribye nan dezyèm arestasyon li ak depòtasyon li. Se pawòl li, nou pa ka verifye sa pou kont nou.\n\nOkap rete prensipal pòt antre avyon nan peyi a pou rapatriye sa yo, pandan ayewopò Pòtoprens lan kontinye fèmen pou vòl sivil ameriken yo.",
+      fr: "Les autorités américaines ont rapatrié, jeudi 12 novembre 2026, 65 ressortissants haïtiens à l'aéroport international du Cap-Haïtien, à bord d'un avion affrété par l'ICE. Le Nouvelliste, Gazette Haiti, Radio Télé Caramel et Amitie FM relatent cette arrivée. Parmi les personnes expulsées se trouvait Djouly Jean, une tiktokeuse connue sous le nom de Djouly Best.\n\nL'Office national de la migration (ONM), selon une note relayée par Amitie FM, précise qu'il s'agit du 12e contingent: 57 hommes et 8 femmes. Chaque rapatrié reçoit une allocation de 25 000 gourdes, ainsi qu'une aide médicale, psychosociale et logistique, écrit la radio. Caramel indique que l'avion était parti d'Alexandria, en Louisiane.\n\nDjouly Jean avait été arrêtée le 2 novembre dans le sud de la Floride. Caramel, qui relaye le Miami Herald, écrit que la presse américaine ne dit pas qu'elle serait entrée illégalement aux États-Unis; elle serait soupçonnée d'avoir fourni de fausses informations aux agents de l'immigration. Il s'agit d'une accusation, elle n'a pas été jugée. Amitie FM écrit qu'à son arrivée au Cap-Haïtien, elle a dit avoir passé huit jours en détention sans accès à ses médicaments, après une opération pour des fibromes. Elle estime, selon la radio, que ses prises de parole sur les réseaux sociaux auraient contribué à sa seconde arrestation et à son expulsion. Ce sont ses propos, nous ne pouvons pas les vérifier de manière indépendante.\n\nLe Cap-Haïtien reste la principale porte d'entrée aérienne du pays pour ces rapatriements, alors que l'aéroport de Port-au-Prince demeure fermé aux vols civils américains.",
+    },
+    sources: ["Le Nouvelliste", "Gazette Haiti", "Radio Télé Caramel", "Amitie FM"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273874/65-haitiens-expulses-au-cap-haitien-par-les-etats-unis-dont-la-tiktokeuse-djouly-jean" },
+      { name: "Gazette Haiti", url: "https://www.gazettehaiti.com/node/14536" },
+      { name: "Radio Télé Caramel", url: "https://caramelhaiti.com/expulsions-65-haitiens-cap-haitien-djouly-jean/" },
+      { name: "Amitie FM", url: "https://www.amitiefm.ht/post/%C3%A9tats-unis-65-ha%C3%AFtiens-expuls%C3%A9s-dont-la-tiktokeuse-djouly-jean-rapatri%C3%A9s-au-cap-ha%C3%AFtien" },
+    ],
+  },
+  {
+    id: "ntk-viv-ansanm-menace-depots-carburant-2026-11-13",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-13",
+    publishedTime: "2026-11-13T23:28:00-05:00",
+    headline: {
+      ht: "Viv Ansanm ta menase depo gaz Varreux, Fontamara ak Thorland, Le P'tit Journal Haïti rapòte",
+      fr: "Viv Ansanm menacerait les dépôts de carburant de Varreux, Fontamara et Thorland, selon Le P'tit Journal Haïti",
+    },
+    teaser: {
+      ht: "Jounal la relè yon videyo kote yon chèf gang ta mande lòt chèf yo riposte sou depo yo. Nou pa ka konfime mesaj la pou kont nou.",
+      fr: "Le journal relaye une vidéo où un chef de gang appellerait d'autres chefs à viser les dépôts. Nous n'avons pas pu confirmer ce message de manière indépendante.",
+    },
+    brief: {
+      ht: "Le P'tit Journal Haïti ekri, vandredi 13 novanm, kowalisyon Viv Ansanm ta menase plizyè depo gaz nan zòn Pòtoprens, sitou Varreux, Fontamara ak Thorland. Se jounal sa a nou relè.",
+      fr: "Le P'tit Journal Haïti écrit, vendredi 13 novembre, que la coalition Viv Ansanm aurait menacé plusieurs dépôts de carburant de la région de Port-au-Prince, notamment Varreux, Fontamara et Thorland. Nous relayons ce journal.",
+    },
+    body: {
+      ht: "Le P'tit Journal Haïti rapòte, vandredi 13 novanm 2026, kowalisyon kriminèl Viv Ansanm ta menase pran pou sib plizyè enstalasyon petwolyè nan zòn metwopolitèn Pòtoprens, sitou depo Varreux, Fontamara ak Thorland. Nou pa jwenn, pou kounye a, yon dezyèm sous endepandan ki konfime menas sa a. Se jounal sa a nou relè.\n\nDapre jounal la, nan yon videyo k ap sikile sou rezo sosyal yo, Christ-Roi Chéry, ke yo rele Krisla, prezante kòm yon chèf gang k ap opere nan Tibois ak Kafou, ta mande lòt chèf kowalisyon an riposte operasyon sekirite yo lè yo atake depo gaz yo. Se sa jounal la di li wè nan videyo a. Nou pa ka verifye pou kont nou si mesaj la otantik, ni si yon atak deja kòmanse. Poko gen, nan moman sa a, yon bilan ofisyèl sou yon operasyon kont depo sa yo.\n\nJounal la mete menas sa a anrapò ak operasyon PNH, Task Force, FRG ak sòlda salvadoryen yo. Li pa di menas la deja tradui an aksyon. Yon menas se pa yon atak ki verifye.",
+      fr: "Le P'tit Journal Haïti rapporte, vendredi 13 novembre 2026, que la coalition criminelle Viv Ansanm aurait menacé de prendre pour cible plusieurs installations pétrolières de la région métropolitaine de Port-au-Prince, notamment les dépôts de Varreux, Fontamara et Thorland. Nous n'avons pas trouvé, pour l'heure, de seconde source indépendante confirmant cette menace. Nous relayons ce journal.\n\nSelon le journal, dans une vidéo diffusée sur les réseaux sociaux, Christ-Roi Chéry, alias Krisla, présenté comme un chef de gang opérant à Tibois et à Carrefour, appellerait d'autres chefs de la coalition à riposter aux opérations de sécurité en s'en prenant aux dépôts de carburant. C'est ce que le journal dit avoir vu dans la vidéo. Nous ne pouvons pas vérifier de manière indépendante si ce message est authentique, ni si une attaque a déjà commencé. Aucun bilan officiel d'une opération contre ces dépôts n'a été publié à cette heure.\n\nLe journal situe cette menace dans le sillage des opérations de la PNH, de la Task Force, de la FRG et des militaires salvadoriens. Il n'écrit pas que la menace s'est déjà traduite par une attaque. Une menace n'est pas une attaque vérifiée.",
+    },
+    sources: ["Le P'tit Journal Haïti"],
+    sourceLinks: [
+      { name: "Le P'tit Journal Haïti", url: "https://leptitjournalhaiti.com/haiti-viv-ansanm-brandit-la-menace-dattaquer-les-principaux-depots-de-carburant-a-port-au-prince/" },
+    ],
+  },
+  {
+    id: "ntk-fanmi-lavalas-boycott-elections-2026-11-13",
+    tier: "need-to-know",
+    topic: "politics",
+    publishedAt: "2026-11-13",
+    publishedTime: "2026-11-13T23:26:00-05:00",
+    headline: {
+      ht: "Fanmi Lavalas di li p ap patisipe nan eleksyon yo nan kondisyon yo ye kounye a",
+      fr: "Fanmi Lavalas dit qu'il ne participera pas aux élections dans les conditions actuelles",
+    },
+    teaser: {
+      ht: "Pati a mande sekirite ak yon dyalòg nasyonal. Li presize se pa yon refi nan prensip pou eleksyon.",
+      fr: "Le parti demande le rétablissement de la sécurité et un dialogue national. Il précise que ce n'est pas un refus de principe des élections.",
+    },
+    brief: {
+      ht: "Vandredi 13 novanm, nan yon konferans pou laprès nan Fondasyon Doktè Aristide, nan Taba, Fanmi Lavalas anonse li p ap pran pati nan pwochen eleksyon yo jan bagay yo ye kounye a.",
+      fr: "Vendredi 13 novembre, lors d'une conférence de presse à la Fondation Dr Aristide, à Tabarre, Fanmi Lavalas a annoncé qu'il ne prendra pas part aux prochaines élections dans les conditions actuelles.",
+    },
+    body: {
+      ht: "Pati Fanmi Lavalas te anonse, vandredi 13 novanm 2026, li p ap patisipe nan pwochen eleksyon yo nan kondisyon yo ye kounye a. Konferans pou laprès la te fèt nan lokal Fondasyon Doktè Aristide pou demokrasi, nan Taba. Gazette Haiti, HPN, Realite Info ak Alternance Media relè pozisyon sa a.\n\nKowòdonatris pati a, doktè Maryse Narcisse, ak Joël Vorbe, manm komite egzekitif la, te eksprime rezèv sou kalandriye CEP la ak sou kapasite otorite yo pou òganize yon skrutin kredib. Yo mande pou sekirite retabli anvan yon konsiltasyon popilè: siveye pou sitwayen yo ka sikile, pou kandida yo ka fè kanpay sou teritwa a, epi pou elektè yo ka vote san entimidasyon.\n\nNarcisse, dapre HPN, presize Fanmi Lavalas te fè anrejistreman 30 000 manm dekrè elektoral la mande. Li ajoute kondisyon pou eleksyon kredib poko reyni. Pati a di se pa yon refi nan prensip pou eleksyon, e li di li prè pou patisipe le sekirite ak yon dyalòg nasyonal ap pèmèt yon skrutin ouvè.\n\nPati a prekonize yon dyalòg nasyonal ki rasanble pati politik, sosyete sivil ak lòt fòs nan peyi a. Li poze kesyon tou sou kèk dispozisyon administratif, tankou sètifika lapolis ak delè pou dosye kandida yo. Se pozisyon Fanmi Lavalas. CEP la, de bò pa l, kenbe kalandriye li te pibliye, ki prevwa premye tou 18 jiyè 2027.",
+      fr: "Le parti Fanmi Lavalas a annoncé, vendredi 13 novembre 2026, qu'il ne participera pas aux prochaines élections dans les conditions actuelles. La conférence de presse s'est tenue au local de la Fondation Dr Aristide pour la démocratie, à Tabarre. Gazette Haiti, HPN, Realite Info et Alternance Media relaient cette position.\n\nLa coordinatrice du parti, la docteure Maryse Narcisse, et Joël Vorbe, membre du comité exécutif, ont exprimé des réserves sur le calendrier du CEP et sur la capacité des autorités à organiser un scrutin crédible. Ils demandent que la sécurité soit rétablie avant toute consultation populaire: que les citoyens puissent circuler, que les candidats puissent faire campagne sur le territoire, et que les électeurs puissent voter sans intimidation.\n\nNarcisse, selon HPN, a précisé que Fanmi Lavalas avait bien procédé à l'enregistrement des 30 000 membres exigés par le décret électoral. Elle estime toutefois que les conditions d'élections crédibles ne sont pas encore réunies. Le parti dit que ce n'est pas un refus de principe des élections, et qu'il est prêt à participer dès que la sécurité et un dialogue national permettront un scrutin ouvert.\n\nFanmi Lavalas préconise un dialogue national réunissant les partis politiques, la société civile et d'autres forces du pays. Il interroge aussi certaines dispositions administratives, notamment les certificats de police et les délais impartis pour les dossiers de candidature. C'est la position du parti. Le CEP, de son côté, maintient le calendrier qu'il a publié, avec un premier tour prévu le 18 juillet 2027.",
+    },
+    sources: ["Gazette Haiti", "HPN", "Realite Info", "Alternance Media"],
+    sourceLinks: [
+      { name: "Gazette Haiti", url: "https://www.gazettehaiti.com/node/14535" },
+      { name: "HPN", url: "https://www.hpninfo.com/post/ha%C3%AFti-%C3%A9lections-fanmi-lavalas-conditionne-sa-participation-au-r%C3%A9tablissement-de-la-s%C3%A9curit%C3%A9" },
+      { name: "Realite Info", url: "https://realiteinfo.com/haiti-elections-fanmi-lavalas-pose-trois-conditions-avant-de-passer-aux-urnes/" },
+      { name: "Alternance Media", url: "http://alternance-media.com/politique/deux-ministres-a-bord-lavalas-tire-sur-le-capitaine-fils-aime/" },
+    ],
+  },
+  {
+    id: "ntk-canada-100-partenaires-gsf-2026-11-13",
+    tier: "need-to-know",
+    topic: "politics",
+    publishedAt: "2026-11-13",
+    publishedTime: "2026-11-13T23:24:00-05:00",
+    headline: {
+      ht: "Kanada reyini plis pase 100 patnè diplomatik pou sipòte FRG/GSF",
+      fr: "Le Canada réunit plus de 100 partenaires diplomatiques en soutien à la GSF",
+    },
+    teaser: {
+      ht: "Anbasad Kanada nan Etazini te anonse reyinyon an vandredi, sou X. Li pale de solisyon Ayisyen yo mennen.",
+      fr: "L'ambassade du Canada aux États-Unis a annoncé la réunion vendredi, sur X. Elle parle de solutions portées par les Haïtiens.",
+    },
+    brief: {
+      ht: "Vandredi 13 novanm, Kanada te reyini plis pase 100 patnè diplomatik pou pale de kriz sekirite ann Ayiti ak pou sipòte Fòs repreyon gang yo (GSF).",
+      fr: "Vendredi 13 novembre, le Canada a réuni plus de 100 partenaires diplomatiques pour discuter de la crise sécuritaire en Haïti et soutenir la Force de répression des gangs (GSF).",
+    },
+    body: {
+      ht: "Kanada te reyini, vandredi 13 novanm 2026, plis pase 100 patnè diplomatik pou diskite sou kriz sekirite ann Ayiti. Anbasad Kanada nan Etazini te anonse sa sou X, Zantray News ak Le Nouvelliste relè. Yon responsab ameriken pou zafè emisfè lwès la te patisipe nan reyinyon an, dapre menm sous yo.\n\nInisyativ la vize sipòte Fòs repreyon gang yo (GSF, oswa FRG) epi ranfòse koperasyon entènasyonal la, anbasad la di. Li ensiste sou solisyon Ayisyen yo mennen, epi sou nesesite yon travay sere ant patnè entènasyonal yo.\n\nReyinyon an pa anonse, nan mesaj ki relè yo, yon nouvo envelop finansman ni yon chanjman mandat. Se yon mobilizasyon diplomatik otou fòs la ki deja gen yon mandat Nasyonzini rive 31 mas 2027.",
+      fr: "Le Canada a réuni, vendredi 13 novembre 2026, plus de 100 partenaires diplomatiques pour discuter de la crise sécuritaire en Haïti. L'ambassade du Canada aux États-Unis l'a annoncé sur X, relatent Zantray News et Le Nouvelliste. Un responsable américain chargé des affaires de l'hémisphère occidental a participé à la réunion, selon les mêmes sources.\n\nCette initiative vise à soutenir la Force de répression des gangs (GSF, ou FRG) et à renforcer la coopération internationale, indique l'ambassade. Elle insiste sur des solutions portées par les Haïtiens, et sur la nécessité d'un travail serré entre partenaires internationaux.\n\nLes messages relayés n'annoncent ni une nouvelle enveloppe financière, ni un changement de mandat. Il s'agit d'une mobilisation diplomatique autour de la force, dont le mandat des Nations unies court jusqu'au 31 mars 2027.",
+    },
+    sources: ["Le Nouvelliste", "Zantray News"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273884/haiti-le-canada-mobilise-plus-de-100-partenaires-internationaux-en-soutien-a-la-gsf" },
+      { name: "Zantray News", url: "https://zantray-news.com/le-canada-reunit-plus-de-100-partenaires-diplomatiques-autour-de-la-crise-securitaire-en-haiti/" },
+    ],
+  },
+  {
+    id: "ntk-cscca-decharge-parlement-2026-11-13",
+    tier: "need-to-know",
+    topic: "governance",
+    publishedAt: "2026-11-13",
+    publishedTime: "2026-11-13T23:22:00-05:00",
+    headline: {
+      ht: "CSC/CA: se Palman an, se pa Lakou a, ki ka bay ansyen minis yo dechaj",
+      fr: "CSC/CA : c'est au Parlement, pas à la Cour, d'accorder la décharge aux anciens ministres",
+    },
+    teaser: {
+      ht: "Nan yon avi 12 novanm, Lakou a di li pa ka pran plas Palman an. Peyi a pa gen Palman k ap fonksyone depi janvye 2020.",
+      fr: "Dans un avis du 12 novembre, la Cour dit qu'elle ne peut pas se substituer au Parlement. Le pays n'a plus de Parlement fonctionnel depuis janvier 2020.",
+    },
+    brief: {
+      ht: "Kou siperyè kont ak kontansye administratif (CSC/CA) raple, nan yon avi 12 novanm, se Palman an ki gen konpetans pou bay ansyen Premye minis ak minis yo dechaj jesyon.",
+      fr: "La Cour supérieure des comptes et du contentieux administratif (CSC/CA) rappelle, dans un avis du 12 novembre, que l'octroi de la décharge de gestion aux anciens Premiers ministres et ministres relève du Parlement.",
+    },
+    body: {
+      ht: "Kou siperyè kont ak kontansye administratif (CSC/CA) te pibliye, 12 novanm 2026, yon avi pou presize li pa gen dwa bay ansyen Premye minis ak minis yo dechaj jesyon. Le Nouvelliste, Journal l'Observatoire ak FCN relè avi sa a. Lakou a ekri atribisyon sa a se pou Pouvwa lejislatif la sèlman, e li pa ka pran plas Palman an.\n\nAvi a site atik 233 Konstitisyon an: nan kòmansman chak sesyon òdinè, yon komisyon palmantè 15 manm, 9 depite ak 6 senatè, dwe egzamine jesyon minis yo epi prezante yon rapò bay de asanble yo, ki deside sou dechaj la. Lakou a site tou atik 89 lwa 4 me 2016 sou lwa finans yo, ak règleman enteryè Sena a.\n\nGen yon eksepsyon, Lakou a presize: si yon ansyen responsab te deklare kontab defè pou lajan piblik, li vin jistisyab devan CSC/CA, ki ka jije kont li yo. Sa pa vle di Lakou a ka bay tout ansyen minis yo yon dechaj nan plas Palman an.\n\nJournal l'Observatoire raple peyi a pa gen yon Palman k ap fonksyone depi janvye 2020, lè manda palmantè yo te ekspire. Nan kondisyon sa a, pwosedi dechaj palmantè a pa ka mache jan tèks yo prevwa l. Avi a pa deside sou dosye endividyèl, ni li pa pibliye yon lis moun ki deja dechaje.",
+      fr: "La Cour supérieure des comptes et du contentieux administratif (CSC/CA) a publié, le 12 novembre 2026, un avis pour préciser qu'elle n'a pas le pouvoir d'accorder la décharge de gestion aux anciens Premiers ministres et ministres. Le Nouvelliste, le Journal l'Observatoire et FCN relaient cet avis. La Cour écrit que cette attribution relève exclusivement du pouvoir législatif, et qu'elle ne peut pas se substituer au Parlement.\n\nL'avis cite l'article 233 de la Constitution: au début de chaque session ordinaire, une commission parlementaire de 15 membres, 9 députés et 6 sénateurs, doit examiner la gestion des ministres et présenter un rapport aux deux assemblées, qui se prononcent sur la décharge. La Cour invoque aussi l'article 89 de la loi du 4 mai 2016 relative aux lois de finances, ainsi que le règlement intérieur du Sénat.\n\nUne exception est prévue, précise la Cour: si un ancien responsable a été déclaré comptable de fait de deniers publics, il devient justiciable de la CSC/CA, qui peut alors juger ses comptes. Cela ne signifie pas que la Cour peut accorder à tous les anciens ministres une décharge à la place du Parlement.\n\nLe Journal l'Observatoire rappelle que le pays n'a plus de Parlement fonctionnel depuis janvier 2020, après l'expiration des mandats parlementaires. Dans ces conditions, la procédure de décharge prévue par les textes ne peut pas suivre son cours. L'avis ne statue pas sur des dossiers individuels et ne publie pas une liste de responsables déjà déchargés.",
+    },
+    sources: ["Le Nouvelliste", "Journal l'Observatoire", "FCN"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/en/article/273850/the-court-of-auditors-reminds-that-it-cannot-grant-discharge-to-former-prime-ministers-and-ministers" },
+      { name: "Journal l'Observatoire", url: "https://www.lobservatoire.info/decharge-des-anciens-ministres-la-cour-des-comptes-clarifie-sa-position/" },
+      { name: "FCN", url: "https://fcnhaiti.com/decharge-des-anciens-ministres-la-cscca-precise-le-role-du-parlement-et-les-etapes-de-la-procedure/" },
+    ],
+  },
+
+  {
+    id: "qh-landau-investissement-securite-2026-11-13",
+    tier: "quick-hit",
+    topic: "commerce",
+    publishedAt: "2026-11-13",
+    publishedTime: "2026-11-13T23:20:00-05:00",
+    headline: {
+      ht: "Christopher Landau: Ayiti p ap atire gwo envestisman prive toutotan gang yo kenbe kontwòl",
+      fr: "Christopher Landau : Haïti n'attirera pas de gros investissements privés tant que les gangs tiendront le contrôle",
+    },
+    teaser: {
+      ht: "Sou-sekretè Deta ameriken an di fòk gen yon nivo sekirite minimòm pou moun envesti.",
+      fr: "Le sous-secrétaire d'État américain dit qu'un niveau minimal de sécurité est nécessaire pour qu'on investisse.",
+    },
+    brief: {
+      ht: "Sou-sekretè Deta ameriken Christopher Landau di, nan yon echanj sou opòtinite envestisman nan Karayib la, Ayiti bezwen yon nivo sekirite minimòm anvan li ka atire gwo envestisman prive.",
+      fr: "Le sous-secrétaire d'État américain Christopher Landau a déclaré, lors d'un échange sur les opportunités d'investissement dans les Caraïbes, qu'Haïti a besoin d'un niveau minimal de sécurité avant de pouvoir attirer de gros investissements privés.",
+    },
+    body: {
+      ht: "Sou-sekretè Deta Etazini, Christopher Landau, te di Ayiti bezwen rekipere yon nivo sekirite minimòm anvan li ka atire gwo envestisman prive. Diario Libre ak Teleuniverso relè deklarasyon sa a, te fè nan yon echanj sou opòtinite envestisman nan Karayib la, vandredi 13 novanm 2026.\n\n« Mwen kwè Ayiti se yon egzanp trè enpòtan kote fòk gen yon nivo sekirite minimòm pou nenpòt moun k ap envesti », Landau te di, dapre jounal yo. Li ajoute le sekirite a amelyore, ekonomi an dwe amelyore tou, epi sa ka tounen yon sik pozitif. Li rekonèt pwoblèm nan konplike, e li di li pa gen yon fòmil tout fè. Li estime nesesè tande dirèkteman reprezantan sektè prive ayisyen an pou idantifye opòtinite reyèl.\n\nDeklarasyon sa yo vin nan yon moman kote Etazini patisipe nan efò entènasyonal kont gang yo. Yo pa anonse yon nouvo pake èd, ni yon kalandriye envestisman. Se yon avètisman sou kondisyon yo, se pa yon pwogram ki deja siyen.",
+      fr: "Le sous-secrétaire d'État américain Christopher Landau a déclaré qu'Haïti doit retrouver un niveau minimal de sécurité avant de pouvoir attirer de gros investissements privés. Diario Libre et Teleuniverso relaient ces propos, tenus lors d'un échange sur les opportunités d'investissement dans les Caraïbes, vendredi 13 novembre 2026.\n\n« Je crois qu'Haïti est un exemple très important où il faut un niveau minimal de sécurité pour quiconque investit », a dit Landau, selon ces journaux. Il a ajouté que lorsque la sécurité s'améliore, la situation économique doit s'améliorer aussi, et que cela peut devenir un cercle vertueux. Il a reconnu la complexité du problème, et dit n'avoir pas de formule toute faite. Il a jugé nécessaire d'écouter directement les représentants du secteur privé haïtien pour identifier des opportunités réelles.\n\nCes déclarations interviennent alors que les États-Unis participent aux efforts internationaux contre les gangs. Elles n'annoncent ni un nouveau paquet d'aide, ni un calendrier d'investissement. C'est un avertissement sur les conditions, pas un programme déjà signé.",
+    },
+    sources: ["Diario Libre", "Teleuniverso"],
+    sourceLinks: [
+      { name: "Diario Libre", url: "https://www.diariolibre.com/mundo/haiti/2026/11/13/crisis-de-seguridad-en-haiti-afecta-inversion-y-elecciones/3720018" },
+      { name: "Teleuniverso", url: "https://teleuniversotv.com/subsecretario-de-estado-de-ee-uu-haiti-no-atraera-grandes-inversiones-mientras-las-bandas-mantengan-el-control/" },
+    ],
+  },
+  {
+    id: "qh-candidats-salomon-gue-sanon-2026-11-13",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-13",
+    publishedTime: "2026-11-13T23:18:00-05:00",
+    headline: {
+      ht: "Salomon, Gué ak Sanon pami 30 enskripsyon preliminè pou prezidans lan; delè a se 15 novanm",
+      fr: "Salomon, Gué et Sanon parmi 30 inscriptions préliminaires à la présidence; clôture le 15 novembre",
+    },
+    teaser: {
+      ht: "Tablo CEP la, konsilte vandredi aswè, montre 30 non pou prezidan. Enskripsyon an pa vle di dosye a deja valide.",
+      fr: "Le tableau du CEP, consulté vendredi soir, affiche 30 noms pour la présidence. Une inscription ne signifie pas que le dossier est déjà validé.",
+    },
+    brief: {
+      ht: "Jean-Marie Junior Salomon (OPL), Joanas Gué (KAPAB) ak Walsonn Sanon (ANFÒS Pou Sove Lonè) parèt pami 30 enskripsyon preliminè pou prezidans lan sou tablo ofisyèl CEP la.",
+      fr: "Jean-Marie Junior Salomon (OPL), Joanas Gué (KAPAB) et Walsonn Sanon (ANFÒS Pou Sove Lonè) figurent parmi les 30 inscriptions préliminaires à la présidence sur le tableau officiel du CEP.",
+    },
+    body: {
+      ht: "Tablo ofisyèl enskripsyon kandida CEP la te montre, vandredi 13 novanm 2026 aswè, 30 enskripsyon preliminè pou pòs prezidan: 28 gason ak 2 fi. Jean-Marie Junior Salomon, sou banyè Òganizasyon Pèp ki ap Lite (OPL), Joanas Gué, pou Konbit ak Aksyon Pou Ayiti Bèl (KAPAB), ak Walsonn Sanon, pou ANFÒS Pou Sove Lonè, nan lis sa a. Le Quotidien 509 pibliye yon lis 30 non ki matche ak tablo a.\n\nDone sa yo dinamik, epi yo preliminè, CEP la raple. Parèt sou platfòm lan pa vle di dosye a verifye, ni ke moun nan admis kòm kandida. Lis ofisyèl la pral soti apre verifikasyon. Enskripsyon sou entènèt pou prezidans, Sena ak Depitasyon fèmen dimanch 15 novanm a minwi; pou majistra, CASEC ak ASEC, delè a se 30 novanm.\n\nMenm tablo a te montre, nan menm lè a, 453 enskripsyon pou senatè, 1 625 pou depite, 2 498 pou majistra, 3 512 pou CASEC ak 2 379 pou ASEC, pou yon total 10 497. Chif yo ka chanje ant ye ak demen.",
+      fr: "Le tableau officiel d'enregistrement des candidats du CEP affichait, vendredi 13 novembre 2026 au soir, 30 inscriptions préliminaires pour le poste de président: 28 hommes et 2 femmes. Jean-Marie Junior Salomon, sous la bannière de l'Organisation du peuple en lutte (OPL), Joanas Gué, pour Konbit ak Aksyon Pou Ayiti Bèl (KAPAB), et Walsonn Sanon, pour ANFÒS Pou Sove Lonè, figurent sur cette liste. Le Quotidien 509 a publié une liste de 30 noms qui correspond au tableau.\n\nCes données sont dynamiques et strictement préliminaires, rappelle le CEP. Apparaître sur la plateforme ne signifie ni que le dossier a été vérifié, ni que la personne est admise comme candidate. La liste officielle ne sera publiée qu'après vérification. Les inscriptions en ligne pour la présidence, le Sénat et la députation se ferment dimanche 15 novembre à minuit; pour les mairies, les CASEC et les ASEC, la date limite est le 30 novembre.\n\nLe même tableau indiquait, à la même heure, 453 inscriptions pour sénateur, 1 625 pour député, 2 498 pour maire, 3 512 pour CASEC et 2 379 pour ASEC, soit un total de 10 497. Ces chiffres peuvent encore changer.",
+    },
+    sources: ["CEP", "Le Quotidien 509"],
+    sourceLinks: [
+      { name: "Tableau CEP", url: "https://tableau.cephaiti.ht/" },
+      { name: "Le Quotidien 509", url: "https://lequotidien509.com/haiti-jacky-lumarque-et-clarens-renois-parmi-les-29-candidats-inscrits-a-la-presidence/" },
+    ],
+  },
+  {
+    id: "qh-brh-130-79-circulaire-126-2026-11-13",
+    tier: "quick-hit",
+    topic: "commerce",
+    publishedAt: "2026-11-13",
+    publishedTime: "2026-11-13T23:16:00-05:00",
+    headline: {
+      ht: "BRH: 130,79 goud pou 1 dola; sikilè 126 raple règle sekirite enfòmatik bank yo",
+      fr: "BRH : 130,79 gourdes pour 1 dollar; la circulaire 126 rappelle les règles de sécurité informatique des banques",
+    },
+    teaser: {
+      ht: "Se to referans vandredi a. NAGO relè sikilè 126, an vigè depi fevriye 2022, sou sekirite sistèm bank yo.",
+      fr: "C'est le taux de référence de vendredi. NAGO relait la circulaire 126, en vigueur depuis février 2022, sur la sécurité des systèmes bancaires.",
+    },
+    brief: {
+      ht: "Bank Repiblik Dayiti fikse to referans vandredi 13 novanm a 130,79 goud pou 1 dola ameriken. Menm jou a, NAGO relè sikilè 126 sou sekirite enfòmatik enstitisyon finansye yo.",
+      fr: "La Banque de la République d'Haïti a fixé le taux de référence de vendredi 13 novembre à 130,79 gourdes pour 1 dollar américain. Le même jour, NAGO a relaté la circulaire 126 sur la sécurité informatique des institutions financières.",
+    },
+    body: {
+      ht: "BRH te kalkile to referans vandredi 13 novanm 2026 a 130,79 goud pou 1 dola ameriken, Juno7 relè. Bank santral la etabli to sa a sou baz tranzaksyon acha deviz ki te anrejistre lavèy sou mache a. Li sèvi kòm referans ofisyèl pou enstitisyon finansye yo.\n\nMenm jou a, NAGO te pibliye yon rapèl sou sikilè 126, an vigè depi 1e fevriye 2022. Tekst la mande chak enstitisyon yon politik sekirite enfòmatik ekri, yon komite sekirite, ak yon responsab sekirite ki endepandan de sèvis enfòmatik la. Li egzije yon plan kontinjans teste, yon sit sekou, ak sovgad verifie. Yon odit sekirite dwe fèt omwen chak twa zan. Enstitisyon ki pa fè l riske yon amann 200 000 goud; si li pa korije pwoblèm yo, amann lan se 100 000 goud pa jou, NAGO ekri.\n\nNan yon avi 19 oktòb, gouvènè Ronald Gabriel te raple okenn enstitisyon finansye pa gen dwa negosye ak sikriminèl k ap mande ransonn, NAGO ajoute. Sikilè a pa t fèk soti jodi a; se yon rapèl sou règ ki deja la, pibliye menm jou ak to 130,79 a.",
+      fr: "La BRH a calculé le taux de référence de vendredi 13 novembre 2026 à 130,79 gourdes pour 1 dollar américain, relaie Juno7. La banque centrale établit ce taux à partir des transactions d'achat de devises enregistrées la veille sur le marché. Il sert de référence officielle aux institutions financières.\n\nLe même jour, NAGO a publié un rappel sur la circulaire 126, en vigueur depuis le 1er février 2022. Le texte impose à chaque institution une politique de sécurité informatique écrite, un comité de sécurité, et un responsable de la sécurité indépendant du service informatique. Il exige un plan de contingence testé, un site de secours, et des sauvegardes vérifiées. Un audit de sécurité doit être réalisé au moins tous les trois ans. Une institution qui ne le fait pas risque une amende de 200 000 gourdes; si elle ne corrige pas les problèmes signalés, l'amende est de 100 000 gourdes par jour, écrit NAGO.\n\nDans un avis du 19 octobre, le gouverneur Ronald Gabriel a aussi rappelé qu'aucune institution financière n'est autorisée à négocier avec des cybercriminels qui réclament une rançon, ajoute NAGO. La circulaire n'est pas nouvelle; c'est un rappel des règles déjà en vigueur, publié le même jour que le taux de 130,79.",
+    },
+    sources: ["Juno7", "BRH", "NAGO News"],
+    sourceLinks: [
+      { name: "Juno7", url: "https://www.juno7.ht/haiti-taux-de-reference-brh-vendredi-13-novembre-2026/" },
+      { name: "BRH, taux du jour", url: "https://www.brh.ht/taux-du-jour/" },
+      { name: "NAGO News", url: "https://news.nago.tv/cyberattaques-ce-que-la-brh-exige-des-banques-avec-la-circulaire-126" },
+    ],
+  },
+  {
+    id: "qh-taiwan-riz-artibonite-2026-11-13",
+    tier: "quick-hit",
+    topic: "development",
+    publishedAt: "2026-11-13",
+    publishedTime: "2026-11-13T23:14:00-05:00",
+    headline: {
+      ht: "Taïwan ap kontinye enspekte jaden semans diri nan Latibonit",
+      fr: "Taïwan poursuit les inspections des champs de semences de riz dans l'Artibonite",
+    },
+    teaser: {
+      ht: "Misyon teknik la ap chèche plant ki pa nan varyete yo vize, anvan rekòt dezyèm kanpay ane a.",
+      fr: "La mission technique repère les plants hors variété, avant la récolte de la deuxième campagne de l'année.",
+    },
+    brief: {
+      ht: "Nan mwa novanm, Misyon teknik Taïwan nan Ayiti ap kontinye enspekte jaden kote yo pwodui semans diri nan Latibonit, iciHaïti ekri.",
+      fr: "En novembre, la Mission technique de Taïwan en Haïti poursuit les inspections des champs de production de semences de riz dans l'Artibonite, écrit iciHaïti.",
+    },
+    body: {
+      ht: "iciHaïti ekri, jedi 12 novanm 2026, Misyon teknik Taïwan nan Ayiti ap kontinye, nan mwa novanm, enspekte jaden pwodiksyon semans diri. Ekip teknik la egzamine pasèl yo pou repere plant ki fè pati lòt varyete, epi li konsiye rezilta enspeksyon yo.\n\nEtap sa a sèvi pou kenbe kalite semans yo anvan rekòt. Lè yo jwenn plant ki pa konfòm byen bonè, plantè yo ka retire yo pou prezève pitè varyete a, iciHaïti presize. Apre enspeksyon sa yo, ekip pwojè a ak plantè yo ap prepare pou akeyi rekòt dezyèm kanpay ane a.\n\nPwojè a rele « Pwojè amelyorasyon pwodiksyon rizikòl ». iciHaïti pa bay, nan nòt sa a, ni sifas ki enspekte, ni yon chif rekòt.",
+      fr: "iciHaïti écrit, jeudi 12 novembre 2026, que la Mission technique de Taïwan en Haïti poursuit, au mois de novembre, les inspections des champs de production de semences de riz. L'équipe technique examine les parcelles pour repérer les plants appartenant à d'autres variétés, et consigne les résultats des inspections.\n\nCette étape vise à garantir la qualité des semences avant la récolte. Quand des plants non conformes sont détectés tôt, les agriculteurs peuvent les retirer pour préserver la pureté variétale, précise iciHaïti. Après ces inspections, l'équipe du programme et les agriculteurs se préparent à accueillir la récolte de la deuxième campagne de l'année.\n\nLe projet s'intitule « Projet d'amélioration de la production rizicole ». iciHaïti ne donne, dans cette note, ni la superficie inspectée, ni un chiffre de récolte.",
+    },
+    sources: ["iciHaïti"],
+    sourceLinks: [
+      { name: "iciHaïti", url: "https://www.icihaiti.com/article-48878-icihaiti-taiwan-projet-damelioration-de-la-production-rizicole.html" },
+    ],
+  },
+  {
+    id: "qh-chili-maipu-reinstallation-2026-11-13",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-13",
+    publishedTime: "2026-11-13T23:12:00-05:00",
+    headline: {
+      ht: "Chili: minisipalite Maipú ak anbasad Ayiti pale de reenstalasyon fanmi ayisyen yo",
+      fr: "Chili : la municipalité de Maipú et l'ambassade d'Haïti évoquent la réinstallation de familles haïtiennes",
+    },
+    teaser: {
+      ht: "Reyinyon an te fèt nan anbasad la, sou kan inofisyèl nan komin Maipú. Anbasadè Guy Lamothe di li ouvè pou kolabore.",
+      fr: "La réunion s'est tenue à l'ambassade, au sujet de campements informels dans la commune de Maipú. L'ambassadeur Guy Lamothe se dit prêt à collaborer.",
+    },
+    brief: {
+      ht: "Anbasad Ayiti nan Chili te resevwa, semèn sa a, yon delegasyon minisipalite Maipú pou pale de sitiyasyon sitwayen ayisyen k ap viv nan plizyè kan inofisyèl.",
+      fr: "L'ambassade d'Haïti au Chili a reçu, cette semaine, une délégation de la municipalité de Maipú pour parler de la situation des ressortissants haïtiens qui vivent dans plusieurs campements informels.",
+    },
+    body: {
+      ht: "Anbasad Ayiti nan Chili te òganize, semèn sa a, yon reyinyon travay ak yon delegasyon minisipalite Maipú sou sitiyasyon sitwayen ayisyen k ap viv nan plizyè etablisman inofisyèl nan komin sa a, iciHaïti ekri, Radio Eko Lagras relè 13 novanm.\n\nDiskisyon yo te vire sou pwosesis reenstalasyon minisipalite a prevwa, sou sipò sosyal pou fanmi yo, ak sou koordinasyon konsilè ak administratif. Anbasad la di li ka bay, apre yon evalyasyon bezwen ak selon resous ki disponib, yon èd imanitè pwepare pou konplete mezi minisipalite a, sitou pou fanmi ki pi vilnerab.\n\nAnbasadè Guy Lamothe te akeyi apwòch konsiltasyon minisipalite a, epi li te di li vle kontinye kolabore ak otorite lokal yo, nan respè manda chak enstitisyon, ak sou pwoteksyon dwa ak diyite sitwayen ayisyen yo. Nòt la pa bay yon kalandriye demenajman, ni yon chif fanmi ki konsène.",
+      fr: "L'ambassade d'Haïti au Chili a organisé, cette semaine, une réunion de travail avec une délégation de la municipalité de Maipú sur la situation des ressortissants haïtiens qui vivent dans plusieurs campements informels de cette commune, écrit iciHaïti, relayé le 13 novembre par Radio Eko Lagras.\n\nLes discussions ont porté sur le processus de réinstallation envisagé par la municipalité, sur l'accompagnement social des familles, et sur la coordination consulaire et administrative. L'ambassade indique qu'elle envisage, après une évaluation des besoins et selon les ressources disponibles, une aide humanitaire ciblée pour compléter les mesures prévues par la municipalité, en particulier pour les familles les plus vulnérables.\n\nL'ambassadeur Guy Lamothe a salué l'approche de consultation de la municipalité, et dit vouloir poursuivre la collaboration avec les autorités locales, dans le respect des mandats de chaque institution, et en veillant à la protection des droits et de la dignité des ressortissants haïtiens. La note ne donne ni calendrier de déménagement, ni un nombre de familles concernées.",
+    },
+    sources: ["iciHaïti", "Radio Eko Lagras"],
+    sourceLinks: [
+      { name: "Radio Eko Lagras (iciHaïti)", url: "https://ekolagras.com/chile-towards-the-relocation-of-haitian-nationals-residing-in-several-camps-in-maipu/" },
+    ],
+  },
+  {
+    id: "qh-culture-quatre-chemins-lafleur-2026-11-13",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-13",
+    publishedTime: "2026-11-13T23:10:00-05:00",
+    headline: {
+      ht: "Festival Quatre Chemins ap dire jiska 5 desanm; pasteur Amel Lafleur ta mouri nan Kanada, NAGO relè",
+      fr: "Le Festival Quatre Chemins court jusqu'au 5 décembre; le pasteur Amel Lafleur serait mort au Canada, selon NAGO",
+    },
+    teaser: {
+      ht: "23e edisyon an ome Kettly Noël. Sou lanmò Lafleur, NAGO site yon pitit li; pa gen kominike fanmi ni legliz.",
+      fr: "La 23e édition rend hommage à Kettly Noël. Sur la mort de Lafleur, NAGO cite l'un de ses enfants; il n'y a pas de communiqué de la famille ni de l'église.",
+    },
+    brief: {
+      ht: "23e edisyon Festival Quatre Chemins, prezante jedi nan DNL, ap kontinye nan Pòtoprens ak Okap jiska 5 desanm. NAGO ekri pasteur Amel Lafleur ta mouri vandredi nan Kanada.",
+      fr: "La 23e édition du Festival Quatre Chemins, présentée jeudi à la DNL, se tient à Port-au-Prince et au Cap-Haïtien jusqu'au 5 décembre. NAGO écrit que le pasteur Amel Lafleur serait mort vendredi au Canada.",
+    },
+    body: {
+      ht: "23e edisyon Festival Quatre Chemins te prezante ofisyèlman jedi 12 novanm 2026 nan Direksyon nasyonal Liv (DNL), Wosinyol Info ekri. Tèm nan se « L'art est vivant contre la mort ». Festival la rann omaj a koregraf, dansèz ak aktris Kettly Noël. Pwogram nan gen teyat, dans, lekti, konsè ak konferans, nan Pòtoprens ak nan Okap, soti 9 novanm rive 5 desanm 2026.\n\nNan yon lòt nòt, NAGO News ekri pasteur Amel Lafleur ta mouri vandredi 13 novanm nan Kanada. Jounal la site animatè Thériel Thélus, ki di li kenbe nouvèl la nan bouch youn nan pitit pasteur a. NAGO presize dènye moman li yo ta difisil, men ni legliz li a, ni fanmi an, poko pibliye yon kominike, e sikonstans lanmò a poko konnen. Se yon sèl sous nou relè sou lanmò sa a.\n\nLafleur te dirije Legliz Bondye endepandan Pòt Etwat, nan Delma 33. Li te yon figi konnen nan milye evanjelik ayisyen an, e li te tou kontwovèse. An 2023, ministè Kil yo te entèdi l pratike pastora pandan senk zan, rive janvye 2028. Nou pa relè detay dosye sa a isit la.",
+      fr: "La 23e édition du Festival Quatre Chemins a été présentée officiellement jeudi 12 novembre 2026 à la Direction nationale du livre (DNL), écrit Wosinyol Info. Le thème est « L'art est vivant contre la mort ». Le festival rend hommage à la chorégraphe, danseuse et actrice Kettly Noël. Le programme comprend du théâtre, de la danse, des lectures, des concerts et des conférences, à Port-au-Prince et au Cap-Haïtien, du 9 novembre au 5 décembre 2026.\n\nDans une autre note, NAGO News écrit que le pasteur Amel Lafleur serait mort vendredi 13 novembre au Canada. Le journal cite l'animateur Thériel Thélus, qui dit tenir l'information de l'un des enfants du pasteur. NAGO précise que ses derniers moments auraient été difficiles, mais que ni son église ni sa famille n'ont encore publié de communiqué, et que les circonstances de la mort ne sont pas connues. Nous ne relayons qu'une seule source sur ce décès.\n\nLafleur dirigeait l'Église de Dieu indépendante de la Porte étroite, à Delmas 33. C'était une figure connue du milieu évangélique haïtien, et aussi l'une des plus controversées. En 2023, le ministère des Cultes lui a interdit toute pratique pastorale pendant cinq ans, jusqu'en janvier 2028. Nous n'y revenons pas ici.",
+    },
+    sources: ["Wosinyol Info", "NAGO News"],
+    sourceLinks: [
+      { name: "Wosinyol Info", url: "https://wosinyol.info/2026/11/13/festival-quatre-chemins-quand-lart-se-dresse-contre-la-mort/" },
+      { name: "NAGO News", url: "https://news.nago.tv/amel-lafleur-le-pasteur-de-la-porte-etroite-parcours-et-controverses" },
+    ],
+  },
+
+
   {
     id: "ntk-faa-ground-stop-vols-haiti-2026-11-13",
     tier: "need-to-know",
     topic: "society",
     publishedAt: "2026-11-13",
-    publishedTime: "2026-11-13T17:25:00-05:00",
-    isUrgent: true,
-    urgentHours: 24,
+    publishedTime: "2026-11-13T21:30:00-05:00",
     headline: {
-      ht: "Etazini: FAA sispann dekòlaj nan tout ayewopò ameriken yo ; vòl Ayiti–Etazini ka afekte",
-      fr: "États-Unis : la FAA interrompt les décollages dans tous les aéroports américains ; les vols Haïti–États-Unis peuvent être affectés",
+      ht: "Etazini: FAA te leve sispansyon nasyonal dekòlaj yo alantou 20h15; reta ak anilasyon yo kontinye",
+      fr: "États-Unis : la FAA a levé l'interruption nationale des décollages vers 20h15; des retards et des annulations se poursuivent",
     },
     teaser: {
-      ht: "Alantou 17h25, mezi ameriken an poko te leve. Se pa yon fèmen ayewopò ayisyen.",
-      fr: "Vers 17h25, la mesure américaine n'était pas encore levée. Ce n'est pas une fermeture d'aéroports haïtiens.",
+      ht: "Mezi ameriken an te dire anviwon senk èdtan. Se pa yon fèmen ayewopò ayisyen.",
+      fr: "La mesure américaine a duré environ cinq heures. Ce n'est pas une fermeture d'aéroports haïtiens.",
     },
     brief: {
-      ht: "Vandredi 13 novanm, alantou 16h52, FAA te bay lòd pou tout avyon rete atè nan ayewopò Etazini yo, poutèt yon pwoblèm kominikasyon. Alantou 17h25, mezi a poko te leve. Se pa yon fèmen ayewopò ann Ayiti.",
-      fr: "Vendredi 13 novembre, vers 16h52, la FAA a ordonné que tous les avions restent au sol dans les aéroports des États-Unis, en raison d'un problème de communication. Vers 17h25, la mesure n'était pas encore levée. Ce n'est pas une fermeture d'aéroports en Haïti.",
+      ht: "FAA te leve, vandredi aswè alantou 20h15, sispansyon nasyonal dekòlaj nan ayewopò Etazini yo. Sekretè Transpò Sean Duffy di dekòlaj yo ap rekòmanse piti piti, e reta yo ka dire.",
+      fr: "La FAA a levé, vendredi soir vers 20h15, l'interruption nationale des décollages dans les aéroports américains. Le secrétaire aux Transports Sean Duffy dit que les décollages reprendront progressivement, et que des retards sont à prévoir.",
     },
     body: {
-      ht: "Administrasyon federal aviyasyon Etazini (FAA) te bay lòd, vandredi 13 novanm 2026 apremidi, pou sispann tout dekòlaj nan ayewopò ameriken yo, jiskaske yo di okontrè. AP, Reuters ak Washington Post relè aviz FAA a, ki pale de « sikonstans ekstraòdinè » ak rezon sekirite. Se yon mezi sou tè Etazini. Li pa vle di otorite ayisyen yo fèmen ayewopò ann Ayiti.\n\nSekretè Transpò ameriken an, Sean Duffy, di sou X pwoblèm nan se yon pwoblèm kominikasyon ki manyen tout sant kontwòl wout lè yo (Air Route Traffic Control Centers). AP presize se 22 sant rejyonal k ap dirije avyon ant ayewopò yo. Duffy ajoute teknisyen FAA yo ap mennen ankèt, epi y ap bay lòt nouvèl le yo genyen. Washington Post ekri enfòmasyon FAA yo poko final, e yo ka chanje.\n\nDapre aviz FAA a, vòl k ap vini Etazini soti lòt peyi yo ap trete ka pa ka. Sou X, FAA pale de yon « pann telekominikasyon tanporè ». Li presize yo sispann tout vòl pa prekosyon, yo idantifye chak vòl, e vòl entènasyonal yo ap trete ka pa ka.\n\nAlantou 17h25, AP ak CBS New York t ap rapòte mezi nasyonal la te toujou an vigè. FAA pa t anonse yo te deja leve l. Sekretè Sekirite Enteryè ameriken an, Markwayne Mullin, te di jounalis yo, yon ti tan apre 17h, se yon pann telekominikasyon, pokò gen endikasyon se yon atak, e yo poko fikse yon lè pou leve mezi a.\n\nVòl ant Ayiti ak Etazini, sitou sa k soti oswa rive Miyami pou Okap, ka pran reta oswa yo ka anile. Nou pa gen, nan moman sa a, okenn konfimasyon ke yon vòl American Airlines ant Miyami ak Okap, oswa yon vòl Sunrise Airways, te anile. Vwayajè yo dwe tcheke dirèkteman ak konpayi yo.\n\nOkap rete prensipal pòt entènasyonal peyi a. Restriksyon FAA sou vòl sivil ameriken nan zòn Pòtoprens lan rete an vigè jouk 2 mas 2027.",
-      fr: "L'Administration fédérale de l'aviation des États-Unis (FAA) a ordonné, vendredi 13 novembre 2026 dans l'après-midi, l'arrêt de tous les décollages depuis les aéroports américains, jusqu'à nouvel ordre. L'AP, Reuters et le Washington Post relaient l'avis de la FAA, qui invoque des « circonstances extraordinaires » et des raisons de sécurité. Il s'agit d'une mesure prise aux États-Unis. Elle ne signifie pas que les autorités haïtiennes ont fermé les aéroports en Haïti.\n\nLe secrétaire américain aux Transports, Sean Duffy, a indiqué sur X qu'un problème de communication touche l'ensemble des centres de contrôle en route (Air Route Traffic Control Centers). L'AP précise qu'il s'agit des 22 centres régionaux qui dirigent les avions entre les aéroports. Duffy a ajouté que les techniciens de la FAA enquêtent et qu'ils donneront des mises à jour dès qu'ils en auront. Le Washington Post écrit que les informations de la FAA sont préliminaires et peuvent encore changer.\n\nSelon l'avis de la FAA, les vols internationaux à destination des États-Unis seront traités au cas par cas. Sur X, la FAA a ensuite parlé d'une « panne de télécommunications temporaire ». Elle a précisé que tous les vols ont été interrompus par mesure de prudence, que chaque vol a été identifié, et que les vols internationaux seront traités au cas par cas.\n\nVers 17h25, l'AP et CBS New York indiquaient que l'interruption nationale était toujours en vigueur. La FAA n'avait pas annoncé sa levée. Le secrétaire américain à la Sécurité intérieure, Markwayne Mullin, a déclaré aux journalistes, un peu après 17h, qu'il s'agissait d'une panne de télécommunications, qu'il n'y avait pas encore d'indication qu'il s'agisse d'une attaque, et qu'aucun délai n'était fixé pour lever la mesure.\n\nLes vols entre Haïti et les États-Unis, notamment ceux qui partent de Miami ou y arrivent pour le Cap-Haïtien, peuvent être retardés ou annulés. Nous n'avons, à cette heure, aucune confirmation qu'un vol d'American Airlines entre Miami et le Cap-Haïtien, ou un vol de Sunrise Airways, ait été annulé. Les voyageurs doivent vérifier directement auprès de leur compagnie.\n\nLe Cap-Haïtien reste la principale porte d'entrée internationale du pays. La restriction de la FAA sur les vols civils américains dans la zone de Port-au-Prince reste en vigueur jusqu'au 2 mars 2027.",
+      ht: "Administrasyon federal aviyasyon Etazini (FAA) te leve, vandredi 13 novanm 2026 aswè, sispansyon nasyonal dekòlaj nan ayewopò ameriken yo. Reuters ekri Sekretè Transpò Sean Duffy te di espas aeryen ameriken an relouvri a 20h15, lè Lès. AP presize mezi a te dire anviwon senk èdtan, apre FAA te bay lòd apremidi a pou avyon yo rete atè, poutèt yon pwoblèm kominikasyon nan sant kontwòl wout lè yo.\n\nDuffy di dekòlaj yo ap rekòmanse piti piti, e li avèti: « It's going to be slow. » AP ak Duffy atribiye pann lan a yon chaj twòp sou yon sistèm analog ki granmoun; yo pale de twou kominikasyon ak rada ki t ap parèt tanzantan. Reuters ekri Sekretè Sekirite Enteryè Markwayne Mullin di poko gen prèv se yon atak sou entènèt. Reuters evoke anviwon 15\u00a0000 vòl ki te pran reta oswa ki te anile, e li di li ka pran plizyè jou pou sèvis yo tounen nòmal.\n\nAmerican Airlines, nan yon nòt a 21h25 lè Lès, konfime sispansyon senk èdtan an te leve, men li avèti reta ak anilasyon ap kontinye aswè a ak samdi 14 novanm. Konpayi an, ki fè vòl Miyami–Okap, mande pasaje yo tcheke vòl yo sou aplikasyon an oswa sou aa.com. Nou pa gen, nan moman sa a, yon konfimasyon ofisyèl ke yon vòl American Airlines oswa Sunrise Airways ant Miyami ak Okap te anile presizeman.\n\nSe yon mezi sou tè Etazini. Li pa vle di otorite ayisyen yo te fèmen ayewopò ann Ayiti. Okap rete prensipal pòt entènasyonal peyi a. Restriksyon FAA sou vòl sivil ameriken nan zòn Pòtoprens lan rete an vigè jouk 2 mas 2027.",
+      fr: "L'Administration fédérale de l'aviation des États-Unis (FAA) a levé, vendredi 13 novembre 2026 au soir, l'interruption nationale des décollages depuis les aéroports américains. Reuters écrit que le secrétaire aux Transports Sean Duffy a indiqué que l'espace aérien américain avait rouvert à 20h15, heure de l'Est. L'AP précise que la mesure a duré environ cinq heures, après que la FAA eut ordonné, dans l'après-midi, que les avions restent au sol en raison d'un problème de communication dans les centres de contrôle en route.\n\nDuffy a dit que les décollages reprendraient progressivement, et il a prévenu: « It's going to be slow. » L'AP et Duffy attribuent la panne à une surcharge d'un vieux système analogique; ils parlent de coupures intermittentes des communications et des radars. Reuters écrit que le secrétaire à la Sécurité intérieure, Markwayne Mullin, a indiqué qu'il n'y avait pas de preuve d'une cyberattaque. Reuters évoque environ 15\u00a0000 vols retardés ou annulés, et dit que le retour à la normale pourrait prendre plusieurs jours.\n\nAmerican Airlines, dans une note à 21h25, heure de l'Est, a confirmé la levée de l'interruption de cinq heures, tout en prévenant que des retards et des annulations se poursuivraient dans la soirée et samedi 14 novembre. La compagnie, qui assure la liaison Miami–Cap-Haïtien, demande aux voyageurs de vérifier leurs vols sur l'application ou sur aa.com. Nous n'avons, à cette heure, aucune confirmation officielle qu'un vol d'American Airlines ou de Sunrise Airways entre Miami et le Cap-Haïtien ait été précisément annulé.\n\nIl s'agit d'une mesure prise aux États-Unis. Elle ne signifie pas que les autorités haïtiennes ont fermé les aéroports en Haïti. Le Cap-Haïtien reste la principale porte d'entrée internationale du pays. La restriction de la FAA sur les vols civils américains dans la zone de Port-au-Prince reste en vigueur jusqu'au 2 mars 2027.",
     },
-    sources: ["AP", "Reuters", "The Washington Post", "FAA", "CBS New York"],
+    sources: ["AP", "Reuters", "American Airlines", "FAA"],
     sourceLinks: [
       { name: "AP", url: "https://apnews.com/article/flights-halted-airports-faa-f81b0904331dafad6133f291e5f531a8" },
       { name: "AP, suivi en direct", url: "https://apnews.com/live/ground-stop-aviation-flights-news-updates-11-13-2026" },
-      { name: "Reuters (Investing.com)", url: "https://www.investing.com/news/world-news/faa-issues-national-ground-stop-due-to-extraordinary-circumstance-and-reasons-for-safety-5026504" },
-      { name: "The Washington Post", url: "https://www.washingtonpost.com/transportation/2026/11/13/faa-grounds-flights-all-us-airports-citing-communications-issue/" },
+      { name: "Reuters", url: "https://www.reuters.com/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/" },
+      { name: "American Airlines", url: "https://news.aa.com/news/news-details/2026/Update-on-FAAs-nationwide-ground-stop/" },
       { name: "FAA, National Airspace System Status", url: "https://nasstatus.faa.gov/" },
-      { name: "CBS New York", url: "https://www.cbsnews.com/newyork/news/jfk-laguardia-newark-airports-nationwide-ground-stop/" },
     ],
   },
 
@@ -233,11 +545,11 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "sports",
     publishedAt: "2026-11-13",
-    publishedTime: "2026-11-13T09:13:00-05:00",
+    publishedTime: "2026-11-13T23:08:00-05:00",
     isFollowUp: true,
     headline: {
-      ht: "Grenadye yo kont Etazini: premye match samdi 14 novanm a 16h30 nan NU Stadium, Miyami ; Lenny Joseph nan gwoup la, Nwadike ak Kayden Pierre jwenn premye konvokasyon yo",
-      fr: "Grenadiers contre les États-Unis : premier match samedi 14 novembre à 16h30 au NU Stadium de Miami ; Lenny Joseph dans le groupe, premières convocations pour Nwadike et Kayden Pierre",
+      ht: "Grenadye yo kont Etazini: antrenman ofisyèl vandredi, Cicéron rele kòm ranfò ; premye match samdi 14 novanm a 16h30 nan Miyami",
+      fr: "Grenadiers contre les États-Unis : entraînement officiel vendredi, Cicéron appelé en renfort ; premier match samedi 14 novembre à 16h30 à Miami",
     },
     teaser: {
       ht: "Retou a se mardi 17 novanm a 19h nan TQL Stadium, Cincinnati. Bellegarde, Duverne ak Pierrot rete fòfè.",
@@ -248,14 +560,16 @@ export const STORIES: Story[] = [
       fr: "Les Grenadiers affrontent les États-Unis samedi 14 novembre à 16h30 au NU Stadium de Miami, puis mardi 17 novembre à 19h au TQL Stadium de Cincinnati, écrit HaitiLibre. Lenny Joseph figure dans le groupe ; Patrick E. Nwadike et Kayden Pierre obtiennent leur première convocation.",
     },
     body: {
-      ht: "Seleksyon ayisyen an dwe jwe Etazini nan premye match sa a samdi 14 novanm 2026, a 16h30, nan NU Stadium nan Miyami, epi nan retou a mardi 17 novanm, a 19h, nan TQL Stadium nan Cincinnati, HaitiLibre ekri. Se lè Lès Etazini, ki se menm lè ak Ayiti. Se de match ka final Lig nasyon Concacaf yo.\n\nSou lis 25 jwè David Badia a, atakan Lenny Joseph (Ferencváros) parèt nan gwoup la. Defansè Patrick E. Nwadike (Spartak Trnava) ak Kayden Pierre (Jong Genk) jwenn premye konvokasyon yo, Haiti OSINT ak Radio Télé Caramel ekri. Yon konvokasyon pa vle di yo deja jwe premye match yo, ni ke yo pral titilè.\n\nSeleksyon an ap jwe san plizyè kad ki fòfè poutèt blesi: milye teren Jean-Ricner Bellegarde, defansè Jean-Kevin Duverne, ak atakan Frantzdy Pierrot. Nou te deja relè fòfè sa yo, ansanm ak premye konvokasyon Fernando Cicéron.\n\nHaitiLibre ekri moun ki genyen doub konfwontasyon an ale nan demi-final nan mas, e li kalifye dirèkteman pou Gold Cup 2027 ; pèdan an dwe pase pa yon baraj.",
-      fr: "La sélection haïtienne doit affronter les États-Unis, en match aller, samedi 14 novembre 2026 à 16h30, au NU Stadium de Miami, puis en retour mardi 17 novembre à 19h, au TQL Stadium de Cincinnati, écrit HaitiLibre. Ce sont les horaires de l'Est américain, les mêmes qu'en Haïti. Il s'agit des quarts de finale de la Ligue des nations de la Concacaf.\n\nSur la liste des 25 joueurs convoqués par David Badia, l'attaquant Lenny Joseph (Ferencváros) figure dans le groupe. Les défenseurs Patrick E. Nwadike (Spartak Trnava) et Kayden Pierre (Jong Genk) obtiennent leur première convocation, écrivent Haiti OSINT et Radio Télé Caramel. Une convocation ne signifie ni qu'ils ont déjà joué leur première sélection, ni qu'ils seront titulaires.\n\nLa sélection devra composer sans plusieurs cadres forfaits sur blessure: le milieu Jean-Ricner Bellegarde, le défenseur Jean-Kevin Duverne et l'attaquant Frantzdy Pierrot. Nous avons déjà relaté ces forfaits, ainsi que la première convocation de Fernando Cicéron.\n\nHaitiLibre écrit que le vainqueur de cette double confrontation se qualifiera pour les demi-finales en mars, et obtiendra une qualification directe pour la Gold Cup 2027 ; le perdant devra passer par un barrage.",
+      ht: "Seleksyon ayisyen an dwe jwe Etazini nan premye match sa a samdi 14 novanm 2026, a 16h30, nan NU Stadium nan Miyami, epi nan retou a mardi 17 novanm, a 19h, nan TQL Stadium nan Cincinnati, HaitiLibre ekri. Se lè Lès Etazini, ki se menm lè ak Ayiti. Se de match ka final Lig nasyon Concacaf yo.\n\nSou lis 25 jwè David Badia a, atakan Lenny Joseph (Ferencváros) parèt nan gwoup la. Defansè Patrick E. Nwadike (Spartak Trnava) ak Kayden Pierre (Jong Genk) jwenn premye konvokasyon yo, Haiti OSINT ak Radio Télé Caramel ekri. Yon konvokasyon pa vle di yo deja jwe premye match yo, ni ke yo pral titilè.\n\nSeleksyon an ap jwe san plizyè kad ki fòfè poutèt blesi: milye teren Jean-Ricner Bellegarde, defansè Jean-Kevin Duverne, ak atakan Frantzdy Pierrot. Nou te deja relè fòfè sa yo, ansanm ak premye konvokasyon Fernando Cicéron.\n\nLe Nouvelliste ekri, jedi, antrenè David Badia ap entansifye preparasyon yo, ak nouvo ranfò ak nouvo konsiy taktik, nan atant antrenman ofisyèl vandredi 13 novanm, anvan match samdi a. Jounal la raple Fernando Cicéron, kòmandan Violette AC, te rele kòm ranfò. Journal l'Observatoire ajoute poko klè nan ki moman li pral jwenn gwoup la an Florid.\n\nHaitiLibre ekri moun ki genyen doub konfwontasyon an ale nan demi-final nan mas, e li kalifye dirèkteman pou Gold Cup 2027 ; pèdan an dwe pase pa yon baraj.",
+      fr: "La sélection haïtienne doit affronter les États-Unis, en match aller, samedi 14 novembre 2026 à 16h30, au NU Stadium de Miami, puis en retour mardi 17 novembre à 19h, au TQL Stadium de Cincinnati, écrit HaitiLibre. Ce sont les horaires de l'Est américain, les mêmes qu'en Haïti. Il s'agit des quarts de finale de la Ligue des nations de la Concacaf.\n\nSur la liste des 25 joueurs convoqués par David Badia, l'attaquant Lenny Joseph (Ferencváros) figure dans le groupe. Les défenseurs Patrick E. Nwadike (Spartak Trnava) et Kayden Pierre (Jong Genk) obtiennent leur première convocation, écrivent Haiti OSINT et Radio Télé Caramel. Une convocation ne signifie ni qu'ils ont déjà joué leur première sélection, ni qu'ils seront titulaires.\n\nLa sélection devra composer sans plusieurs cadres forfaits sur blessure: le milieu Jean-Ricner Bellegarde, le défenseur Jean-Kevin Duverne et l'attaquant Frantzdy Pierrot. Nous avons déjà relaté ces forfaits, ainsi que la première convocation de Fernando Cicéron.\n\nLe Nouvelliste écrit, jeudi, que l'entraîneur David Badia intensifie les préparations, avec de nouveaux renforts et de nouvelles consignes tactiques, dans l'attente de l'entraînement officiel de vendredi 13 novembre, avant le match de samedi. Le journal rappelle que Fernando Cicéron, capitaine du Violette AC, a été appelé en renfort. Le Journal l'Observatoire ajoute qu'on ne sait pas encore à quel moment il rejoindra le groupe en Floride.\n\nHaitiLibre écrit que le vainqueur de cette double confrontation se qualifiera pour les demi-finales en mars, et obtiendra une qualification directe pour la Gold Cup 2027 ; le perdant devra passer par un barrage.",
     },
-    sources: ["HaitiLibre", "Haiti OSINT", "Radio Télé Caramel"],
+    sources: ["HaitiLibre", "Haiti OSINT", "Radio Télé Caramel", "Le Nouvelliste", "Journal l'Observatoire"],
     sourceLinks: [
       { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48845-haiti-ligue-des-nations-2026-2027-liste-des-grenadiers-convoques-pour-les-quarts-de-finale.html" },
       { name: "Haiti OSINT", url: "https://haitiosint.com/haiti-etats-unis-novembre-2026-miami-cincinnati-horaires/" },
       { name: "Radio Télé Caramel", url: "https://caramelhaiti.com/grenadiers-nwadike-kayden-pierre-nouveaux/" },
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273838/haiti-usa-nouveaux-renforts-nouvelles-consignes-tactiques-pour-les-grenadiers" },
+      { name: "Journal l'Observatoire", url: "https://www.lobservatoire.info/fernando-ciceron-appele-en-selection-nationale-par-david-badia/" },
     ],
     readMoreLink: {
       fr: { before: "Pour relire notre article sur la convocation de Fernando Cicéron et les forfaits sur blessure, ", link: "cliquez ici", after: ".", href: "/story/qh-grenadiers-ciceron-blessures-2026-11-12" },
@@ -268,7 +582,7 @@ export const STORIES: Story[] = [
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-11-12",
-    publishedTime: "2026-11-12T21:20:00-05:00",
+    publishedTime: "2026-11-13T23:06:00-05:00",
     isUrgent: true,
     urgentHours: 24,
     isFollowUp: true,
@@ -286,19 +600,20 @@ export const STORIES: Story[] = [
     },
     body: {
       ht: "Prezidan salvadoryen Nayib Bukele anonse, jedi 12 novanm 2026 aswè, yon operasyon konjwen te pran kontwòl estad Sylvio Cator, nan sant Pòtoprens, e fòs yo pral tabli yon baz operasyonèl ladan l. Nan yon mesaj li pibliye an kreyòl ayisyen sou X a 19h14, li mete operasyon sa a nan kad akò bilateral ki genyen ant gouvènman Ayiti ak gouvènman Salvadò a. Li ekri se Polis Nasyonal d'Ayiti, Fòs Lame d'Ayiti (FAD'H), Task Force la, ak fòs espesyal salvadoryen yo ki te reyini, e yo te rive pran kontwòl estad la epi mete l an sekirite.\n\nBukele di, pandan operasyon an, yo te dekouvri plizyè zo tèt moun anndan estad la. Videyo 77 segonn ki vin ak mesaj la montre, nan de kout plan, yon zo tèt moun sou tè ak debri, epi yon lòt zo tèt sou beton, poze sou de zo long ki kwaze. Prezidan an pa bay ni yon chif egzak, ni idantite viktim, ni sikonstans rès sa yo. Poko gen okenn bilan ofisyèl sou viktim.\n\n« Kounye a, nou pral tabli yon baz operasyonèl nan estad la pou n ka kontinye avanse pi fon nan teritwa gang yo kontwole », li ekri. Li ajoute kounye a se yo ki gen avantaj sou teren an, epi li mande « avèk anpil fèmte » tout manm gang yo kite zòn nan anvan ofansiv la kòmanse. « Moun ki chwazi rete pou konbat fòs nou yo ap oblije sibi konsekans yo. »\n\nMenm videyo a montre machin blende k ap sikile nan ri Pòtoprens, ak sòlda apye nan kamouflaj k ap eskòte yo. Yo gen patch « EJERCITO », drapo Salvadò, ak « CFE » (Comando de Fuerzas Especiales), e yo salye abitan sou wout la. Imaj ayeryen estad la montre machin blende ak yon pickup kanpe sou gazon sentetik la, ansanm ak sòlda k ap avanse nan graden yo. Yo wè tou yon sòlda k ap fikse yon fizi asa sou yon robo ki gen 4 pye, koulè ajan, ki make « 02 ». Apre sa, robo a mache nan yon koridò anndan estad la ki plen debri, epi li moute yon ti eskalye beton. Videyo a pa gen narasyon an kreyòl. Ou tande bri anbyan, salitasyon, ak kèk mesaj radyo an panyòl.\n\nPi bonè nan jounen an, Polis nasyonal d'Ayiti te anonse li reprann kontwòl estad Sylvio Cator ak anviron li yo, apre yon operasyon ki fèt granmaten ansanm ak Task Force. Nan yon kominike, enstitisyon an di li remèt kontwòl sit la bay fòs ame El Salvador, ki pran relè a pou konsolide espas yo rekipere yo. Diario Libre relè pasaj sa a, ki te pibliye an kreyòl.\n\nLe Nouvelliste, ki pale ak yon sous pre FAD'H, te konfime jedi sòlda salvadoryen yo te pran pozisyon nan estad nasyonal la. Sous sa a di twoup FAD'H yo te deja sou teren an. Jounal la ekri plis pase 20 machin blende ak kamyon ki pote sòlda salvadoryen yo kanpe andedan lokal espòtif la. Li ajoute FAD'H ta kontinye aktivite konsolidasyon nan sant vil la.\n\nKominike PNH a, Diario Libre presize, pa di konbyen sòlda ki te patisipe, ni si te gen konfwontasyon oswa viktim. Le Quotidien 509 ekri abitan zòn nan rapòte yo tande gwo detonation nan maten an, ansanm ak eksplozyon drone. Se temwayaj sa yo, se pa yon bilan ofisyèl.\n\nDiario Libre di kowalisyon Viv Ansanm te okipe instalasyon yo depi fevriye 2024. Li mete estad la toupre Bisantnè, Pòtay Leyogàn ak wout ki mennen Matisan. Le Quotidien 509 pale pito de Village-de-Dieu, Fontamara ak Grand-Ravine. PNH te pibliye imaj ayeryen ki montre machin blende nan estad la ak bò kote l, Diario Libre ekri.\n\nVandredi maten, France 24, avèk AFP, ak RFI te relè operasyon an tou. Yon fotograf AFP te konstate sit la te sou pwoteksyon militè salvadoryen yo. Televizyon piblik Salvador a te konfime sòlda yo te « pran pozisyon » nan estad la jedi, France 24 ekri. HaitiLibre relè mesaj Bukele a ak videyo a, kote yo wè tou robo a ki gen 4 pye ak fizi asa a.",
-      fr: "Le président salvadorien Nayib Bukele a annoncé, jeudi 12 novembre 2026 au soir, qu'une opération conjointe avait pris le contrôle du stade Sylvio Cator, au centre de Port-au-Prince, et que les forces allaient y établir une base opérationnelle. Dans un message publié en créole haïtien sur X à 19h14, il situe cette opération dans le cadre de l'accord bilatéral entre les gouvernements d'Haïti et du Salvador. Il écrit qu'elle a réuni la Police nationale d'Haïti, les Forces armées d'Haïti (FAD'H), la Task Force et les forces spéciales salvadoriennes, et qu'elles ont réussi à prendre le contrôle du stade et à le mettre en sécurité.\n\nBukele affirme que, pendant l'opération, plusieurs crânes humains ont été découverts à l'intérieur du stade. La vidéo de 77 secondes jointe à son message montre, en deux plans brefs, un crâne humain sur de la terre et des débris, puis un autre crâne sur du béton, posé sur deux os longs croisés. Le président ne donne ni un décompte précis, ni l'identité de victimes, ni les circonstances de ces restes. Aucun bilan officiel de victimes n'a été publié.\n\n« Kounye a, nou pral tabli yon baz operasyonèl nan estad la pou n ka kontinye avanse pi fon nan teritwa gang yo kontwole », écrit-il. Il ajoute que ses forces ont désormais l'avantage sur le terrain, et il demande « avèk anpil fèmte » à tous les membres de gangs de quitter la zone avant le début de l'offensive. « Moun ki chwazi rete pou konbat fòs nou yo ap oblije sibi konsekans yo. »\n\nLa même vidéo montre des véhicules blindés circulant dans des rues de Port-au-Prince, escortés par des soldats à pied en camouflage, portant des écussons « EJERCITO », le drapeau salvadorien et « CFE » (Comando de Fuerzas Especiales), qui saluent des habitants le long du parcours. Des images aériennes du stade montrent des véhicules blindés et une camionnette stationnés sur la pelouse en gazon synthétique, et des soldats qui progressent dans les gradins. On y voit aussi un soldat fixer un fusil d'assaut sur un chien robot quadrupède argenté, marqué « 02 », qui marche ensuite dans un couloir intérieur encombré de débris, puis gravit un court escalier en béton. La vidéo n'a pas de narration en créole. On entend le bruit ambiant, des salutations, et de brefs échanges radio en espagnol.\n\nPlus tôt dans la journée, la Police nationale d'Haïti avait annoncé avoir repris le contrôle du stade Sylvio Cator et de ses abords, à l'issue d'une opération menée tôt dans la matinée avec la Task Force. Dans un communiqué, l'institution dit avoir remis le contrôle du site aux forces armées du Salvador, qui prennent le relais pour consolider les espaces récupérés. Diario Libre relaie ce passage, publié d'abord en créole.\n\nLe Nouvelliste, qui s'appuie sur une source proche des FAD'H, a confirmé jeudi que des soldats salvadoriens avaient pris position dans le stade national. Cette source indique que des troupes des FAD'H étaient déjà sur place. Le journal écrit que plus de 20 véhicules blindés et camions transportant des soldats salvadoriens sont stationnés à l'intérieur de l'enceinte sportive. Il ajoute que les FAD'H poursuivraient leurs activités de consolidation dans le centre-ville.\n\nLe communiqué de la PNH, précise Diario Libre, n'indique ni le nombre de soldats engagés, ni s'il y a eu des affrontements ou des victimes. Le Quotidien 509 écrit que des habitants de la zone rapportent avoir entendu de fortes détonations dans la matinée, ainsi que des explosions provoquées par des drones. Ce sont ces témoignages, pas un bilan officiel.\n\nDiario Libre affirme que la coalition Viv Ansanm occupait les installations depuis février 2024. Il situe le stade près du Bicentenaire, du Portail de Léogâne et des voies vers Martissant. Le Quotidien 509 parle plutôt de Village-de-Dieu, Fontamara et Grand-Ravine. La PNH a publié des images aériennes montrant des véhicules blindés dans le stade et alentour, écrit Diario Libre.\n\nVendredi matin, France 24, avec l'AFP, et RFI ont aussi relaté l'opération. Un photographe de l'AFP a constaté que le site avait été placé sous la protection des militaires salvadoriens. La télévision publique du Salvador a confirmé qu'ils avaient « pris position » dans l'enceinte jeudi, écrit France 24. HaitiLibre relaie le message de Bukele et la vidéo, où l'on voit aussi le robot quadrupède équipé d'un fusil d'assaut.",
+      fr: "Le président salvadorien Nayib Bukele a annoncé, jeudi 12 novembre 2026 au soir, qu'une opération conjointe avait pris le contrôle du stade Sylvio Cator, au centre de Port-au-Prince, et que les forces allaient y établir une base opérationnelle. Dans un message publié en créole haïtien sur X à 19h14, il situe cette opération dans le cadre de l'accord bilatéral entre les gouvernements d'Haïti et du Salvador. Il écrit qu'elle a réuni la Police nationale d'Haïti, les Forces armées d'Haïti (FAD'H), la Task Force et les forces spéciales salvadoriennes, et qu'elles ont réussi à prendre le contrôle du stade et à le mettre en sécurité.\n\nBukele affirme que, pendant l'opération, plusieurs crânes humains ont été découverts à l'intérieur du stade. La vidéo de 77 secondes jointe à son message montre, en deux plans brefs, un crâne humain sur de la terre et des débris, puis un autre crâne sur du béton, posé sur deux os longs croisés. Le président ne donne ni un décompte précis, ni l'identité de victimes, ni les circonstances de ces restes. Aucun bilan officiel de victimes n'a été publié.\n\n« Kounye a, nou pral tabli yon baz operasyonèl nan estad la pou n ka kontinye avanse pi fon nan teritwa gang yo kontwole », écrit-il. Il ajoute que ses forces ont désormais l'avantage sur le terrain, et il demande « avèk anpil fèmte » à tous les membres de gangs de quitter la zone avant le début de l'offensive. « Moun ki chwazi rete pou konbat fòs nou yo ap oblije sibi konsekans yo. »\n\nLa même vidéo montre des véhicules blindés circulant dans des rues de Port-au-Prince, escortés par des soldats à pied en camouflage, portant des écussons « EJERCITO », le drapeau salvadorien et « CFE » (Comando de Fuerzas Especiales), qui saluent des habitants le long du parcours. Des images aériennes du stade montrent des véhicules blindés et une camionnette stationnés sur la pelouse en gazon synthétique, et des soldats qui progressent dans les gradins. On y voit aussi un soldat fixer un fusil d'assaut sur un chien robot quadrupède argenté, marqué « 02 », qui marche ensuite dans un couloir intérieur encombré de débris, puis gravit un court escalier en béton. La vidéo n'a pas de narration en créole. On entend le bruit ambiant, des salutations, et de brefs échanges radio en espagnol.\n\nPlus tôt dans la journée, la Police nationale d'Haïti avait annoncé avoir repris le contrôle du stade Sylvio Cator et de ses abords, à l'issue d'une opération menée tôt dans la matinée avec la Task Force. Dans un communiqué, l'institution dit avoir remis le contrôle du site aux forces armées du Salvador, qui prennent le relais pour consolider les espaces récupérés. Diario Libre relaie ce passage, publié d'abord en créole.\n\nLe Nouvelliste, qui s'appuie sur une source proche des FAD'H, a confirmé jeudi que des soldats salvadoriens avaient pris position dans le stade national. Cette source indique que des troupes des FAD'H étaient déjà sur place. Le journal écrit que plus de 20 véhicules blindés et camions transportant des soldats salvadoriens sont stationnés à l'intérieur de l'enceinte sportive. Il ajoute que les FAD'H poursuivraient leurs activités de consolidation dans le centre-ville.\n\nLe communiqué de la PNH, précise Diario Libre, n'indique ni le nombre de soldats engagés, ni s'il y a eu des affrontements ou des victimes. Le Quotidien 509 écrit que des habitants de la zone rapportent avoir entendu de fortes détonations dans la matinée, ainsi que des explosions provoquées par des drones. Ce sont ces témoignages, pas un bilan officiel.\n\nDiario Libre affirme que la coalition Viv Ansanm occupait les installations depuis février 2024. Il situe le stade près du Bicentenaire, du Portail de Léogâne et des voies vers Martissant. Le Quotidien 509 parle plutôt de Village-de-Dieu, Fontamara et Grand-Ravine. La PNH a publié des images aériennes montrant des véhicules blindés dans le stade et alentour, écrit Diario Libre.\n\nVendredi matin, France 24, avec l'AFP, et RFI ont aussi relaté l'opération. Vendredi, l'AP a aussi relaté l'ultimatum de Bukele, l'annonce d'une base opérationnelle, et la découverte de crânes humains qu'il a évoquée. Un photographe de l'AFP a constaté que le site avait été placé sous la protection des militaires salvadoriens. La télévision publique du Salvador a confirmé qu'ils avaient « pris position » dans l'enceinte jeudi, écrit France 24. HaitiLibre relaie le message de Bukele et la vidéo, où l'on voit aussi le robot quadrupède équipé d'un fusil d'assaut.",
     },
     quote: {
       lang: "ht",
       author: "Nayib Bukele, sur X, 12 novembre 2026",
       text: "Nan kad akò bilateral ki genyen ant gouvènman Ayiti ak gouvènman Salvadò a, yon operasyon konjwen ki te reyini Polis Nasyonal Dayiti, Fòs Lame Dayiti (FAd'H), Task Force la, ak Fòs Espesyal Salvadò yo reyisi pran kontwòl Estad Sylvio Cator a epi mete l an sekirite. Pandan operasyon an, nou te dekouvri plizyè zo tèt moun anndan estad la.\n\nKounye a, nou pral tabli yon baz operasyonèl nan estad la pou n ka kontinye avanse pi fon nan teritwa gang yo kontwole.\n\nKounye a, se nou ki gen avantaj sou teren an.\n\nMwen mande tout manm gang yo avèk anpil fèmte pou yo kite zòn nan anvan ofansiv la kòmanse.\n\nMoun ki chwazi rete pou konbat fòs nou yo ap oblije sibi konsekans yo.",
     },
-    sources: ["Nayib Bukele (X)", "Le Quotidien 509", "Le Nouvelliste", "Diario Libre", "France 24", "RFI", "HaitiLibre"],
+    sources: ["Nayib Bukele (X)", "Le Quotidien 509", "Le Nouvelliste", "Diario Libre", "AP", "France 24", "RFI", "HaitiLibre"],
     sourceLinks: [
       { name: "Nayib Bukele (X)", url: "https://x.com/nayibbukele/status/2121033839468306541" },
       { name: "Le Quotidien 509", url: "https://lequotidien509.com/la-pnh-reprend-le-controle-du-stade-sylvio-cator-et-le-remet-aux-soldats-salvadoriens/" },
       { name: "Le Nouvelliste", url: "https://lenouvelliste.com/en/article/273831/salvadoran-soldiers-take-position-at-the-sylvio-cator-stadium" },
       { name: "Diario Libre", url: "https://www.diariolibre.com/mundo/haiti/2026/11/12/tropas-de-bukele-toman-estadio-haitiano-ocupado-por-bandas-desde-2024/3718955" },
+      { name: "AP", url: "https://apnews.com/article/el-salvador-haiti-bukele-pandillas-ultimatum-afb0df3421ebd1e14e70643effa23899" },
       { name: "France 24 (AFP)", url: "https://www.france24.com/fr/am%C3%A9riques/20261113-haiti-police-reprend-gangs-stade-equipe-nationale-football-sylvio-cator-salvador" },
       { name: "RFI", url: "https://www.rfi.fr/fr/am%C3%A9riques/20261113-ha%C3%AFti-les-soldats-salvadoriens-ont-repris-le-contr%C3%B4le-du-stade-sylvio-cator" },
       { name: "HaitiLibre", url: "https://www.haitilibre.org/article-48884-haiti-flash-l-armee-du-salvador-utilise-des-chiens-robots-de-combat-equipes-de-fusil-d-assaut-video.html" },
@@ -4707,12 +5022,12 @@ export function isNewStory(story: Story, now = Date.now()): boolean {
 
 export function needToKnowStories(): Story[] {
   // Standing rule: Sports stories never take top-story (Need to Know) slots; they live only in the Sports section.
-  // Breaking lead, 13 Nov 2026: the FAA nationwide ground stop sits at #1 while that story is live.
+  // Breaking lead, 13 Nov 2026 evening: the Djouly Jean / 65 deportees story sits at #1 while that story is live.
   // Editorial hold: the prolonged-detention opinion stays immediately after that lead (and at #1 if the lead is gone).
   // Approved 11 Nov 2026 (t383u): the GRAND letter to the CEP sits next, after the detention opinion.
   // Approved 8 Nov 2026: the seed story sits immediately after those.
   const list = sortNewestFirst(STORIES.filter((s) => !s.archived && s.tier === "need-to-know" && s.topic !== "sports"));
-  const leadId = "ntk-faa-ground-stop-vols-haiti-2026-11-13";
+  const leadId = "ntk-djouly-jean-65-deportes-cap-2026-11-13";
   const leadAt = list.findIndex((s) => s.id === leadId);
   const hasLead = leadAt !== -1;
   if (hasLead && leadAt > 0) {
@@ -4734,12 +5049,12 @@ export function needToKnowStories(): Story[] {
     const [held] = list.splice(holdAt, 1);
     list.splice(grandIndex, 0, held);
   }
+  // Seeds stay at #3 only when there is no breaking lead; otherwise they follow the new stories by date.
   const seedsId = "ntk-sud-semences-garanties-2026-11-08";
   const seedsAt = list.findIndex((s) => s.id === seedsId);
-  const seedsIndex = hasLead ? 3 : 2;
-  if (seedsAt > seedsIndex) {
+  if (!hasLead && seedsAt > 2) {
     const [seeds] = list.splice(seedsAt, 1);
-    list.splice(seedsIndex, 0, seeds);
+    list.splice(2, 0, seeds);
   }
   return list;
 }
