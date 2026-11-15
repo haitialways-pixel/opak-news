@@ -17,6 +17,261 @@ import type { Story } from "../types";
 export const STORIES: Story[] = [
 
   {
+    id: "ntk-gsf-fort-dimanche-2026-11-14",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-14",
+    publishedTime: "2026-11-14T20:28:00-05:00",
+    headline: {
+      ht: "FRG nan Fò Dimanch: yon moun mouri, yon atelye zam, 18 fizi sezi",
+      fr: "GSF à Fort Dimanche : un mort, un atelier d'armes, 18 fusils saisis",
+    },
+    teaser: {
+      ht: "Fòs la di yon sipoze manm gang te mouri nan echanj bal, e ke konplis yo te pran kadav la. Nou relè bilan sa a jan GSF pibliye l.",
+      fr: "La force dit qu'un présumé membre de gang a été tué dans un échange de tirs, et que des complices ont emporté le corps. Nous relayons ce bilan tel que la GSF l'a publié.",
+    },
+    brief: {
+      ht: "Fòs reprezyon gang yo (GSF) te fè yon operasyon vandredi 13 novanm nan Fò Dimanch, nan Site Solèy. Li di li te sezi 18 zam nan yon atelye reparasyon, epi yon sipoze manm gang te mouri.",
+      fr: "La Force de répression des gangs (GSF) a mené une opération vendredi 13 novembre à Fort Dimanche, à Cité Soleil. Elle dit avoir saisi 18 armes dans un atelier de réparation, et qu'un présumé membre de gang a été tué.",
+    },
+    body: {
+      ht: "Fòs reprezyon gang yo (GSF), misyon entènasyonal Konsèy Sekirite Nasyonzini te kreye an 2025, te fè yon operasyon vandredi 13 novanm 2026 nan Fò Dimanch, nan komin Site Solèy. Radiographie ekri, dapre GSF, twoup yo te dekouvri yon atelye gang yo t ap itilize pou repare zam, epi yo te sezi 18 zam diferan kalib, ansanm ak minisyon.\n\nGSF di yon sipoze manm gang te mouri nan echanj bal. Diario Libre, ki relè yon nòt EFE samdi 14 novanm, ekri fòs la te anonse konplis moun nan te chape ak kadav la. Se bilan GSF la n ap relè. Nou pa te sou teren an, epi nou pa ka konfime idantite moun ki mouri a.\n\nFòs la di operasyon yo ap kontinye nan sektè a, pou kenbe presyon sou gwoup ame yo. Nòt EFE a pa bay yon chif ofisyèl sou blese, ni sou non moun ki te mouri a.",
+      fr: "La Force de répression des gangs (GSF), mission internationale créée en 2025 par le Conseil de sécurité de l'ONU, a mené une opération vendredi 13 novembre 2026 à Fort Dimanche, dans la commune de Cité Soleil. Radiographie écrit, d'après la GSF, que les troupes ont découvert un atelier utilisé par des gangs pour réparer des armes, et qu'elles y ont saisi 18 armes de différents calibres, ainsi que des munitions.\n\nLa GSF dit qu'un présumé membre de gang a été tué dans un échange de tirs. Diario Libre, qui relait une dépêche de l'EFE samedi 14 novembre, écrit que la force a annoncé que des complices de cet homme se sont enfuis avec le corps. C'est le bilan de la GSF que nous relayons. Nous n'étions pas sur le terrain, et nous ne pouvons pas confirmer l'identité de la personne tuée.\n\nLa force dit que les opérations se poursuivent dans le secteur, afin de maintenir la pression sur les groupes armés. La dépêche de l'EFE ne donne ni un chiffre officiel de blessés, ni le nom de la personne tuée.",
+    },
+    sources: ["GSF", "Radiographie", "Diario Libre", "EFE"],
+    sourceLinks: [
+      { name: "Radiographie", url: "https://radiographieht.com/un-bandit-tue-et18-armes-saisies-lors-dune-operation-de-la-frg-a-cite-soleil/" },
+      { name: "Diario Libre (EFE)", url: "https://www.diariolibre.com/mundo/haiti/2026/11/14/operativo-contra-pandillas-haiti-deja-un-muerto-y-armas-incautadas/3720818" },
+    ],
+  },
+  {
+    id: "ntk-osbeck-inculpation-miami-2026-11-14",
+    tier: "need-to-know",
+    topic: "justice",
+    publishedAt: "2026-11-14",
+    publishedTime: "2026-11-14T20:26:00-05:00",
+    headline: {
+      ht: "Misyonè ameriken Thomas Osbeck, 70 an, akize nan Miyami pou sipoze abi sou ti gason ayisyen",
+      fr: "Le missionnaire américain Thomas Osbeck, 70 ans, inculpé à Miami pour de présumés abus sur des garçons haïtiens",
+    },
+    teaser: {
+      ht: "Se yon akizasyon. Li prezime inosan toutotan yon tribinal poko jije l. FBI ap chèche lòt viktim.",
+      fr: "Il s'agit d'une inculpation. Il est présumé innocent tant qu'un tribunal ne l'a pas jugé. Le FBI cherche d'autres victimes.",
+    },
+    brief: {
+      ht: "Yon jiri federal nan Sid Florid te depoze yon akizasyon kont Thomas Osbeck, misyonè 70 an ki rete Fort Myers, pou sipoze konduit seksyèl ilegal ak minè ann Ayiti, Depatman Jistis Etazini anonse.",
+      fr: "Un grand jury fédéral du Sud de la Floride a inculpé Thomas Osbeck, un missionnaire de 70 ans résidant à Fort Myers, pour de présumées conduites sexuelles illicites avec des mineurs en Haïti, annonce le département de la Justice des États-Unis.",
+    },
+    body: {
+      ht: "Depatman Jistis Etazini te anonse, jedi 12 novanm 2026, yon jiri federal nan distri Sid Florid te depoze yon akizasyon kont Thomas Osbeck, 70 an, ki rete Fort Myers, nan Florid. Yo akize l li te angaje, epi li te eseye angaje, nan konduit seksyèl ilegal ak minè ann Ayiti. Se yon akizasyon. Li prezime inosan toutotan yo poko jije l koupab, Depatman Jistis la raple.\n\nDapre dokiman tribinal yo, jan nòt Depatman Jistis la relè, yo akize Osbeck li te abi seksyèlman yon ti gason ayisyen ant 2004 ak 2008, lè timoun nan te gen anviwon 8 a 12 an, epi li te eseye fè yon zak seksyèl komèsyal, alantou 2019-2020, ak yon lòt ti gason ayisyen. Nòt la di li te konn vwayaje soti Etazini pou Ayiti pandan twa dènye deseni yo, e li te fonde Jesus in Haiti Ministries, epi pita Ignite Your Faith Ministries, kote li te pran timoun vilnerab.\n\nNaples Daily News, ki relè yon afidavi FBI, ekri misyon Ignite Your Faith te gen yon kay yo rele « Tom's House », e ke, nan moman ankèt la, misyon an te deplase nan Okap, kote Osbeck te prezidan. Nou atribiye detay sa yo a rapò jounal la sou afidavi FBI a. Nou pa relè detay grafik ki nan kèk atik sou posib viktim yo.\n\nOtorite ayisyen yo te kenbe l nan fen septanm 2026. Li te retounen Etazini 14 oktòb, epi lapolis ameriken te arete l lè li te ateri nan ayewopò entènasyonal Miyami. Li rete an detansyon. FBI Miami ap mennen ankèt la, e ajans lan di li kwè gen lòt timoun ki ka viktim. Moun ki gen enfòmasyon, oswa ki kwè yo ka viktim, ka ekri OsBeckInfo@fbi.gov.",
+      fr: "Le département de la Justice des États-Unis a annoncé, jeudi 12 novembre 2026, qu'un grand jury fédéral du district Sud de la Floride avait inculpé Thomas Osbeck, 70 ans, résidant à Fort Myers, en Floride. Il est accusé de s'être livré, et d'avoir tenté de se livrer, à des conduites sexuelles illicites avec des mineurs en Haïti. Il s'agit d'une inculpation. Il est présumé innocent tant qu'il n'a pas été déclaré coupable, rappelle le département de la Justice.\n\nSelon les documents judiciaires, tels que les relait le communiqué, Osbeck est accusé d'avoir sexuellement abusé un garçon haïtien entre 2004 et 2008, lorsque l'enfant avait environ 8 à 12 ans, et d'avoir tenté un acte sexuel commercial, vers 2019-2020, avec un autre garçon haïtien. Le communiqué dit qu'il s'est rendu régulièrement des États-Unis en Haïti au cours des trois dernières décennies, et qu'il a fondé Jesus in Haiti Ministries, puis Ignite Your Faith Ministries, où il recueillait des enfants vulnérables.\n\nLe Naples Daily News, qui relait un affidavit du FBI, écrit que la mission Ignite Your Faith exploitait une maison appelée « Tom's House », et que, au moment de l'enquête, la mission s'était installée au Cap-Haïtien, où Osbeck en était le président. Nous attribuons ces détails au récit du journal sur l'affidavit du FBI. Nous ne reprenons pas les détails graphiques publiés ailleurs sur de possibles victimes.\n\nLes autorités haïtiennes l'ont placé en détention fin septembre 2026. Il a été renvoyé aux États-Unis le 14 octobre, et les forces de l'ordre américaines l'ont arrêté à son arrivée à l'aéroport international de Miami. Il demeure en détention. Le FBI de Miami mène l'enquête, et l'agence dit croire que d'autres enfants ont pu être victimes. Les personnes qui ont des informations, ou qui pensent avoir été victimes, peuvent écrire à OsBeckInfo@fbi.gov.",
+    },
+    sources: ["U.S. Department of Justice", "Naples Daily News", "Miami Herald"],
+    sourceLinks: [
+      { name: "U.S. Department of Justice", url: "https://www.justice.gov/opa/pr/florida-missionary-indicted-child-exploitation-crimes-haiti" },
+      { name: "Naples Daily News", url: "https://www.naplesnews.com/story/news/crime/2026/11/14/fbi-fort-myers-missionary-took-in-haitian-boys-molested-two-of-them/92762141007/" },
+      { name: "Miami Herald", url: "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article317716204.html" },
+    ],
+  },
+  {
+    id: "qh-cep-centres-mobiles-femmes-2026-11-14",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-14",
+    publishedTime: "2026-11-14T20:16:00-05:00",
+    headline: {
+      ht: "CEP lanse sant enskripsyon mobil, epi yon estrateji pou ogmante patisipasyon fanm yo",
+      fr: "Le CEP installe des centres d'inscription mobiles et lance une stratégie pour accroître la participation des femmes",
+    },
+    teaser: {
+      ht: "Sou done CEP 7 novanm yo, pa t gen okenn fanm enskri pou prezidans lan. Samdi swa, tablo ofisyèl la montre 2 fanm sou 32 enskripsyon prezidansyèl.",
+      fr: "D'après les données du CEP au 7 novembre, aucune femme n'était inscrite à la présidence. Samedi soir, le tableau officiel affiche 2 femmes sur 32 inscriptions présidentielles.",
+    },
+    brief: {
+      ht: "Konsèy elektoral pwovizwa a anonse, nan yon nòt 14 novanm, deplwaman sant enskripsyon mobil nan espas piblik ak antrepriz prive, pou fasilite enskripsyon elekte yo.",
+      fr: "Le Conseil électoral provisoire annonce, dans une note du 14 novembre, le déploiement de centres d'inscription mobiles dans des espaces publics et des entreprises privées, afin de faciliter l'inscription des électeurs.",
+    },
+    body: {
+      ht: "CEP te anonse, nan yon nòt 14 novanm 2026, li ap deplwaye sant enskripsyon mobil nan plizyè espas piblik ak nan antrepriz prive, Constant Haiti ak Lune News relè. Ajan rejis elektoral yo (ADRE) dwe ale pi pre sitwayen yo, sitou moun ki gen difikilte pou deplase, pami yo jèn, pwofesyonèl, fanm ak moun ki gen andikap. Sèvis la rete ouvè pou tout moun ki gen yon Kat idantifikasyon nasyonal (CIN) e ki poko sou rejis la. Nan moman enskripsyon an, elekte a ka chwazi sant vòt ki pi pre kote l rete. Nòt la pa bay ni kantite sant mobil yo, ni yon kalandriye detaye pou chak zòn.\n\nNan yon lòt vòlè, 9 novanm, CEP ak ministè Kondisyon fanm ak Dwa fanm (MCFDF), ak sipò ONU Femmes ak BINUH, te lanse yon estrateji kominikasyon ak mobilizasyon sou slogan « Pa gen demokrasi san fanm ». Estrateji a vize ranfòse wòl fanm yo kòm elekte, kandida ak lidè. Dapre done CEP te site nan lanse a, nan dat 7 novanm, pa t gen okenn kandida fi enskri pou prezidans lan; fanm yo te reprezante 13,4 % enskripsyon Senat yo ak 6,9 % enskripsyon depite yo, Haiti OSINT ak Le National relè.\n\nChif sa yo te deja chanje. Samdi 14 novanm, a 20h14, lè Ayiti, tablo ofisyèl CEP la, tableau.cephaiti.ht, te afiche 32 enskripsyon pou prezidans lan, 30 gason ak 2 fanm. Enskripsyon yo rete preliminè, yo poko valide.",
+      fr: "Le CEP a annoncé, dans une note du 14 novembre 2026, le déploiement de centres d'inscription mobiles dans plusieurs espaces publics et au sein d'entreprises privées, relaient Constant Haïti et Lune News. Des agents du registre électoral (ADRE) doivent se rapprocher des citoyens, en particulier de ceux qui ont du mal à se déplacer, parmi lesquels des jeunes, des professionnels, des femmes et des personnes en situation de handicap. Le service reste ouvert à toute personne titulaire d'une Carte d'identification nationale (CIN) qui n'est pas encore inscrite au registre. Au moment de l'inscription, l'électeur peut choisir le centre de vote le plus proche de son lieu de résidence. La note ne donne ni le nombre de centres mobiles, ni un calendrier détaillé par zone.\n\nLe 9 novembre, le CEP et le ministère à la Condition féminine et aux Droits des femmes (MCFDF), avec l'appui d'ONU Femmes et de la BINUH, ont lancé une stratégie de communication et de mobilisation sous le slogan « Pa gen demokrasi san fanm ». Cette stratégie vise à renforcer le rôle des femmes comme électrices, candidates et dirigeantes. D'après les données du CEP citées lors de ce lancement, au 7 novembre, aucune femme n'était inscrite à la présidence; les femmes représentaient 13,4 % des inscriptions au Sénat et 6,9 % à la députation, relaient Haiti OSINT et Le National.\n\nCes chiffres ont déjà changé. Le samedi 14 novembre, à 20h14, heure d'Haïti, le tableau officiel du CEP, tableau.cephaiti.ht, affichait 32 inscriptions à la présidence, 30 hommes et 2 femmes. Ces inscriptions restent préliminaires, elles n'ont pas encore été validées.",
+    },
+    sources: ["CEP", "Constant Haïti", "Lune News", "Haiti OSINT", "Le National", "BINUH"],
+    sourceLinks: [
+      { name: "Constant Haïti, centres mobiles", url: "https://constanthaiti.info/le-cep-installe-des-centres-mobiles-pour-accelerer-l-inscription-electorale" },
+      { name: "Constant Haïti, stratégie femmes", url: "https://constanthaiti.info/le-cep-lance-une-strategie-pour-accroitre-la-participation-des-femmes-aux-elections" },
+      { name: "BINUH", url: "https://binuh.unmissions.org/en/node/137314" },
+      { name: "Tableau officiel du CEP", url: "https://tableau.cephaiti.ht/" },
+    ],
+  },
+  {
+    id: "qh-kenley-anacacis-candidatures-2026-11-14",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-14",
+    publishedTime: "2026-11-14T20:14:00-05:00",
+    headline: {
+      ht: "Kenley Jean-Baptiste (GAD) pou Senat Nòdwès; Jean Hector Anacacis pou depite Okay Jakmèl",
+      fr: "Kenley Jean-Baptiste (GAD) au Sénat du Nord-Ouest; Jean Hector Anacacis député de Cayes-Jacmel",
+    },
+    teaser: {
+      ht: "Se enskripsyon sou platfòm CEP la. Yo poko vle di dosye yo valide.",
+      fr: "Il s'agit d'inscriptions sur la plateforme du CEP. Cela ne signifie pas que les dossiers sont déjà validés.",
+    },
+    brief: {
+      ht: "Politològ Kenley Jean-Baptiste, 30 an, te anonse kandidati l pou Senat nan Nòdwès, sou banyè GAD, Juno7 ekri. Ansyen senatè Jean Hector Anacacis parèt sou platfòm CEP la pou depite Okay Jakmèl, sou banyè LAPEH.",
+      fr: "Le politologue Kenley Jean-Baptiste, 30 ans, a annoncé sa candidature au Sénat dans le Nord-Ouest, sous la bannière du GAD, écrit Juno7. L'ancien sénateur Jean Hector Anacacis figure sur la plateforme du CEP pour la députation de Cayes-Jacmel, sous la bannière de LAPEH.",
+    },
+    body: {
+      ht: "Kenley Jean-Baptiste, politològ 30 an, inisyatè Forum Jènès ann Ayiti, te anonse kandidati l pou Senat nan depatman Nòdwès, sou banyè Gwoupman Angaje pou Demokrasi (GAD), Juno7 ekri. Jounal la presize validasyon dosye a pa CEP poko konfime. Li di, si yo elej li, li vle defann aksè a edikasyon, amelyorasyon enfrastrikti ak devlopman ekonomik depatman an.\n\nAnsyen senatè Jean Hector Anacacis, de bò pa l, parèt sou platfòm anliy CEP la kòm kandida a depite pou sikonskripsyon Okay Jakmèl, nan Sidès, sou banyè LAPEH, PouSiOuPaTKonnen te ekri 9 novanm, e NAGO te relè 14 novanm. Li te senatè an 2006, e li te kandida premye minis an me 2024, dapre menm sous yo.\n\nEnskripsyon sou platfòm lan se yon etap preliminè. Li pa vle di tout pyès yo verifye, ni ke non yo pral sou lis definitif kandida yo.",
+      fr: "Kenley Jean-Baptiste, politologue de 30 ans, initiateur des Forums de la Jeunesse en Haïti, a annoncé sa candidature au Sénat dans le département du Nord-Ouest, sous la bannière du Gwoupman Angaje pou Demokrasi (GAD), écrit Juno7. Le journal précise que la validation de son dossier par le CEP n'a pas été confirmée. S'il est élu, il dit vouloir défendre l'accès à l'éducation, l'amélioration des infrastructures et le développement économique du département.\n\nL'ancien sénateur Jean Hector Anacacis, de son côté, figure sur la plateforme en ligne du CEP comme candidat à la députation pour la circonscription de Cayes-Jacmel, dans le Sud-Est, sous la bannière de LAPEH, a écrit PouSiOuPaTKonnen le 9 novembre, ce que NAGO a relayé le 14 novembre. Il a été sénateur en 2006, et candidat au poste de Premier ministre en mai 2024, selon les mêmes sources.\n\nL'inscription sur la plateforme est une étape préliminaire. Elle ne signifie pas que toutes les pièces ont été examinées, ni que ces noms figureront sur la liste définitive des candidats.",
+    },
+    sources: ["Juno7", "PouSiOuPaTKonnen", "NAGO"],
+    sourceLinks: [
+      { name: "Juno7", url: "https://www.juno7.ht/kenley-jean-baptiste-senat-nord-ouest/" },
+      { name: "PouSiOuPaTKonnen", url: "https://www.pousioupatkonnen.com/haiti-jean-hector-anacacis-inscrit-sur-la-plateforme-du-cep-comme-candidat/" },
+      { name: "NAGO", url: "https://news.nago.tv/elections-31-candidats-a-la-presidence-a-la-veille-de-la-cloture-des-inscriptions" },
+    ],
+  },
+  {
+    id: "qh-coulisses-salvador-conference-2026-11-14",
+    tier: "quick-hit",
+    topic: "gossip",
+    publishedAt: "2026-11-14",
+    publishedTime: "2026-11-14T20:12:00-05:00",
+    headline: {
+      ht: "Coulisses: Fils-Aimé ak Bellerive pa sou lis konferans Salvador 16-17 novanm ankò; Pélissier ak Tardieu sou panel la",
+      fr: "Coulisses : Fils-Aimé et Bellerive ne figurent plus à l'agenda de la conférence au Salvador, les 16 et 17 novembre; Pélissier et Tardieu sont sur le panel",
+    },
+    teaser: {
+      ht: "Se Rezo Nòdwès ki ekri sa. Retrè non yo sou lis panellis yo pa vle di, pou kont li, vwayaj la anile.",
+      fr: "C'est Rezo Nòdwès qui l'écrit. Le retrait de leurs noms de la liste des panélistes ne permet pas, à lui seul, de conclure que le voyage est annulé.",
+    },
+    brief: {
+      ht: "Rezo Nòdwès ekri Premye minis Alix Didier Fils-Aimé ak ansyen chèf gouvènman Jean-Max Bellerive pa parèt ankò sou lis entèvènan yo nan tab wonn sou Ayiti, nan 2e Konferans entènasyonal sou Eta ak demokrasi, 16 ak 17 novanm nan Salvador.",
+      fr: "Rezo Nòdwès écrit que le Premier ministre Alix Didier Fils-Aimé et l'ancien chef du gouvernement Jean-Max Bellerive ne figurent plus parmi les intervenants de la table ronde sur Haïti, à la IIe Conférence internationale sur l'État et la démocratie, les 16 et 17 novembre au Salvador.",
+    },
+    body: {
+      ht: "Rezo Nòdwès ekri, vandredi 13 novanm, Premye minis Alix Didier Fils-Aimé ak ansyen Premye minis Jean-Max Bellerive pa parèt ankò sou lis entèvènan yo nan yon tab wonn sou Ayiti, nan 2e Konferans entènasyonal sou Eta ak demokrasi, ki pwograme 16 ak 17 novanm nan Salvador. Se yon sous sèl; n ap relè kont jounal la.\n\nDapre menm nòt la, ajanda a montre kounye a minis Jistis Patrick Pélissier ak ansyen depite Jerry Tardieu, ansanm ak David Rivard, direktè egzekitif yon ajans salvadoryen pou devlopman, ak Pascal Drouhaud, espesyalis relasyon entènasyonal. Dong Nguyen, prezante kòm espesyalis dwa moun, dwe modere deba a, ki gen tit « Haïti, un pays en construction permanente ». Orè a, dapre Rezo Nòdwès, se 15h45 a 16h45, lè Salvador, sètadi 16h45 a 17h45, lè Ayiti.\n\nRezo Nòdwès raple vis-prezidan salvadoryen Félix Ulloa te di, 6 novanm, Fils-Aimé te konfime patisipasyon l, e ke deplasman an t ap bay okazyon pou pale de avni sòlda salvadoryen yo ann Ayiti. Jounal la presize retrè non Premye minis la sou lis panellis yo, pou kont li, pa pèmèt konfime vwayaj la anile, ni ke pa t ap gen lòt rankont. Nou pa pran sipozisyon sa yo pi lwen pase sa jounal la ekri.",
+      fr: "Rezo Nòdwès écrit, vendredi 13 novembre, que le Premier ministre Alix Didier Fils-Aimé et l'ancien Premier ministre Jean-Max Bellerive ne figurent plus parmi les intervenants d'une table ronde consacrée à Haïti, à la IIe Conférence internationale sur l'État et la démocratie, prévue les 16 et 17 novembre au Salvador. C'est une source unique; nous relayons le récit du journal.\n\nSelon la même note, l'agenda fait désormais apparaître le ministre de la Justice Patrick Pélissier et l'ancien député Jerry Tardieu, aux côtés de David Rivard, directeur exécutif d'une agence salvadorienne de développement, et de Pascal Drouhaud, spécialiste des relations internationales. Dong Nguyen, présenté comme spécialiste des droits humains, doit modérer le débat, intitulé « Haïti, un pays en construction permanente ». L'horaire affiché, d'après Rezo Nòdwès, est de 15h45 à 16h45, heure du Salvador, soit de 16h45 à 17h45, heure d'Haïti.\n\nRezo Nòdwès rappelle que le vice-président salvadorien Félix Ulloa avait déclaré, le 6 novembre, que Fils-Aimé lui avait confirmé sa participation, et que ce déplacement offrirait l'occasion d'aborder l'avenir des militaires salvadoriens engagés en Haïti. Le journal précise que le retrait du nom du Premier ministre de la liste des panélistes ne permet pas, à lui seul, de confirmer l'annulation de son voyage, ni l'absence d'éventuelles autres rencontres. Nous n'allons pas plus loin que ce que le journal écrit.",
+    },
+    sources: ["Rezo Nòdwès"],
+    sourceLinks: [
+      { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/conference-au-salvador-les-16-et-17-novembre-fils-aime-et-bellerive-ne-figurent-plus-sur-la-liste-des-intervenants-a-la-table-ronde-sur-haiti/" },
+    ],
+  },
+  {
+    id: "ntk-petition-marche-saint-marc-2026-11-14",
+    tier: "need-to-know",
+    topic: "society",
+    publishedAt: "2026-11-14",
+    publishedTime: "2026-11-14T20:22:00-05:00",
+    headline: {
+      ht: "Lidè relijye yo lanse yon petisyon pou twoup salvadoryen yo; yon mach pwograme nan Senmak 17 ak 18 novanm",
+      fr: "Des responsables religieux lancent une pétition en soutien aux troupes salvadoriennes; une marche est prévue à Saint-Marc les 17 et 18 novembre",
+    },
+    teaser: {
+      ht: "Òganizatè mach la, dapre Rezo Nòdwès, vle di mesi Bukele e mande Fils-Aimé ale. Se sa yo di; mach la poko fèt.",
+      fr: "Les organisateurs de la marche, selon Rezo Nòdwès, veulent remercier Bukele et demander le départ de Fils-Aimé. C'est leur appel; la marche n'a pas encore eu lieu.",
+    },
+    brief: {
+      ht: "Evèk Grégory Toussaint te lanse, 13 novanm, petisyon « Free Haiti – Libérez Haïti – Libere Ayiti », Juno7 ekri. Nan Artibonite, Rezo Nòdwès relè yon rasanbleman ki pwograme 17 ak 18 novanm nan Senmak.",
+      fr: "L'évêque Grégory Toussaint a lancé, le 13 novembre, la pétition « Free Haiti – Libérez Haïti – Libere Ayiti », écrit Juno7. Dans l'Artibonite, Rezo Nòdwès relait un rassemblement prévu les 17 et 18 novembre à Saint-Marc.",
+    },
+    body: {
+      ht: "Juno7 ekri lidè relijye ayisyen yo ap mobilize pou soutni entèvansyon twoup salvadoryen yo kont gang ame yo. Vandredi 13 novanm 2026, evèk Grégory Toussaint, yon figi evanjelik, te lanse petisyon entènasyonal « Free Haiti – Libérez Haïti – Libere Ayiti », ki enspire de Pwovèb 31, vèsè 8. Petisyon an adrese gouvènman ameriken, Nasyonzini ak òganizasyon defans dwa moun, pami yo Amnisti Entènasyonal, pou yo tande apèl popilasyon an. Inisyatè yo vle mobilize kominote kretyen ann Ayiti ak nan dyaspora. Se pozisyon yo; nou relè l jan Juno7 pibliye l.\n\nNan Artibonite, Rezo Nòdwès ekri yon mobilizasyon pwograme 17 ak 18 novanm nan Senmak, kote òganizatè yo di yo ap tann delegasyon dis komin. Yo vle di mesi prezidan salvadoryen Nayib Bukele pou entèvansyon l kont gang yo, mande twoup salvadoryen nan depatman an, epi reklame demisyon Premye minis Alix Didier Fils-Aimé. Rasanbleman an tonbe lavèy ak jou komemorasyon batay Vètyè, 18 novanm. Se sa òganizatè yo anonse, dapre Rezo Nòdwès; mach la poko fèt, e nou pa ka konfime konbyen moun ki pral la.",
+      fr: "Juno7 écrit que des responsables religieux haïtiens se mobilisent pour soutenir l'intervention des troupes salvadoriennes contre les gangs armés. Vendredi 13 novembre 2026, l'évêque Grégory Toussaint, une figure du milieu évangélique, a lancé la pétition internationale « Free Haiti – Libérez Haïti – Libere Ayiti », inspirée du Livre des Proverbes, chapitre 31, verset 8. Cette pétition s'adresse au gouvernement américain, à l'ONU et à des organisations de défense des droits humains, dont Amnesty International, afin qu'ils entendent l'appel de la population. Les initiateurs veulent mobiliser les communautés chrétiennes en Haïti et dans la diaspora. C'est leur position; nous la relayons telle que Juno7 l'a publiée.\n\nDans l'Artibonite, Rezo Nòdwès écrit qu'une mobilisation est prévue les 17 et 18 novembre à Saint-Marc, où les organisateurs disent attendre des délégations de dix communes. Ils veulent remercier le président salvadorien Nayib Bukele pour son intervention contre les gangs, demander l'envoi de soldats salvadoriens dans le département, et réclamer la démission du Premier ministre Alix Didier Fils-Aimé. Le rassemblement tombe à la veille et le jour de la commémoration de la bataille de Vertières, le 18 novembre. C'est l'annonce des organisateurs, selon Rezo Nòdwès; la marche n'a pas encore eu lieu, et nous ne pouvons pas confirmer le nombre de participants.",
+    },
+    sources: ["Juno7", "Rezo Nòdwès"],
+    sourceLinks: [
+      { name: "Juno7", url: "https://www.juno7.ht/haiti-mobilisation-religieuse-troupes-salvadoriennes/" },
+      { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/haiti-insecurite-artibonite-dix-communes-attendues-a-saint-marc-les-17-et-18-novembre-pour-remercier-bukele-et-exiger-le-depart-de-fils-aime/" },
+    ],
+  },
+  {
+    id: "qh-cassation-orientations-2026-11-14",
+    tier: "quick-hit",
+    topic: "justice",
+    publishedAt: "2026-11-14",
+    publishedTime: "2026-11-14T20:10:00-05:00",
+    headline: {
+      ht: "Cour de cassation prezante oryantasyon administratif li yo pou 2026-2027",
+      fr: "La Cour de cassation présente ses orientations administratives pour 2026-2027",
+    },
+    teaser: {
+      ht: "Reyinyon an te fèt vandredi 13 novanm. Kont randi a pa detaye chak direktiv.",
+      fr: "La réunion a eu lieu vendredi 13 novembre. Le compte rendu ne détaille pas chaque directive.",
+    },
+    brief: {
+      ht: "Direksyon administratif ak bidjè Cour de cassation te prezante, vandredi 13 novanm, oryantasyon pou ekzèsis fiskal 2026-2027, epi li te lanse preparasyon 210e anivèsè enstitisyon an, prevwa an 2027, Constant Haiti ekri.",
+      fr: "La direction administrative et budgétaire de la Cour de cassation a présenté, vendredi 13 novembre, les orientations de l'exercice fiscal 2026-2027, et lancé les préparatifs du 210e anniversaire de l'institution, prévu en 2027, écrit Constant Haïti.",
+    },
+    body: {
+      ht: "Cour de cassation te fè, vandredi 13 novanm 2026, yon reyinyon ak pèsonèl la pou prezante oryantasyon administratif ekzèsis fiskal 2026-2027, Constant Haiti ekri, sou baz Vant Bèf Info. Reyinyon an te fèt apre retou Vilma Beauvil, direktè administratif ak bidjè, ki te absan prèske yon mwa pou yon fòmasyon aletranje. Kont randi a pa detaye chak direktiv.\n\nBeauvil te remèt plak onè a twa kad ki te asire kontinwite sèvis la pandan absans li: Marie Michèle Imbry Joseph, kontab an chèf; Melissa Pierre, sekretè administrasyon; ak Léocardie Germain, manm biwo administrasyon an.\n\nReyinyon an te pale tou de preparasyon 210e anivèsè Cour de cassation, prevwa an 2027. Beauvil te nonmen Fritz Réginald Saint-Louis, responsab Sèvis pwotokòl, pou dirije yon komisyon sou evènman an. Kont randi a pa bay konpozisyon komisyon an, ni yon pwogram detaye.",
+      fr: "La Cour de cassation a tenu, vendredi 13 novembre 2026, une réunion avec son personnel pour présenter les orientations administratives de l'exercice fiscal 2026-2027, écrit Constant Haïti, d'après Vant Bèf Info. La rencontre a eu lieu après le retour de Vilma Beauvil, directeur administratif et du budget, absent près d'un mois pour une formation à l'étranger. Le compte rendu ne détaille pas chacune de ces directives.\n\nBeauvil a remis des plaques d'honneur à trois cadres qui ont assuré la continuité du service pendant son absence: Marie Michèle Imbry Joseph, comptable en chef; Melissa Pierre, secrétaire auprès de l'administration; et Léocardie Germain, membre du bureau de l'administration.\n\nLa réunion a aussi porté sur la préparation du 210e anniversaire de la Cour de cassation, prévu en 2027. Beauvil a nommé Fritz Réginald Saint-Louis, responsable du Service de protocole, à la tête d'une commission chargée de cet événement. Le compte rendu ne donne ni la composition de la commission, ni un programme détaillé.",
+    },
+    sources: ["Constant Haïti", "Vant Bèf Info"],
+    sourceLinks: [
+      { name: "Constant Haïti", url: "https://constanthaiti.info/la-cour-de-cassation-fixe-ses-orientations-administratives-pour-2026-2027" },
+    ],
+  },
+  {
+    id: "qh-flatbush-effondrement-victimes-2026-11-14",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-14",
+    publishedTime: "2026-11-14T20:08:00-05:00",
+    headline: {
+      ht: "Flatbush: NYPD pibliye non 8 moun ki te mouri nan efondman imèb la, pami yo 2 timoun",
+      fr: "Flatbush : la NYPD publie les noms des 8 morts de l'effondrement, dont 2 enfants",
+    },
+    teaser: {
+      ht: "Otorite yo pa konfime okenn viktim ayisyen. Nou pa pretann gen youn.",
+      fr: "Les autorités n'ont confirmé aucune victime haïtienne. Nous n'affirmons pas qu'il y en a une.",
+    },
+    brief: {
+      ht: "Polis New York te pibliye non uit moun ki te mouri lè yon imèb twa etaj te efondre nan Brooklyn, 11 novanm, pami yo de timoun 9 ak 10 an. The Haitian Times relè lis la.",
+      fr: "La police de New York a publié les noms des huit personnes tuées lorsqu'un immeuble de trois étages s'est effondré à Brooklyn, le 11 novembre, dont deux enfants de 9 et 10 ans. The Haitian Times relait cette liste.",
+    },
+    body: {
+      ht: "Polis vil New York (NYPD) te pibliye non uit moun ki te mouri nan efondman yon imèb twa etaj nan Brooklyn, mercredi 11 novanm 2026, nan zòn Flatbush, nan kwen Bedford ak Flatbush, Rezo Nòdwès ak The Haitian Times relè. De timoun te nan mitan mò yo: Nicole Daniela Salvada Rodriguez, 9 an, ak Kevin Santiago Reyes Gonzalez, 10 an. Lòt viktim yo se: Gabriel Siguencia, 22 an; Barry Mamadou, 23 an; Jose Luis Caguana Cosquillo, 26 an; Edgar Sapon, 26 an; Juan Daniel Salvada Guzman, 31 an; ak Ndiaye Mamadou, 31 an.\n\nMajistra New York, Zohran Mamdani, te di kèk nan viktim yo soti Meksik, Kolonbi, Ekwatè ak Trinidad, The Haitian Times ekri. Konsila Kolonbi a te di de timoun yo, ak youn nan granmoun yo, se te Kolonbyen. Konsila Ekwatè a te idantifye Caguana Cosquillo ak Siguencia kòm Ekwatoryen. Vwazinaj la te fè kèk medya pale de « Little Haiti »; men, nan moman n ap ekri, pa gen okenn viktim ayisyen ki konfime ofisyèlman. Nou pa pretann gen youn.\n\nDapre menm sous yo, 18 moun te blese, pami yo kat ponpye. Envestigatè yo ap chèche kòz efondman an, ki te rive pandan travay fouy nan yon teren vwazen. Yo poko konkli.",
+      fr: "La police de New York (NYPD) a publié les noms des huit personnes tuées dans l'effondrement d'un immeuble de trois étages à Brooklyn, mercredi 11 novembre 2026, dans le secteur de Flatbush, à l'angle de Bedford et de Flatbush, relaient Rezo Nòdwès et The Haitian Times. Deux enfants figurent parmi les morts: Nicole Daniela Salvada Rodriguez, 9 ans, et Kevin Santiago Reyes Gonzalez, 10 ans. Les autres victimes sont: Gabriel Siguencia, 22 ans; Barry Mamadou, 23 ans; Jose Luis Caguana Cosquillo, 26 ans; Edgar Sapon, 26 ans; Juan Daniel Salvada Guzman, 31 ans; et Ndiaye Mamadou, 31 ans.\n\nLe maire de New York, Zohran Mamdani, a indiqué que certaines des victimes étaient originaires du Mexique, de Colombie, d'Équateur et de Trinité, écrit The Haitian Times. Le consulat de Colombie a dit que les deux enfants, ainsi que l'un des adultes, étaient colombiens. Le consulat d'Équateur a identifié Caguana Cosquillo et Siguencia comme Équatoriens. Le voisinage a conduit certains médias à parler de « Little Haiti »; mais, au moment d'écrire, aucune victime haïtienne n'a été officiellement confirmée. Nous n'affirmons pas qu'il y en a une.\n\nSelon les mêmes sources, 18 personnes ont été blessées, dont quatre pompiers. Les enquêteurs cherchent la cause de l'effondrement, survenu pendant des travaux de fouille sur un terrain voisin. Ils n'ont pas encore conclu.",
+    },
+    sources: ["NYPD", "The Haitian Times", "Rezo Nòdwès", "Associated Press"],
+    sourceLinks: [
+      { name: "The Haitian Times", url: "https://haitiantimes.com/2026/11/13/brooklyn-building-collapse-investigation-eight-killed/" },
+      { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/brooklyn-effondrement-meurtrier-dun-immeuble-de-trois-etages-a-little-haiti-a-langle-de-bedford-et-flatbush-la-nypd-publie-les-noms-des-victimes/" },
+    ],
+  },
+  {
+    id: "qh-livres-solidaires-konbit-joumou-2026-11-14",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-14",
+    publishedTime: "2026-11-14T20:06:00-05:00",
+    headline: {
+      ht: "Livres Solidaires fèmen 20 novanm nan Petyonvil; Konbit Soup Joumou prepare 8e edisyon li",
+      fr: "Livres Solidaires ferme le 20 novembre à Pétion-Ville; Konbit Soup Joumou prépare sa 8e édition",
+    },
+    teaser: {
+      ht: "Libri a t ap vann liv ant 75 ak 150 goud. Konbit la vize 40 sit pou 1e janvye 2027.",
+      fr: "La librairie vendait le plus souvent ses livres entre 75 et 150 gourdes. Le konbit vise 40 sites pour le 1er janvier 2027.",
+    },
+    brief: {
+      ht: "Apre plis pase dis an, libri sosyal Livres Solidaires Haïti ap fèmen definitivman 20 novanm, nan 92, ri Grégoire, Petyonvil, NAGO ekri. Nan yon lòt nòt, Juno7 relè apèl Konbit Soup Joumou pou 8e edisyon li, 1e janvye 2027.",
+      fr: "Après plus de dix ans, la librairie sociale Livres Solidaires Haïti fermera définitivement le 20 novembre, au 92, rue Grégoire, à Pétion-Ville, écrit NAGO. Dans une autre note, Juno7 relait l'appel de Konbit Soup Joumou pour sa 8e édition, le 1er janvier 2027.",
+    },
+    body: {
+      ht: "Livres Solidaires Haïti ap fèmen pòt li yo definitivman vandredi 20 novanm 2026, NAGO ekri. Libri a, ki nan 92, ri Grégoire, nan Petyonvil, te vann liv plis souvan ant 75 ak 150 goud. Responsab la, Béa Darline Legros, di: « Pwojè a fini ». Jiska avril 2024, libri a te deja distribye plis pase 600\u00a0000 liv nan peyi a.\n\nDepi 2013, li te resevwa liv okazyon ki soti Bèljik, atravè asosyasyon Livres Solidaires, ak Kanada, atravè asosyasyon ansyen palmantè Kebek yo. Akò ak patnè bèlj la te fini nan desanm 2025, e konpayi ki t ap transòte liv yo soti Kanada sispann aktivite l ann Ayiti, NAGO ekri. Libri a t ap soufri tou pòs peyaj ilegal ak frè douàn ki prèske double. Depi 2022, ak anviwon 60\u00a0000 liv chak ane, li t ap vanse plis pase 1\u00a0000 enstitisyon. Pou vide stock la, yon bradri te kòmanse 5 novanm, ak raba ki ka rive 50 %.\n\nNan yon lòt nòt, Juno7 ekri Konbit Soup Joumou ap prepare 8e edisyon li pou 1e janvye 2027, 223e anivèsè endepandans Ayiti. Òganizatè yo vize 40 sit ann Ayiti ak nan dyaspora, pami yo de nan Kanada, epi yo estime yon bidjè 10 milyon goud. Inisyativ la, te lanse an 2018 pa Nathalie Mondésir ak zanmi, e Gwoup Konbit te reprann an 2019. Ane sa a, koordinasyon an nan men Kemissa Trecil, yo konnen kòm DJ Kemissa. Yo ap chèche kote, materyèl, volontè ak kontribisyon. Yo bay nimewo +509 36 98 0314 pou moun ki vle ede.",
+      fr: "Livres Solidaires Haïti fermera définitivement ses portes vendredi 20 novembre 2026, écrit NAGO. Installée au 92, rue Grégoire, à Pétion-Ville, cette librairie à vocation sociale vendait le plus souvent ses livres entre 75 et 150 gourdes. Sa responsable, Béa Darline Legros, a dit: « Le projet est terminé ». Jusqu'en avril 2024, la librairie avait déjà distribué plus de 600\u00a0000 livres dans le pays.\n\nDepuis 2013, elle recevait des livres d'occasion collectés en Belgique par l'association Livres Solidaires, et au Canada par l'association des ex-parlementaires du Québec. L'accord avec le partenaire belge a pris fin en décembre 2025, et la compagnie qui transportait les livres depuis le Canada a cessé ses activités en Haïti, écrit NAGO. La librairie souffrait aussi des postes de péage illégaux et de frais de douane presque doublés. Depuis 2022, avec environ 60\u00a0000 livres reçus chaque année, elle approvisionnait plus de 1\u00a0000 institutions. Pour écouler le stock, une braderie a commencé le 5 novembre, avec des rabais pouvant atteindre 50 %.\n\nDans une autre note, Juno7 écrit que Konbit Soup Joumou prépare sa 8e édition pour le 1er janvier 2027, 223e anniversaire de l'indépendance d'Haïti. Les organisateurs visent 40 sites en Haïti et dans la diaspora, dont deux au Canada, et évaluent le budget à 10 millions de gourdes. Lancée en 2018 par Nathalie Mondésir et des amis, puis reprise en 2019 par Gwoup Konbit, l'initiative est coordonnée cette année par Kemissa Trecil, connue comme DJ Kemissa. Les organisateurs cherchent des lieux, du matériel, des bénévoles et des contributions. Ils indiquent le numéro +509 36 98 0314 pour celles et ceux qui veulent aider.",
+    },
+    sources: ["NAGO", "Juno7"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/livres-solidaires-haiti-la-librairie-a-petits-prix-de-petion-ville-ferme-le-20-novembre" },
+      { name: "Juno7", url: "https://www.juno7.ht/konbit-soup-joumou-2027-appel-contribution/" },
+    ],
+  },
+
+  {
     id: "ntk-portail-leogane-udmo-2026-11-14",
     tier: "need-to-know",
     topic: "security",
@@ -270,32 +525,36 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-fanmi-lavalas-boycott-elections-2026-11-13",
+    isFollowUp: true,
     tier: "need-to-know",
     topic: "politics",
     publishedAt: "2026-11-13",
-    publishedTime: "2026-11-13T23:26:00-05:00",
+    publishedTime: "2026-11-14T20:20:00-05:00",
     headline: {
-      ht: "Fanmi Lavalas di li p ap patisipe nan eleksyon yo nan kondisyon yo ye kounye a",
-      fr: "Fanmi Lavalas dit qu'il ne participera pas aux élections dans les conditions actuelles",
+      ht: "Fanmi Lavalas sispann patisipasyon l nan eleksyon yo e li mande yon dyalòg nasyonal",
+      fr: "Fanmi Lavalas suspend sa participation aux élections et appelle à un dialogue national",
     },
     teaser: {
-      ht: "Pati a mande sekirite ak yon dyalòg nasyonal. Li presize se pa yon refi nan prensip pou eleksyon.",
-      fr: "Le parti demande le rétablissement de la sécurité et un dialogue national. Il précise que ce n'est pas un refus de principe des élections.",
+      ht: "Maryse Narcisse ak Joël Vorbe te di sa 13 novanm, nan Fondasyon Aristide. Pati a presize se pa yon refi prensip eleksyon yo.",
+      fr: "Maryse Narcisse et Joël Vorbe l'ont dit le 13 novembre, à la Fondation Aristide. Le parti précise que ce n'est pas un refus de principe des élections.",
     },
     brief: {
-      ht: "Vandredi 13 novanm, nan yon konferans pou laprès nan Fondasyon Doktè Aristide, nan Taba, Fanmi Lavalas anonse li p ap pran pati nan pwochen eleksyon yo jan bagay yo ye kounye a.",
-      fr: "Vendredi 13 novembre, lors d'une conférence de presse à la Fondation Dr Aristide, à Tabarre, Fanmi Lavalas a annoncé qu'il ne prendra pas part aux prochaines élections dans les conditions actuelles.",
+      ht: "Vandredi 13 novanm, nan yon konferans pou laprès nan Fondasyon Doktè Aristide, nan Tabar, Fanmi Lavalas te anonse li sispann patisipasyon l nan pwochen eleksyon yo, epi li mande yon dyalòg nasyonal enkli, Gazette Haiti ak HaitiLibre relè.",
+      fr: "Vendredi 13 novembre, lors d'une conférence de presse à la Fondation Dr Aristide, à Tabarre, Fanmi Lavalas a annoncé la suspension de sa participation aux prochaines élections, et appelé à un dialogue national inclusif, relaient Gazette Haiti et HaitiLibre.",
     },
     body: {
-      ht: "Pati Fanmi Lavalas te anonse, vandredi 13 novanm 2026, li p ap patisipe nan pwochen eleksyon yo nan kondisyon yo ye kounye a. Konferans pou laprès la te fèt nan lokal Fondasyon Doktè Aristide pou demokrasi, nan Taba. Gazette Haiti, HPN, Realite Info ak Alternance Media relè pozisyon sa a.\n\nKowòdonatris pati a, doktè Maryse Narcisse, ak Joël Vorbe, manm komite egzekitif la, te eksprime rezèv sou kalandriye CEP la ak sou kapasite otorite yo pou òganize yon skrutin kredib. Yo mande pou sekirite retabli anvan yon konsiltasyon popilè: siveye pou sitwayen yo ka sikile, pou kandida yo ka fè kanpay sou teritwa a, epi pou elektè yo ka vote san entimidasyon.\n\nNarcisse, dapre HPN, presize Fanmi Lavalas te fè anrejistreman 30 000 manm dekrè elektoral la mande. Li ajoute kondisyon pou eleksyon kredib poko reyni. Pati a di se pa yon refi nan prensip pou eleksyon, e li di li prè pou patisipe le sekirite ak yon dyalòg nasyonal ap pèmèt yon skrutin ouvè.\n\nPati a prekonize yon dyalòg nasyonal ki rasanble pati politik, sosyete sivil ak lòt fòs nan peyi a. Li poze kesyon tou sou kèk dispozisyon administratif, tankou sètifika lapolis ak delè pou dosye kandida yo. Se pozisyon Fanmi Lavalas. CEP la, de bò pa l, kenbe kalandriye li te pibliye, ki prevwa premye tou 18 jiyè 2027.",
-      fr: "Le parti Fanmi Lavalas a annoncé, vendredi 13 novembre 2026, qu'il ne participera pas aux prochaines élections dans les conditions actuelles. La conférence de presse s'est tenue au local de la Fondation Dr Aristide pour la démocratie, à Tabarre. Gazette Haiti, HPN, Realite Info et Alternance Media relaient cette position.\n\nLa coordinatrice du parti, la docteure Maryse Narcisse, et Joël Vorbe, membre du comité exécutif, ont exprimé des réserves sur le calendrier du CEP et sur la capacité des autorités à organiser un scrutin crédible. Ils demandent que la sécurité soit rétablie avant toute consultation populaire: que les citoyens puissent circuler, que les candidats puissent faire campagne sur le territoire, et que les électeurs puissent voter sans intimidation.\n\nNarcisse, selon HPN, a précisé que Fanmi Lavalas avait bien procédé à l'enregistrement des 30 000 membres exigés par le décret électoral. Elle estime toutefois que les conditions d'élections crédibles ne sont pas encore réunies. Le parti dit que ce n'est pas un refus de principe des élections, et qu'il est prêt à participer dès que la sécurité et un dialogue national permettront un scrutin ouvert.\n\nFanmi Lavalas préconise un dialogue national réunissant les partis politiques, la société civile et d'autres forces du pays. Il interroge aussi certaines dispositions administratives, notamment les certificats de police et les délais impartis pour les dossiers de candidature. C'est la position du parti. Le CEP, de son côté, maintient le calendrier qu'il a publié, avec un premier tour prévu le 18 juillet 2027.",
+      ht: "HaitiLibre ak Gazette Haiti konfime, nan nòt 13 ak 14 novanm, Fanmi Lavalas te anonse, vandredi 13 novanm 2026, li sispann patisipasyon l nan pwochen eleksyon yo, nan kondisyon yo ye kounye a. Konferans pou laprès la te fèt nan syèj Fondasyon Doktè Jean-Bertrand Aristide pou demokrasi, nan Tabar. Maryse Narcisse, koordinatris pati a ak ansyen kandida prezidans, ansanm ak Joël Vorbe, manm komite egzekitif, te mande ouvèti yon dyalòg nasyonal enkli, ak pati politik, sosyete sivil ak lòt fòs viv. Yo di sekirite, enpasyalite enstitisyon yo, ak garanti pou sitwayen yo ka sikile, fè kanpay epi vote san laperèz, dwe vin anvan. Yo presize pozisyon sa a se pa yon refi prensip eleksyon yo.\n\nPati Fanmi Lavalas te anonse, vandredi 13 novanm 2026, li p ap patisipe nan pwochen eleksyon yo nan kondisyon yo ye kounye a. Konferans pou laprès la te fèt nan lokal Fondasyon Doktè Aristide pou demokrasi, nan Taba. Gazette Haiti, HPN, Realite Info ak Alternance Media relè pozisyon sa a.\n\nKowòdonatris pati a, doktè Maryse Narcisse, ak Joël Vorbe, manm komite egzekitif la, te eksprime rezèv sou kalandriye CEP la ak sou kapasite otorite yo pou òganize yon skrutin kredib. Yo mande pou sekirite retabli anvan yon konsiltasyon popilè: siveye pou sitwayen yo ka sikile, pou kandida yo ka fè kanpay sou teritwa a, epi pou elektè yo ka vote san entimidasyon.\n\nNarcisse, dapre HPN, presize Fanmi Lavalas te fè anrejistreman 30 000 manm dekrè elektoral la mande. Li ajoute kondisyon pou eleksyon kredib poko reyni. Pati a di se pa yon refi nan prensip pou eleksyon, e li di li prè pou patisipe le sekirite ak yon dyalòg nasyonal ap pèmèt yon skrutin ouvè.\n\nPati a prekonize yon dyalòg nasyonal ki rasanble pati politik, sosyete sivil ak lòt fòs nan peyi a. Li poze kesyon tou sou kèk dispozisyon administratif, tankou sètifika lapolis ak delè pou dosye kandida yo. Se pozisyon Fanmi Lavalas. CEP la, de bò pa l, kenbe kalandriye li te pibliye, ki prevwa premye tou 18 jiyè 2027.",
+      fr: "HaitiLibre et Gazette Haiti confirment, dans des notes des 13 et 14 novembre, que Fanmi Lavalas a annoncé, vendredi 13 novembre 2026, la suspension de sa participation aux prochaines élections, dans les conditions actuelles. La conférence de presse s'est tenue au siège de la Fondation Dr Jean-Bertrand Aristide pour la démocratie, à Tabarre. Maryse Narcisse, coordinatrice du parti et ancienne candidate à la présidence, ainsi que Joël Vorbe, membre du comité exécutif, ont demandé l'ouverture d'un dialogue national inclusif, réunissant partis politiques, société civile et autres forces vives. Ils disent que la sécurité, l'impartialité des institutions, et la garantie que les citoyens puissent circuler, faire campagne et voter sans crainte, doivent venir d'abord. Ils précisent que cette position n'est pas un refus de principe des élections.\n\nLe parti Fanmi Lavalas a annoncé, vendredi 13 novembre 2026, qu'il ne participera pas aux prochaines élections dans les conditions actuelles. La conférence de presse s'est tenue au local de la Fondation Dr Aristide pour la démocratie, à Tabarre. Gazette Haiti, HPN, Realite Info et Alternance Media relaient cette position.\n\nLa coordinatrice du parti, la docteure Maryse Narcisse, et Joël Vorbe, membre du comité exécutif, ont exprimé des réserves sur le calendrier du CEP et sur la capacité des autorités à organiser un scrutin crédible. Ils demandent que la sécurité soit rétablie avant toute consultation populaire: que les citoyens puissent circuler, que les candidats puissent faire campagne sur le territoire, et que les électeurs puissent voter sans intimidation.\n\nNarcisse, selon HPN, a précisé que Fanmi Lavalas avait bien procédé à l'enregistrement des 30 000 membres exigés par le décret électoral. Elle estime toutefois que les conditions d'élections crédibles ne sont pas encore réunies. Le parti dit que ce n'est pas un refus de principe des élections, et qu'il est prêt à participer dès que la sécurité et un dialogue national permettront un scrutin ouvert.\n\nFanmi Lavalas préconise un dialogue national réunissant les partis politiques, la société civile et d'autres forces du pays. Il interroge aussi certaines dispositions administratives, notamment les certificats de police et les délais impartis pour les dossiers de candidature. C'est la position du parti. Le CEP, de son côté, maintient le calendrier qu'il a publié, avec un premier tour prévu le 18 juillet 2027.",
     },
-    sources: ["Gazette Haiti", "HPN", "Realite Info", "Alternance Media"],
+    sources: ["Gazette Haiti", "HPN", "Realite Info", "Alternance Media",
+      "HaitiLibre",
+    ],
     sourceLinks: [
       { name: "Gazette Haiti", url: "https://www.gazettehaiti.com/node/14535" },
       { name: "HPN", url: "https://www.hpninfo.com/post/ha%C3%AFti-%C3%A9lections-fanmi-lavalas-conditionne-sa-participation-au-r%C3%A9tablissement-de-la-s%C3%A9curit%C3%A9" },
       { name: "Realite Info", url: "https://realiteinfo.com/haiti-elections-fanmi-lavalas-pose-trois-conditions-avant-de-passer-aux-urnes/" },
       { name: "Alternance Media", url: "http://alternance-media.com/politique/deux-ministres-a-bord-lavalas-tire-sur-le-capitaine-fils-aime/" },
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48896-haiti-actualite-zapping.html" },
     ],
   },
   {
@@ -656,31 +915,36 @@ export const STORIES: Story[] = [
     tier: "need-to-know",
     topic: "politics",
     publishedAt: "2026-11-13",
-    publishedTime: "2026-11-14T08:22:00-05:00",
+    publishedTime: "2026-11-14T20:18:00-05:00",
     isFollowUp: true,
     headline: {
-      ht: "CEP: dènye jou anvan fèmen enskripsyon sou entènèt, dimanch 15 novanm a minwi",
-      fr: "CEP : dernier jour avant la clôture des inscriptions en ligne, dimanche 15 novembre à minuit",
+      ht: "CEP: pann Outlook, delè 15 novanm lan kenbe; 32 enskripsyon pou prezidans lan",
+      fr: "CEP : panne d'Outlook, le délai du 15 novembre tient; 32 inscriptions à la présidence",
     },
     teaser: {
-      ht: "30 moun deja enskri pou prezidans lan. Depo pyès yo fèmen 30 novanm. Frantz Duval raple enskripsyon an se premye etap sèlman.",
-      fr: "30 personnes se sont déjà inscrites à la présidence. Le dépôt des pièces se ferme le 30 novembre. Frantz Duval rappelle que l'inscription n'est que la première étape.",
+      ht: "Nòt 14 novanm lan pa anonse okenn pwolongasyon. HaitiLibre site, pami nouvo non yo, Lumarque, Michelet, Renois ak Hans Jacques Ludwig Joseph.",
+      fr: "La note du 14 novembre n'annonce aucune prolongation. HaitiLibre cite, parmi les nouveaux noms, Lumarque, Michelet, Renois et Hans Jacques Ludwig Joseph.",
     },
     brief: {
-      ht: "Konsèy elektoral pwovizwa a raple peryòd enskripsyon sou entènèt kandida yo fèmen 15 novanm a minwi, epi depo pyès yo fini 30 novanm. Tablo piblik la montre 30 enskripsyon pou prezidans lan.",
-      fr: "Le Conseil électoral provisoire rappelle que la période d'inscription en ligne des candidats se ferme le 15 novembre à minuit, et que le dépôt des pièces se termine le 30 novembre. Le tableau public affiche 30 inscriptions à la présidence.",
+      ht: "CEP atribiye perturbasyon platfòm li a yon pann mondyal Outlook. Fèmen enskripsyon sou entènèt yo rete dimanch 15 novanm a minwi. Samdi swa, tablo ofisyèl la te montre 32 enskripsyon pou prezidans lan, 30 gason ak 2 fanm.",
+      fr: "Le CEP attribue des perturbations de sa plateforme à une panne mondiale d'Outlook. La clôture des inscriptions en ligne reste fixée à dimanche 15 novembre à minuit. Samedi soir, le tableau officiel affichait 32 inscriptions à la présidence, 30 hommes et 2 femmes.",
     },
     body: {
-      ht: "Nou nan dènye jou yo anvan fèmen enskripsyon sou entènèt yo. CEP raple, nan yon nòt ofisyèl, ke enskripsyon sou platfòm lan fèmen dimanch 15 novanm 2026 a minwi, epi ke depo pyès yo fèmen lendi 30 novanm. Samdi maten, tablo piblik CEP la te montre 30 enskripsyon pou prezidans lan, 28 gason ak 2 fanm; 458 pou sena a; 1 626 pou palman an. Total enskripsyon yo te rive 10 509, si n konte kolektivite teritoryal yo tou.\n\nNan yon editoryal, Frantz Duval, Le Nouvelliste, souliye ke, a kèk èdtan anvan fèmen an, 30 moun deja fè akt kandidati pou prezidans lan, men ke etap sa a toujou lwen eleksyon yo menm. Enskripsyon sou platfòm lan se premye etap sèlman; validasyon dosye yo vin apre.\n\nKonsèy elektoral pwovizwa a raple, nan yon nòt 10 novanm, enskripsyon an liy pou kandida prezidans ak lejislatif yo pral fini dimanch 15 novanm 2026, a minwi. Peryòd depo pyès yo mande pou dosye kandidati yo pral fini 30 novanm 2026.\n\nVandredi 13 novanm, a 8h58 (lè Ayiti), tablo ofisyèl CEP la, tableau.cephaiti.ht, te afiche 26 enskripsyon pou prezidans, 441 pou Senat ak 1579 pou depite. Pou prezidans lan, te gen 24 gason ak 2 fanm, sètadi 7,7 % fanm. Tablo a konpare pataj sa a ak yon kota 30 %, e li make enskripsyon prezidansyèl yo « sous le quota ». Pou Senat, te gen 59 fanm sou 441 ; pou depite, 109 fanm sou 1579.\n\nEnstitisyon an avèti done platfòm nan dinamik e strikteman preliminè. Enskripsyon an liy se yon premye etap administratif. Li pa vle di dosye a konplè, ni ke CEP valide kandidati a. Lis definitif la ap soti sèlman apre verifikasyon dosye yo. Chif sa yo ka chanje jiskaske platfòm nan fèmen dimanch minwi.",
-      fr: "Nous voici au dernier jour avant la clôture des inscriptions en ligne. Le CEP rappelle, dans une note officielle, que l'inscription sur la plateforme se ferme dimanche 15 novembre 2026 à minuit, et que le dépôt des pièces se ferme le lundi 30 novembre. Samedi matin, le tableau public du CEP affichait 30 inscriptions à la présidence, 28 hommes et 2 femmes; 458 au Sénat; 1 626 à la Chambre des députés. Le total des inscriptions s'élevait à 10 509, collectivités territoriales comprises.\n\nDans un éditorial, Frantz Duval, du Nouvelliste, souligne que, à quelques heures de la clôture, 30 personnes ont déjà fait acte de candidature à la présidence, mais que cette étape reste encore loin des élections elles-mêmes. L'inscription sur la plateforme n'est que la première étape; la validation des dossiers vient ensuite.\n\nLe Conseil électoral provisoire rappelle, dans une note du 10 novembre, que l'inscription en ligne des candidats à la présidence et aux législatives prendra fin dimanche 15 novembre 2026, à minuit. La période consacrée au dépôt des pièces requises pour les dossiers de candidature prendra fin le 30 novembre 2026.\n\nVendredi 13 novembre, à 8h58 (heure d'Haïti), le tableau officiel du CEP, tableau.cephaiti.ht, affichait 26 inscriptions à la présidence, 441 au Sénat et 1579 à la députation. Pour la présidence, on comptait 24 hommes et 2 femmes, soit 7,7 % de femmes. Le tableau compare cette part à un quota de 30 %, et indique que les inscriptions présidentielles sont « sous le quota ». Au Sénat, on dénombrait 59 femmes sur 441 ; à la députation, 109 femmes sur 1579.\n\nL'institution avertit que les données de la plateforme sont dynamiques et strictement préliminaires. L'inscription en ligne est une première étape administrative. Elle ne vaut ni dépôt complet du dossier, ni validation de la candidature par le CEP. La liste définitive ne sera établie qu'après vérification des dossiers. Ces chiffres peuvent encore changer jusqu'à la fermeture de la plateforme, dimanche à minuit.",
+      ht: "Samdi 14 novanm 2026, CEP te rekonèt platfòm enskripsyon an t ap gen perturbasyon. Nan yon nòt, li atribiye difikilte yo a entèripsyon entèmitan mesajri Microsoft Outlook sou tout planè a, Juno7 ekri. Konsèy la di l ap swiv ensidan an epi li mande pati, gwoupman ak kandida endepandan yo pran pasyans. Nòt la pa anonse okenn pwolongasyon delè enskripsyon an, ki rete dimanch 15 novanm a minwi. Depo pyès yo rete pou 30 novanm.\n\nHaitiLibre te ekri, samdi, kat nouvo non te pote total enskripsyon prezidansyèl yo a 30, 28 gason ak 2 fanm: Jacky Lumarque (MYEL), Nestor Michelet (DPA), Jean Clarens Renois (Unir Ayiti Ini), ak Hans Jacques Ludwig Joseph (ESCANP), ansyen direktè jeneral ULCC soti jiyè 2020 rive jiyè 2026, jou Konsèy minis yo te revoke l. Juno7 relè deklarasyon 13 novanm li a, kote li mete lit kont enpinite a nan sant kandidati li.\n\nChif yo deja deplase. Samdi swa, a 20h14, lè Ayiti, tablo ofisyèl CEP la, tableau.cephaiti.ht, te afiche 32 enskripsyon pou prezidans lan, 30 gason ak 2 fanm; 469 pou Senat; 1 659 pou palman an. Total enskripsyon yo te rive 10 688, kolektivite teritoryal yo konte ladan. Enskripsyon yo rete preliminè. Yo pa vle di dosye yo valide.\n\nNou nan dènye jou yo anvan fèmen enskripsyon sou entènèt yo. CEP raple, nan yon nòt ofisyèl, ke enskripsyon sou platfòm lan fèmen dimanch 15 novanm 2026 a minwi, epi ke depo pyès yo fèmen lendi 30 novanm. Samdi maten, tablo piblik CEP la te montre 30 enskripsyon pou prezidans lan, 28 gason ak 2 fanm; 458 pou sena a; 1 626 pou palman an. Total enskripsyon yo te rive 10 509, si n konte kolektivite teritoryal yo tou.\n\nNan yon editoryal, Frantz Duval, Le Nouvelliste, souliye ke, a kèk èdtan anvan fèmen an, 30 moun deja fè akt kandidati pou prezidans lan, men ke etap sa a toujou lwen eleksyon yo menm. Enskripsyon sou platfòm lan se premye etap sèlman; validasyon dosye yo vin apre.\n\nKonsèy elektoral pwovizwa a raple, nan yon nòt 10 novanm, enskripsyon an liy pou kandida prezidans ak lejislatif yo pral fini dimanch 15 novanm 2026, a minwi. Peryòd depo pyès yo mande pou dosye kandidati yo pral fini 30 novanm 2026.\n\nVandredi 13 novanm, a 8h58 (lè Ayiti), tablo ofisyèl CEP la, tableau.cephaiti.ht, te afiche 26 enskripsyon pou prezidans, 441 pou Senat ak 1579 pou depite. Pou prezidans lan, te gen 24 gason ak 2 fanm, sètadi 7,7 % fanm. Tablo a konpare pataj sa a ak yon kota 30 %, e li make enskripsyon prezidansyèl yo « sous le quota ». Pou Senat, te gen 59 fanm sou 441 ; pou depite, 109 fanm sou 1579.\n\nEnstitisyon an avèti done platfòm nan dinamik e strikteman preliminè. Enskripsyon an liy se yon premye etap administratif. Li pa vle di dosye a konplè, ni ke CEP valide kandidati a. Lis definitif la ap soti sèlman apre verifikasyon dosye yo. Chif sa yo ka chanje jiskaske platfòm nan fèmen dimanch minwi.",
+      fr: "Samedi 14 novembre 2026, le CEP a reconnu que sa plateforme d'inscription connaissait des perturbations. Dans une note, il attribue ces difficultés à des interruptions intermittentes de la messagerie Microsoft Outlook à l'échelle mondiale, écrit Juno7. Le Conseil dit suivre l'incident et demande aux partis, groupements et candidats indépendants de faire preuve de patience. Sa note n'annonce aucune prolongation du délai d'inscription, qui reste fixé à dimanche 15 novembre à minuit. Le dépôt des pièces demeure clos le 30 novembre.\n\nHaitiLibre a écrit, samedi, que quatre nouveaux noms avaient porté le total des inscriptions présidentielles à 30, 28 hommes et 2 femmes: Jacky Lumarque (MYEL), Nestor Michelet (DPA), Jean Clarens Renois (Unir Ayiti Ini), et Hans Jacques Ludwig Joseph (ESCANP), ancien directeur général de l'ULCC de juillet 2020 à juillet 2026, date à laquelle le Conseil des ministres l'a révoqué. Juno7 relait sa déclaration du 13 novembre, dans laquelle il place la lutte contre l'impunité au centre de sa candidature.\n\nLes chiffres ont déjà bougé. Samedi soir, à 20h14, heure d'Haïti, le tableau officiel du CEP, tableau.cephaiti.ht, affichait 32 inscriptions à la présidence, 30 hommes et 2 femmes; 469 au Sénat; 1 659 à la Chambre des députés. Le total des inscriptions s'élevait à 10 688, collectivités territoriales comprises. Ces inscriptions restent préliminaires. Elles ne valent pas validation des dossiers.\n\nNous voici au dernier jour avant la clôture des inscriptions en ligne. Le CEP rappelle, dans une note officielle, que l'inscription sur la plateforme se ferme dimanche 15 novembre 2026 à minuit, et que le dépôt des pièces se ferme le lundi 30 novembre. Samedi matin, le tableau public du CEP affichait 30 inscriptions à la présidence, 28 hommes et 2 femmes; 458 au Sénat; 1 626 à la Chambre des députés. Le total des inscriptions s'élevait à 10 509, collectivités territoriales comprises.\n\nDans un éditorial, Frantz Duval, du Nouvelliste, souligne que, à quelques heures de la clôture, 30 personnes ont déjà fait acte de candidature à la présidence, mais que cette étape reste encore loin des élections elles-mêmes. L'inscription sur la plateforme n'est que la première étape; la validation des dossiers vient ensuite.\n\nLe Conseil électoral provisoire rappelle, dans une note du 10 novembre, que l'inscription en ligne des candidats à la présidence et aux législatives prendra fin dimanche 15 novembre 2026, à minuit. La période consacrée au dépôt des pièces requises pour les dossiers de candidature prendra fin le 30 novembre 2026.\n\nVendredi 13 novembre, à 8h58 (heure d'Haïti), le tableau officiel du CEP, tableau.cephaiti.ht, affichait 26 inscriptions à la présidence, 441 au Sénat et 1579 à la députation. Pour la présidence, on comptait 24 hommes et 2 femmes, soit 7,7 % de femmes. Le tableau compare cette part à un quota de 30 %, et indique que les inscriptions présidentielles sont « sous le quota ». Au Sénat, on dénombrait 59 femmes sur 441 ; à la députation, 109 femmes sur 1579.\n\nL'institution avertit que les données de la plateforme sont dynamiques et strictement préliminaires. L'inscription en ligne est une première étape administrative. Elle ne vaut ni dépôt complet du dossier, ni validation de la candidature par le CEP. La liste définitive ne sera établie qu'après vérification des dossiers. Ces chiffres peuvent encore changer jusqu'à la fermeture de la plateforme, dimanche à minuit.",
     },
     sources: ["CEP",
       "Le Nouvelliste",
+      "Juno7",
+      "HaitiLibre",
     ],
     sourceLinks: [
       { name: "Tableau officiel du CEP", url: "https://tableau.cephaiti.ht/" },
       { name: "CEP, note du 10 novembre 2026", url: "https://cephaiti.ht/cloture-de-la-periode-dinscription-en-ligne-des-candidats-le-15-novembre-et-de-celle-consacree-au-depot-des-pieces-le-30-novembre-2026/" },
       { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273912/a-quelques-heures-de-la-cloture-des-candidatures-mais-a-une-eternite-des-elections" },
+      { name: "Juno7, panne Outlook", url: "https://www.juno7.ht/cep-inscriptions-candidats-panne-outlook/" },
+      { name: "Juno7, Hans Jacques Ludwig Joseph", url: "https://www.juno7.ht/hans-jacques-ludwig-joseph-presidentielle-2027/" },
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48896-haiti-actualite-zapping.html" },
     ],
     readMoreLink: {
       fr: { before: "Pour relire notre article sur l'inscription de Dominique Dupuy et les 26 prétendants à la présidence, ", link: "cliquez ici", after: ".", href: "/story/ntk-cep-inscriptions-dupuy-pvd-2026-11-12" },
@@ -748,31 +1012,40 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "sports",
     publishedAt: "2026-11-13",
-    publishedTime: "2026-11-13T23:08:00-05:00",
+    publishedTime: "2026-11-14T20:30:00-05:00",
     isFollowUp: true,
     headline: {
-      ht: "Grenadye yo kont Etazini: antrenman ofisyèl vandredi, Cicéron rele kòm ranfò ; premye match samdi 14 novanm a 16h30 nan Miyami",
-      fr: "Grenadiers contre les États-Unis : entraînement officiel vendredi, Cicéron appelé en renfort ; premier match samedi 14 novembre à 16h30 à Miami",
+      ht: "Lig nasyon yo: Etazini bat Ayiti 6-0 nan Miyami, Pulisic make de fwa",
+      fr: "Ligue des nations : les États-Unis battent Haïti 6-0 à Miami, Pulisic marque deux fois",
     },
     teaser: {
-      ht: "Retou a se mardi 17 novanm a 19h nan TQL Stadium, Cincinnati. Bellegarde, Duverne ak Pierrot rete fòfè.",
-      fr: "Le retour est prévu mardi 17 novembre à 19h au TQL Stadium de Cincinnati. Bellegarde, Duverne et Pierrot restent forfaits.",
+      ht: "Nòt U.S. Soccer, AP, ESPN ak NBC konfime nòt la. Retou a jwe mardi 17 novanm a 19h, nan TQL Stadium Cincinnati.",
+      fr: "Le score est confirmé par U.S. Soccer, l'AP, ESPN et NBC. Le retour se joue mardi 17 novembre à 19h, au TQL Stadium de Cincinnati.",
     },
     brief: {
-      ht: "Grenadye yo jwe Etazini samdi 14 novanm a 16h30 nan NU Stadium, Miyami, epi mardi 17 novanm a 19h nan TQL Stadium, Cincinnati, HaitiLibre ekri. Lenny Joseph nan lis la ; Patrick E. Nwadike ak Kayden Pierre jwenn premye konvokasyon yo.",
-      fr: "Les Grenadiers affrontent les États-Unis samedi 14 novembre à 16h30 au NU Stadium de Miami, puis mardi 17 novembre à 19h au TQL Stadium de Cincinnati, écrit HaitiLibre. Lenny Joseph figure dans le groupe ; Patrick E. Nwadike et Kayden Pierre obtiennent leur première convocation.",
+      ht: "Nan NU Stadium Miyami, samdi 14 novanm, Etazini te bat Grenadye yo 6-0 nan match ale ka final Lig nasyon yo, dapre sit ofisyèl U.S. Soccer. Christian Pulisic te make de gòl.",
+      fr: "Au NU Stadium de Miami, samedi 14 novembre, les États-Unis ont battu les Grenadiers 6-0 en match aller des quarts de finale de la Ligue des nations, selon le site officiel de U.S. Soccer. Christian Pulisic a inscrit deux buts.",
     },
     body: {
-      ht: "Seleksyon ayisyen an dwe jwe Etazini nan premye match sa a samdi 14 novanm 2026, a 16h30, nan NU Stadium nan Miyami, epi nan retou a mardi 17 novanm, a 19h, nan TQL Stadium nan Cincinnati, HaitiLibre ekri. Se lè Lès Etazini, ki se menm lè ak Ayiti. Se de match ka final Lig nasyon Concacaf yo.\n\nSou lis 25 jwè David Badia a, atakan Lenny Joseph (Ferencváros) parèt nan gwoup la. Defansè Patrick E. Nwadike (Spartak Trnava) ak Kayden Pierre (Jong Genk) jwenn premye konvokasyon yo, Haiti OSINT ak Radio Télé Caramel ekri. Yon konvokasyon pa vle di yo deja jwe premye match yo, ni ke yo pral titilè.\n\nSeleksyon an ap jwe san plizyè kad ki fòfè poutèt blesi: milye teren Jean-Ricner Bellegarde, defansè Jean-Kevin Duverne, ak atakan Frantzdy Pierrot. Nou te deja relè fòfè sa yo, ansanm ak premye konvokasyon Fernando Cicéron.\n\nLe Nouvelliste ekri, jedi, antrenè David Badia ap entansifye preparasyon yo, ak nouvo ranfò ak nouvo konsiy taktik, nan atant antrenman ofisyèl vandredi 13 novanm, anvan match samdi a. Jounal la raple Fernando Cicéron, kòmandan Violette AC, te rele kòm ranfò. Journal l'Observatoire ajoute poko klè nan ki moman li pral jwenn gwoup la an Florid.\n\nHaitiLibre ekri moun ki genyen doub konfwontasyon an ale nan demi-final nan mas, e li kalifye dirèkteman pou Gold Cup 2027 ; pèdan an dwe pase pa yon baraj.",
-      fr: "La sélection haïtienne doit affronter les États-Unis, en match aller, samedi 14 novembre 2026 à 16h30, au NU Stadium de Miami, puis en retour mardi 17 novembre à 19h, au TQL Stadium de Cincinnati, écrit HaitiLibre. Ce sont les horaires de l'Est américain, les mêmes qu'en Haïti. Il s'agit des quarts de finale de la Ligue des nations de la Concacaf.\n\nSur la liste des 25 joueurs convoqués par David Badia, l'attaquant Lenny Joseph (Ferencváros) figure dans le groupe. Les défenseurs Patrick E. Nwadike (Spartak Trnava) et Kayden Pierre (Jong Genk) obtiennent leur première convocation, écrivent Haiti OSINT et Radio Télé Caramel. Une convocation ne signifie ni qu'ils ont déjà joué leur première sélection, ni qu'ils seront titulaires.\n\nLa sélection devra composer sans plusieurs cadres forfaits sur blessure: le milieu Jean-Ricner Bellegarde, le défenseur Jean-Kevin Duverne et l'attaquant Frantzdy Pierrot. Nous avons déjà relaté ces forfaits, ainsi que la première convocation de Fernando Cicéron.\n\nLe Nouvelliste écrit, jeudi, que l'entraîneur David Badia intensifie les préparations, avec de nouveaux renforts et de nouvelles consignes tactiques, dans l'attente de l'entraînement officiel de vendredi 13 novembre, avant le match de samedi. Le journal rappelle que Fernando Cicéron, capitaine du Violette AC, a été appelé en renfort. Le Journal l'Observatoire ajoute qu'on ne sait pas encore à quel moment il rejoindra le groupe en Floride.\n\nHaitiLibre écrit que le vainqueur de cette double confrontation se qualifiera pour les demi-finales en mars, et obtiendra une qualification directe pour la Gold Cup 2027 ; le perdant devra passer par un barrage.",
+      ht: "Etazini te bat seleksyon ayisyen an 6-0, samdi 14 novanm 2026, nan NU Stadium, nan Miyami, nan match ale ka final Lig nasyon Concacaf yo. Sit ofisyèl U.S. Soccer afiche nòt final la: Ayiti 0, Etazini 6. AP, ESPN ak NBC konfime menm nòt la.\n\nDapre U.S. Soccer, gòl yo te fèt konsa: Auston Trusty nan 10e minit, Julian Hall nan 52e, Christian Pulisic sou penalite nan 62e, Pulisic ankò nan 63e, Weston McKennie nan 68e, epi Folarin Balogun nan 82e. Pulisic te make de fwa. NBC ekri yon gòl Lenny Joseph te anile apre revizyon VAR, pou dezaksid.\n\nMatch retou a jwe mardi 17 novanm a 19h, lè Ayiti, nan TQL Stadium, nan Cincinnati. ESPN ak NBC presize se dènye match Mauricio Pochettino kòm antrenè Etazini, anvan li ale Manchester United.\n\nSeleksyon ayisyen an dwe jwe Etazini nan premye match sa a samdi 14 novanm 2026, a 16h30, nan NU Stadium nan Miyami, epi nan retou a mardi 17 novanm, a 19h, nan TQL Stadium nan Cincinnati, HaitiLibre ekri. Se lè Lès Etazini, ki se menm lè ak Ayiti. Se de match ka final Lig nasyon Concacaf yo.\n\nSou lis 25 jwè David Badia a, atakan Lenny Joseph (Ferencváros) parèt nan gwoup la. Defansè Patrick E. Nwadike (Spartak Trnava) ak Kayden Pierre (Jong Genk) jwenn premye konvokasyon yo, Haiti OSINT ak Radio Télé Caramel ekri. Yon konvokasyon pa vle di yo deja jwe premye match yo, ni ke yo pral titilè.\n\nSeleksyon an ap jwe san plizyè kad ki fòfè poutèt blesi: milye teren Jean-Ricner Bellegarde, defansè Jean-Kevin Duverne, ak atakan Frantzdy Pierrot. Nou te deja relè fòfè sa yo, ansanm ak premye konvokasyon Fernando Cicéron.\n\nLe Nouvelliste ekri, jedi, antrenè David Badia ap entansifye preparasyon yo, ak nouvo ranfò ak nouvo konsiy taktik, nan atant antrenman ofisyèl vandredi 13 novanm, anvan match samdi a. Jounal la raple Fernando Cicéron, kòmandan Violette AC, te rele kòm ranfò. Journal l'Observatoire ajoute poko klè nan ki moman li pral jwenn gwoup la an Florid.\n\nHaitiLibre ekri moun ki genyen doub konfwontasyon an ale nan demi-final nan mas, e li kalifye dirèkteman pou Gold Cup 2027 ; pèdan an dwe pase pa yon baraj.",
+      fr: "Les États-Unis ont battu la sélection haïtienne 6-0, samedi 14 novembre 2026, au NU Stadium de Miami, en match aller des quarts de finale de la Ligue des nations de la Concacaf. Le site officiel de U.S. Soccer affiche le score final: Haïti 0, États-Unis 6. L'AP, ESPN et NBC confirment le même résultat.\n\nSelon U.S. Soccer, les buts ont été inscrits ainsi: Auston Trusty à la 10e minute, Julian Hall à la 52e, Christian Pulisic sur penalty à la 62e, Pulisic à nouveau à la 63e, Weston McKennie à la 68e, et Folarin Balogun à la 82e. Pulisic a marqué deux fois. NBC écrit qu'un but de Lenny Joseph a été annulé après une revue VAR, pour hors-jeu.\n\nLe match retour se joue mardi 17 novembre à 19h, heure d'Haïti, au TQL Stadium de Cincinnati. ESPN et NBC précisent que ce sera le dernier match de Mauricio Pochettino comme entraîneur des États-Unis, avant son départ pour Manchester United.\n\nLa sélection haïtienne doit affronter les États-Unis, en match aller, samedi 14 novembre 2026 à 16h30, au NU Stadium de Miami, puis en retour mardi 17 novembre à 19h, au TQL Stadium de Cincinnati, écrit HaitiLibre. Ce sont les horaires de l'Est américain, les mêmes qu'en Haïti. Il s'agit des quarts de finale de la Ligue des nations de la Concacaf.\n\nSur la liste des 25 joueurs convoqués par David Badia, l'attaquant Lenny Joseph (Ferencváros) figure dans le groupe. Les défenseurs Patrick E. Nwadike (Spartak Trnava) et Kayden Pierre (Jong Genk) obtiennent leur première convocation, écrivent Haiti OSINT et Radio Télé Caramel. Une convocation ne signifie ni qu'ils ont déjà joué leur première sélection, ni qu'ils seront titulaires.\n\nLa sélection devra composer sans plusieurs cadres forfaits sur blessure: le milieu Jean-Ricner Bellegarde, le défenseur Jean-Kevin Duverne et l'attaquant Frantzdy Pierrot. Nous avons déjà relaté ces forfaits, ainsi que la première convocation de Fernando Cicéron.\n\nLe Nouvelliste écrit, jeudi, que l'entraîneur David Badia intensifie les préparations, avec de nouveaux renforts et de nouvelles consignes tactiques, dans l'attente de l'entraînement officiel de vendredi 13 novembre, avant le match de samedi. Le journal rappelle que Fernando Cicéron, capitaine du Violette AC, a été appelé en renfort. Le Journal l'Observatoire ajoute qu'on ne sait pas encore à quel moment il rejoindra le groupe en Floride.\n\nHaitiLibre écrit que le vainqueur de cette double confrontation se qualifiera pour les demi-finales en mars, et obtiendra une qualification directe pour la Gold Cup 2027 ; le perdant devra passer par un barrage.",
     },
-    sources: ["HaitiLibre", "Haiti OSINT", "Radio Télé Caramel", "Le Nouvelliste", "Journal l'Observatoire"],
+    sources: ["HaitiLibre", "Haiti OSINT", "Radio Télé Caramel", "Le Nouvelliste", "Journal l'Observatoire",
+      "U.S. Soccer",
+      "Associated Press",
+      "ESPN",
+      "NBC Sports",
+    ],
     sourceLinks: [
       { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48845-haiti-ligue-des-nations-2026-2027-liste-des-grenadiers-convoques-pour-les-quarts-de-finale.html" },
       { name: "Haiti OSINT", url: "https://haitiosint.com/haiti-etats-unis-novembre-2026-miami-cincinnati-horaires/" },
       { name: "Radio Télé Caramel", url: "https://caramelhaiti.com/grenadiers-nwadike-kayden-pierre-nouveaux/" },
       { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273838/haiti-usa-nouveaux-renforts-nouvelles-consignes-tactiques-pour-les-grenadiers" },
       { name: "Journal l'Observatoire", url: "https://www.lobservatoire.info/fernando-ciceron-appele-en-selection-nationale-par-david-badia/" },
+      { name: "U.S. Soccer", url: "https://www.ussoccer.com/competitions/concacaf-nations-league-2026/matches/united-states-vs-haiti-11-14-26-tickets-live-score-match-hub-lineups-highlights" },
+      { name: "Associated Press", url: "https://apnews.com/article/nations-league-us-haiti-score-f859672d4d8e026e8217c606c3caf956" },
+      { name: "ESPN", url: "https://www.espn.com/soccer/story/_/id/50484170/usa-haiti-christian-pulisic-goal-mauricio-pochettino" },
+      { name: "NBC Sports", url: "https://www.nbcsports.com/soccer/live/haiti-vs-usmnt-live-updates-score-goals-highlights-stats-2026-november-14" },
     ],
     readMoreLink: {
       fr: { before: "Pour relire notre article sur la convocation de Fernando Cicéron et les forfaits sur blessure, ", link: "cliquez ici", after: ".", href: "/story/qh-grenadiers-ciceron-blessures-2026-11-12" },
@@ -3966,33 +4239,42 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-cinq-forces-sans-commandement-2026-11-01",
-    archived: true,
+    isFollowUp: true,
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-11-01",
-    publishedTime: "2026-11-01T17:55:00-05:00",
+    publishedTime: "2026-11-14T20:24:00-05:00",
     isBreaking: true,
     breakingHours: 6,
     headline: {
-      ht: "Senk fòs ame ann Ayiti, okenn kòmandman inifye : Crisis Group tire alam",
-      fr: "Cinq forces armées en Haïti, sans commandement unifié : l’alerte du Crisis Group",
+      ht: "Senk fòs fas a gang yo, ti kowdinasyon; pa gen yon akò piblik pou sòlda salvadoryen yo",
+      fr: "Cinq forces face aux gangs, peu de coordination; aucun accord public pour les soldats salvadoriens",
     },
     teaser: {
-      ht: "Avèk sòlda Salvador yo, Ayiti gen senk fòs ap goumen kont gang « san yon vrè kòmandman inifye », dapre yon analis Crisis Group ki site pa RTS ak AFP.",
-      fr: "Avec les soldats salvadoriens, Haïti compte cinq forces anti-gangs « sans réel commandement unifié », selon un analyste du Crisis Group cité par RTS et l’AFP.",
+      ht: "Rès imen nan estad Sylvio Cator, ak chen-robo ame, yo rapòte dapre imaj Nayib Bukele. The Haitian Times pa t ka verifye konsta rès yo pou kont li.",
+      fr: "Des restes humains au stade Sylvio Cator, et des chiens-robots armés, sont rapportés d'après des images de Nayib Bukele. The Haitian Times n'a pas pu vérifier le constat des restes de manière indépendante.",
     },
     brief: {
-      ht: "Dapre RTS (AFP), PNH, FAd’H, yon fòs mèsenè etranje, GSF ak sòlda Salvador yo ap opere san yon vrè kòmandman inifye, dapre Diego Da Rin (Crisis Group). Manda GSF a fini nan senk mwa.",
-      fr: "Selon la RTS (AFP), la PNH, les FAd’H, une force de mercenaires étrangers, la GSF et les soldats salvadoriens opèrent sans réel commandement unifié, selon Diego Da Rin (Crisis Group). Le mandat de la GSF expire dans cinq mois.",
+      ht: "Infobae ak The Haitian Times dekri senk fòs k ap goumen kont gang yo ann Ayiti, souvan mal kowòdone. The Haitian Times ekri pa gen yon akò piblik ki pibliye sou mandat twoup salvadoryen yo.",
+      fr: "Infobae et The Haitian Times décrivent cinq forces engagées contre les gangs en Haïti, souvent mal coordonnées. The Haitian Times écrit qu'aucun accord public n'a été publié sur le mandat des troupes salvadoriennes.",
     },
     body: {
-      ht: "Dapre yon atik RTS ki baze sou AFP, ak arive sòlda Salvador yo, Ayiti gen kounye a senk fòs ap goumen kont gang : polis ayisyen an, lame ayisyen an, yon fòs mèsenè etranje, anviwon 2000 ajan Gang Suppression Force (GSF) ak kontenjan salvadoryen an. « Kounye a nou gen senk fòs separe san yon vrè kòmandman inifye », Diego Da Rin, analis Crisis Group, di. Li di « kèk nan fòs sa yo kolabore » sou teren an, men « sa pa twò òtodòks ».\n\nJake Johnston, chèchè nan CEPR, yon sant refleksyon Washington, di AFP ke « ak 2000 sòlda, sa pa gen anyen pou wè ak yon operasyon rechèch », e ke « tout siy montre yon sipò ameriken ». Dapre RTS, Pentagòn sèlman konfime li voye omwen de avyon militè Pòtoprens pou sipò lojistik ; Depatman Deta pa di anyen. AFP rapòte anviwon ven vòl charter ant San Salvador ak Pòtoprens ant 22 ak 29 oktòb.\n\nJohnston kwè Salvadoryen yo ka pran devan sou GSF, ki gen manda Nasyonzini ki fini nan senk mwa, e li pè « gwo risk pou sivil yo ». « Ou ka touye anpil moun, men èske sa ap chanje dinamik ki mennen vyolans lan ? » li mande.\n\nKesyon pou lektè yo : • Lè senk fòs tire nan menm katye a, kiyès ki responsab si yon sivil mouri ? • Kiyès ki kòmande, Pòtoprens, San Salvador, Washington oswa Nasyonzini ? • Kisa k ap rive apre senk mwa, lè manda GSF a fini ?",
-      fr: "Selon un article de la RTS fondé sur une dépêche de l’AFP, avec l’arrivée des soldats salvadoriens, Haïti compte désormais cinq forces engagées contre les gangs : la police haïtienne, l’armée haïtienne, une force composée de mercenaires étrangers, les quelque 2000 agents de la Gang Suppression Force (GSF) et le contingent salvadorien. « Vous avez désormais cinq forces séparées sans réel commandement unifié », s’inquiète Diego Da Rin, analyste du Crisis Group. Sur le terrain, « certaines de ces forces collaborent », mais « ce n’est pas très orthodoxe », souligne-t-il.\n\nJake Johnston, chercheur au CEPR, un cercle de réflexion de Washington, affirme à l’AFP qu’« avec 2000 soldats […] cela n’a rien d’une opération de recherche » et que « tous les signes pointent vers un soutien américain ». Selon la RTS, le Pentagone se borne à confirmer l’envoi d’au moins deux avions militaires à Port-au-Prince pour du soutien logistique ; le département d’État reste muet. L’AFP a recensé une vingtaine de vols charter entre San Salvador et Port-au-Prince du 22 au 29 octobre.\n\nJake Johnston estime que les Salvadoriens pourraient prendre l’ascendant sur la GSF, dont le mandat onusien expire dans cinq mois, et craint « d’immenses risques pour les civils ». « Vous pouvez tuer beaucoup de monde, mais est-ce que cela va vraiment changer les dynamiques qui continuent de conduire à de la violence ? » interroge-t-il.\n\nQuestions aux lecteurs : • Quand cinq forces tirent dans le même quartier, qui répond de la mort d’un civil ? • Qui commande : Port-au-Prince, San Salvador, Washington ou l’ONU ? • Que se passera-t-il dans cinq mois, à l’expiration du mandat de la GSF ?",
+      ht: "Infobae ekri, samdi 14 novanm, senk fòs nasyonal ak etranje ap fè fas a gang ame yo ann Ayiti, san yo pa toujou kowòdone. The Haitian Times, ki pibliye yon analiz Robert Muggah te ekri pou The Conversation, site polis nasyonal ayisyen, Fòs lame d'Ayiti, Fòs reprezyon gang yo (GSF), yon task force ki travay ak konpayi prive Vectus Global, gwoup vijil, epi kontenjan salvadoryen an, ki, dapre jounal la, opere pou pi fò andeyò kòmandman GSF. The Haitian Times ekri ni gouvènman ayisyen an, ni gouvènman salvadoryen an, pa pibliye akò ki presize otorite, règ angajman, ni dire deplwaman an. Se kont jounal sa yo n ap relè.\n\nSou estad Sylvio Cator, The Haitian Times te deja ekri prezidan Nayib Bukele te anonse, jedi 12 novanm, fòs yo te jwenn rès imen andedan estad la. Jounal la te presize li pa t ka verifye dekouvèt sa a pou kont li. Fox News ak El Diario de Hoy relè yon videyo Bukele te pibliye sou X, kote yo wè chen-robo kat pye, ak fizi sou yo, nan enstalasyon estad la. Medya sa yo di li pa klè ki wòl egzak machin sa yo te jwe nan operasyon an. Nou atribiye imaj yo ak deklarasyon yo a Bukele, jan medya sa yo relè yo.\n\nDapre yon atik RTS ki baze sou AFP, ak arive sòlda Salvador yo, Ayiti gen kounye a senk fòs ap goumen kont gang : polis ayisyen an, lame ayisyen an, yon fòs mèsenè etranje, anviwon 2000 ajan Gang Suppression Force (GSF) ak kontenjan salvadoryen an. « Kounye a nou gen senk fòs separe san yon vrè kòmandman inifye », Diego Da Rin, analis Crisis Group, di. Li di « kèk nan fòs sa yo kolabore » sou teren an, men « sa pa twò òtodòks ».\n\nJake Johnston, chèchè nan CEPR, yon sant refleksyon Washington, di AFP ke « ak 2000 sòlda, sa pa gen anyen pou wè ak yon operasyon rechèch », e ke « tout siy montre yon sipò ameriken ». Dapre RTS, Pentagòn sèlman konfime li voye omwen de avyon militè Pòtoprens pou sipò lojistik ; Depatman Deta pa di anyen. AFP rapòte anviwon ven vòl charter ant San Salvador ak Pòtoprens ant 22 ak 29 oktòb.\n\nJohnston kwè Salvadoryen yo ka pran devan sou GSF, ki gen manda Nasyonzini ki fini nan senk mwa, e li pè « gwo risk pou sivil yo ». « Ou ka touye anpil moun, men èske sa ap chanje dinamik ki mennen vyolans lan ? » li mande.\n\nKesyon pou lektè yo : • Lè senk fòs tire nan menm katye a, kiyès ki responsab si yon sivil mouri ? • Kiyès ki kòmande, Pòtoprens, San Salvador, Washington oswa Nasyonzini ? • Kisa k ap rive apre senk mwa, lè manda GSF a fini ?",
+      fr: "Infobae écrit, samedi 14 novembre, que cinq forces nationales et étrangères font face aux gangs armés en Haïti, sans toujours se coordonner. The Haitian Times, qui publie une analyse de Robert Muggah parue d'abord dans The Conversation, cite la Police nationale d'Haïti, les Forces armées d'Haïti, la Force de répression des gangs (GSF), une task force qui travaille avec la société privée Vectus Global, des groupes de vigilants, et le contingent salvadorien, lequel, selon le journal, opère pour l'essentiel en dehors du commandement de la GSF. The Haitian Times écrit que ni le gouvernement haïtien, ni le gouvernement salvadorien, n'ont publié l'accord précisant l'autorité, les règles d'engagement, ou la durée du déploiement. C'est le récit de ces journaux que nous relayons.\n\nSur le stade Sylvio Cator, The Haitian Times avait déjà écrit que le président Nayib Bukele avait annoncé, jeudi 12 novembre, que les forces avaient trouvé des restes humains à l'intérieur du stade. Le journal avait précisé qu'il n'avait pas pu vérifier cette découverte de manière indépendante. Fox News et El Diario de Hoy relaient une vidéo publiée par Bukele sur X, où l'on voit des chiens-robots à quatre pattes, équipés de fusils, dans les installations du stade. Ces médias disent qu'il n'est pas clair quel rôle exact ces machines ont joué dans l'opération. Nous attribuons ces images et ces déclarations à Bukele, telles que ces médias les relaient.\n\nSelon un article de la RTS fondé sur une dépêche de l’AFP, avec l’arrivée des soldats salvadoriens, Haïti compte désormais cinq forces engagées contre les gangs : la police haïtienne, l’armée haïtienne, une force composée de mercenaires étrangers, les quelque 2000 agents de la Gang Suppression Force (GSF) et le contingent salvadorien. « Vous avez désormais cinq forces séparées sans réel commandement unifié », s’inquiète Diego Da Rin, analyste du Crisis Group. Sur le terrain, « certaines de ces forces collaborent », mais « ce n’est pas très orthodoxe », souligne-t-il.\n\nJake Johnston, chercheur au CEPR, un cercle de réflexion de Washington, affirme à l’AFP qu’« avec 2000 soldats […] cela n’a rien d’une opération de recherche » et que « tous les signes pointent vers un soutien américain ». Selon la RTS, le Pentagone se borne à confirmer l’envoi d’au moins deux avions militaires à Port-au-Prince pour du soutien logistique ; le département d’État reste muet. L’AFP a recensé une vingtaine de vols charter entre San Salvador et Port-au-Prince du 22 au 29 octobre.\n\nJake Johnston estime que les Salvadoriens pourraient prendre l’ascendant sur la GSF, dont le mandat onusien expire dans cinq mois, et craint « d’immenses risques pour les civils ». « Vous pouvez tuer beaucoup de monde, mais est-ce que cela va vraiment changer les dynamiques qui continuent de conduire à de la violence ? » interroge-t-il.\n\nQuestions aux lecteurs : • Quand cinq forces tirent dans le même quartier, qui répond de la mort d’un civil ? • Qui commande : Port-au-Prince, San Salvador, Washington ou l’ONU ? • Que se passera-t-il dans cinq mois, à l’expiration du mandat de la GSF ?",
     },
-    sources: ["RTS (ATS/AFP)", "Crisis Group", "CEPR"],
+    sources: ["RTS (ATS/AFP)", "Crisis Group", "CEPR",
+      "Infobae",
+      "The Haitian Times",
+      "Fox News",
+      "El Diario de Hoy",
+    ],
     sourceLinks: [
       { name: "RTS", url: "https://www.rts.ch/info/monde/2026/article/haiti-pourquoi-le-salvador-y-deploie-au-moins-2-000-soldats-29401781.html" },
       { name: "Opak News : soldats salvadoriens en Haïti", url: "https://opak-news.haitialways.workers.dev/story/ntk-salvador-2000-soldats-2026-10-29" },
+      { name: "Infobae", url: "https://www.infobae.com/el-salvador/2026/11/14/el-salvador-y-otras-cuatro-fuerzas-nacionales-y-extranjeras-enfrentan-a-las-bandas-armadas-en-haiti/" },
+      { name: "The Haitian Times", url: "https://haitiantimes.com/2026/11/14/el-salvador-bukele-model-haiti-gang-offensive/" },
+      { name: "The Haitian Times, stade Sylvio Cator", url: "https://haitiantimes.com/2026/11/12/haiti-el-salvador-forces-retake-sylvio-cator-stadium/" },
+      { name: "Fox News", url: "https://www.foxnews.com/world/robot-dogs-mounted-rifles-deployed-anti-gang-stadium-operation-haiti" },
     ],
   },
             {
@@ -5245,7 +5527,7 @@ export function needToKnowStories(): Story[] {
   // Standing rule: Sports stories never take top-story (Need to Know) slots; they live only in the Sports section.
   // Standing pin: the prolonged-detention opinion stays at #1 unless a breaking lead is named.
   // Approved 11 Nov 2026 (t383u): the GRAND letter to the CEP sits at #2, after the detention opinion.
-  // 14 Nov 2026 8 AM: no breaking lead was named. The strongest new story, Portail Léogâne, sits at #3.
+  // 14 Nov 2026 6 PM: no breaking lead was named. The strongest new story, GSF Fort Dimanche, sits at #3.
   const list = sortNewestFirst(STORIES.filter((s) => !s.archived && s.tier === "need-to-know" && s.topic !== "sports"));
   const detentionId = "ntk-detention-preventive-commissariats-2026-10-30";
   const detentionAt = list.findIndex((s) => s.id === detentionId);
@@ -5259,7 +5541,7 @@ export function needToKnowStories(): Story[] {
     const [held] = list.splice(holdAt, 1);
     list.splice(1, 0, held);
   }
-  const thirdId = "ntk-portail-leogane-udmo-2026-11-14";
+  const thirdId = "ntk-gsf-fort-dimanche-2026-11-14";
   const thirdAt = list.findIndex((s) => s.id === thirdId);
   if (thirdAt > 2) {
     const [third] = list.splice(thirdAt, 1);
