@@ -4,6 +4,7 @@ export type TopicId =
   | "politics"
   | "governance"
   | "justice"
+  | "opinion"
   | "development"
   | "tech"
   | "commerce"
@@ -77,5 +78,7 @@ export interface Story {
 
 export interface TopicMeta {
   id: TopicId;
+  /** URL slug per language, e.g. fr: "securite", ht: "sekirite". */
+  slug: LocalizedText;
   label: LocalizedText;
 }

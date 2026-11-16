@@ -1,10 +1,10 @@
-import { needToKnowStories } from "../data/stories";
+import { frontPageLeads } from "../data/stories";
 import { useLanguage } from "../context/LanguageContext";
 import { StoryCard } from "./StoryCard";
 
 export function NeedToKnow() {
   const { ui } = useLanguage();
-  const stories = needToKnowStories();
+  const stories = frontPageLeads();
 
   return (
     <section className="section need-to-know" aria-labelledby="ntk-title">

@@ -1,4 +1,4 @@
-import type { Story } from "../types";
+import type { Story, TopicId } from "../types";
 
 /**
  * Curated Haiti digest — real stories with multi-source credits.
@@ -15,6 +15,36 @@ import type { Story } from "../types";
  * sort newest first by it.
  */
 export const STORIES: Story[] = [
+
+  {
+    id: "opinion-cassation-jemley-jean-baptiste-2026-11-16",
+    tier: "need-to-know",
+    topic: "opinion",
+    publishedAt: "2026-11-16",
+    publishedTime: "2026-11-16T11:20:00-05:00",
+    headline: {
+      ht: "Kasasyon: dosye Jemley Jean-Baptiste toujou ap tann vire li",
+      fr: "Cassation : le dossier Jemley Jean-Baptiste attend toujours son tour",
+    },
+    author: { fr: "Par Blaise Antoine Joseph (BAJ)", ht: "Pa Blaise Antoine Joseph (BAJ)" },
+    teaser: {
+      ht: "Èske yon jij ka kenbe yon gason nan prizon pandan prèske de zan, san li pa reponn anyen?",
+      fr: "Un juge peut-il garder un homme en prison pendant près de deux ans sans répondre de rien ?",
+    },
+    brief: {
+      ht: "Kou kasasyon an rekòmanse travay li an oktòb. Pami dosye k ap tann li yo, gen youn ki poze tout sistèm jidisyè a yon kesyon senp: èske yon jij ka kenbe yon gason nan prizon pandan prèske de zan, san li pa reponn anyen?",
+      fr: "La Cour de cassation a repris ses travaux en octobre. Parmi les dossiers qui l'attendent, il y en a un qui pose une question simple à tout le système judiciaire : un juge peut-il garder un homme en prison pendant près de deux ans sans répondre de rien ?",
+    },
+    body: {
+      ht: "Kou kasasyon an rekòmanse travay li an oktòb. Pami dosye k ap tann li yo, gen youn ki poze tout sistèm jidisyè a yon kesyon senp: èske yon jij ka kenbe yon gason nan prizon pandan prèske de zan, san li pa reponn anyen?\n\nJemley Marc Jean-Baptiste, ansyen direktè jeneral ONA, an detansyon prevantif depi 7 fevriye 2025. Li toujou dèyè ba yo. Yo mennen ankèt sou li pou alegasyon kòripsyon. Dapre dosye defans lan, delè twa mwa lwa 26 jiyè 1979 bay jij enstriksyon an te ekspire nan mas 2025, san pwolongasyon, san òdonans kloti. 6 out 2025, jij Loubens Elysée te refize lage l, men li te lage ko-akize a.\n\nFanmi an te frape tout pòt yo: Dwayen tribinal premye enstans lan, Pakè a, CSPJ, ministè Jistis la. San rezilta. Lè sa a, li tounen sou Kou kasasyon an ak yon priz a pati pou refi jistis kont jij Elysée, depoze dat 7 avril 2025, dapre defans lan. 2 jen 2026, seksyon Nò Kou a, dapre defans lan, te admèt rekèt la epi li te ouvè chemen pwosedi a. 23 jiyè, jij la te resevwa notifikasyon dessaisissement li. Dapre defans lan, li kenbe dosye a nan men l kanmenm, e yo poko nonmen yon nouvo jij enstriksyon.\n\nDepi lè sa a, dosye a ap mache dousman. Dapre sous ki mande pou yo rete anonim, gen moun andedan sistèm nan menm k ap fè tout sa yo kapab pou dosye a pa ale pi lwen. Men se menm Kou ki te otorize pwosedi a ki pou pran desizyon an. Yo poko fikse okenn dat.\n\nPriz a pati a toujou ap tann, e jij Elysée poko jwenn li responsab anyen. Men kesyon an rete antye. Prèske 21 mwa libète pèdi, yon lavi kanpe, yon fanmi k ap tann. Si jij la manke devwa li, kiyès k ap reponn pou sa? E si pèsonn pa reponn, ki jistisyab ki ka toujou kwè li gen dwa devan yon jij enstriksyon?\n\nKou kasasyon an gen okazyon kounye a pou l montre li pi wo pase presyon yo. Pou l enpasyal, e pou jistis la fèt.",
+      fr: "La Cour de cassation a repris ses travaux en octobre. Parmi les dossiers qui l'attendent, il y en a un qui pose une question simple à tout le système judiciaire : un juge peut-il garder un homme en prison pendant près de deux ans sans répondre de rien ?\n\nJemley Marc Jean-Baptiste, ancien directeur général de l'ONA, est en détention préventive depuis le 7 février 2025. Il est toujours derrière les barreaux. Il fait l'objet d'une enquête pour des allégations de corruption. Selon le dossier de la défense, le délai de trois mois que la loi du 26 juillet 1979 accorde au juge d'instruction a expiré en mars 2025, sans prorogation et sans ordonnance de clôture. Le 6 août 2025, le juge Loubens Elysée a refusé sa mise en liberté tout en libérant son coaccusé.\n\nLa famille a frappé à toutes les portes : le Doyen du tribunal de première instance, le Parquet, le CSPJ, le ministère de la Justice. Sans résultat. Elle s'est alors tournée vers la Cour de cassation avec une prise à partie pour déni de justice contre le juge Elysée, déposée le 7 avril 2025 selon la défense. Le 2 juin 2026, la section Nord de la Cour a admis la requête, selon la défense, et a ouvert la voie à la procédure. Le 23 juillet, le juge a été notifié de son dessaisissement. D'après la défense, il garde pourtant le dossier en main, et aucun nouveau juge d'instruction n'a été désigné.\n\nDepuis, le dossier avance au ralenti. Selon des sources qui ont requis l'anonymat, des gens à l'intérieur même du système font tout pour qu'il n'aille pas plus loin. Mais c'est la même Cour qui a autorisé la procédure qui devra trancher. Aucune date n'est encore fixée.\n\nLa prise à partie est pendante, et le juge Elysée n'a été reconnu responsable de rien. Mais la question reste entière. Près de 21 mois de liberté perdus, une vie mise à l'arrêt, une famille qui attend. Si le juge a manqué à son devoir, qui en répond ? Et si personne n'en répond, quel justiciable peut encore croire qu'il a des droits devant un juge d'instruction ?\n\nLa Cour de cassation a maintenant l'occasion de montrer qu'elle est au-dessus des pressions. Qu'elle soit impartiale, et que la justice passe.",
+    },
+    readMoreLink: {
+      fr: { before: "Pour lire le premier article d'opinion, ", link: "cliquez ici", after: ".", href: "/story/ntk-detention-preventive-commissariats-2026-10-30" },
+      ht: { before: "Pou li premye atik opinyon an, ", link: "klike la a", after: ".", href: "/ht/story/ntk-detention-preventive-commissariats-2026-10-30" },
+    },
+  },
+
 
   {
     id: "ntk-gros-morne-gsf-kokorat-2026-11-16",
@@ -4159,7 +4189,7 @@ export const STORIES: Story[] = [
     isUrgent: true,
     quiet: true,
     tier: "need-to-know",
-    topic: "justice",
+    topic: "opinion",
     readMoreLink: {
       fr: { before: "Pour lire notre première tribune sur la détention préventive, ", link: "cliquez ici", after: ".", href: "/story/ntk-detention-preventive-commissariats-2026-10-30" },
       ht: { before: "Pou li premye tribin nou an sou detansyon preventif, ", link: "klike la a", after: ".", href: "/ht/story/ntk-detention-preventive-commissariats-2026-10-30" },
@@ -4837,7 +4867,7 @@ export const STORIES: Story[] = [
     pinned: true,
     isUrgent: true,
     tier: "need-to-know",
-    topic: "justice",
+    topic: "opinion",
     publishedAt: "2026-10-30",
     publishedTime: "2026-10-30T21:35:00-04:00",
     headline: {
@@ -5778,35 +5808,42 @@ export function isNewStory(story: Story, now = Date.now()): boolean {
   return age >= 0 && age < DAY_MS;
 }
 
+/** How many stories each topic shows on the front page (leads excluded). */
+export const FRONT_PAGE_PER_SECTION = 4;
+
+/**
+ * Front-page leads, in order. These sit above the section blocks and do not
+ * count against a section's FRONT_PAGE_PER_SECTION slots.
+ * Sports stories never take a lead slot; they live only in the Sports section.
+ */
+export const FRONT_PAGE_PIN_IDS = [
+  "ntk-gros-morne-gsf-kokorat-2026-11-16",
+  "ntk-morne-robert-gran-grif-2026-11-16",
+  "ntk-detention-preventive-commissariats-2026-10-30",
+  "ntk-grand-lettre-cep-2026-11-08",
+] as const;
+
+export function frontPageLeads(): Story[] {
+  const leads: Story[] = [];
+  for (const id of FRONT_PAGE_PIN_IDS) {
+    const story = STORIES.find((s) => s.id === id);
+    if (story && !story.archived && story.topic !== "sports") leads.push(story);
+  }
+  return leads;
+}
+
 export function needToKnowStories(): Story[] {
   // Standing rule: Sports stories never take top-story (Need to Know) slots; they live only in the Sports section.
   // 16 Nov 2026 catch-up: Gros-Morne sits at #1, Morne Robert at #2.
   // The prolonged-detention opinion then sits at #3, and the GRAND letter to the CEP at #4.
   const list = sortNewestFirst(STORIES.filter((s) => !s.archived && s.tier === "need-to-know" && s.topic !== "sports"));
-  const firstId = "ntk-gros-morne-gsf-kokorat-2026-11-16";
-  const firstAt = list.findIndex((s) => s.id === firstId);
-  if (firstAt > 0) {
-    const [first] = list.splice(firstAt, 1);
-    list.splice(0, 0, first);
-  }
-  const secondId = "ntk-morne-robert-gran-grif-2026-11-16";
-  const secondAt = list.findIndex((s) => s.id === secondId);
-  if (secondAt > 1) {
-    const [second] = list.splice(secondAt, 1);
-    list.splice(1, 0, second);
-  }
-  const detentionId = "ntk-detention-preventive-commissariats-2026-10-30";
-  const detentionAt = list.findIndex((s) => s.id === detentionId);
-  if (detentionAt > 2) {
-    const [det] = list.splice(detentionAt, 1);
-    list.splice(2, 0, det);
-  }
-  const holdId = "ntk-grand-lettre-cep-2026-11-08";
-  const holdAt = list.findIndex((s) => s.id === holdId);
-  if (holdAt > 3) {
-    const [held] = list.splice(holdAt, 1);
-    list.splice(3, 0, held);
-  }
+  FRONT_PAGE_PIN_IDS.forEach((id, pos) => {
+    const at = list.findIndex((s) => s.id === id);
+    if (at > pos) {
+      const [item] = list.splice(at, 1);
+      list.splice(pos, 0, item);
+    }
+  });
   return list;
 }
 
@@ -5814,7 +5851,28 @@ export function quickHitStories(): Story[] {
   return sortNewestFirst(STORIES.filter((s) => !s.archived && (s.tier === "quick-hit" || s.topic === "sports")));
 }
 
-/** BREAKING badge: shown for breakingHours (default 6) after publishedTime; updates republish by bumping publishedTime. */
+/** Newest first by publish time only (the pinned flag is for front-page leads, not section lists). */
+function sortByPublishedTime(list: Story[]): Story[] {
+  return list
+    .map((s, i) => ({ s, i, t: publishMs(s) }))
+    .sort((a, b) => (a.t === b.t ? a.i - b.i : b.t - a.t))
+    .map((x) => x.s);
+}
+
+/** All non-archived stories in a topic, newest first (for section pages). */
+export function sectionPageStories(topic: TopicId): Story[] {
+  return sortByPublishedTime(STORIES.filter((s) => !s.archived && s.topic === topic));
+}
+
+/**
+ * Stories for a topic block on the front page: newest first, excluding the
+ * current leads (those already sit at the top), capped at FRONT_PAGE_PER_SECTION.
+ */
+export function frontPageSectionStories(topic: TopicId, limit = FRONT_PAGE_PER_SECTION): Story[] {
+  const leadIds = new Set(frontPageLeads().map((s) => s.id));
+  return sectionPageStories(topic).filter((s) => !leadIds.has(s.id)).slice(0, limit);
+}
+
 export function breakingExpiresMs(story: Story): number {
   return publishMs(story) + (story.breakingHours ?? 6) * 3600000;
 }

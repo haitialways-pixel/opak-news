@@ -1,9 +1,12 @@
 import { cardTeaser } from "../lib/teaser";
 import { storyPath } from "../lib/storyPath";
 import { Link } from "react-router-dom";
+import { useEffect } from "react";
 import { SiteFooter } from "../components/SiteFooter";
 import { SiteHeader } from "../components/SiteHeader";
+import { SiteNav } from "../components/SiteNav";
 import { useLanguage } from "../context/LanguageContext";
+import { homePath } from "../data/topics";
 import { STORIES } from "../data/stories";
 import type { Lang, Story } from "../types";
 
@@ -25,8 +28,13 @@ function formatLong(iso: string, lang: Lang): string {
   return date.toLocaleDateString("fr-FR", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
 }
 
-export function ArchivesPage() {
-  const { lang, ui } = useLanguage();
+export function ArchivesPage({ pageLang }: { pageLang: Lang }) {
+  const { lang: ctxLang, setLang, ui } = useLanguage();
+  useEffect(() => {
+    if (ctxLang !== pageLang) setLang(pageLang);
+    document.documentElement.lang = pageLang;
+  }, [pageLang, ctxLang, setLang]);
+  const lang = pageLang;
   const groups = new Map<string, Story[]>();
   for (const s of STORIES) {
     const k = storyDate(s);
@@ -41,9 +49,10 @@ export function ArchivesPage() {
     <div className="page page-archives">
       <header className="masthead masthead--compact">
         <SiteHeader />
+        <SiteNav />
       </header>
       <p className="back-row">
-        <Link to="/" className="back-link">← {ui.backToFeed}</Link>
+        <Link to={homePath(lang)} className="back-link">← {ui.backToFeed}</Link>
       </p>
       <main className="archives">
         <h1 className="archives-title">{ui.archives}</h1>

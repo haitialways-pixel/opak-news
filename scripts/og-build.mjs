@@ -23,6 +23,7 @@ const PALETTE = {
   politics:       { bg: "#0b1f33", label: "#8fb3ff", rule: "#22384f", ...LIGHTTXT },
   governance:     { bg: "#0d3b3f", label: "#7fe0d6", rule: "#245256", ...LIGHTTXT },
   justice:        { bg: "#2a1446", label: "#c9a8ff", rule: "#41295f", ...LIGHTTXT },
+  opinion:        { bg: "#1c1917", label: "#e7d5b5", rule: "#3f3a36", ...LIGHTTXT },
   development:    { bg: "#4b5320", label: "#e3eb9a", rule: "#636b36", ...LIGHTTXT },
   tech:           { bg: "#4fb3f2", label: "#08304f", rule: "#2f8fcc", ...DARKTXT },
   commerce:       { bg: "#f5c400", label: "#4a3800", rule: "#c99f00", ...DARKTXT },
@@ -138,4 +139,32 @@ for (const s of stories) {
     files.push("-label", `${id}  ${Array.isArray(P.bg) ? P.bg.join("→") : P.bg}`, f); }
   execFileSync("montage", [...files, "-tile", "5x", "-geometry", "432x540+16+16", "-pointsize", "22", "-background", "#ffffff", path.join(dist, "og", "_palette.png")]);
   fs.rmSync(tmp, { recursive: true }); }
-console.log(`OG: ${stories.length} cards + pages`);
+// Static shells for the home, archives, and section pages (lang + title + canonical).
+function writeShell(rel, lang, title, description, altRel) {
+  const url = `${SITE}${rel === "/" ? "" : rel}`;
+  const alt = `${SITE}${altRel === "/" ? "" : altRel}`;
+  const meta = `<meta property="og:type" content="website" /><meta property="og:site_name" content="Opak News" /><meta property="og:locale" content="${lang === "ht" ? "ht_HT" : "fr_FR"}" />
+    <meta property="og:url" content="${url}" /><meta property="og:title" content="${escH(title)}" /><meta property="og:description" content="${escH(description)}" />
+    <meta property="og:image" content="${SITE}/opak-logo-1024.png" /><meta property="og:image:width" content="1024" /><meta property="og:image:height" content="1024" />
+    <meta name="twitter:card" content="summary" /><meta name="twitter:title" content="${escH(title)}" /><meta name="twitter:description" content="${escH(description)}" /><meta name="twitter:image" content="${SITE}/opak-logo-1024.png" />
+    <link rel="canonical" href="${url}" /><link rel="alternate" hreflang="${lang === "ht" ? "fr" : "ht"}" href="${alt}" />
+    <meta name="description" content="${escH(description)}" /><title>${escH(title)}</title>`;
+  const html = tpl.replace(/<html lang="[^"]*">/, `<html lang="${lang}">`).replace(/<meta property="og:[^>]*>\s*/g, "").replace(/<meta name="twitter:[^>]*>\s*/g, "")
+    .replace(/<meta\s+name="description"[\s\S]*?\/>\s*/, "").replace(/<title>.*?<\/title>/, meta);
+  const dir = path.join(dist, rel === "/" ? "" : rel.replace(/^\//, ""));
+  fs.mkdirSync(dir, { recursive: true });
+  fs.writeFileSync(path.join(dir, "index.html"), html);
+}
+const desc = {
+  fr: "L'actualité haïtienne, courte et claire.",
+  ht: "Nouvel Ayiti Kout e klè.",
+};
+writeShell("/", "fr", "Opak News", desc.fr, "/ht");
+writeShell("/ht", "ht", "Opak News", desc.ht, "/");
+writeShell("/archives", "fr", "Archives | Opak News", desc.fr, "/ht/archives");
+writeShell("/ht/archives", "ht", "Achiv | Opak News", desc.ht, "/archives");
+for (const topic of topics) {
+  writeShell(`/${topic.slug.fr}`, "fr", `${topic.label.fr} | Opak News`, desc.fr, `/ht/${topic.slug.ht}`);
+  writeShell(`/ht/${topic.slug.ht}`, "ht", `${topic.label.ht} | Opak News`, desc.ht, `/${topic.slug.fr}`);
+}
+console.log(`OG: ${stories.length} cards + pages; section shells written`);

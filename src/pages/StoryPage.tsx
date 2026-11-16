@@ -4,7 +4,7 @@ import { AdPlaceholder, OpakChannelPromo, hasActiveBadge } from "../components/A
 import { ShareBar } from "../components/ShareBar";
 import { SiteHeader } from "../components/SiteHeader";
 import { getStoryById, isNewStory, isBreakingActive, isUrgentActive } from "../data/stories";
-import { topicLabel } from "../data/topics";
+import { homePath, sectionPath, topicLabel } from "../data/topics";
 import { useLanguage } from "../context/LanguageContext";
 import { KeepNumbers } from "../lib/keepNumbers";
 import { storyPath } from "../lib/storyPath";
@@ -30,7 +30,7 @@ export function StoryPage({ pageLang }: { pageLang: Lang }) {
           <SiteHeader />
         </header>
         <p className="back-row">
-          <Link to="/" className="back-link">
+          <Link to={homePath(pageLang)} className="back-link">
             ← {ui.backToFeed}
           </Link>
         </p>
@@ -49,7 +49,7 @@ export function StoryPage({ pageLang }: { pageLang: Lang }) {
       </header>
 
       <p className="back-row">
-        <Link to="/" className="back-link">
+        <Link to={homePath(lang)} className="back-link">
           ← {ui.backToFeed}
         </Link>
         <Link to={storyPath(story.id, lang === "ht" ? "fr" : "ht")} className="lang-switch" lang={lang === "ht" ? "fr" : "ht"}>
@@ -59,7 +59,7 @@ export function StoryPage({ pageLang }: { pageLang: Lang }) {
 
       <main className="story-detail">
         <div className="story-meta">
-          <span className="topic-chip">{topicLabel(story.topic, lang)}</span>
+          <Link className="topic-chip" to={sectionPath(story.topic, lang)}>{topicLabel(story.topic, lang)}</Link>
           {isUrgentActive(story) && (
           <span className="badge badge-urgent">{ui.urgentBadge}</span>
         )}

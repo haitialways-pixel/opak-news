@@ -1,16 +1,16 @@
-import { quickHitStories } from "../data/stories";
-import { TOPICS, topicLabel } from "../data/topics";
+import { Link } from "react-router-dom";
+import { frontPageSectionStories } from "../data/stories";
+import { TOPICS, sectionPath, topicLabel } from "../data/topics";
 import { useLanguage } from "../context/LanguageContext";
 import type { TopicId } from "../types";
 import { StoryCard } from "./StoryCard";
 
 export function InTheKnow() {
   const { lang, ui } = useLanguage();
-  const hits = quickHitStories();
 
   const byTopic = TOPICS.map((topic) => ({
     topic: topic.id as TopicId,
-    stories: hits.filter((s) => s.topic === topic.id),
+    stories: frontPageSectionStories(topic.id),
   })).filter((g) => g.stories.length > 0);
 
   return (
@@ -20,7 +20,12 @@ export function InTheKnow() {
       </h2>
       {byTopic.map((group) => (
         <div key={group.topic} className="topic-group">
-          <h3 className="topic-heading">{topicLabel(group.topic, lang)}</h3>
+          <div className="section-label-row">
+            <h3 className="topic-heading">{topicLabel(group.topic, lang)}</h3>
+            <Link className="text-link" to={sectionPath(group.topic, lang)}>
+              {ui.seeAllSection} →
+            </Link>
+          </div>
           <div className="story-stack">
             {group.stories.map((story) => (
               <StoryCard key={story.id} story={story} variant="hit" />
