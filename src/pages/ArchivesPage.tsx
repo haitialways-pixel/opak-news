@@ -62,7 +62,10 @@ export function ArchivesPage({ pageLang }: { pageLang: Lang }) {
               {groups.get(k)!.map((s) => (
                 <li key={s.id}>
                   <Link to={storyPath(s.id, lang)} className="archive-item">
-                    <strong>{s.headline[lang]}</strong>
+                    <strong>
+                      {s.isOpinion && <span className="badge badge-opinion">{ui.opinionBadge}</span>}
+                      {s.headline[lang]}
+                    </strong>
                     <span>{cardTeaser(s, lang)}</span>
                   </Link>
                 </li>

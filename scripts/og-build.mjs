@@ -87,7 +87,8 @@ function quoteCards(P, sec, h, q, id) { const W = 960, QF = "DejaVu Sans Oblique
       out]); outs.push(out); });
   return outs; }
 for (const s of stories) {
-  const sec = topics.find((t) => t.id === s.topic)?.label.fr ?? "";
+  const secBase = topics.find((t) => t.id === s.topic)?.label.fr ?? "";
+  const sec = s.isOpinion ? (secBase ? `Opinion  ·  ${secBase}` : "Opinion") : secBase;
   const P = PALETTE[s.topic] ?? DEFAULT_PAL;
   const h = s.headline.fr, b = s.brief.fr;
   const mh = (m, w) => +execFileSync("convert", ["-background", "none", "-size", `${w}x`, `pango:${m}`, "-format", "%h", "info:"]).toString();
@@ -166,5 +167,21 @@ writeShell("/ht/archives", "ht", "Achiv | Opak News", desc.ht, "/archives");
 for (const topic of topics) {
   writeShell(`/${topic.slug.fr}`, "fr", `${topic.label.fr} | Opak News`, desc.fr, `/ht/${topic.slug.ht}`);
   writeShell(`/ht/${topic.slug.ht}`, "ht", `${topic.label.ht} | Opak News`, desc.ht, `/${topic.slug.fr}`);
+}
+const justice = topics.find((t) => t.id === "justice");
+if (justice) {
+  const destFr = `/${justice.slug.fr}`;
+  const destHt = `/ht/${justice.slug.ht}`;
+  writeShell("/opinion", "fr", `${justice.label.fr} | Opak News`, desc.fr, destHt);
+  writeShell("/ht/opinyon", "ht", `${justice.label.ht} | Opak News`, desc.ht, destFr);
+  for (const [rel, dest] of [["/opinion", `${SITE}${destFr}`], ["/ht/opinyon", `${SITE}${destHt}`]]) {
+    const f = path.join(dist, rel.replace(/^\//, ""), "index.html");
+    let html = fs.readFileSync(f, "utf8");
+    if (!html.includes('http-equiv="refresh"')) {
+      html = html.replace("<head>", `<head>\n    <meta http-equiv="refresh" content="0;url=${dest}" />`);
+    }
+    html = html.replace(/<link rel="canonical" href="[^"]*" \/>/, `<link rel="canonical" href="${dest}" />`);
+    fs.writeFileSync(f, html);
+  }
 }
 console.log(`OG: ${stories.length} cards + pages; section shells written`);

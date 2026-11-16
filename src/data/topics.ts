@@ -17,11 +17,6 @@ export const TOPICS: TopicMeta[] = [
     label: { ht: "Ayiti ak Jistis", fr: "Justice à l’Haïtienne" },
   },
   {
-    id: "opinion",
-    slug: { ht: "opinyon", fr: "opinion" },
-    label: { ht: "Opinyon", fr: "Opinion" },
-  },
-  {
     id: "development",
     slug: { ht: "devlopman", fr: "developpement" },
     label: { ht: "Devlopman", fr: "Développement" },

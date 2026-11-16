@@ -19,7 +19,8 @@ export const STORIES: Story[] = [
   {
     id: "opinion-cassation-jemley-jean-baptiste-2026-11-16",
     tier: "need-to-know",
-    topic: "opinion",
+    topic: "justice",
+    isOpinion: true,
     publishedAt: "2026-11-16",
     publishedTime: "2026-11-16T11:20:00-05:00",
     headline: {
@@ -3064,6 +3065,7 @@ export const STORIES: Story[] = [
     archived: true,
     tier: "need-to-know",
     topic: "governance",
+    isOpinion: true,
     publishedAt: "2026-11-06",
     publishedTime: "2026-11-06T14:50:00-05:00",
     quiet: false,
@@ -3641,6 +3643,7 @@ export const STORIES: Story[] = [
     archived: true,
     tier: "need-to-know",
     topic: "politics",
+    isOpinion: true,
     publishedAt: "2026-11-04",
     publishedTime: "2026-11-04T07:30:00-05:00",
     isBreaking: true,
@@ -4184,12 +4187,12 @@ export const STORIES: Story[] = [
   {
     id: "ntk-detention-silence-cspj-opc-2026-11-02",
     archived: true,
-    pinned: true,
     isFollowUp: true,
     isUrgent: true,
+    isOpinion: true,
     quiet: true,
     tier: "need-to-know",
-    topic: "opinion",
+    topic: "justice",
     readMoreLink: {
       fr: { before: "Pour lire notre première tribune sur la détention préventive, ", link: "cliquez ici", after: ".", href: "/story/ntk-detention-preventive-commissariats-2026-10-30" },
       ht: { before: "Pou li premye tribin nou an sou detansyon preventif, ", link: "klike la a", after: ".", href: "/ht/story/ntk-detention-preventive-commissariats-2026-10-30" },
@@ -4864,10 +4867,11 @@ export const STORIES: Story[] = [
   },
   {
     id: "ntk-detention-preventive-commissariats-2026-10-30",
-    pinned: true,
+    archived: true,
     isUrgent: true,
+    isOpinion: true,
     tier: "need-to-know",
-    topic: "opinion",
+    topic: "justice",
     publishedAt: "2026-10-30",
     publishedTime: "2026-10-30T21:35:00-04:00",
     headline: {
@@ -5817,9 +5821,9 @@ export const FRONT_PAGE_PER_SECTION = 4;
  * Sports stories never take a lead slot; they live only in the Sports section.
  */
 export const FRONT_PAGE_PIN_IDS = [
+  "opinion-cassation-jemley-jean-baptiste-2026-11-16",
   "ntk-gros-morne-gsf-kokorat-2026-11-16",
   "ntk-morne-robert-gran-grif-2026-11-16",
-  "ntk-detention-preventive-commissariats-2026-10-30",
   "ntk-grand-lettre-cep-2026-11-08",
 ] as const;
 
@@ -5834,8 +5838,7 @@ export function frontPageLeads(): Story[] {
 
 export function needToKnowStories(): Story[] {
   // Standing rule: Sports stories never take top-story (Need to Know) slots; they live only in the Sports section.
-  // 16 Nov 2026 catch-up: Gros-Morne sits at #1, Morne Robert at #2.
-  // The prolonged-detention opinion then sits at #3, and the GRAND letter to the CEP at #4.
+  // 16 Nov 2026: the BAJ Cassation opinion sits at #1, then Gros-Morne, Morne Robert, and the GRAND letter to the CEP.
   const list = sortNewestFirst(STORIES.filter((s) => !s.archived && s.tier === "need-to-know" && s.topic !== "sports"));
   FRONT_PAGE_PIN_IDS.forEach((id, pos) => {
     const at = list.findIndex((s) => s.id === id);

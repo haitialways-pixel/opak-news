@@ -939,3 +939,16 @@ a[href^="tel:"] {
   letter-spacing: 0.04em;
   font-weight: 700;
 }
+
+.badge-opinion {
+  background: #1c1917;
+  color: #e7d5b5;
+  letter-spacing: 0.04em;
+  font-weight: 700;
+}
+
+.archive-item .badge {
+  margin-right: 0.4rem;
+  vertical-align: 0.1em;
+  font-size: 0.7em;
+}

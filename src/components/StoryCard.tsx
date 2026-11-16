@@ -18,6 +18,7 @@ export function StoryCard({ story, variant = "hit" }: Props) {
   return (
     <article className={`story-card story-card--${variant}`}>
       <div className="story-meta">
+        {story.isOpinion && <span className="badge badge-opinion">{ui.opinionBadge}</span>}
         {isUrgentActive(story) && (
           <span className="badge badge-urgent">{ui.urgentBadge}</span>
         )}

@@ -4,7 +4,6 @@ export type TopicId =
   | "politics"
   | "governance"
   | "justice"
-  | "opinion"
   | "development"
   | "tech"
   | "commerce"
@@ -63,6 +62,8 @@ export interface Story {
   pinned?: boolean;
   /** Quiet item: no NOUVEAU badge (and so no promo banner). */
   quiet?: boolean;
+  /** Opinion piece: filed under its subject section, shown with an Opinion / Opinyon badge. */
+  isOpinion?: boolean;
   urgentHours?: number;
   /** Optional source links shown on the story page. */
   sourceLinks?: { name: string; url: string }[];

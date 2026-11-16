@@ -25,6 +25,7 @@ interface LanguageContextValue {
     breakingBadge: string;
     urgentBadge: string;
     followUpBadge: string;
+    opinionBadge: string;
     newBadge: string;
     backToFeed: string;
     adLabel: string;
@@ -54,6 +55,7 @@ const UI = {
     breakingBadge: "BREAKING",
     urgentBadge: "IJAN",
     followUpBadge: "SWIVI",
+    opinionBadge: "Opinyon",
     newBadge: "NOUVO",
     backToFeed: "Tounen nan nouvèl yo",
     adLabel: "Piblisite",
@@ -78,6 +80,7 @@ const UI = {
     breakingBadge: "BREAKING",
     urgentBadge: "URGENT",
     followUpBadge: "SUIVI",
+    opinionBadge: "Opinion",
     newBadge: "NOUVEAU",
     backToFeed: "Retour au fil",
     adLabel: "Publicité",

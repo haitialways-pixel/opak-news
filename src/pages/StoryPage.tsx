@@ -56,6 +56,7 @@ export function StoryPage({ pageLang }: { pageLang: Lang }) {
       <main className="story-detail">
         <div className="story-meta">
           <Link className="topic-chip" to={sectionPath(story.topic, lang)}>{topicLabel(story.topic, lang)}</Link>
+          {story.isOpinion && <span className="badge badge-opinion">{ui.opinionBadge}</span>}
           {isUrgentActive(story) && (
           <span className="badge badge-urgent">{ui.urgentBadge}</span>
         )}
