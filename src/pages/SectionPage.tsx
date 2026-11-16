@@ -1,8 +1,7 @@
 import { useEffect } from "react";
 import { Link, useParams } from "react-router-dom";
 import { SiteFooter } from "../components/SiteFooter";
-import { SiteHeader } from "../components/SiteHeader";
-import { SiteNav } from "../components/SiteNav";
+import { Masthead } from "../components/Masthead";
 import { StoryCard } from "../components/StoryCard";
 import { useLanguage } from "../context/LanguageContext";
 import { sectionPageStories } from "../data/stories";
@@ -23,10 +22,7 @@ export function SectionPage({ pageLang }: { pageLang: Lang }) {
   if (!topic) {
     return (
       <div className="page page-section">
-        <header className="masthead masthead--compact">
-          <SiteHeader />
-          <SiteNav />
-        </header>
+        <Masthead />
         <p className="back-row">
           <Link to={homePath(lang)} className="back-link">
             ← {ui.backToFeed}
@@ -45,10 +41,7 @@ export function SectionPage({ pageLang }: { pageLang: Lang }) {
 
   return (
     <div className="page page-section">
-      <header className="masthead masthead--compact">
-        <SiteHeader />
-        <SiteNav />
-      </header>
+      <Masthead />
       <p className="back-row">
         <Link to={homePath(lang)} className="back-link">
           ← {ui.backToFeed}

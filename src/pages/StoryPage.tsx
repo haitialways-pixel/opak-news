@@ -2,7 +2,7 @@ import { SiteFooter } from "../components/SiteFooter";
 import { Link, useParams } from "react-router-dom";
 import { AdPlaceholder, OpakChannelPromo, hasActiveBadge } from "../components/AdPlaceholder";
 import { ShareBar } from "../components/ShareBar";
-import { SiteHeader } from "../components/SiteHeader";
+import { Masthead } from "../components/Masthead";
 import { getStoryById, isNewStory, isBreakingActive, isUrgentActive } from "../data/stories";
 import { homePath, sectionPath, topicLabel } from "../data/topics";
 import { useLanguage } from "../context/LanguageContext";
@@ -26,9 +26,7 @@ export function StoryPage({ pageLang }: { pageLang: Lang }) {
   if (!story) {
     return (
       <div className="page page-story">
-        <header className="masthead masthead--compact">
-          <SiteHeader />
-        </header>
+        <Masthead />
         <p className="back-row">
           <Link to={homePath(pageLang)} className="back-link">
             ← {ui.backToFeed}
@@ -44,9 +42,7 @@ export function StoryPage({ pageLang }: { pageLang: Lang }) {
 
   return (
     <div className="page page-story">
-      <header className="masthead masthead--compact">
-        <SiteHeader />
-      </header>
+      <Masthead />
 
       <p className="back-row">
         <Link to={homePath(lang)} className="back-link">

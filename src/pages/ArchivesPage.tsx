@@ -3,8 +3,7 @@ import { storyPath } from "../lib/storyPath";
 import { Link } from "react-router-dom";
 import { useEffect } from "react";
 import { SiteFooter } from "../components/SiteFooter";
-import { SiteHeader } from "../components/SiteHeader";
-import { SiteNav } from "../components/SiteNav";
+import { Masthead } from "../components/Masthead";
 import { useLanguage } from "../context/LanguageContext";
 import { homePath } from "../data/topics";
 import { STORIES } from "../data/stories";
@@ -47,10 +46,7 @@ export function ArchivesPage({ pageLang }: { pageLang: Lang }) {
 
   return (
     <div className="page page-archives">
-      <header className="masthead masthead--compact">
-        <SiteHeader />
-        <SiteNav />
-      </header>
+      <Masthead />
       <p className="back-row">
         <Link to={homePath(lang)} className="back-link">← {ui.backToFeed}</Link>
       </p>

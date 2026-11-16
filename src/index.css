@@ -11,6 +11,8 @@
   --danger-soft: #fde8e8;
   --radius: 12px;
   --max: 40rem;
+  /* Shared sticky header (logo + nav). Generous enough for mobile + iOS safe area. */
+  --sticky-masthead: calc(8.25rem + env(safe-area-inset-top, 0px));
   --font: "Segoe UI", system-ui, -apple-system, "Helvetica Neue", Arial,
     sans-serif;
   --serif: Georgia, "Times New Roman", serif;
@@ -53,11 +55,16 @@ a:hover {
   padding: 0.75rem 1rem 2.5rem;
 }
 
-/* Masthead */
+/* Shared sticky masthead: logo + language toggle + section nav, every page. */
 .masthead {
-  padding: 0.75rem 01rem;
+  position: sticky;
+  top: 0;
+  z-index: 200;
+  padding: 0.75rem 1rem;
+  padding-top: max(0.75rem, env(safe-area-inset-top, 0px));
   border-bottom: 3px solid var(--brand);
   margin-bottom: 1.25rem;
+  background-color: var(--bg);
 }
 
 .masthead-top {
@@ -95,8 +102,12 @@ a:hover {
   letter-spacing: -0.02em;
 }
 
+.masthead-issue {
+  margin: -0.35rem 0 1.25rem;
+}
+
 .tagline {
-  margin: 0.55rem 00.15rem;
+  margin: 0.15rem 0;
   color: var(--ink-muted);
   font-size: 0.95rem;
 }
@@ -107,31 +118,17 @@ a:hover {
   color: var(--ink-muted);
 }
 
-.masthead--compact {
-  padding-bottom: 0.75rem;
-  margin-bottom: 0.75rem;
-}
-
-/* Full story pages only: keep the compact Opak News masthead frozen at the top while reading. */
-.page-story .masthead {
-  position: sticky;
-  top: 0;
-  z-index: 200;
-  background-color: var(--bg);
-}
-
-.page-story .detail-headline,
-.page-story .story-detail :target {
-  scroll-margin-top: 5.75rem;
-}
-
 .site-nav {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 0.4rem 0.9rem;
   margin-top: 0.85rem;
   padding-top: 0.75rem;
   border-top: 1px solid var(--line);
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+  overscroll-behavior-x: contain;
 }
 
 .site-nav a {
@@ -139,6 +136,8 @@ a:hover {
   font-weight: 700;
   text-decoration: none;
   color: var(--brand);
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .site-nav a:hover {
@@ -148,6 +147,22 @@ a:hover {
 .site-nav a[aria-current="page"] {
   color: var(--accent-deep);
   text-decoration: underline;
+}
+
+/* Keep headings, anchors, and the featured video out from under the sticky header. */
+.back-row,
+.detail-headline,
+.story-detail :target,
+.section-page-title,
+.archives-title,
+.archive-day,
+.section,
+.need-to-know,
+.in-the-know,
+.featured-video,
+.video-frame,
+.topic-group {
+  scroll-margin-top: var(--sticky-masthead);
 }
 
 

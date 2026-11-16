@@ -16,7 +16,7 @@ export function HomePage({ pageLang }: { pageLang: Lang }) {
 
   return (
     <div className="page page-home">
-      <Masthead />
+      <Masthead showIssue />
       <main>
         <NeedToKnow />
         <FeaturedVideo />
