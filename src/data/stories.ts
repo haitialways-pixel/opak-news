@@ -17,6 +17,206 @@ import type { Story } from "../types";
 export const STORIES: Story[] = [
 
   {
+    id: "ntk-gros-morne-gsf-kokorat-2026-11-16",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-16",
+    publishedTime: "2026-11-16T11:08:00-05:00",
+    headline: {
+      ht: "Gros-Mòn: operasyon PNH, GSF ak twoup Sri Lanka kont Kokorat San Ras, omwen 5 sipoze manm mouri",
+      fr: "Gros-Morne : opération PNH, GSF et troupes sri-lankaises contre Kokorat San Ras, au moins 5 présumés membres tués",
+    },
+    teaser: {
+      ht: "Fòs yo di yo te relouvri wout nasyonal 5 la. Yon reklamasyon sou de frè chèf gang lan poko konfime.",
+      fr: "Les forces disent avoir rouvert la route nationale 5. Une allégation sur deux frères du chef de gang n'est pas confirmée.",
+    },
+    brief: {
+      ht: "Dimanch 15 novanm nan granmaten, PNH, Fòs reprezyon gang yo ak sòlda sri-lankè te fè yon operasyon nan nò Gros-Mòn, nan Latibonit, kont gang Kokorat San Ras. Yo di omwen senk sipoze manm te mouri.",
+      fr: "Dimanche 15 novembre à l'aube, la PNH, la Force de répression des gangs et des soldats sri-lankais ont mené une opération au nord de Gros-Morne, dans l'Artibonite, contre le gang Kokorat San Ras. Elles disent qu'au moins cinq présumés membres ont été tués.",
+    },
+    body: {
+      ht: "Yon atak te kòmanse alantou 2h30 nan granmaten dimanch 15 novanm 2026, nan nò komin Gros-Mòn, nan Latibonit. Polis nasyonal ayisyen, Fòs reprezyon gang yo (GSF) ak twoup sri-lankè ki nan misyon an te vize pozisyon gang Kokorat San Ras nan Karnifis (Carnifice) ak nan Ti Bwadòm, Miami Herald ak Le Nouvelliste relè.\n\nGSF, nan yon mesaj sou X ke Miami Herald sit, di gang lan te transfòme yon legliz ak yon lekòl nan Karnifis an baz. Twoup yo di yo te netwaye kote sa yo, demantibile barikad ak tranche ki t ap bloke wout nasyonal 5 la, epi relouvri aks la. Yo di yo te sezi senk zam, minisyon ak de motosiklèt. Ajan egzekitif enterimè Gros-Mòn, Hubert Cénac, te konfime lanmò senk gason ame ak sezi zam yo, Infolive Haiti ekri. Se bilan fòs yo ak otorite lokal yo n ap relè; moun yo prezime, yo poko jije.\n\nKèk sous lokal, ke jounal Le Facteur Haïti sit, di de nan moun ki mouri yo ta frè chèf gang lan. Enfòmasyon sa a poko konfime ofisyèlman pa fòs sekirite yo. Nou pa pran l kòm yon reyalite etabli.\n\nPremye minis Alix Didier Fils-Aimé te salye operasyon an sou X. Li te felisite PNH, GSF ak twoup sri-lankè yo, epi li te ekri operasyon yo p ap kanpe, yo pral kontinye sou tout teritwa a. GSF prezante entèvansyon an kòm premye gwo ofansiv li nan depatman Latibonit.",
+      fr: "Un assaut a commencé vers 2h30 du matin, dimanche 15 novembre 2026, au nord de la commune de Gros-Morne, dans l'Artibonite. La Police nationale d'Haïti, la Force de répression des gangs (GSF) et des soldats sri-lankais de la mission ont visé des positions du gang Kokorat San Ras à Carnifice et à Tibwadòm, relaient le Miami Herald et Le Nouvelliste.\n\nLa GSF, dans un message sur X que le Miami Herald cite, dit que le gang avait transformé une église et une école de Carnifice en bases. Les troupes disent avoir nettoyé ces lieux, démantelé des barricades et des tranchées qui bloquaient la route nationale 5, et rouvert cet axe. Elles disent avoir saisi cinq armes, des munitions et deux motocyclettes. L'agent exécutif intérimaire de Gros-Morne, Hubert Cénac, a confirmé la mort de cinq hommes armés et la saisie des armes, écrit Infolive Haïti. C'est le bilan des forces et des autorités locales que nous relayons; les personnes visées sont présumées, elles n'ont pas été jugées.\n\nDes sources locales, citées par le journal Le Facteur Haïti, disent que deux des personnes tuées seraient des frères du chef de ce gang. Cette information n'a pas été confirmée officiellement par les forces de sécurité. Nous ne la tenons pas pour un fait établi.\n\nLe Premier ministre Alix Didier Fils-Aimé a salué l'opération sur X. Il a félicité la PNH, la GSF et les troupes sri-lankaises, et écrit que les opérations ne s'arrêteront pas, qu'elles se poursuivront sur tout le territoire. La GSF présente cette intervention comme sa première offensive majeure dans le département de l'Artibonite.",
+    },
+    sources: ["Miami Herald", "Le Nouvelliste", "Juno7", "Infolive Haïti", "GSF"],
+    sourceLinks: [
+      { name: "Miami Herald", url: "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article318093599.html" },
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273916/gros-morne-cite-soleil-fort-dimanche-la-frg-et-la-pnh-multiplient-les-operations" },
+      { name: "Juno7", url: "https://www.juno7.ht/gros-morne-operation-pnh-frg-saisie-armes/" },
+    ],
+  },
+  {
+    id: "ntk-morne-robert-gran-grif-2026-11-16",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-16",
+    publishedTime: "2026-11-16T11:07:00-05:00",
+    headline: {
+      ht: "Senmak, Mòn Robert: omwen 13 moun mouri nan yon atak yo atribiye a Gran Grif, dapre yon komite lokal",
+      fr: "Saint-Marc, Morne Robert : au moins 13 morts dans une attaque attribuée à Gran Grif, selon un comité local",
+    },
+    teaser: {
+      ht: "Chif 13 la soti nan bouch André Saint-Louis. HaitiLibre ekri omwen 10. Polis la poko pibliye yon bilan ofisyèl.",
+      fr: "Le chiffre de 13 vient d'André Saint-Louis. HaitiLibre écrit au moins 10. La police n'a pas encore publié de bilan officiel.",
+    },
+    brief: {
+      ht: "Nan maten samdi 14 novanm, omwen 13 moun te mouri nan Mòn Robert, nan 4e seksyon kominal Senmak, dapre André Saint-Louis, responsab yon komite lokal pou lapè. Li atribiye atak la a sipoze manm gang Gran Grif.",
+      fr: "Dans la matinée du samedi 14 novembre, au moins 13 personnes ont été tuées à Morne Robert, dans la 4e section communale de Saint-Marc, selon André Saint-Louis, responsable d'un comité local pour la paix. Il attribue l'attaque à des membres présumés du gang Gran Grif.",
+    },
+    body: {
+      ht: "Journal L'Observatoire ekri, dimanch 15 novanm, omwen 13 moun te mouri nan Mòn Robert, nan 4e seksyon kominal Senmak, nan Bas-Latibonit, nan maten samdi 14 novanm 2026. Jounal la sit André Saint-Louis, responsab Komite Inisyativ pou Lapè Bas-Latibonit, kòm sous chif sa a. HaitiLibre, nan yon nòt flach, ekri omwen 10 moun te mouri. Nou atribiye chif 13 a André Saint-Louis, jan L'Observatoire relè l. Nou pa ka konfime l pou kont nou, epi polis la poko pibliye yon bilan ofisyèl.\n\nDapre Saint-Louis, pifò viktim yo se te sitwayen ki t ap pran yon wout segondè pou yo ale Verèt, pou evite wout prensipal la ke gwoup ame kontwole bò Liancourt. Li di viktim yo ta vize lè yo t ap eseye travèse sektè a. Li mete sou do otorite yo yon mank aksyon, apre menas li atribiye a Kenkenn, yon chèf gang nan Liancourt. Se sa li di; nou relè l jan L'Observatoire pibliye l.\n\nAtak sa a rive lavèy operasyon fòs yo nan Gros-Mòn, dimanch, kont Kokorat San Ras, ke kèk sous prezante kòm alye Gran Grif. Nou pa melanje de evènman sa yo, ni nou pa ka konfime lyen operasyonèl ant yo.",
+      fr: "Le Journal L'Observatoire écrit, dimanche 15 novembre, qu'au moins 13 personnes ont été tuées à Morne Robert, dans la 4e section communale de Saint-Marc, dans le Bas-Artibonite, dans la matinée du samedi 14 novembre 2026. Le journal cite André Saint-Louis, responsable du Comité Initiative pour la Paix du Bas-Artibonite, comme source de ce chiffre. HaitiLibre, dans une note flash, écrit qu'au moins 10 personnes ont été tuées. Nous attribuons le chiffre de 13 à André Saint-Louis, tel que L'Observatoire le relait. Nous ne pouvons pas le confirmer de manière indépendante, et la police n'a pas encore publié de bilan officiel.\n\nSelon Saint-Louis, la plupart des victimes étaient des habitants qui empruntaient une voie secondaire pour rejoindre Verrettes, afin d'éviter la route principale contrôlée par des groupes armés du côté de Liancourt. Il dit que les victimes auraient été visées alors qu'elles tentaient de traverser le secteur. Il reproche aux autorités une inaction, après des menaces qu'il attribue à Kenkenn, un chef de gang à Liancourt. C'est son récit; nous le relayons tel que L'Observatoire l'a publié.\n\nCette attaque est survenue à la veille de l'opération des forces à Gros-Morne, dimanche, contre Kokorat San Ras, que certaines sources présentent comme un allié de Gran Grif. Nous ne fusionnons pas ces deux événements, et nous ne pouvons pas confirmer de lien opérationnel entre eux.",
+    },
+    sources: ["Journal L'Observatoire", "André Saint-Louis", "HaitiLibre"],
+    sourceLinks: [
+      { name: "Journal L'Observatoire", url: "https://www.lobservatoire.info/bas-artibonite-le-gang-gran-grif-frappe-encore-au-moins-13-morts-a-saint-marc/" },
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/en/news-48906-haiti-flash-new-massacre-in-the-artibonite-at-least-10-dead.html" },
+    ],
+  },
+  {
+    id: "ntk-martine-moise-candidature-gad-2026-11-16",
+    tier: "need-to-know",
+    topic: "politics",
+    publishedAt: "2026-11-16",
+    publishedTime: "2026-11-16T11:06:00-05:00",
+    headline: {
+      ht: "Martine Moïse enskri pou prezidans 2027 la, sou banyè GAD",
+      fr: "Martine Moïse s'inscrit à la présidentielle de 2027, sous la bannière du GAD",
+    },
+    teaser: {
+      ht: "Li se twazyèm fanm sou 33 enskripsyon preliminè. Enskripsyon an pa vle di dosye a deja valide.",
+      fr: "Elle est la troisième femme parmi 33 inscriptions préliminaires. Cette inscription ne signifie pas que le dossier est déjà validé.",
+    },
+    brief: {
+      ht: "Ansyen premye dam Marie Étienne Martine Joseph Moïse, vèv prezidan Jovenel Moïse, te enskri sou platfòm CEP la dimanch 15 novanm, kèk èdtan anvan fèmen minwi a, sou banyè Gwoupman Angaje pou Demokrasi (GAD).",
+      fr: "L'ancienne première dame Marie Étienne Martine Joseph Moïse, veuve du président Jovenel Moïse, s'est inscrite sur la plateforme du CEP dimanche 15 novembre, quelques heures avant la clôture de minuit, sous la bannière du Gwoupman Angaje pou Demokrasi (GAD).",
+    },
+    body: {
+      ht: "Martine Moïse te fè enskripsyon l sou platfòm anliy CEP la dimanch 15 novanm 2026, kèk èdtan anvan delè minwi a, The Haitian Times, NAGO ak Al Jazeera ekri. Li parèt sou banyè Gwoupman Angaje pou Demokrasi (GAD), yon òganizasyon Pierre Frantz Pompilus kowòdone. Sou tablo ofisyèl CEP la, li se twazyèm fanm pami 33 enskripsyon preliminè pou prezidans lan, ansanm ak Dominique Dupuy ak Anne Savannah Hadid Savary.\n\nEnskripsyon an liy se yon premye etap. Li pa vle di dosye a konplè, ni ke CEP valide kandidati a. Depo pyès yo fèmen 30 novanm. The Haitian Times ekri lis preliminè kandida aksepte yo dwe soti 31 desanm, epi lis definitif la 11 janvye, apre dosye yo verifye.\n\nJounal la presize Martine Moïse poko pale an piblik sou kandidati sa a. Pompilus te ekri sou X, dimanch, « Youth at the helm to continue Jovenel Moïse's vision », ak « GAD at your service ». Li te blese grav nan atak 7 jiyè 2021 la, kote mari l te asasinen, epi li te evakye Miyami. The Haitian Times raple non l te parèt nan yon akizasyon jij ayisyen an fevriye 2024; li te demanti nenpòt patisipasyon. Se yon akizasyon, li prezime inosan. Li te temwaye plizyè fwa nan pwosè federal Miyami a sou asasina a, dènye fwa a nan septanm, nan dosye Christian Emmanuel Sanon.",
+      fr: "Martine Moïse a fait son inscription sur la plateforme en ligne du CEP dimanche 15 novembre 2026, quelques heures avant l'échéance de minuit, écrivent The Haitian Times, NAGO et Al Jazeera. Elle figure sous la bannière du Gwoupman Angaje pou Demokrasi (GAD), une organisation coordonnée par Pierre Frantz Pompilus. Sur le tableau officiel du CEP, elle est la troisième femme parmi 33 inscriptions préliminaires à la présidence, aux côtés de Dominique Dupuy et d'Anne Savannah Hadid Savary.\n\nL'inscription en ligne est une première étape. Elle ne signifie pas que le dossier est complet, ni que le CEP valide la candidature. Le dépôt des pièces se ferme le 30 novembre. The Haitian Times écrit que la liste préliminaire des candidatures acceptées doit paraître le 31 décembre, et la liste définitive le 11 janvier, après vérification des dossiers.\n\nLe journal précise que Martine Moïse ne s'est pas encore exprimée publiquement sur cette candidature. Pompilus a écrit sur X, dimanche, « Youth at the helm to continue Jovenel Moïse's vision », et « GAD at your service ». Elle avait été gravement blessée dans l'attaque du 7 juillet 2021, au cours de laquelle son mari a été assassiné, et évacuée à Miami. The Haitian Times rappelle que son nom a figuré dans une inculpation d'un juge haïtien en février 2024; elle a démenti toute implication. Il s'agit d'une inculpation, elle est présumée innocente. Elle a témoigné à plusieurs reprises dans le procès fédéral de Miami sur l'assassinat, la dernière fois en septembre, dans le dossier de Christian Emmanuel Sanon.",
+    },
+    sources: ["The Haitian Times", "NAGO", "Al Jazeera", "CEP"],
+    sourceLinks: [
+      { name: "The Haitian Times", url: "https://haitiantimes.com/2026/11/16/martine-moise-haiti-presidential-bid/" },
+      { name: "NAGO", url: "https://news.nago.tv/presidentielle-martine-moise-veuve-de-jovenel-moise-sinscrit-sous-la-banniere-du-gad" },
+      { name: "Al Jazeera", url: "https://www.aljazeera.com/news/2026/11/16/widow-of-haitis-slain-leader-moise-to-contest-presidential-vote" },
+      { name: "Tableau officiel du CEP", url: "https://tableau.cephaiti.ht/" },
+    ],
+  },
+  {
+    id: "ntk-ue-sanctions-gangs-2026-11-16",
+    tier: "need-to-know",
+    topic: "justice",
+    publishedAt: "2026-11-16",
+    publishedTime: "2026-11-16T11:05:00-05:00",
+    headline: {
+      ht: "Inyon Ewopeyen an mete sanksyon sou kat gwoup ame ayisyen: 5 Segond, Gran Ravine, 400 Mawozo ak Krazé Baryè",
+      fr: "L'Union européenne sanctionne quatre groupes armés haïtiens : 5 Segond, Gran Ravine, 400 Mawozo et Krazé Baryè",
+    },
+    teaser: {
+      ht: "Se jele byen ak entèdiksyon vwayaj. Konsèy Ewopeyen an site Renel Destina, alias Ti Lapli, kòm chèf Gran Ravine.",
+      fr: "Il s'agit d'un gel des avoirs et d'une interdiction de voyage. Le Conseil de l'UE cite Renel Destina, alias Ti Lapli, comme chef de Gran Ravine.",
+    },
+    brief: {
+      ht: "Konsèy Inyon Ewopeyen an te deside, lendi 16 novanm, ajoute kat òganizasyon ayisyen sou lis sanksyon dwa moun yo: 5 Segond, Gran Ravine, 400 Mawozo ak Krazé Baryè.",
+      fr: "Le Conseil de l'Union européenne a décidé, lundi 16 novembre, d'ajouter quatre entités haïtiennes à sa liste de sanctions pour violations graves des droits humains: 5 Segond, Gran Ravine, 400 Mawozo et Krazé Baryè.",
+    },
+    body: {
+      ht: "Konsèy Inyon Ewopeyen an te anonse, lendi 16 novanm 2026, li mete kat òganizasyon ayisyen sou lis rejim sanksyon mondyal pou vyolasyon grav dwa moun. Gwoup yo se 5 Segond, Gran Ravine, 400 Mawozo ak Krazé Baryè. Moun ak antite sou lis la sibi yon jele byen, yon entèdiksyon antre oswa transite nan eta manm Inyon Ewopeyen an, epi sitwayen ak konpayi ewopeyen yo pa gen dwa ba yo lajan, ni dirèkteman ni endirèkteman.\n\nNan nòt ofisyèl la, Konsèy la di 5 Segond responsab touyaman, vyòl ak lòt vyolans seksyèl, ak vyolans sou timoun, ansanm ak atak ki afekte sèvis sante ak èd imanitè. Pou Gran Ravine, li site chèf li a, Renel Destina, yo rele Ti Lapli, e li pale de atak ki fè mò sivil, deplase moun, kidnaping ak lòt krim grav. Pou 400 Mawozo ak Krazé Baryè, li pale de rekritman timoun nan gwoup ame, ekspoze yo a vyolans, vyolans seksyèl ak touyaman. Nou relè sa Konsèy la ekri; nòt pou laprès la pa bay non chèf 5 Segond, 400 Mawozo ak Krazé Baryè.\n\nTèks legal yo pibliye nan Jounal ofisyèl Inyon Ewopeyen an. Le Nouvelliste relè desizyon an menm jou a.",
+      fr: "Le Conseil de l'Union européenne a annoncé, lundi 16 novembre 2026, l'inscription de quatre entités haïtiennes sur la liste de son régime mondial de sanctions pour violations graves des droits humains. Il s'agit de 5 Segond, Gran Ravine, 400 Mawozo et Krazé Baryè. Les personnes et entités inscrites font l'objet d'un gel des avoirs, d'une interdiction d'entrer ou de transiter dans les États membres de l'Union, et les citoyens comme les entreprises européens n'ont pas le droit de leur mettre des fonds à disposition, directement ou indirectement.\n\nDans le communiqué officiel, le Conseil dit que 5 Segond est responsable de meurtres, de viols et d'autres violences sexuelles, de violences contre des enfants, ainsi que d'attaques visant des services de santé et de l'aide humanitaire. Pour Gran Ravine, il cite son chef, Renel Destina, alias Ti Lapli, et parle d'attaques ayant causé des morts civiles, des déplacements, des enlèvements et d'autres crimes graves. Pour 400 Mawozo et Krazé Baryè, il évoque le recrutement d'enfants dans des groupes armés, leur exposition à la violence, des violences sexuelles et des meurtres. Nous relayons ce que le Conseil écrit; le communiqué de presse ne nomme pas les chefs de 5 Segond, de 400 Mawozo et de Krazé Baryè.\n\nLes actes juridiques ont été publiés au Journal officiel de l'Union européenne. Le Nouvelliste a relayé la décision le jour même.",
+    },
+    sources: ["Conseil de l'Union européenne", "Le Nouvelliste"],
+    sourceLinks: [
+      { name: "Conseil de l'UE", url: "https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/eu-global-human-rights-sanctions-regime-council-lists-four-haitian-entities-over-serious-human-rights-violations/" },
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/en/article/273920/the-european-union-sanctions-4-criminal-groups-in-haiti" },
+    ],
+  },
+  {
+    id: "ntk-salvadoriens-edh-portail-leogane-2026-11-16",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-16",
+    publishedTime: "2026-11-16T11:04:00-05:00",
+    headline: {
+      ht: "Sòlda salvadoryen yo pran pozisyon nan syèj EDH nan Bisantnè, ak nan sou-komisarya Pòtay Leyogàn",
+      fr: "Des soldats salvadoriens prennent position au siège de l'EDH, au Bicentenaire, et au sous-commissariat de Portail Léogâne",
+    },
+    teaser: {
+      ht: "Le Nouvelliste sit yon sous toupre EDH ak yon kontak nan meri Pòtoprens. Se apre estad Sylvio Cator.",
+      fr: "Le Nouvelliste cite une source proche de l'EDH et un contact à la mairie de Port-au-Prince. Cela vient après le stade Sylvio Cator.",
+    },
+    brief: {
+      ht: "Apre yo te okipe estad Sylvio Cator, sòlda salvadoryen yo te pran pozisyon samdi 14 novanm nan syèj Elektrisite d'Ayiti, sou Bisantnè, ak nan sou-komisarya Pòtay Leyogàn, Le Nouvelliste ekri.",
+      fr: "Après avoir occupé le stade Sylvio Cator, des soldats salvadoriens ont pris position samedi 14 novembre au siège de l'Électricité d'Haïti, au Bicentenaire, et au sous-commissariat de Portail Léogâne, écrit Le Nouvelliste.",
+    },
+    body: {
+      ht: "Sòlda salvadoryen yo ap elaji prezans yo nan santvil Pòtoprens, Le Nouvelliste ekri dimanch 15 novanm. Apre estad nasyonal Sylvio Cator, yo te pran pozisyon nan syèj sosyal Elektrisite d'Ayiti (EDH), ant ri Joseph Janvier ak boulva Harry Truman, sou Bisantnè, epi nan sou-komisarya Pòtay Leyogàn. Jounal la di yon sous toupre antrepriz piblik la, ak yon kontak nan meri Pòtoprens, te konfime nouvèl la.\n\nLe Nouvelliste ekri, nan yon premye tan, sòlda Fòs lame d'Ayiti te sou teren an. Journal L'Observatoire relè menm deplwaman an samdi 14 novanm. HaitiLibre ekri militè salvadoryen yo te pran syèj EDH a « after eliminating the terrorists who had occupied the premises for four years », epi yo ta pral mete yon baz avanse sou sit la. Nou atribiye fòmilasyon sa a a HaitiLibre. Nòt Le Nouvelliste a, nan sa nou te li, pa detaye yon konba ni yon bilan mò sou de sit sa yo.\n\nDeplwaman sa a vin apre repriz estad Sylvio Cator, kote prezidan Nayib Bukele te deja anonse yon baz operasyon.",
+      fr: "Des soldats salvadoriens élargissent leur présence au centre-ville de Port-au-Prince, écrit Le Nouvelliste dimanche 15 novembre. Après le stade national Sylvio Cator, ils ont pris position au siège social de l'Électricité d'Haïti (EDH), entre la rue Joseph Janvier et le boulevard Harry Truman, au Bicentenaire, ainsi qu'au sous-commissariat de Portail Léogâne. Le journal dit qu'une source proche de l'entreprise publique, et un contact à la mairie de Port-au-Prince, ont confirmé l'information.\n\nLe Nouvelliste écrit que, dans un premier temps, des soldats des Forces armées d'Haïti étaient sur les lieux. Le Journal L'Observatoire relait le même déploiement, samedi 14 novembre. HaitiLibre écrit que les militaires salvadoriens ont pris le siège de l'EDH « after eliminating the terrorists who had occupied the premises for four years », et qu'une base avancée y serait installée. Nous attribuons cette formulation à HaitiLibre. La note du Nouvelliste, dans ce que nous en avons lu, ne détaille ni un combat ni un bilan de morts sur ces deux sites.\n\nCe déploiement vient après la reprise du stade Sylvio Cator, où le président Nayib Bukele avait déjà annoncé une base d'opérations.",
+    },
+    sources: ["Le Nouvelliste", "Journal L'Observatoire", "HaitiLibre"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273915/les-salvadoriens-reprennent-les-locaux-de-ledh-au-bicentenaire-et-le-sous-commissariat-de-portail-leogane" },
+      { name: "Journal L'Observatoire", url: "https://www.lobservatoire.info/centre-ville-de-port-au-prince-les-salvadoriens-prennent-position-a-ledh-et-a-portail-leogane/" },
+    ],
+  },
+  {
+    id: "qh-fadh-114-mexique-2026-11-16",
+    tier: "quick-hit",
+    topic: "security",
+    publishedAt: "2026-11-16",
+    publishedTime: "2026-11-16T11:00:00-05:00",
+    headline: {
+      ht: "114 militè FAd'H tounen apre uit semèn fòmasyon nan Meksik",
+      fr: "114 militaires des FAd'H sont rentrés après huit semaines de formation au Mexique",
+    },
+    teaser: {
+      ht: "Yo te pati 18 septanm. Ministè Defans lan di yo pral ranfòse nouvo pwomosyon an nan baz Vètyè.",
+      fr: "Ils étaient partis le 18 septembre. Le ministère de la Défense dit qu'ils renforceront la nouvelle promotion à la base Vertières.",
+    },
+    brief: {
+      ht: "114 militè Fòs lame d'Ayiti, ki te pati 18 septanm pou yon fòmasyon uit semèn nan Meksik, tounen nan peyi a dimanch 15 novanm, ministè Defans lan anonse, Le Nouvelliste ekri.",
+      fr: "Cent quatorze militaires des Forces armées d'Haïti, partis le 18 septembre pour une formation de huit semaines au Mexique, sont rentrés au pays dimanche 15 novembre, a annoncé le ministère de la Défense, écrit Le Nouvelliste.",
+    },
+    body: {
+      ht: "Ministè Defans lan te anonse, dimanch 15 novanm 2026, 114 militè Fòs lame d'Ayiti (FAd'H) tounen nan peyi a apre uit semèn fòmasyon militè nan Meksik, Le Nouvelliste ekri. Yo te pati 18 septanm. Ministè a di yo pral ranfòse efèktif nouvo pwomosyon an ki ap fòme nan baz militè Vètyè, anvan yon pwochen deplwaman nan kad efò kont ensekirite.\n\nAnbasad Meksik nan Pòtoprens te anonse retou a menm jou a, NAGO relè. Li ekri plis pase mil militè ayisyen deja resevwa fòmasyon nan Meksik, nan kad koperasyon bilateral sou defans. Foto anbasad la montre sòlda yo desann nan yon avyon fòs ayeryen meksiken an. Kontenjan an te konte 108 rekrit ak sis ankadre, dapre NAGO, pou yon fòmasyon baz nan Huehuetoca, nan Eta Meksik.",
+      fr: "Le ministère de la Défense a annoncé, dimanche 15 novembre 2026, le retour au pays de 114 militaires des Forces armées d'Haïti (FAd'H), après huit semaines de formation militaire au Mexique, écrit Le Nouvelliste. Ils étaient partis le 18 septembre. Le ministère dit qu'ils viendront renforcer les effectifs de la nouvelle promotion en formation à la base militaire Vertières, avant un prochain déploiement dans le cadre des efforts contre l'insécurité.\n\nL'ambassade du Mexique à Port-au-Prince a annoncé ce retour le même jour, relait NAGO. Elle écrit que plus de mille militaires haïtiens ont déjà reçu une formation au Mexique, dans le cadre de la coopération bilatérale de défense. Les photos de l'ambassade les montrent descendant d'un avion de la Force aérienne mexicaine. Le contingent comptait 108 recrues et six encadreurs, selon NAGO, pour une formation de base à Huehuetoca, dans l'État de Mexico.",
+    },
+    sources: ["Ministère de la Défense", "Le Nouvelliste", "NAGO", "Ambassade du Mexique"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273919/114-militaires-des-fadh-de-retour-apres-une-formation-au-mexique" },
+      { name: "NAGO", url: "https://news.nago.tv/fadh-les-114-militaires-formes-au-mexique-sont-rentres-en-haiti" },
+    ],
+  },
+  {
+    id: "qh-cote-ivoire-812-gsf-2026-11-16",
+    tier: "quick-hit",
+    topic: "security",
+    publishedAt: "2026-11-16",
+    publishedTime: "2026-11-16T10:59:00-05:00",
+    headline: {
+      ht: "Kòt divwa: 812 militè anonse pou GSF; yon avangad ta rive alantou 23 novanm, dapre laprès ivwaryen",
+      fr: "Côte d'Ivoire : 812 militaires annoncés pour la GSF; une avant-garde arriverait vers le 23 novembre, selon la presse ivoirienne",
+    },
+    teaser: {
+      ht: "Dat yo soti nan laprès ivwaryen, NAGO relè. Ministè Defans Kòt divwa a poko te pale ofisyèlman dimanch.",
+      fr: "Ces dates viennent de la presse ivoirienne, relait NAGO. Le ministère ivoirien de la Défense n'avait pas encore parlé officiellement dimanche.",
+    },
+    brief: {
+      ht: "Kòt divwa ap prepare voye 812 militè ann Ayiti pou yo rantre nan Fòs reprezyon gang yo, NAGO ekri dimanch, sou baz laprès ivwaryen. Yon avangad sou san sòlda ta rive Pòtoprens apati 23 novanm.",
+      fr: "La Côte d'Ivoire s'apprête à envoyer 812 militaires en Haïti pour rejoindre la Force de répression des gangs, écrit NAGO dimanche, d'après la presse ivoirienne. Une avant-garde d'une centaine de soldats arriverait à Port-au-Prince à partir du 23 novembre.",
+    },
+    body: {
+      ht: "NAGO ekri, dimanch 15 novanm 2026 a 19h27, Kòt divwa ap prepare voye 812 militè ann Ayiti pou yo rantre nan Fòs reprezyon gang yo (GSF). Dapre sous ki toupre dosye a, ke de medya ivwaryen sit, yon avangad sou san sòlda, eta-majora kontenjan an, ta rive Pòtoprens apati 23 novanm, epi gwo twoup yo ta swiv nan kòmansman desanm, pou yon misyon inisyal sis mwa. NAGO presize ministè Defans ivwaryen an ak eta-majora jeneral lame yo poko te kominike ofisyèlman dimanch, nan tann yon seremoni remèt drapo. Se dat sa yo n ap relè, ak atribisyon sa a. Nou pa ka trete yo kòm yon anons ofisyèl Abidjan.\n\nKontenjan an prezante kòm yon batayon mekanize Fòs lame Kòt divwa, ak blende. Òganizasyon entènasyonal Frankofoni an te konfime yon fòmasyon ki te fini 25 septanm nan Abidjan: depi jen, fòmatè ayisyen OIF te voye te inisye sòlda yo nan kreyòl, nan istwa peyi a ak nan kòd sosyal li. UNITAR te pran relè pandan sis semèn, ak sipò Frans, sou konba nan vil, pwoteksyon sivil, dwa moun ak prevansyon vyolans seksyèl.\n\nGSF, ke Konsèy Sekirite Nasyonzini te kreye, gen yon plafon 5\u00a0500 ajan. Mandat li pwolonje jouk 31 mas 2027. Sòlda ivwaryen yo ta jwenn, pami lòt, kontenjan Kenya ak Tchad.",
+      fr: "NAGO écrit, dimanche 15 novembre 2026 à 19h27, que la Côte d'Ivoire s'apprête à envoyer 812 militaires en Haïti pour rejoindre la Force de répression des gangs (GSF). Selon des sources proches du dossier, citées par deux médias ivoiriens, une avant-garde d'une centaine de soldats, correspondant à l'état-major du contingent, arriverait à Port-au-Prince à partir du 23 novembre, et le gros des troupes suivrait début décembre, pour une mission initiale de six mois. NAGO précise que le ministère ivoirien de la Défense et l'état-major général des armées n'avaient pas encore communiqué officiellement dimanche, dans l'attente d'une cérémonie de remise du drapeau. Ce sont ces dates que nous relayons, avec cette attribution. Nous ne les tenons pas pour une annonce officielle d'Abidjan.\n\nLe contingent est présenté comme un bataillon mécanisé des Forces armées de Côte d'Ivoire, doté de blindés. L'Organisation internationale de la Francophonie a confirmé une formation achevée le 25 septembre à Abidjan: depuis juin, des formateurs haïtiens envoyés par l'OIF ont initié les soldats au créole, à l'histoire du pays et à ses codes sociaux. UNITAR a ensuite pris le relais pendant six semaines, avec l'appui de la France, sur le combat en milieu urbain, la protection des civils, les droits humains et la prévention des violences sexuelles.\n\nLa GSF, créée par le Conseil de sécurité de l'ONU, est autorisée jusqu'à 5\u00a0500 agents. Son mandat a été prolongé jusqu'au 31 mars 2027. Les soldats ivoiriens y rejoindraient, notamment, des contingents du Kenya et du Tchad.",
+    },
+    sources: ["NAGO", "Organisation internationale de la Francophonie"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/force-antigangs-la-cote-divoire-prepare-lenvoi-de-812-militaires-en-haiti" },
+      { name: "OIF", url: "https://www.francophonie.org/formation-personnel-ivoirien-preparation-deploiement-haiti-frg-8721" },
+    ],
+  },
+
+  {
     id: "ntk-gsf-fort-dimanche-2026-11-14",
     tier: "need-to-know",
     topic: "security",
@@ -136,57 +336,72 @@ export const STORIES: Story[] = [
     id: "qh-coulisses-salvador-conference-2026-11-14",
     tier: "quick-hit",
     topic: "gossip",
-    publishedAt: "2026-11-14",
-    publishedTime: "2026-11-14T20:12:00-05:00",
+    publishedAt: "2026-11-16",
+    publishedTime: "2026-11-16T11:01:00-05:00",
+    isFollowUp: true,
     headline: {
-      ht: "Coulisses: Fils-Aimé ak Bellerive pa sou lis konferans Salvador 16-17 novanm ankò; Pélissier ak Tardieu sou panel la",
-      fr: "Coulisses : Fils-Aimé et Bellerive ne figurent plus à l'agenda de la conférence au Salvador, les 16 et 17 novembre; Pélissier et Tardieu sont sur le panel",
+      ht: "Coulisses: Fils-Aimé pa nan konferans Salvador la; Pélissier reprezante l, dapre Primati a",
+      fr: "Coulisses : Fils-Aimé n'est pas à la conférence du Salvador; Pélissier le représente, selon la Primature",
     },
     teaser: {
-      ht: "Se Rezo Nòdwès ki ekri sa. Retrè non yo sou lis panellis yo pa vle di, pou kont li, vwayaj la anile.",
-      fr: "C'est Rezo Nòdwès qui l'écrit. Le retrait de leurs noms de la liste des panélistes ne permet pas, à lui seul, de conclure que le voyage est annulé.",
+      ht: "Minis Jistis la te kite Ayiti dimanch. El Diario de Hoy sit yon kominike Primati a.",
+      fr: "Le ministre de la Justice a quitté Haïti dimanche. El Diario de Hoy cite un communiqué de la Primature.",
     },
     brief: {
-      ht: "Rezo Nòdwès ekri Premye minis Alix Didier Fils-Aimé ak ansyen chèf gouvènman Jean-Max Bellerive pa parèt ankò sou lis entèvènan yo nan tab wonn sou Ayiti, nan 2e Konferans entènasyonal sou Eta ak demokrasi, 16 ak 17 novanm nan Salvador.",
-      fr: "Rezo Nòdwès écrit que le Premier ministre Alix Didier Fils-Aimé et l'ancien chef du gouvernement Jean-Max Bellerive ne figurent plus parmi les intervenants de la table ronde sur Haïti, à la IIe Conférence internationale sur l'État et la démocratie, les 16 et 17 novembre au Salvador.",
+      ht: "Primati a di minis Jistis Patrick Pélissier ap reprezante Premye minis Alix Didier Fils-Aimé nan 2e Konferans entènasyonal sou Eta ak demokrasi, ki louvri lendi 16 novanm nan Salvador. Pélissier te pati dimanch.",
+      fr: "La Primature dit que le ministre de la Justice Patrick Pélissier représente le Premier ministre Alix Didier Fils-Aimé à la IIe Conférence internationale sur l'État et la démocratie, ouverte lundi 16 novembre au Salvador. Pélissier est parti dimanche.",
     },
     body: {
-      ht: "Rezo Nòdwès ekri, vandredi 13 novanm, Premye minis Alix Didier Fils-Aimé ak ansyen Premye minis Jean-Max Bellerive pa parèt ankò sou lis entèvènan yo nan yon tab wonn sou Ayiti, nan 2e Konferans entènasyonal sou Eta ak demokrasi, ki pwograme 16 ak 17 novanm nan Salvador. Se yon sous sèl; n ap relè kont jounal la.\n\nDapre menm nòt la, ajanda a montre kounye a minis Jistis Patrick Pélissier ak ansyen depite Jerry Tardieu, ansanm ak David Rivard, direktè egzekitif yon ajans salvadoryen pou devlopman, ak Pascal Drouhaud, espesyalis relasyon entènasyonal. Dong Nguyen, prezante kòm espesyalis dwa moun, dwe modere deba a, ki gen tit « Haïti, un pays en construction permanente ». Orè a, dapre Rezo Nòdwès, se 15h45 a 16h45, lè Salvador, sètadi 16h45 a 17h45, lè Ayiti.\n\nRezo Nòdwès raple vis-prezidan salvadoryen Félix Ulloa te di, 6 novanm, Fils-Aimé te konfime patisipasyon l, e ke deplasman an t ap bay okazyon pou pale de avni sòlda salvadoryen yo ann Ayiti. Jounal la presize retrè non Premye minis la sou lis panellis yo, pou kont li, pa pèmèt konfime vwayaj la anile, ni ke pa t ap gen lòt rankont. Nou pa pran sipozisyon sa yo pi lwen pase sa jounal la ekri.",
-      fr: "Rezo Nòdwès écrit, vendredi 13 novembre, que le Premier ministre Alix Didier Fils-Aimé et l'ancien Premier ministre Jean-Max Bellerive ne figurent plus parmi les intervenants d'une table ronde consacrée à Haïti, à la IIe Conférence internationale sur l'État et la démocratie, prévue les 16 et 17 novembre au Salvador. C'est une source unique; nous relayons le récit du journal.\n\nSelon la même note, l'agenda fait désormais apparaître le ministre de la Justice Patrick Pélissier et l'ancien député Jerry Tardieu, aux côtés de David Rivard, directeur exécutif d'une agence salvadorienne de développement, et de Pascal Drouhaud, spécialiste des relations internationales. Dong Nguyen, présenté comme spécialiste des droits humains, doit modérer le débat, intitulé « Haïti, un pays en construction permanente ». L'horaire affiché, d'après Rezo Nòdwès, est de 15h45 à 16h45, heure du Salvador, soit de 16h45 à 17h45, heure d'Haïti.\n\nRezo Nòdwès rappelle que le vice-président salvadorien Félix Ulloa avait déclaré, le 6 novembre, que Fils-Aimé lui avait confirmé sa participation, et que ce déplacement offrirait l'occasion d'aborder l'avenir des militaires salvadoriens engagés en Haïti. Le journal précise que le retrait du nom du Premier ministre de la liste des panélistes ne permet pas, à lui seul, de confirmer l'annulation de son voyage, ni l'absence d'éventuelles autres rencontres. Nous n'allons pas plus loin que ce que le journal écrit.",
+      ht: "Lendi 16 novanm 2026, 2e Konferans entènasyonal sou Eta ak demokrasi te louvri nan Salvador. Primati a, nan yon kominike El Diario de Hoy sit, di minis Jistis ak Sekirite piblik Patrick Pélissier ap reprezante Premye minis Alix Didier Fils-Aimé nan reyinyon sa a. Jounal salvadoryen an ekri minis la te pati dimanch pou San Salvador. Prensa Latina ekri li te rive lavèy konferans lan, nan non Premye minis la. Sa konfime, sou pwen sa a, sa Rezo Nòdwès te ekri vandredi: non Fils-Aimé ak Jean-Max Bellerive pa t sou lis entèvènan tab wonn sou Ayiti a.\n\nRezo Nòdwès ekri, vandredi 13 novanm, Premye minis Alix Didier Fils-Aimé ak ansyen Premye minis Jean-Max Bellerive pa parèt ankò sou lis entèvènan yo nan yon tab wonn sou Ayiti, nan 2e Konferans entènasyonal sou Eta ak demokrasi, ki pwograme 16 ak 17 novanm nan Salvador. Se yon sous sèl; n ap relè kont jounal la.\n\nDapre menm nòt la, ajanda a montre kounye a minis Jistis Patrick Pélissier ak ansyen depite Jerry Tardieu, ansanm ak David Rivard, direktè egzekitif yon ajans salvadoryen pou devlopman, ak Pascal Drouhaud, espesyalis relasyon entènasyonal. Dong Nguyen, prezante kòm espesyalis dwa moun, dwe modere deba a, ki gen tit « Haïti, un pays en construction permanente ». Orè a, dapre Rezo Nòdwès, se 15h45 a 16h45, lè Salvador, sètadi 16h45 a 17h45, lè Ayiti.\n\nRezo Nòdwès raple vis-prezidan salvadoryen Félix Ulloa te di, 6 novanm, Fils-Aimé te konfime patisipasyon l, e ke deplasman an t ap bay okazyon pou pale de avni sòlda salvadoryen yo ann Ayiti. Jounal la presize retrè non Premye minis la sou lis panellis yo, pou kont li, pa pèmèt konfime vwayaj la anile, ni ke pa t ap gen lòt rankont. Nou pa pran sipozisyon sa yo pi lwen pase sa jounal la ekri.",
+      fr: "Lundi 16 novembre 2026, la IIe Conférence internationale sur l'État et la démocratie s'est ouverte au Salvador. La Primature, dans un communiqué que cite El Diario de Hoy, dit que le ministre de la Justice et de la Sécurité publique Patrick Pélissier représente le Premier ministre Alix Didier Fils-Aimé à cette rencontre. Le journal salvadorien écrit que le ministre est parti dimanche pour San Salvador. Prensa Latina écrit qu'il est arrivé la veille de la conférence, au nom du Premier ministre. Cela confirme, sur ce point, ce que Rezo Nòdwès écrivait vendredi: les noms de Fils-Aimé et de Jean-Max Bellerive ne figuraient plus parmi les intervenants de la table ronde sur Haïti.\n\nRezo Nòdwès écrit, vendredi 13 novembre, que le Premier ministre Alix Didier Fils-Aimé et l'ancien Premier ministre Jean-Max Bellerive ne figurent plus parmi les intervenants d'une table ronde consacrée à Haïti, à la IIe Conférence internationale sur l'État et la démocratie, prévue les 16 et 17 novembre au Salvador. C'est une source unique; nous relayons le récit du journal.\n\nSelon la même note, l'agenda fait désormais apparaître le ministre de la Justice Patrick Pélissier et l'ancien député Jerry Tardieu, aux côtés de David Rivard, directeur exécutif d'une agence salvadorienne de développement, et de Pascal Drouhaud, spécialiste des relations internationales. Dong Nguyen, présenté comme spécialiste des droits humains, doit modérer le débat, intitulé « Haïti, un pays en construction permanente ». L'horaire affiché, d'après Rezo Nòdwès, est de 15h45 à 16h45, heure du Salvador, soit de 16h45 à 17h45, heure d'Haïti.\n\nRezo Nòdwès rappelle que le vice-président salvadorien Félix Ulloa avait déclaré, le 6 novembre, que Fils-Aimé lui avait confirmé sa participation, et que ce déplacement offrirait l'occasion d'aborder l'avenir des militaires salvadoriens engagés en Haïti. Le journal précise que le retrait du nom du Premier ministre de la liste des panélistes ne permet pas, à lui seul, de confirmer l'annulation de son voyage, ni l'absence d'éventuelles autres rencontres. Nous n'allons pas plus loin que ce que le journal écrit.",
     },
-    sources: ["Rezo Nòdwès"],
+    sources: ["Rezo Nòdwès",
+      "El Diario de Hoy",
+      "Prensa Latina",
+      "Primature",
+    ],
     sourceLinks: [
       { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/conference-au-salvador-les-16-et-17-novembre-fils-aime-et-bellerive-ne-figurent-plus-sur-la-liste-des-intervenants-a-la-table-ronde-sur-haiti/" },
+    
+      { name: "El Diario de Hoy", url: "https://www.eldiariodehoy.com/noticias/nacionales/ministro-de-justicia-representara-a-primer-ministro-de-haiti-en-conferencia-en-el-salvador/100601/2026/" },
+      { name: "Prensa Latina", url: "https://www.prensa-latina.cu/2026/11/16/debatiran-sobre-haiti-en-conferencia-internacional-en-el-salvador/" },
     ],
   },
+
   {
     id: "ntk-petition-marche-saint-marc-2026-11-14",
     tier: "need-to-know",
     topic: "society",
-    publishedAt: "2026-11-14",
-    publishedTime: "2026-11-14T20:22:00-05:00",
+    publishedAt: "2026-11-16",
+    publishedTime: "2026-11-16T11:00:00-05:00",
+    isFollowUp: true,
     headline: {
-      ht: "Lidè relijye yo lanse yon petisyon pou twoup salvadoryen yo; yon mach pwograme nan Senmak 17 ak 18 novanm",
-      fr: "Des responsables religieux lancent une pétition en soutien aux troupes salvadoriennes; une marche est prévue à Saint-Marc les 17 et 18 novembre",
+      ht: "Apèl pou rasanbleman 16, 17 ak 18 novanm: sipò pou twoup salvadoryen yo, e demann pou Fils-Aimé ale",
+      fr: "Appels à des rassemblements les 16, 17 et 18 novembre : soutien aux troupes salvadoriennes, et demande du départ de Fils-Aimé",
     },
     teaser: {
-      ht: "Òganizatè mach la, dapre Rezo Nòdwès, vle di mesi Bukele e mande Fils-Aimé ale. Se sa yo di; mach la poko fèt.",
-      fr: "Les organisateurs de la marche, selon Rezo Nòdwès, veulent remercier Bukele et demander le départ de Fils-Aimé. C'est leur appel; la marche n'a pas encore eu lieu.",
+      ht: "Se anons, se pa evènman ki deja fèt. Mach Senmak la rete pwograme 17 ak 18 novanm.",
+      fr: "Ce sont des appels, pas des événements déjà tenus. La marche de Saint-Marc reste prévue les 17 et 18 novembre.",
     },
     brief: {
-      ht: "Evèk Grégory Toussaint te lanse, 13 novanm, petisyon « Free Haiti – Libérez Haïti – Libere Ayiti », Juno7 ekri. Nan Artibonite, Rezo Nòdwès relè yon rasanbleman ki pwograme 17 ak 18 novanm nan Senmak.",
-      fr: "L'évêque Grégory Toussaint a lancé, le 13 novembre, la pétition « Free Haiti – Libérez Haïti – Libere Ayiti », écrit Juno7. Dans l'Artibonite, Rezo Nòdwès relait un rassemblement prévu les 17 et 18 novembre à Saint-Marc.",
+      ht: "Rezo Nòdwès relè plizyè apèl pou rasanbleman 16, 17 ak 18 novanm, nan Pòtoprens, Senmak, Gonayiv ak nan dyaspora a, pou sipòte operasyon salvadoryen yo epi mande Premye minis Alix Didier Fils-Aimé ale. Se sa òganizatè yo di.",
+      fr: "Rezo Nòdwès relait plusieurs appels à des rassemblements les 16, 17 et 18 novembre, à Port-au-Prince, Saint-Marc, aux Gonaïves et dans la diaspora, pour soutenir les opérations salvadoriennes et demander le départ du Premier ministre Alix Didier Fils-Aimé. C'est ce que disent les organisateurs.",
     },
     body: {
-      ht: "Juno7 ekri lidè relijye ayisyen yo ap mobilize pou soutni entèvansyon twoup salvadoryen yo kont gang ame yo. Vandredi 13 novanm 2026, evèk Grégory Toussaint, yon figi evanjelik, te lanse petisyon entènasyonal « Free Haiti – Libérez Haïti – Libere Ayiti », ki enspire de Pwovèb 31, vèsè 8. Petisyon an adrese gouvènman ameriken, Nasyonzini ak òganizasyon defans dwa moun, pami yo Amnisti Entènasyonal, pou yo tande apèl popilasyon an. Inisyatè yo vle mobilize kominote kretyen ann Ayiti ak nan dyaspora. Se pozisyon yo; nou relè l jan Juno7 pibliye l.\n\nNan Artibonite, Rezo Nòdwès ekri yon mobilizasyon pwograme 17 ak 18 novanm nan Senmak, kote òganizatè yo di yo ap tann delegasyon dis komin. Yo vle di mesi prezidan salvadoryen Nayib Bukele pou entèvansyon l kont gang yo, mande twoup salvadoryen nan depatman an, epi reklame demisyon Premye minis Alix Didier Fils-Aimé. Rasanbleman an tonbe lavèy ak jou komemorasyon batay Vètyè, 18 novanm. Se sa òganizatè yo anonse, dapre Rezo Nòdwès; mach la poko fèt, e nou pa ka konfime konbyen moun ki pral la.",
-      fr: "Juno7 écrit que des responsables religieux haïtiens se mobilisent pour soutenir l'intervention des troupes salvadoriennes contre les gangs armés. Vendredi 13 novembre 2026, l'évêque Grégory Toussaint, une figure du milieu évangélique, a lancé la pétition internationale « Free Haiti – Libérez Haïti – Libere Ayiti », inspirée du Livre des Proverbes, chapitre 31, verset 8. Cette pétition s'adresse au gouvernement américain, à l'ONU et à des organisations de défense des droits humains, dont Amnesty International, afin qu'ils entendent l'appel de la population. Les initiateurs veulent mobiliser les communautés chrétiennes en Haïti et dans la diaspora. C'est leur position; nous la relayons telle que Juno7 l'a publiée.\n\nDans l'Artibonite, Rezo Nòdwès écrit qu'une mobilisation est prévue les 17 et 18 novembre à Saint-Marc, où les organisateurs disent attendre des délégations de dix communes. Ils veulent remercier le président salvadorien Nayib Bukele pour son intervention contre les gangs, demander l'envoi de soldats salvadoriens dans le département, et réclamer la démission du Premier ministre Alix Didier Fils-Aimé. Le rassemblement tombe à la veille et le jour de la commémoration de la bataille de Vertières, le 18 novembre. C'est l'annonce des organisateurs, selon Rezo Nòdwès; la marche n'a pas encore eu lieu, et nous ne pouvons pas confirmer le nombre de participants.",
+      ht: "Anons yo kontinye. Rezo Nòdwès ekri, nan yon atik 15 novanm, Dr Josué Renaud, responsab New England Human Rights Organization (NEHRO), apel pou manifestasyon pasifik 16, 17 ak 18 novanm, sitou 18 novanm, jou anivèsè batay Vètyè, pou di mesi prezidan Nayib Bukele epi mande demisyon Premye minis Alix Didier Fils-Aimé. Jounal la tit atik la ak fòmil « protecteur des gangs » pou pale de Premye minis la, nan prezantasyon apèl Renaud la. Nou atribiye fòmil sa a a tit jounal la sou antretyen an. Nan menm nòt la, rasanbleman yo te anonse nan Pòtoprens, Senmak, Gonayiv ak Brooklyn. Nan Senmak, òganizatè yo di yo ap tann, 17 ak 18 novanm, delegasyon soti nan dis komin Latibonit. Se apèl, se pa evènman nou ka di ki deja fèt.\n\nJuno7 ekri lidè relijye ayisyen yo ap mobilize pou soutni entèvansyon twoup salvadoryen yo kont gang ame yo. Vandredi 13 novanm 2026, evèk Grégory Toussaint, yon figi evanjelik, te lanse petisyon entènasyonal « Free Haiti – Libérez Haïti – Libere Ayiti », ki enspire de Pwovèb 31, vèsè 8. Petisyon an adrese gouvènman ameriken, Nasyonzini ak òganizasyon defans dwa moun, pami yo Amnisti Entènasyonal, pou yo tande apèl popilasyon an. Inisyatè yo vle mobilize kominote kretyen ann Ayiti ak nan dyaspora. Se pozisyon yo; nou relè l jan Juno7 pibliye l.\n\nNan Artibonite, Rezo Nòdwès ekri yon mobilizasyon pwograme 17 ak 18 novanm nan Senmak, kote òganizatè yo di yo ap tann delegasyon dis komin. Yo vle di mesi prezidan salvadoryen Nayib Bukele pou entèvansyon l kont gang yo, mande twoup salvadoryen nan depatman an, epi reklame demisyon Premye minis Alix Didier Fils-Aimé. Rasanbleman an tonbe lavèy ak jou komemorasyon batay Vètyè, 18 novanm. Se sa òganizatè yo anonse, dapre Rezo Nòdwès; mach la poko fèt, e nou pa ka konfime konbyen moun ki pral la.",
+      fr: "Les appels se poursuivent. Rezo Nòdwès écrit, dans un article du 15 novembre, que le Dr Josué Renaud, responsable de la New England Human Rights Organization (NEHRO), appelle à des manifestations pacifiques les 16, 17 et 18 novembre, surtout le 18 novembre, jour anniversaire de la bataille de Vertières, pour remercier le président Nayib Bukele et demander la démission du Premier ministre Alix Didier Fils-Aimé. Le journal titre cet article avec la formule « protecteur des gangs » à propos du Premier ministre, dans sa présentation de l'appel de Renaud. Nous attribuons cette formule au titre du journal sur cet entretien. Dans la même note, des rassemblements étaient annoncés à Port-au-Prince, à Saint-Marc, aux Gonaïves et à Brooklyn. À Saint-Marc, les organisateurs disent attendre, les 17 et 18 novembre, des délégations de dix communes de l'Artibonite. Ce sont des appels, pas des événements dont nous pourrions dire qu'ils ont déjà eu lieu.\n\nJuno7 écrit que des responsables religieux haïtiens se mobilisent pour soutenir l'intervention des troupes salvadoriennes contre les gangs armés. Vendredi 13 novembre 2026, l'évêque Grégory Toussaint, une figure du milieu évangélique, a lancé la pétition internationale « Free Haiti – Libérez Haïti – Libere Ayiti », inspirée du Livre des Proverbes, chapitre 31, verset 8. Cette pétition s'adresse au gouvernement américain, à l'ONU et à des organisations de défense des droits humains, dont Amnesty International, afin qu'ils entendent l'appel de la population. Les initiateurs veulent mobiliser les communautés chrétiennes en Haïti et dans la diaspora. C'est leur position; nous la relayons telle que Juno7 l'a publiée.\n\nDans l'Artibonite, Rezo Nòdwès écrit qu'une mobilisation est prévue les 17 et 18 novembre à Saint-Marc, où les organisateurs disent attendre des délégations de dix communes. Ils veulent remercier le président salvadorien Nayib Bukele pour son intervention contre les gangs, demander l'envoi de soldats salvadoriens dans le département, et réclamer la démission du Premier ministre Alix Didier Fils-Aimé. Le rassemblement tombe à la veille et le jour de la commémoration de la bataille de Vertières, le 18 novembre. C'est l'annonce des organisateurs, selon Rezo Nòdwès; la marche n'a pas encore eu lieu, et nous ne pouvons pas confirmer le nombre de participants.",
     },
-    sources: ["Juno7", "Rezo Nòdwès"],
+    sources: ["Juno7", "Rezo Nòdwès",
+      "Josué Renaud / NEHRO",
+    ],
     sourceLinks: [
       { name: "Juno7", url: "https://www.juno7.ht/haiti-mobilisation-religieuse-troupes-salvadoriennes/" },
       { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/haiti-insecurite-artibonite-dix-communes-attendues-a-saint-marc-les-17-et-18-novembre-pour-remercier-bukele-et-exiger-le-depart-de-fils-aime/" },
+    
+      { name: "Rezo Nòdwès (appel Renaud)", url: "https://rezonodwes.com/2026/11/audio-haiti-du-16-au-18-novembre-manifester-pour-bukele-et-reclamer-le-depart-de-fils-aime-protecteur-des-gangs-lappel-du-dr-renaud-de-nehro/" },
     ],
   },
+
   {
     id: "qh-cassation-orientations-2026-11-14",
     tier: "quick-hit",
@@ -440,30 +655,39 @@ export const STORIES: Story[] = [
     id: "qh-d1-derbys-asc-fica-juventus-america-2026-11-14",
     tier: "quick-hit",
     topic: "sports",
-    publishedAt: "2026-11-14",
-    publishedTime: "2026-11-14T08:14:00-05:00",
+    publishedAt: "2026-11-16",
+    publishedTime: "2026-11-16T10:57:00-05:00",
+    isFollowUp: true,
     headline: {
-      ht: "D1, 3yèm jounen: derby ASC-FICA nan Okap, Juventus-América nan Okay",
-      fr: "D1, 3e journée : derby ASC-FICA au Cap-Haïtien, Juventus-América aux Cayes",
+      ht: "D1, 3yèm jounen: ASC bat FICA 2-0 nan derby Okap la; América genyen 1-0 sou Juventus nan Okay",
+      fr: "D1, 3e journée : l'ASC bat le FICA 2-0 dans le derby du Cap; l'América s'impose 1-0 face au Juventus aux Cayes",
     },
     teaser: {
-      ht: "Sis match dimanch, twa nan chak gwoup. Lig ayisyen an òganize jounen an.",
-      fr: "Six matchs dimanche, trois dans chaque groupe. La Ligue haïtienne de football organise cette journée.",
+      ht: "Tempête ak Racing Gonaïves 0-0. Real Hope ak Ouanaminthe 0-0. Violette tannen Don Bosco 4-1.",
+      fr: "Tempête et Racing des Gonaïves 0-0. Real Hope et Ouanaminthe 0-0. Le Violette s'impose 4-1 chez le Don Bosco.",
     },
     brief: {
-      ht: "Twazyèm jounen chanpyona premye divizyon an jwe dimanch, ak de derby: ASC kont FICA nan Okap, Juventus kont América nan Okay, Le Nouvelliste ekri.",
-      fr: "La troisième journée du championnat de première division se joue dimanche, avec deux derbys: ASC contre FICA au Cap-Haïtien, Juventus contre América aux Cayes, écrit Le Nouvelliste.",
+      ht: "HaitiLibre pibliye rezilta twazyèm jounen premye divizyon an, ki te jwe dimanch 15 novanm: ASC 2-0 FICA, América 1-0 Juventus, Racing Gonaïves 0-0 Tempête, Real Hope 0-0 Ouanaminthe, Racing Club haïtien 1-1 Cavaly, Don Bosco 1-4 Violette. NAGO ak Haiti-Tempo konfime derby Okap la.",
+      fr: "HaitiLibre publie les résultats de la troisième journée de première division, jouée dimanche 15 novembre: ASC 2-0 FICA, América 1-0 Juventus, Racing des Gonaïves 0-0 Tempête, Real Hope 0-0 Ouanaminthe, Racing Club haïtien 1-1 Cavaly, Don Bosco 1-4 Violette. NAGO et Haiti-Tempo confirment le derby du Cap.",
     },
     body: {
-      ht: "Twazyèm jounen chanpyona nasyonal premye divizyon an, ke Lig ayisyen foutbòl (LHF) òganize, jwe dimanch 15 novanm 2026, Le Nouvelliste ekri. Gen twa match nan gwoup Grand Nò, twa nan gwoup Grand Sid.\n\nNan Okap, premye derby sezon an opoze Association sportive capoise (ASC) ak Football inter club association (FICA), nan pak Saint-Victor, Le National relè. Nan Okay, Juventus FC jwe América FC, nan Land des Gabions. Le National ekri sis renkont yo pwograme dimanch; kèk sous di koudèpi a se alantou 15h, lè Ayiti, men orè egzak la ka ajiste.\n\nLòt match yo, dapre menm kalandriye a: Racing FC kont Tempête FC nan pak Vincent, Real Hope Academy kont Ouanaminthe FC nan pak Résigné, Racing Club haïtien kont Cavaly AS nan pak Sainte-Claire, ak Don Bosco FC kont Violette AC nan pak Sainte-Thérèse.",
-      fr: "La troisième journée du championnat national de première division, organisée par la Ligue haïtienne de football (LHF), se joue dimanche 15 novembre 2026, écrit Le Nouvelliste. Trois matchs sont au programme dans le groupe Grand Nord, trois dans le groupe Grand Sud.\n\nAu Cap-Haïtien, le premier derby de la saison oppose l'Association sportive capoise (ASC) au Football inter club association (FICA), au parc Saint-Victor, relaie Le National. Aux Cayes, le Juventus FC affronte l'América FC, au Land des Gabions. Le National écrit que les six rencontres sont prévues dimanche; certaines sources situent le coup d'envoi vers 15h, heure d'Haïti, mais l'horaire exact peut encore être ajusté.\n\nLes autres affiches, selon le même calendrier, sont: Racing FC contre Tempête FC au parc Vincent, Real Hope Academy contre Ouanaminthe FC au parc Résigné, Racing Club haïtien contre Cavaly AS au parc Sainte-Claire, et Don Bosco FC contre Violette AC au parc Sainte-Thérèse.",
+      ht: "HaitiLibre pibliye rezilta twazyèm jounen chanpyona premye divizyon an, ki te jwe dimanch 15 novanm 2026. Nan derby Okap la, nan pak Saint-Victor, Association sportive capoise (ASC) te bat Football inter club association (FICA) 2-0, ak gòl Tanis Mackidens (44e) ak Michel Bassista (68e). Haiti-Tempo ak NAGO konfime rezilta sa a. Nan Okay, nan Land des Gabions, América FC te genyen 1-0 sou Juventus FC, gras a yon gòl Charles Pierre Hypolite nan 27e minit.\n\nLòt match yo, toujou dapre HaitiLibre: Racing FC ak Tempête FC 0-0 nan pak Vincent, Gonayiv; Real Hope FA ak Ouanaminthe FC 0-0 nan pak Résigné; Racing Club haïtien ak Cavaly AS 1-1 nan pak Sainte-Claire (gòl Jean Denickson Dajolly 42e pou Cavaly, Mackenson Rosier 83e pou Racing); Don Bosco 1-4 Violette AC nan pak Sainte-Thérèse, Petyonvil. Se bilan jounal sa yo n ap relè.\n\nTwazyèm jounen chanpyona nasyonal premye divizyon an, ke Lig ayisyen foutbòl (LHF) òganize, jwe dimanch 15 novanm 2026, Le Nouvelliste ekri. Gen twa match nan gwoup Grand Nò, twa nan gwoup Grand Sid.\\n\\nNan Okap, premye derby sezon an opoze Association sportive capoise (ASC) ak Football inter club association (FICA), nan pak Saint-Victor, Le National relè. Nan Okay, Juventus FC jwe América FC, nan Land des Gabions. Le National ekri sis renkont yo pwograme dimanch; kèk sous di koudèpi a se alantou 15h, lè Ayiti, men orè egzak la ka ajiste.\\n\\nLòt match yo, dapre menm kalandriye a: Racing FC kont Tempête FC nan pak Vincent, Real Hope Academy kont Ouanaminthe FC nan pak Résigné, Racing Club haïtien kont Cavaly AS nan pak Sainte-Claire, ak Don Bosco FC kont Violette AC nan pak Sainte-Thérèse.",
+      fr: "HaitiLibre publie les résultats de la troisième journée du championnat de première division, jouée dimanche 15 novembre 2026. Dans le derby du Cap-Haïtien, au parc Saint-Victor, l'Association sportive capoise (ASC) a battu le Football inter club association (FICA) 2-0, buts de Tanis Mackidens (44e) et de Michel Bassista (68e). Haiti-Tempo et NAGO confirment ce résultat. Aux Cayes, au Land des Gabions, l'América FC s'est imposé 1-0 face au Juventus FC, grâce à un but de Charles Pierre Hypolite à la 27e minute.\n\nLes autres matchs, toujours selon HaitiLibre: Racing FC et Tempête FC 0-0 au parc Vincent, aux Gonaïves; Real Hope FA et Ouanaminthe FC 0-0 au parc Résigné; Racing Club haïtien et Cavaly AS 1-1 au parc Sainte-Claire (buts de Jean Denickson Dajolly à la 42e pour le Cavaly, de Mackenson Rosier à la 83e pour le Racing); Don Bosco 1-4 Violette AC au parc Sainte-Thérèse, à Pétion-Ville. C'est le bilan de ces journaux que nous relayons.\n\nLa troisième journée du championnat national de première division, organisée par la Ligue haïtienne de football (LHF), se joue dimanche 15 novembre 2026, écrit Le Nouvelliste. Trois matchs sont au programme dans le groupe Grand Nord, trois dans le groupe Grand Sud.\\n\\nAu Cap-Haïtien, le premier derby de la saison oppose l'Association sportive capoise (ASC) au Football inter club association (FICA), au parc Saint-Victor, relaie Le National. Aux Cayes, le Juventus FC affronte l'América FC, au Land des Gabions. Le National écrit que les six rencontres sont prévues dimanche; certaines sources situent le coup d'envoi vers 15h, heure d'Haïti, mais l'horaire exact peut encore être ajusté.\\n\\nLes autres affiches, selon le même calendrier, sont: Racing FC contre Tempête FC au parc Vincent, Real Hope Academy contre Ouanaminthe FC au parc Résigné, Racing Club haïtien contre Cavaly AS au parc Sainte-Claire, et Don Bosco FC contre Violette AC au parc Sainte-Thérèse.",
     },
-    sources: ["Le Nouvelliste", "Le National"],
+    sources: ["Le Nouvelliste", "Le National",
+      "HaitiLibre",
+    ],
     sourceLinks: [
       { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273876/d1-une-troisieme-journee-au-rythme-de-deux-derbys" },
       { name: "Le National", url: "https://www.lenational.org/article/sport/3174/deux-derbies-pour-faire-vibrer-le-nord-et-le-sud-a-la-troisieme-journee" },
+    
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48904-haiti-serie-d-ouverture-d1-2026-2027-resultats-de-la-3eme-journee-du-championnat.html" },
+      { name: "NAGO", url: "https://news.nago.tv/d1-la-capoise-gagne-le-derby-du-nord-lamerica-seul-en-tete-du-groupe-b" },
+      { name: "Haiti-Tempo", url: "https://haititempo.com/foot-d1-las-capoise-assomme-le-fica/" },
     ],
   },
+
+
 
 
   {
@@ -914,29 +1138,32 @@ export const STORIES: Story[] = [
     id: "ntk-cep-cloture-inscriptions-j2-2026-11-13",
     tier: "need-to-know",
     topic: "politics",
-    publishedAt: "2026-11-13",
-    publishedTime: "2026-11-14T20:18:00-05:00",
+    publishedAt: "2026-11-16",
+    publishedTime: "2026-11-16T11:03:00-05:00",
     isFollowUp: true,
     headline: {
-      ht: "CEP: pann Outlook, delè 15 novanm lan kenbe; 32 enskripsyon pou prezidans lan",
-      fr: "CEP : panne d'Outlook, le délai du 15 novembre tient; 32 inscriptions à la présidence",
+      ht: "CEP: enskripsyon anliy yo fèmen; 33 pou prezidans, 535 pou Sena, 1 855 pou depite",
+      fr: "CEP : les inscriptions en ligne sont closes; 33 à la présidence, 535 au Sénat, 1 855 à la députation",
     },
     teaser: {
-      ht: "Nòt 14 novanm lan pa anonse okenn pwolongasyon. HaitiLibre site, pami nouvo non yo, Lumarque, Michelet, Renois ak Hans Jacques Ludwig Joseph.",
-      fr: "La note du 14 novembre n'annonce aucune prolongation. HaitiLibre cite, parmi les nouveaux noms, Lumarque, Michelet, Renois et Hans Jacques Ludwig Joseph.",
+      ht: "Twa fanm enskri pou prezidans lan, pami yo Martine Moïse. Depo pyès yo rete ouvè jouk 30 novanm.",
+      fr: "Trois femmes sont inscrites à la présidence, dont Martine Moïse. Le dépôt des pièces reste ouvert jusqu'au 30 novembre.",
     },
     brief: {
-      ht: "CEP atribiye perturbasyon platfòm li a yon pann mondyal Outlook. Fèmen enskripsyon sou entènèt yo rete dimanch 15 novanm a minwi. Samdi swa, tablo ofisyèl la te montre 32 enskripsyon pou prezidans lan, 30 gason ak 2 fanm.",
-      fr: "Le CEP attribue des perturbations de sa plateforme à une panne mondiale d'Outlook. La clôture des inscriptions en ligne reste fixée à dimanche 15 novembre à minuit. Samedi soir, le tableau officiel affichait 32 inscriptions à la présidence, 30 hommes et 2 femmes.",
+      ht: "Lendi 16 novanm, a 10h55, èdtan Ayiti, tablo ofisyèl CEP la te montre 33 enskripsyon preliminè pou prezidans lan, 30 gason ak 3 fanm, 535 pou Sena a ak 1 855 pou depite. Enskripsyon sou entènèt yo te fèmen dimanch 15 novanm a minwi. Depo pyès yo rete ouvè jouk 30 novanm.",
+      fr: "Lundi 16 novembre, à 10h55, heure d'Haïti, le tableau officiel du CEP affichait 33 inscriptions préliminaires à la présidence, 30 hommes et 3 femmes, 535 au Sénat et 1 855 à la députation. L'inscription en ligne a clos dimanche 15 novembre à minuit. Le dépôt des pièces reste ouvert jusqu'au 30 novembre.",
     },
     body: {
-      ht: "Samdi 14 novanm 2026, CEP te rekonèt platfòm enskripsyon an t ap gen perturbasyon. Nan yon nòt, li atribiye difikilte yo a entèripsyon entèmitan mesajri Microsoft Outlook sou tout planè a, Juno7 ekri. Konsèy la di l ap swiv ensidan an epi li mande pati, gwoupman ak kandida endepandan yo pran pasyans. Nòt la pa anonse okenn pwolongasyon delè enskripsyon an, ki rete dimanch 15 novanm a minwi. Depo pyès yo rete pou 30 novanm.\n\nHaitiLibre te ekri, samdi, kat nouvo non te pote total enskripsyon prezidansyèl yo a 30, 28 gason ak 2 fanm: Jacky Lumarque (MYEL), Nestor Michelet (DPA), Jean Clarens Renois (Unir Ayiti Ini), ak Hans Jacques Ludwig Joseph (ESCANP), ansyen direktè jeneral ULCC soti jiyè 2020 rive jiyè 2026, jou Konsèy minis yo te revoke l. Juno7 relè deklarasyon 13 novanm li a, kote li mete lit kont enpinite a nan sant kandidati li.\n\nChif yo deja deplase. Samdi swa, a 20h14, lè Ayiti, tablo ofisyèl CEP la, tableau.cephaiti.ht, te afiche 32 enskripsyon pou prezidans lan, 30 gason ak 2 fanm; 469 pou Senat; 1 659 pou palman an. Total enskripsyon yo te rive 10 688, kolektivite teritoryal yo konte ladan. Enskripsyon yo rete preliminè. Yo pa vle di dosye yo valide.\n\nNou nan dènye jou yo anvan fèmen enskripsyon sou entènèt yo. CEP raple, nan yon nòt ofisyèl, ke enskripsyon sou platfòm lan fèmen dimanch 15 novanm 2026 a minwi, epi ke depo pyès yo fèmen lendi 30 novanm. Samdi maten, tablo piblik CEP la te montre 30 enskripsyon pou prezidans lan, 28 gason ak 2 fanm; 458 pou sena a; 1 626 pou palman an. Total enskripsyon yo te rive 10 509, si n konte kolektivite teritoryal yo tou.\n\nNan yon editoryal, Frantz Duval, Le Nouvelliste, souliye ke, a kèk èdtan anvan fèmen an, 30 moun deja fè akt kandidati pou prezidans lan, men ke etap sa a toujou lwen eleksyon yo menm. Enskripsyon sou platfòm lan se premye etap sèlman; validasyon dosye yo vin apre.\n\nKonsèy elektoral pwovizwa a raple, nan yon nòt 10 novanm, enskripsyon an liy pou kandida prezidans ak lejislatif yo pral fini dimanch 15 novanm 2026, a minwi. Peryòd depo pyès yo mande pou dosye kandidati yo pral fini 30 novanm 2026.\n\nVandredi 13 novanm, a 8h58 (lè Ayiti), tablo ofisyèl CEP la, tableau.cephaiti.ht, te afiche 26 enskripsyon pou prezidans, 441 pou Senat ak 1579 pou depite. Pou prezidans lan, te gen 24 gason ak 2 fanm, sètadi 7,7 % fanm. Tablo a konpare pataj sa a ak yon kota 30 %, e li make enskripsyon prezidansyèl yo « sous le quota ». Pou Senat, te gen 59 fanm sou 441 ; pou depite, 109 fanm sou 1579.\n\nEnstitisyon an avèti done platfòm nan dinamik e strikteman preliminè. Enskripsyon an liy se yon premye etap administratif. Li pa vle di dosye a konplè, ni ke CEP valide kandidati a. Lis definitif la ap soti sèlman apre verifikasyon dosye yo. Chif sa yo ka chanje jiskaske platfòm nan fèmen dimanch minwi.",
-      fr: "Samedi 14 novembre 2026, le CEP a reconnu que sa plateforme d'inscription connaissait des perturbations. Dans une note, il attribue ces difficultés à des interruptions intermittentes de la messagerie Microsoft Outlook à l'échelle mondiale, écrit Juno7. Le Conseil dit suivre l'incident et demande aux partis, groupements et candidats indépendants de faire preuve de patience. Sa note n'annonce aucune prolongation du délai d'inscription, qui reste fixé à dimanche 15 novembre à minuit. Le dépôt des pièces demeure clos le 30 novembre.\n\nHaitiLibre a écrit, samedi, que quatre nouveaux noms avaient porté le total des inscriptions présidentielles à 30, 28 hommes et 2 femmes: Jacky Lumarque (MYEL), Nestor Michelet (DPA), Jean Clarens Renois (Unir Ayiti Ini), et Hans Jacques Ludwig Joseph (ESCANP), ancien directeur général de l'ULCC de juillet 2020 à juillet 2026, date à laquelle le Conseil des ministres l'a révoqué. Juno7 relait sa déclaration du 13 novembre, dans laquelle il place la lutte contre l'impunité au centre de sa candidature.\n\nLes chiffres ont déjà bougé. Samedi soir, à 20h14, heure d'Haïti, le tableau officiel du CEP, tableau.cephaiti.ht, affichait 32 inscriptions à la présidence, 30 hommes et 2 femmes; 469 au Sénat; 1 659 à la Chambre des députés. Le total des inscriptions s'élevait à 10 688, collectivités territoriales comprises. Ces inscriptions restent préliminaires. Elles ne valent pas validation des dossiers.\n\nNous voici au dernier jour avant la clôture des inscriptions en ligne. Le CEP rappelle, dans une note officielle, que l'inscription sur la plateforme se ferme dimanche 15 novembre 2026 à minuit, et que le dépôt des pièces se ferme le lundi 30 novembre. Samedi matin, le tableau public du CEP affichait 30 inscriptions à la présidence, 28 hommes et 2 femmes; 458 au Sénat; 1 626 à la Chambre des députés. Le total des inscriptions s'élevait à 10 509, collectivités territoriales comprises.\n\nDans un éditorial, Frantz Duval, du Nouvelliste, souligne que, à quelques heures de la clôture, 30 personnes ont déjà fait acte de candidature à la présidence, mais que cette étape reste encore loin des élections elles-mêmes. L'inscription sur la plateforme n'est que la première étape; la validation des dossiers vient ensuite.\n\nLe Conseil électoral provisoire rappelle, dans une note du 10 novembre, que l'inscription en ligne des candidats à la présidence et aux législatives prendra fin dimanche 15 novembre 2026, à minuit. La période consacrée au dépôt des pièces requises pour les dossiers de candidature prendra fin le 30 novembre 2026.\n\nVendredi 13 novembre, à 8h58 (heure d'Haïti), le tableau officiel du CEP, tableau.cephaiti.ht, affichait 26 inscriptions à la présidence, 441 au Sénat et 1579 à la députation. Pour la présidence, on comptait 24 hommes et 2 femmes, soit 7,7 % de femmes. Le tableau compare cette part à un quota de 30 %, et indique que les inscriptions présidentielles sont « sous le quota ». Au Sénat, on dénombrait 59 femmes sur 441 ; à la députation, 109 femmes sur 1579.\n\nL'institution avertit que les données de la plateforme sont dynamiques et strictement préliminaires. L'inscription en ligne est une première étape administrative. Elle ne vaut ni dépôt complet du dossier, ni validation de la candidature par le CEP. La liste définitive ne sera établie qu'après vérification des dossiers. Ces chiffres peuvent encore changer jusqu'à la fermeture de la plateforme, dimanche à minuit.",
+      ht: "Lendi 16 novanm 2026, a 10h55, èdtan Ayiti, tablo ofisyèl CEP la te afiche 33 enskripsyon preliminè pou prezidans lan, 30 gason ak 3 fanm, 535 pou Sena a ak 1 855 pou depite. Enskripsyon sou entènèt yo te fèmen dimanch 15 novanm a minwi. Depo pyès yo rete ouvè jouk 30 novanm. Pami twa fanm yo ki enskri pou prezidans lan, gen Dominique Dupuy, Anne Savannah Hadid Savary ak Martine Moïse, ki te enskri dimanch sou banyè GAD, kèk èdtan anvan fèmen an. Nou retounen sou enskripsyon sa a nan yon atik apa.\n\nSamdi 14 novanm 2026, CEP te rekonèt platfòm enskripsyon an t ap gen perturbasyon. Nan yon nòt, li atribiye difikilte yo a entèripsyon entèmitan mesajri Microsoft Outlook sou tout planè a, Juno7 ekri. Konsèy la di l ap swiv ensidan an epi li mande pati, gwoupman ak kandida endepandan yo pran pasyans. Nòt la pa anonse okenn pwolongasyon delè enskripsyon an, ki rete dimanch 15 novanm a minwi. Depo pyès yo rete pou 30 novanm.\n\nHaitiLibre te ekri, samdi, kat nouvo non te pote total enskripsyon prezidansyèl yo a 30, 28 gason ak 2 fanm: Jacky Lumarque (MYEL), Nestor Michelet (DPA), Jean Clarens Renois (Unir Ayiti Ini), ak Hans Jacques Ludwig Joseph (ESCANP), ansyen direktè jeneral ULCC soti jiyè 2020 rive jiyè 2026, jou Konsèy minis yo te revoke l. Juno7 relè deklarasyon 13 novanm li a, kote li mete lit kont enpinite a nan sant kandidati li.\n\nChif yo deja deplase. Samdi swa, a 20h14, lè Ayiti, tablo ofisyèl CEP la, tableau.cephaiti.ht, te afiche 32 enskripsyon pou prezidans lan, 30 gason ak 2 fanm; 469 pou Senat; 1 659 pou palman an. Total enskripsyon yo te rive 10 688, kolektivite teritoryal yo konte ladan. Enskripsyon yo rete preliminè. Yo pa vle di dosye yo valide.\n\nNou nan dènye jou yo anvan fèmen enskripsyon sou entènèt yo. CEP raple, nan yon nòt ofisyèl, ke enskripsyon sou platfòm lan fèmen dimanch 15 novanm 2026 a minwi, epi ke depo pyès yo fèmen lendi 30 novanm. Samdi maten, tablo piblik CEP la te montre 30 enskripsyon pou prezidans lan, 28 gason ak 2 fanm; 458 pou sena a; 1 626 pou palman an. Total enskripsyon yo te rive 10 509, si n konte kolektivite teritoryal yo tou.\n\nNan yon editoryal, Frantz Duval, Le Nouvelliste, souliye ke, a kèk èdtan anvan fèmen an, 30 moun deja fè akt kandidati pou prezidans lan, men ke etap sa a toujou lwen eleksyon yo menm. Enskripsyon sou platfòm lan se premye etap sèlman; validasyon dosye yo vin apre.\n\nKonsèy elektoral pwovizwa a raple, nan yon nòt 10 novanm, enskripsyon an liy pou kandida prezidans ak lejislatif yo pral fini dimanch 15 novanm 2026, a minwi. Peryòd depo pyès yo mande pou dosye kandidati yo pral fini 30 novanm 2026.\n\nVandredi 13 novanm, a 8h58 (lè Ayiti), tablo ofisyèl CEP la, tableau.cephaiti.ht, te afiche 26 enskripsyon pou prezidans, 441 pou Senat ak 1579 pou depite. Pou prezidans lan, te gen 24 gason ak 2 fanm, sètadi 7,7 % fanm. Tablo a konpare pataj sa a ak yon kota 30 %, e li make enskripsyon prezidansyèl yo « sous le quota ». Pou Senat, te gen 59 fanm sou 441 ; pou depite, 109 fanm sou 1579.\n\nEnstitisyon an avèti done platfòm nan dinamik e strikteman preliminè. Enskripsyon an liy se yon premye etap administratif. Li pa vle di dosye a konplè, ni ke CEP valide kandidati a. Lis definitif la ap soti sèlman apre verifikasyon dosye yo. Chif sa yo ka chanje jiskaske platfòm nan fèmen dimanch minwi.",
+      fr: "Lundi 16 novembre 2026, à 10h55, heure d'Haïti, le tableau officiel du CEP affichait 33 inscriptions préliminaires à la présidence, 30 hommes et 3 femmes, 535 au Sénat et 1 855 à la députation. L'inscription en ligne a clos dimanche 15 novembre à minuit. Le dépôt des pièces reste ouvert jusqu'au 30 novembre. Parmi les trois femmes inscrites à la présidence figurent Dominique Dupuy, Anne Savannah Hadid Savary et Martine Moïse, inscrite dimanche sous la bannière du GAD, quelques heures avant la clôture. Nous revenons plus en détail sur cette inscription dans un article séparé.\n\nSamedi 14 novembre 2026, le CEP a reconnu que sa plateforme d'inscription connaissait des perturbations. Dans une note, il attribue ces difficultés à des interruptions intermittentes de la messagerie Microsoft Outlook à l'échelle mondiale, écrit Juno7. Le Conseil dit suivre l'incident et demande aux partis, groupements et candidats indépendants de faire preuve de patience. La note n'annonce aucune prolongation du délai d'inscription, qui reste fixé à dimanche 15 novembre à minuit. Le dépôt des pièces demeure clos le 30 novembre.\n\nHaitiLibre a écrit, samedi, que quatre nouveaux noms avaient porté le total des inscriptions présidentielles à 30, 28 hommes et 2 femmes: Jacky Lumarque (MYEL), Nestor Michelet (DPA), Jean Clarens Renois (Unir Ayiti Ini), et Hans Jacques Ludwig Joseph (ESCANP), ancien directeur général de l'ULCC de juillet 2020 à juillet 2026, date à laquelle le Conseil des ministres l'a révoqué. Juno7 relait sa déclaration du 13 novembre, dans laquelle il place la lutte contre l'impunité au centre de sa candidature.\n\nLes chiffres ont déjà bougé. Samedi soir, à 20h14, heure d'Haïti, le tableau officiel du CEP, tableau.cephaiti.ht, affichait 32 inscriptions à la présidence, 30 hommes et 2 femmes; 469 au Sénat; 1 659 à la Chambre des députés. Le total des inscriptions s'élevait à 10 688, collectivités territoriales comprises. Ces inscriptions restent préliminaires. Elles ne valent pas validation des dossiers.\n\nNous voici au dernier jour avant la clôture des inscriptions en ligne. Le CEP rappelle, dans une note officielle, que l'inscription sur la plateforme se ferme dimanche 15 novembre 2026 à minuit, et que le dépôt des pièces se ferme le lundi 30 novembre. Samedi matin, le tableau public du CEP affichait 30 inscriptions à la présidence, 28 hommes et 2 femmes; 458 au Sénat; 1 626 à la Chambre des députés. Le total des inscriptions s'élevait à 10 509, collectivités territoriales comprises.\n\nDans un éditorial, Frantz Duval, du Nouvelliste, souligne que, à quelques heures de la clôture, 30 personnes ont déjà fait acte de candidature à la présidence, mais que cette étape reste encore loin des élections elles-mêmes. L'inscription sur la plateforme n'est que la première étape; la validation des dossiers vient ensuite.\n\nLe Conseil électoral provisoire rappelle, dans une note du 10 novembre, que l'inscription en ligne des candidats à la présidence et aux législatives prendra fin dimanche 15 novembre 2026, à minuit. La période consacrée au dépôt des pièces requises pour les dossiers de candidature prendra fin le 30 novembre 2026.\n\nVendredi 13 novembre, à 8h58 (heure d'Haïti), le tableau officiel du CEP, tableau.cephaiti.ht, affichait 26 inscriptions à la présidence, 441 au Sénat et 1579 à la députation. Pour la présidence, on comptait 24 hommes et 2 femmes, soit 7,7 % de femmes. Le tableau compare cette part à un quota de 30 %, et indique que les inscriptions présidentielles sont « sous le quota ». Au Sénat, on dénombrait 59 femmes sur 441 ; à la députation, 109 femmes sur 1579.\n\nL'institution avertit que les données de la plateforme sont dynamiques et strictement préliminaires. L'inscription en ligne est une première étape administrative. Elle ne vaut ni dépôt complet du dossier, ni validation de la candidature par le CEP. La liste définitive ne sera établie qu'après vérification des dossiers. Ces chiffres peuvent encore changer jusqu'à la fermeture de la plateforme, dimanche à minuit.",
     },
     sources: ["CEP",
       "Le Nouvelliste",
       "Juno7",
       "HaitiLibre",
+    
+      "Tableau officiel du CEP",
+      "The Haitian Times",
     ],
     sourceLinks: [
       { name: "Tableau officiel du CEP", url: "https://tableau.cephaiti.ht/" },
@@ -945,12 +1172,15 @@ export const STORIES: Story[] = [
       { name: "Juno7, panne Outlook", url: "https://www.juno7.ht/cep-inscriptions-candidats-panne-outlook/" },
       { name: "Juno7, Hans Jacques Ludwig Joseph", url: "https://www.juno7.ht/hans-jacques-ludwig-joseph-presidentielle-2027/" },
       { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48896-haiti-actualite-zapping.html" },
+    
+      { name: "The Haitian Times", url: "https://haitiantimes.com/2026/11/16/martine-moise-haiti-presidential-bid/" },
     ],
     readMoreLink: {
-      fr: { before: "Pour relire notre article sur l'inscription de Dominique Dupuy et les 26 prétendants à la présidence, ", link: "cliquez ici", after: ".", href: "/story/ntk-cep-inscriptions-dupuy-pvd-2026-11-12" },
-      ht: { before: "Pou relire atik nou an sou enskripsyon Dominique Dupuy ak 26 pretandan prezidans yo, ", link: "klike la a", after: ".", href: "/ht/story/ntk-cep-inscriptions-dupuy-pvd-2026-11-12" },
+      fr: { before: "Pour lire notre article sur l'inscription de Martine Moïse, ", link: "cliquez ici", after: ".", href: "/story/ntk-martine-moise-candidature-gad-2026-11-16" },
+      ht: { before: "Pou li atik nou an sou enskripsyon Martine Moïse, ", link: "klike la a", after: ".", href: "/ht/story/ntk-martine-moise-candidature-gad-2026-11-16" },
     },
   },
+
   {
     id: "qh-marche-soutien-bukele-2026-11-17",
     tier: "quick-hit",
@@ -1980,29 +2210,37 @@ export const STORIES: Story[] = [
     id: "qh-brh-taux-reference-2026-11-11",
     tier: "quick-hit",
     topic: "commerce",
-    publishedAt: "2026-11-11",
-    publishedTime: "2026-11-11T09:40:20-05:00",
+    publishedAt: "2026-11-16",
+    publishedTime: "2026-11-16T10:56:00-05:00",
+    isFollowUp: true,
     headline: {
-      ht: "BRH : to referans lan nan 130.7986 goud pou yon dola, 11 novanm",
-      fr: "BRH : le taux de référence à 130.7986 gourdes pour un dollar, le 11 novembre",
+      ht: "BRH : to referans lan nan 130.7437 goud pou yon dola, lendi 16 novanm",
+      fr: "BRH : le taux de référence à 130.7437 gourdes pour un dollar, lundi 16 novembre",
     },
     teaser: {
-      ht: "Sit ofisyèl bank lan montre yon ogmantasyon 0,07% konpare ak lavèy la.",
-      fr: "Le site officiel de la banque indique une hausse de 0,07% par rapport à la veille.",
+      ht: "Se chif ki sou paj ofisyèl « Évolution des taux » bank lan. Haiti Infos Pro ak Juno7 pibliye 130,74, yon awondi.",
+      fr: "C'est le chiffre affiché sur la page officielle « Évolution des taux » de la banque. Haiti Infos Pro et Juno7 publient 130,74, un arrondi.",
     },
     brief: {
-      ht: "Sou paj « Taux du jour » li a, ki make 11 novanm 2026, Bank Repiblik Ayiti fikse to referans dola a 130.7986 goud. Bank lan endike yon varyasyon 0,07% pa rapò ak jou anvan an.",
-      fr: "Sur sa page « Taux du jour », datée du 11 novembre 2026, la Banque de la République d'Haïti fixe le taux de référence du dollar à 130.7986 gourdes. La banque indique une variation de 0,07% par rapport à la veille.",
+      ht: "Lendi 16 novanm 2026, Bank Repiblik Ayiti afiche, sou paj ofisyèl « Évolution des taux » li a, yon to referans 130.7437 goud pou yon dola ameriken.",
+      fr: "Lundi 16 novembre 2026, la Banque de la République d'Haïti affiche, sur sa page officielle « Évolution des taux », un taux de référence de 130.7437 gourdes pour un dollar américain.",
     },
     body: {
-      ht: "Bank Repiblik Ayiti pibliye, pou 11 novanm 2026, yon to referans 130.7986 goud pou yon dola ameriken, sou paj ofisyèl « Taux du jour » li a. Anba chif sa a, bank lan endike yon varyasyon 0,07% pa rapò ak jou anvan an, ak 0,10% pa rapò ak semèn anvan an.\n\nSou menm paj la, mache bankè a parèt ak 130.5643 goud nan acha ak 131.6786 goud nan vant. Yon lòt liy, « Taux de référence (10/11/25) », bay 130.6274 goud: se to referans menm dat ane pase a, 10 novanm 2025, dapre prezantasyon tablo a.\n\nNou pa jwenn, nan moman piblikasyon sa a, yon atik Le Quotidien 509 ki bay 130.75 kòm to lavèy la. Sit ofisyèl BRH a pa ekri chif 130.75. Se to 130.7986 ak varyasyon 0,07% bank lan pibliye 11 novanm nou kenbe isit la.",
-      fr: "La Banque de la République d'Haïti publie, pour le 11 novembre 2026, un taux de référence de 130.7986 gourdes pour un dollar américain, sur sa page officielle « Taux du jour ». Sous ce chiffre, la banque indique une variation de 0,07% par rapport à la veille, et de 0,10% par rapport à la semaine précédente.\n\nSur la même page, le marché bancaire apparaît à 130.5643 gourdes à l'achat et 131.6786 gourdes à la vente. Une autre ligne, « Taux de référence (10/11/25) », donne 130.6274 gourdes : il s'agit du taux de référence à la même date l'an dernier, le 10 novembre 2025, d'après la présentation du tableau.\n\nNous n'avons pas trouvé, au moment de cette publication, d'article du Quotidien 509 indiquant 130.75 comme taux de la veille. Le site officiel de la BRH n'écrit pas le chiffre 130.75. Ce sont le taux de 130.7986 et la variation de 0,07% publiés par la banque le 11 novembre que nous retenons ici.",
+      ht: "Lendi 16 novanm 2026, sou paj ofisyèl « Évolution des taux » li a, Bank Repiblik Ayiti (BRH) afiche yon to referans 130.7437 goud pou yon dola ameriken. Haiti Infos Pro ak Juno7 pibliye 130,74 goud, yon awondi menm chif la. Se to ofisyèl 130.7437 la n ap kenbe, jan bank lan afiche l maten an.\n\nBank Repiblik Ayiti pibliye, pou 11 novanm 2026, yon to referans 130.7986 goud pou yon dola ameriken, sou paj ofisyèl « Taux du jour » li a. Anba chif sa a, bank lan endike yon varyasyon 0,07% pa rapò ak jou anvan an, ak 0,10% pa rapò ak semèn anvan an.\n\nSou menm paj la, mache bankè a parèt ak 130.5643 goud nan acha ak 131.6786 goud nan vant. Yon lòt liy, « Taux de référence (10/11/25) », bay 130.6274 goud: se to referans menm dat ane pase a, 10 novanm 2025, dapre prezantasyon tablo a.\n\nNou pa jwenn, nan moman piblikasyon sa a, yon atik Le Quotidien 509 ki bay 130.75 kòm to lavèy la. Sit ofisyèl BRH a pa ekri chif 130.75. Se to 130.7986 ak varyasyon 0,07% bank lan pibliye 11 novanm nou kenbe isit la.",
+      fr: "Lundi 16 novembre 2026, sur sa page officielle « Évolution des taux », la Banque de la République d'Haïti (BRH) affiche un taux de référence de 130.7437 gourdes pour un dollar américain. Haiti Infos Pro et Juno7 publient 130,74 gourdes, un arrondi du même chiffre. C'est le taux officiel de 130.7437, tel que la banque l'affichait ce matin, que nous retenons.\n\nLa Banque de la République d'Haïti publie, pour le 11 novembre 2026, un taux de référence de 130.7986 gourdes pour un dollar américain, sur sa page officielle « Taux du jour ». Sous ce chiffre, la banque indique une variation de 0,07% par rapport à la veille, et de 0,10% par rapport à la semaine précédente.\n\nSur la même page, le marché bancaire apparaît à 130.5643 gourdes à l'achat et 131.6786 gourdes à la vente. Une autre ligne, « Taux de référence (10/11/25) », donne 130.6274 gourdes : il s'agit du taux de référence à la même date l'an dernier, le 10 novembre 2025, d'après la présentation du tableau.\n\nNous n'avons pas trouvé, au moment de cette publication, d'article du Quotidien 509 indiquant 130.75 comme taux de la veille. Le site officiel de la BRH n'écrit pas le chiffre 130.75. Ce sont le taux de 130.7986 et la variation de 0,07% publiés par la banque le 11 novembre que nous retenons ici.",
     },
-    sources: ["BRH"],
+    sources: ["BRH",
+      "Haiti Infos Pro",
+      "Juno7",
+    ],
     sourceLinks: [
       { name: "BRH - Taux du jour", url: "https://www.brh.ht/taux-du-jour/" },
+    
+      { name: "BRH, Évolution des taux", url: "https://www.brh.ht/evolution-des-taux/" },
+      { name: "Haiti Infos Pro", url: "https://haitiinfospro.com/taux-de-reference-la-brh-affiche-13074-gourdes-pour-un-dollar-americain/" },
     ],
   },
+
   {
     id: "qh-haiti-omi-dix-conventions-2026-11-06",
     tier: "quick-hit",
@@ -2828,6 +3066,7 @@ export const STORIES: Story[] = [
     topic: "commerce",
     publishedAt: "2026-11-08",
     publishedTime: "2026-11-08T08:26:11-05:00",
+    archived: true,
     headline: {
       ht: "Semans yo distribye nan Sid : ki garanti pou rekòt la ak pou replante apre ?",
       fr: "Semences distribuées dans le Sud : quelles garanties pour les récoltes et les prochains semis ?",
@@ -2853,12 +3092,14 @@ export const STORIES: Story[] = [
       { name: "University of Maryland Extension — restrictions, contexte américain", url: "https://www.extension.umd.edu/resource/legal-liability-saving-seeds-era-expiring-patents-fs-1000" },
     ],
   },
+
   {
     id: "ntk-miragoane-muscadin-trofort-2026-11-08",
     tier: "need-to-know",
     topic: "justice",
     publishedAt: "2026-11-08",
     publishedTime: "2026-11-08T08:25:41-05:00",
+    archived: true,
     headline: {
       ht: "Miragwàn : yo aksepte demisyon Muscadin, Accel Trofort pran plas la pou yon ti tan",
       fr: "Miragoâne : la démission de Muscadin acceptée, Accel Trofort nommé par intérim",
@@ -2881,6 +3122,7 @@ export const STORIES: Story[] = [
       { name: "Vant Bèf Info", url: "https://vantbefinfo.com/haiti-securite-le-depart-de-muscadin-ravive-les-inquietudes-dans-le-grand-sud/" },
     ],
   },
+
     {
     id: "ntk-pacte-relevement-14-engagements-2026-11-08",
     tier: "need-to-know",
@@ -2918,6 +3160,7 @@ export const STORIES: Story[] = [
     topic: "society",
     publishedAt: "2026-11-08",
     publishedTime: "2026-11-08T08:25:21-05:00",
+    archived: true,
     headline: {
       ht: "Moun ki deplase yo mande operasyon kont gang pandan mach sipò pou Salvador yo",
       fr: "Des déplacés réclament des opérations contre les gangs lors de marches de soutien aux Salvadoriens",
@@ -2939,12 +3182,14 @@ export const STORIES: Story[] = [
       { name: "EFE", url: "https://efe.com/mundo/2026-11-07/marchas-apoyo-bukele-haiti/" },
     ],
   },
+
   {
     id: "qh-diaspora-conseils-scolaires-floride-2026-11-08",
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-11-08",
     publishedTime: "2026-11-08T08:25:11-05:00",
+    archived: true,
     headline: {
       ht: "Sid Florid : twa fanm ayisyano-ameriken eli nan konsèy lekòl yo",
       fr: "Floride du Sud : trois Haïtiano-Américaines élues aux conseils scolaires",
@@ -2966,12 +3211,14 @@ export const STORIES: Story[] = [
       { name: "The Haitian Times", url: "https://haitiantimes.com/2026/11/07/haitian-american-women-south-florida-school-board-wins-2026/" },
     ],
   },
+
   {
     id: "qh-cap-guichet-cep-foire-2026-11-08",
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-11-08",
     publishedTime: "2026-11-08T08:25:01-05:00",
+    archived: true,
     headline: {
       ht: "Okap : CEP te mete yon gichè mobil nan Fwa dyaspora a",
       fr: "Cap-Haïtien : le CEP a déployé un guichet mobile à la Foire de la diaspora",
@@ -2995,12 +3242,14 @@ export const STORIES: Story[] = [
       { name: "Juno7 — message public du 7 novembre", url: "https://x.com/juno7/status/2119276927861088557" },
     ],
   },
+
   {
     id: "qh-constitution-universites-regions-2026-11-08",
     tier: "quick-hit",
     topic: "politics",
     publishedAt: "2026-11-08",
     publishedTime: "2026-11-08T08:24:51-05:00",
+    archived: true,
     headline: {
       ht: "Revizyon Konstitisyon : yo konsilte inivèsite piblik nan rejyon yo",
       fr: "Révision constitutionnelle : les universités publiques en région consultées",
@@ -3022,12 +3271,14 @@ export const STORIES: Story[] = [
       { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273685/revision-constitutionnelle-consultations-avec-les-universites-publiques-en-region" },
     ],
   },
+
   {
     id: "qh-ayiti-vodoufest-cloture-2026-11-08",
     tier: "quick-hit",
     topic: "society",
     publishedAt: "2026-11-08",
     publishedTime: "2026-11-08T08:24:41-05:00",
+    archived: true,
     headline: {
       ht: "Ayiti VodouFest : konsè kloti a anonse pou dimanch sa a nan El Rancho",
       fr: "Ayiti VodouFest : le concert de clôture annoncé ce dimanche à El Rancho",
@@ -3049,12 +3300,14 @@ export const STORIES: Story[] = [
       { name: "RTVC — coorganisatrice", url: "https://www.radiotelecaraibes.com/concert-de-cloture-de-la-2e-edition-de-ayiti-vodoufest-les-des-sont-jetes/" },
     ],
   },
+
   {
     id: "ntk-cite-soleil-explosions-drones-2026-11-05",
     tier: "need-to-know",
     topic: "security",
     publishedAt: "2026-11-08",
     publishedTime: "2026-11-08T08:26:01-05:00",
+    archived: true,
     isFollowUp: true,
     headline: {
       ht: "Site Solèy : otorite yo konfime lanmò Mathias Saintil, men vèsyon sou operasyon an pa menm",
@@ -3078,6 +3331,7 @@ export const STORIES: Story[] = [
       { name: "Miami Herald", url: "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article317973147.html" },
     ],
   },
+
   {
     id: "ntk-haitiens-rd-soutien-salvador-civils-2026-11-05",
     archived: true,
@@ -4744,23 +4998,23 @@ export const STORIES: Story[] = [
     isFollowUp: true,
     tier: "quick-hit",
     topic: "moise-trials",
-    publishedAt: "2026-10-29",
-    publishedTime: "2026-11-14T08:26:00-05:00",
+    publishedAt: "2026-11-16",
+    publishedTime: "2026-11-16T11:02:00-05:00",
     headline: {
-      ht: "Sanon temwaye nan Miyami: li demanti nenpòt patisipasyon nan asasina Jovenel Moïse",
-      fr: "Sanon témoigne à Miami : il nie toute implication dans l'assassinat de Jovenel Moïse",
+      ht: "Sanon, nan dezyèm jou temwayaj li: li di li pa t vle touye Jovenel Moïse; kont-entèwogatwa a te dwe kòmanse lendi",
+      fr: "Sanon, au deuxième jour de son témoignage : il dit n'avoir jamais voulu la mort de Jovenel Moïse; le contre-interrogatoire devait commencer lundi",
     },
     teaser: {
-      ht: "Se premye temwayaj piblik li. Miami Herald, ki te swiv odyans lan, relè pawòl li yo. Li poko jije.",
-      fr: "C'est son premier témoignage public. Le Miami Herald, qui a suivi l'audience, relait ses propos. Il n'a pas encore été jugé.",
+      ht: "Miami Herald te swiv odyans vandredi a. Lendi maten, jounal la poko te pibliye yon kont rann sou kont-entèwogatwa a.",
+      fr: "Le Miami Herald a suivi l'audience de vendredi. Lundi matin, le journal n'avait pas encore publié de compte rendu du contre-interrogatoire.",
     },
     brief: {
-      ht: "Devan tribinal federal Miyami a, pastè evanjelik ayisyen an, ansyen kandida prezidans, yo akize l kòmandite asasina prezidan Jovenel Moïse, te demanti nenpòt patisipasyon. Miami Herald relè temwayaj la.",
-      fr: "Devant le tribunal fédéral de Miami, le pasteur évangélique haïtien et ancien candidat à la présidence, accusé d'avoir commandité l'assassinat du président Jovenel Moïse, a nié toute implication. Le Miami Herald a relaté son témoignage.",
+      ht: "Christian Emmanuel Sanon, 67 an, te kontinye temwaye vandredi 13 novanm devan jiri federal Miyami a. Li te di lanmò prezidan an se yon bagay li pa t tann. Miami Herald te ekri kont-entèwogatwa a te dwe kòmanse lendi 16 novanm.",
+      fr: "Christian Emmanuel Sanon, 67 ans, a poursuivi son témoignage vendredi 13 novembre devant le jury fédéral de Miami. Il a dit que la mort du président était quelque chose qu'il n'avait pas prévue. Le Miami Herald écrivait que le contre-interrogatoire devait commencer lundi 16 novembre.",
     },
     body: {
-      ht: "Nan tribinal federal Miyami a, pastè evanjelik Joseph Joël Vorbe Sanon, ke yo akize kòmandite asasina prezidan Jovenel Moïse, te pran premye fwa pawòl an piblik pou defann tèt li. Miami Herald, ki te swiv odyans lan, ekri Sanon te di li inosan, li pa t òganize, ni finansman, ni bay lòd pou asasina 7 jiyè 2021 la. Li poko jije; se sa li di devan jij la.\n\nJounal la relè Sanon te di relasyon li te gen ak moun yo akize yo se te nan kad relijye oswa politik, e li te rejte teyori akizasyon an. Nou relè temwayaj la jan Miami Herald pibliye l. Nou pa pran pozisyon sou kilpabilite l.\n\nMizajou 5 novanm. Dapre Miami Herald (Jacqueline Charles), Frederick Bergmann, 67 an, temwaye mèkredi 4 novanm devan juri federal Miami nan pwosè Christian Emmanuel Sanon. Se yon pastè Florid yo akize, pami lòt bagay, de konplo pou kidnape oswa touye yon moun andeyò Etazini, anrapò ak asasina prezidan Jovenel Moïse 7 jiyè 2021.\n\nBergmann di se zanmi Sanon li ye depi 17 an. Li ap fè 9 an prizon apre li te plede koupab : li te sipòte yon ekspedisyon militè kont yon nasyon zanmi, epi li te vyole lwa sou ekspòtasyon lè li te fè pase 20 vès balistik pou ekip kolonbyen an. Temwayaj li a fè pati yon akò kolaborasyon. Pawòl ki swiv yo se sa Miami Herald atribiye Bergmann.\n\nDapre Herald la, de jou apre asasina a, Bergmann rele Sanon Pòtoprens. Li di li te pwopoze l avèti laprès, Depatman Jistis oswa FBI, epi priye pou Moïse ak ansyen sòlda kolonbyen ki te mouri yo. Bergmann di Sanon ta refize, epi sou Moïse li ta di : « I don't pray for the rat » (« Mwen pa priye pou rat la »). Bergmann di tou Sanon ta di li « vann nanm li bay dyab la », epi li ta nonmen Windelle Coq Thélot kòm moun li ta « voye » James Solages ba li san li pa jwenn pòs.\n\nToujou dapre Herald la, mesaj tèks ak apèl nan jou anvan 7 jiyè yo montre, selon Bergmann, Sanon pa t totalman deyò jan plan an t ap chanje. Bergmann site yon tèks 30 jen (« The rat will go with his group »), yon mesaj 3 jiyè sou 3000 dola pou bay kolonbyen yo manje, ak yon apèl 5 jiyè kote Solages ta di l, dapre sa l rakonte, « sa pral fèt nan klinik la, pa nan lopital la ». Bergmann di klinik la se rezidans Moïse, lopital la se Palè nasyonal la. Li di li repete pawòl sa yo bay Sanon. Sanon ta konfime yo, men li ta plenn paske yo kite l pou kont li.\n\nLè avoka defans lan, Humberto Dominguez, poze l kesyon, Bergmann rekonèt, toujou dapre Herald la, Solages pa janm di l klèman ki plan an te ye, e li pa t souvan poze Sanon kesyon. Miami Herald ekri temwayaj sa a se, nan pwosè sa a, premye fwa yon rakont mare Sanon dirèkteman ak pwojè asasina a. Jiskaprezan, jounal la ekri, sa yo te prezante a te mete l sitou nan diskisyon sou yon kaptire ak yon ekzil Moïse.\n\nSanon konteste akizasyon yo epi li rete prezime inosan. Pawòl Bergmann se deklarasyon yon temwen, se pa desizyon tribinal. Moun temwayaj la nonmen yo rete prezime inosan toutotan yon tribinal pa kondane yo pou bagay sa yo.\n\nKesyon pou lektè yo :\n\n• Bergmann se yon temwen k ap kolabore, epi li admèt Solages pa janm di l klèman ki plan an te ye. Kisa ki klè nan temwayaj la, e kisa ki rete fason li konprann bagay yo ?\n\n• Herald la ekri, jiskaprezan, yo te mete Sanon sitou nan diskisyon sou yon kaptire ak yon ekzil. Ki lòt temwen, apa Bergmann, ki devan juri a pale de yon plan pou touye ?\n\nAnvan sa, mizajou 3 novanm. Dapre Miami Herald (Jacqueline Charles), Mario Antonio Palacios Palacios, sèl kòmando kolonbyen ki te chape anba lapolis apre atak 7 jiyè 2021 an, temwaye lendi 2 novanm. Palacios, ki te plede koupab, rakonte apre yon nwit nan lari li kwaze Gordon Phénil Désir Petyonvil. Désir ta mennen l lakay li epi ta pase yon apèl. « Mwen kwè li t ap rele senatè a, John », Palacios di. De polisye ta vin chèche l pou mennen l nan baz Vitel'homme Innocent, chèf gang Kraze Baryè. Ansyen senatè John Joël Joseph ta rejwenn li yon semèn apre. Palacios di li te peye Innocent ak lajan li te pran nan chanm prezidan an. Tou de te kouri ale Jamayik pa bato.\n\nMenm jou a, Désir parèt pou premye fwa devan jij majistra Enjoliqué A. Lett, Miami, pou 3 akizasyon, pami yo konplo pou touye oswa kidnape yon moun deyò Etazini. Pèn maksimòm lan se prizon a vi. Odyans lan te ranvwaye pou madi 3 novanm apremidi. Pwokirè yo te mande pou yo kenbe l nan prizon. Désir, Innocent ak John Joël Joseph prezime inosan nan volet sa a toutotan yon tribinal pa kondane yo.\n\n27 ak 28 oktòb, ansyen senatè John Joël Joseph, ki deja kondane a prizon a vi epi ki se yon temwen k ap kolabore, di se Joseph Félix Badio ki t ap dirije konvwa mèsenè kolonbyen yo pou Pèlerin 5. Dapre Miami Herald ak Haïti Liberté, NAGO site, nan premye pwosè a an avril li te nonmen James Solages. Li di tou Badio te rele yon jounalis ak yon responsab dwa moun maten 7 jiyè 2021 pou anonse asasina a. Badio prezime inosan, e pa gen dat pwosè ki fikse pou li.\n\nPwosè federal Sanon an louvri 28 septanm 2026. Martine Moïse se te premye temwen an, 29 septanm. 13 ak 14 oktòb, ajan FBI Elizabeth Wieder prezante mesaj sou difikilte pou peye mèsenè kolonbyen yo jiska 6 jiyè 2021, ak senaryo pou kiyès ki t ap ranplase Moïse. Okòmansman se Sanon yo te konsidere, apre sa yo mete l sou kote akoz sitwayènte ameriken li. Yon lòt senaryo te mete jij Wendelle Coq Thélot kòm prezidan ak Joseph Lambert kòm Premye minis. Non ki parèt nan mesaj sa yo se pa desizyon tribinal. Defans lan ap eseye separe Sanon de pati vyolan yo.\n\n21 oktòb, analis FBI Kaitlin Dayton montre juri a yon videyo 7 minit Sanon te resevwa 3 me 2021. Akizasyon an prezante l kòm yon gid pou ranvèse yon gouvènman, dapre Miami Herald. 23 oktòb, John Joël Joseph di li te òganize yon rankont ant Sanon ak Pierre Espérance (RNDDH), dapre Juno7. Temwayaj sa a pou kont li pa montre Espérance te gen yon wòl nan asasina a.\n\nFen septanm, yo te transfere 18 akize soti Ayiti pou Miami, tankou Joseph Félix Badio ak 17 ansyen sòlda kolonbyen.\n\nAnn Ayiti, nan yon lèt 22 oktòb 2026, komisè gouvènman an bò Kou Apèl Pòtoprens lan, Claude Jean, fè minis Jistis Patrick Pélissier konnen jij Cyprien Jn F. Denis Pierre, ki responsab konpleman ankèt Kou a te bay lòd fè 13 oktòb 2025, poko remèt rapò li.",
-      fr: "Au tribunal fédéral de Miami, le pasteur évangélique Joseph Joël Vorbe Sanon, accusé d'avoir commandité l'assassinat du président Jovenel Moïse, a pris la parole en public pour la première fois afin de se défendre. Le Miami Herald, qui a suivi l'audience, écrit que Sanon s'est dit innocent, et qu'il n'a ni organisé, ni financé, ni ordonné l'assassinat du 7 juillet 2021. Il n'a pas encore été jugé; c'est ce qu'il a déclaré devant le juge.\n\nLe journal relait que Sanon a présenté ses relations avec des personnes également visées par l'accusation comme relevant d'un cadre religieux ou politique, et qu'il a rejeté la thèse de l'accusation. Nous relayons son témoignage tel que le Miami Herald l'a publié. Nous ne prenons pas position sur sa culpabilité.\n\nMise à jour du 5 novembre. Selon le Miami Herald (Jacqueline Charles), Frederick Bergmann, 67 ans, a témoigné mercredi 4 novembre devant le jury fédéral de Miami dans le procès de Christian Emmanuel Sanon. Le pasteur de Floride est accusé notamment de complot pour enlever ou tuer une personne hors des États-Unis, en lien avec l'assassinat du président Jovenel Moïse le 7 juillet 2021.\n\nBergmann se dit ami de Sanon depuis 17 ans. Il purge une peine de 9 ans après avoir plaidé coupable d'avoir soutenu une expédition militaire contre une nation amie et d'avoir violé les lois sur l'exportation en faisant passer 20 gilets balistiques destinés à l'équipe colombienne. Son témoignage s'inscrit dans un accord de coopération. Ce qui suit est ce que le Miami Herald attribue à Bergmann.\n\nSelon le Herald, deux jours après l'assassinat, Bergmann a appelé Sanon à Port-au-Prince. Il dit lui avoir proposé d'alerter la presse, le département de la Justice ou le FBI, et de prier pour Moïse et pour les anciens soldats colombiens tués. Bergmann affirme que Sanon aurait refusé et aurait dit, à propos de Moïse : « I don't pray for the rat » (« Je ne prie pas pour le rat »). Bergmann affirme aussi que Sanon aurait déclaré avoir « vendu son âme au diable » et aurait nommé Windelle Coq Thélot comme la personne à qui il aurait « envoyé » James Solages sans obtenir de poste.\n\nToujours selon le Herald, des textos et des appels des jours précédant le 7 juillet montrent, d'après Bergmann, que Sanon n'aurait pas été totalement tenu à l'écart de l'évolution du plan. Bergmann cite un texto du 30 juin (« The rat will go with his group »), un message du 3 juillet sur 3000 dollars pour nourrir les Colombiens, et un appel du 5 juillet où Solages lui aurait dit, selon son récit, que « ça va se passer à la clinique, pas à l'hôpital ». Bergmann dit que la clinique désignait la résidence de Moïse et l'hôpital le Palais national. Il dit avoir rapporté ces propos à Sanon, qui les aurait confirmés tout en se plaignant d'avoir été laissé seul.\n\nSous le contre-interrogatoire de l'avocat de la défense, Humberto Dominguez, Bergmann a reconnu, toujours selon le Herald, que Solages ne lui avait jamais dit explicitement quel était le plan, et qu'il avait rarement posé de questions à Sanon. Le Miami Herald écrit que ce témoignage est, dans ce procès, la première fois qu'un récit lie directement Sanon au projet d'assassinat. Jusqu'ici, écrit le journal, les éléments présentés le plaçaient surtout dans des discussions sur une capture et un exil de Moïse.\n\nSanon conteste les accusations et reste présumé innocent. Les propos de Bergmann sont des déclarations d'un témoin, pas une décision du tribunal. Les personnes citées dans ce témoignage qui n'ont pas été condamnées pour ces faits restent présumées innocentes.\n\nQuestions aux lecteurs :\n\n• Bergmann est un témoin coopérant, et il a reconnu à la barre que Solages ne lui avait jamais dit explicitement le plan. Qu'est-ce qui est établi dans ce témoignage, et qu'est-ce qui reste son interprétation ?\n\n• Le Herald écrit que, jusqu'ici, les éléments du procès plaçaient surtout Sanon dans des discussions sur une capture et un exil. Quel autre témoin, à part Bergmann, a décrit devant ce jury un plan pour tuer ?\n\nAuparavant, mise à jour du 3 novembre. Selon le Miami Herald (Jacqueline Charles), Mario Antonio Palacios Palacios, le seul commando colombien à avoir échappé à la police après l'attaque du 7 juillet 2021, a témoigné le lundi 2 novembre. Palacios, qui a plaidé coupable, raconte qu'après une nuit dans la rue il a croisé Gordon Phénil Désir à Pétion-Ville. Désir l'aurait conduit chez lui et aurait passé un appel. « Je crois qu'il appelait le sénateur, John », a dit Palacios. Deux policiers seraient venus le chercher pour l'emmener à la base de Vitel'homme Innocent, chef du gang Kraze Baryè. L'ex-sénateur John Joël Joseph l'aurait rejoint une semaine plus tard. Palacios affirme avoir payé Innocent avec de l'argent pris dans la chambre du président. Les deux hommes ont fui en Jamaïque par bateau.\n\nLe même jour, Désir a comparu pour la première fois devant la juge magistrate Enjoliqué A. Lett, à Miami, pour 3 chefs d'accusation, dont le complot visant à tuer ou enlever une personne hors des États-Unis. La peine maximale est la prison à vie. L'audience a été renvoyée au mardi 3 novembre après-midi. Le parquet demandait sa détention provisoire. Désir, Innocent et John Joël Joseph sont présumés innocents dans ce volet tant qu'un tribunal ne les a pas condamnés.\n\nLes 27 et 28 octobre, l'ex-sénateur John Joël Joseph, déjà condamné à la prison à vie et témoin coopérant, a affirmé que Joseph Félix Badio dirigeait le convoi des mercenaires colombiens vers Pèlerin 5. Selon le Miami Herald et Haïti Liberté cités par NAGO, au premier procès en avril il avait désigné James Solages. Il a aussi déclaré que Badio a appelé un journaliste et un responsable des droits humains le matin du 7 juillet 2021 pour annoncer l'assassinat. Badio est présumé innocent et aucune date de procès n'a été fixée pour lui.\n\nLe procès fédéral de Sanon s'est ouvert le 28 septembre 2026. Martine Moïse a été le premier témoin, le 29 septembre. Les 13 et 14 octobre, l'agente du FBI Elizabeth Wieder a présenté des messages sur les difficultés à payer les mercenaires colombiens jusqu'au 6 juillet 2021, et sur des scénarios de succession. Sanon a d'abord été envisagé, puis écarté en raison de sa citoyenneté américaine. Un autre scénario plaçait la juge Wendelle Coq Thélot à la présidence et Joseph Lambert à la primature. Les noms cités dans ces messages ne sont pas des constats judiciaires. La défense cherche à dissocier Sanon des volets violents.\n\nLe 21 octobre, l'analyste du FBI Kaitlin Dayton a montré aux jurés une vidéo de 7 minutes reçue par Sanon le 3 mai 2021, présentée par l'accusation comme un guide pour renverser un gouvernement (Miami Herald). Le 23 octobre, John Joël Joseph a déclaré avoir organisé une rencontre entre Sanon et Pierre Espérance (RNDDH), selon Juno7. Ce témoignage n'établit pas à lui seul un rôle d'Espérance dans l'assassinat.\n\nFin septembre, 18 accusés ont été transférés d'Haïti vers Miami, dont Joseph Félix Badio et 17 anciens soldats colombiens.\n\nEn Haïti, dans une lettre du 22 octobre 2026, le commissaire du gouvernement près la Cour d'appel de Port-au-Prince, Claude Jean, a signalé au ministre de la Justice Patrick Pélissier que le juge Cyprien Jn F. Denis Pierre, chargé du complément d'enquête ordonné le 13 octobre 2025, n'avait toujours pas remis son rapport.",
+      ht: "Miami Herald (Jacqueline Charles) ekri, nan yon atik mete ajou samdi 15 novanm a 18h38, Christian Emmanuel Sanon, 67 an, te kontinye temwaye vandredi 13 novanm, nan dezyèm jou li sou ban an, devan yon jiri 12 moun nan tribinal federal Miyami a. Li te demanti nenpòt patisipasyon nan asasina 7 jiyè 2021 la, ak nan tantativ kidnaping. « Lanmò prezidan an se yon bagay mwen pa t janm tann », li te di, dapre jounal la. Li te ajoute li te tranble, li te fache anpil. Li poko jije; se sa li di devan jij la.\n\nJounal la ekri Sanon te rekonèt li pa t gen lisans medsin Ozetazini, malgre yo te dekri l kòm doktè, e li pa t gen fòmasyon teyoloji fòmèl, menm si li dekri tèt li kòm « plantè legliz ». Li te mete fòt sou lòt moun, pami yo kat gason ki te kondane an me e ki riske prizon pou lavi. Pwokirè yo te mande jij Jacqueline Becerra otorizasyon pou yo prezante dosye sou echèk li nan egzamen lisans medsin, ak sou deklarasyon fo sou pwopriyete tè ak wòl nan konpayi, nan yon pwosedi fayit. Jij la te di yo ka itilize dokiman sa yo pou rafrechi memwa l, e ke se yon bon impeachman si yo gen prèv li te bay fo enfòmasyon finansye. Avoka defans Zeljka Bozanic te eseye bloke prèv sa yo, san siksè.\n\nMiami Herald te ekri kont-entèwogatwa a te dwe kòmanse lendi 16 novanm. Yon bilten jounal la, lendi maten, te raple dosye a san li pa t pibliye, nan lè sa a, yon kont rann sou odyans lendi a. Nou pa ka di sa ki te di nan kont-entèwogatwa a tant n pa genyen kont rann sa a.\n\nNan tribinal federal Miyami a, pastè evanjelik Joseph Joël Vorbe Sanon, ke yo akize kòmandite asasina prezidan Jovenel Moïse, te pran premye fwa pawòl an piblik pou defann tèt li. Miami Herald, ki te swiv odyans lan, ekri Sanon te di li inosan, li pa t òganize, ni finansman, ni bay lòd pou asasina 7 jiyè 2021 la. Li poko jije; se sa li di devan jij la.\n\nJounal la relè Sanon te di relasyon li te gen ak moun yo akize yo se te nan kad relijye oswa politik, e li te rejte teyori akizasyon an. Nou relè temwayaj la jan Miami Herald pibliye l. Nou pa pran pozisyon sou kilpabilite l.\n\nMizajou 5 novanm. Dapre Miami Herald (Jacqueline Charles), Frederick Bergmann, 67 an, temwaye mèkredi 4 novanm devan juri federal Miami nan pwosè Christian Emmanuel Sanon. Se yon pastè Florid yo akize, pami lòt bagay, de konplo pou kidnape oswa touye yon moun andeyò Etazini, anrapò ak asasina prezidan Jovenel Moïse 7 jiyè 2021.\n\nBergmann di se zanmi Sanon li ye depi 17 an. Li ap fè 9 an prizon apre li te plede koupab : li te sipòte yon ekspedisyon militè kont yon nasyon zanmi, epi li te vyole lwa sou ekspòtasyon lè li te fè pase 20 vès balistik pou ekip kolonbyen an. Temwayaj li a fè pati yon akò kolaborasyon. Pawòl ki swiv yo se sa Miami Herald atribiye Bergmann.\n\nDapre Herald la, de jou apre asasina a, Bergmann rele Sanon Pòtoprens. Li di li te pwopoze l avèti laprès, Depatman Jistis oswa FBI, epi priye pou Moïse ak ansyen sòlda kolonbyen ki te mouri yo. Bergmann di Sanon ta refize, epi sou Moïse li ta di : « I don't pray for the rat » (« Mwen pa priye pou rat la »). Bergmann di tou Sanon ta di li « vann nanm li bay dyab la », epi li ta nonmen Windelle Coq Thélot kòm moun li ta « voye » James Solages ba li san li pa jwenn pòs.\n\nToujou dapre Herald la, mesaj tèks ak apèl nan jou anvan 7 jiyè yo montre, selon Bergmann, Sanon pa t totalman deyò jan plan an t ap chanje. Bergmann site yon tèks 30 jen (« The rat will go with his group »), yon mesaj 3 jiyè sou 3000 dola pou bay kolonbyen yo manje, ak yon apèl 5 jiyè kote Solages ta di l, dapre sa l rakonte, « sa pral fèt nan klinik la, pa nan lopital la ». Bergmann di klinik la se rezidans Moïse, lopital la se Palè nasyonal la. Li di li repete pawòl sa yo bay Sanon. Sanon ta konfime yo, men li ta plenn paske yo kite l pou kont li.\n\nLè avoka defans lan, Humberto Dominguez, poze l kesyon, Bergmann rekonèt, toujou dapre Herald la, Solages pa janm di l klèman ki plan an te ye, e li pa t souvan poze Sanon kesyon. Miami Herald ekri temwayaj sa a se, nan pwosè sa a, premye fwa yon rakont mare Sanon dirèkteman ak pwojè asasina a. Jiskaprezan, jounal la ekri, sa yo te prezante a te mete l sitou nan diskisyon sou yon kaptire ak yon ekzil Moïse.\n\nSanon konteste akizasyon yo epi li rete prezime inosan. Pawòl Bergmann se deklarasyon yon temwen, se pa desizyon tribinal. Moun temwayaj la nonmen yo rete prezime inosan toutotan yon tribinal pa kondane yo pou bagay sa yo.\n\nKesyon pou lektè yo :\n\n• Bergmann se yon temwen k ap kolabore, epi li admèt Solages pa janm di l klèman ki plan an te ye. Kisa ki klè nan temwayaj la, e kisa ki rete fason li konprann bagay yo ?\n\n• Herald la ekri, jiskaprezan, yo te mete Sanon sitou nan diskisyon sou yon kaptire ak yon ekzil. Ki lòt temwen, apa Bergmann, ki devan juri a pale de yon plan pou touye ?\n\nAnvan sa, mizajou 3 novanm. Dapre Miami Herald (Jacqueline Charles), Mario Antonio Palacios Palacios, sèl kòmando kolonbyen ki te chape anba lapolis apre atak 7 jiyè 2021 an, temwaye lendi 2 novanm. Palacios, ki te plede koupab, rakonte apre yon nwit nan lari li kwaze Gordon Phénil Désir Petyonvil. Désir ta mennen l lakay li epi ta pase yon apèl. « Mwen kwè li t ap rele senatè a, John », Palacios di. De polisye ta vin chèche l pou mennen l nan baz Vitel'homme Innocent, chèf gang Kraze Baryè. Ansyen senatè John Joël Joseph ta rejwenn li yon semèn apre. Palacios di li te peye Innocent ak lajan li te pran nan chanm prezidan an. Tou de te kouri ale Jamayik pa bato.\n\nMenm jou a, Désir parèt pou premye fwa devan jij majistra Enjoliqué A. Lett, Miami, pou 3 akizasyon, pami yo konplo pou touye oswa kidnape yon moun deyò Etazini. Pèn maksimòm lan se prizon a vi. Odyans lan te ranvwaye pou madi 3 novanm apremidi. Pwokirè yo te mande pou yo kenbe l nan prizon. Désir, Innocent ak John Joël Joseph prezime inosan nan volet sa a toutotan yon tribinal pa kondane yo.\n\n27 ak 28 oktòb, ansyen senatè John Joël Joseph, ki deja kondane a prizon a vi epi ki se yon temwen k ap kolabore, di se Joseph Félix Badio ki t ap dirije konvwa mèsenè kolonbyen yo pou Pèlerin 5. Dapre Miami Herald ak Haïti Liberté, NAGO site, nan premye pwosè a an avril li te nonmen James Solages. Li di tou Badio te rele yon jounalis ak yon responsab dwa moun maten 7 jiyè 2021 pou anonse asasina a. Badio prezime inosan, e pa gen dat pwosè ki fikse pou li.\n\nPwosè federal Sanon an louvri 28 septanm 2026. Martine Moïse se te premye temwen an, 29 septanm. 13 ak 14 oktòb, ajan FBI Elizabeth Wieder prezante mesaj sou difikilte pou peye mèsenè kolonbyen yo jiska 6 jiyè 2021, ak senaryo pou kiyès ki t ap ranplase Moïse. Okòmansman se Sanon yo te konsidere, apre sa yo mete l sou kote akoz sitwayènte ameriken li. Yon lòt senaryo te mete jij Wendelle Coq Thélot kòm prezidan ak Joseph Lambert kòm Premye minis. Non ki parèt nan mesaj sa yo se pa desizyon tribinal. Defans lan ap eseye separe Sanon de pati vyolan yo.\n\n21 oktòb, analis FBI Kaitlin Dayton montre juri a yon videyo 7 minit Sanon te resevwa 3 me 2021. Akizasyon an prezante l kòm yon gid pou ranvèse yon gouvènman, dapre Miami Herald. 23 oktòb, John Joël Joseph di li te òganize yon rankont ant Sanon ak Pierre Espérance (RNDDH), dapre Juno7. Temwayaj sa a pou kont li pa montre Espérance te gen yon wòl nan asasina a.\n\nFen septanm, yo te transfere 18 akize soti Ayiti pou Miami, tankou Joseph Félix Badio ak 17 ansyen sòlda kolonbyen.\n\nAnn Ayiti, nan yon lèt 22 oktòb 2026, komisè gouvènman an bò Kou Apèl Pòtoprens lan, Claude Jean, fè minis Jistis Patrick Pélissier konnen jij Cyprien Jn F. Denis Pierre, ki responsab konpleman ankèt Kou a te bay lòd fè 13 oktòb 2025, poko remèt rapò li.",
+      fr: "Le Miami Herald (Jacqueline Charles) écrit, dans un article mis à jour samedi 15 novembre à 18h38, que Christian Emmanuel Sanon, 67 ans, a poursuivi son témoignage vendredi 13 novembre, pour un deuxième jour à la barre, devant un jury de 12 personnes au tribunal fédéral de Miami. Il a nié toute implication dans l'assassinat du 7 juillet 2021, et dans des tentatives d'enlèvement. « La mort du président est quelque chose que je n'avais jamais prévue », a-t-il dit, selon le journal. Il a ajouté qu'il tremblait, qu'il était très en colère. Il n'a pas encore été jugé; c'est ce qu'il a déclaré devant le juge.\n\nLe journal écrit que Sanon a reconnu n'être pas médecin licencié aux États-Unis, malgré la façon dont on l'a décrit, et n'avoir aucune formation théologique formelle, même s'il se présente comme « planteur d'églises ». Il a rejeté la responsabilité sur d'autres, dont les quatre hommes condamnés en mai et qui risquent la prison à vie. Les procureurs ont demandé à la juge Jacqueline Becerra l'autorisation de produire des dossiers sur ses échecs aux examens de licence médicale, et sur de fausses déclarations concernant la propriété de terres et ses rôles dans des sociétés, lors d'une procédure de faillite. La juge a dit qu'ils pouvaient utiliser ces documents pour rafraîchir sa mémoire, et que c'était une imputation valable s'ils avaient la preuve qu'il avait donné de fausses informations financières. L'avocate de la défense Zeljka Bozanic a tenté, sans succès, d'écarter ces éléments.\n\nLe Miami Herald écrivait que le contre-interrogatoire devait commencer lundi 16 novembre. Un bulletin du journal, lundi matin, revenait sur le dossier sans publier, à cette heure, de compte rendu de l'audience du lundi. Nous ne pouvons pas dire ce qui a été dit au contre-interrogatoire tant que ce compte rendu n'est pas paru.\n\nAu tribunal fédéral de Miami, le pasteur évangélique Joseph Joël Vorbe Sanon, accusé d'avoir commandité l'assassinat du président Jovenel Moïse, a pris la parole en public pour la première fois afin de se défendre. Le Miami Herald, qui a suivi l'audience, écrit que Sanon s'est dit innocent, et qu'il n'a ni organisé, ni financé, ni ordonné l'assassinat du 7 juillet 2021. Il n'a pas encore été jugé; c'est ce qu'il a déclaré devant le juge.\n\nLe journal relait que Sanon a présenté ses relations avec des personnes également visées par l'accusation comme relevant d'un cadre religieux ou politique, et qu'il a rejeté la thèse de l'accusation. Nous relayons son témoignage tel que le Miami Herald l'a publié. Nous ne prenons pas position sur sa culpabilité.\n\nMise à jour du 5 novembre. Selon le Miami Herald (Jacqueline Charles), Frederick Bergmann, 67 ans, a témoigné mercredi 4 novembre devant le jury fédéral de Miami dans le procès de Christian Emmanuel Sanon. Le pasteur de Floride est accusé notamment de complot pour enlever ou tuer une personne hors des États-Unis, en lien avec l'assassinat du président Jovenel Moïse le 7 juillet 2021.\n\nBergmann se dit ami de Sanon depuis 17 ans. Il purge une peine de 9 ans après avoir plaidé coupable d'avoir soutenu une expédition militaire contre une nation amie et d'avoir violé les lois sur l'exportation en faisant passer 20 gilets balistiques destinés à l'équipe colombienne. Son témoignage s'inscrit dans un accord de coopération. Ce qui suit est ce que le Miami Herald attribue à Bergmann.\n\nSelon le Herald, deux jours après l'assassinat, Bergmann a appelé Sanon à Port-au-Prince. Il dit lui avoir proposé d'alerter la presse, le département de la Justice ou le FBI, et de prier pour Moïse et pour les anciens soldats colombiens tués. Bergmann affirme que Sanon aurait refusé et aurait dit, à propos de Moïse : « I don't pray for the rat » (« Je ne prie pas pour le rat »). Bergmann affirme aussi que Sanon aurait déclaré avoir « vendu son âme au diable » et aurait nommé Windelle Coq Thélot comme la personne à qui il aurait « envoyé » James Solages sans obtenir de poste.\n\nToujours selon le Herald, des textos et des appels des jours précédant le 7 juillet montrent, d'après Bergmann, que Sanon n'aurait pas été totalement tenu à l'écart de l'évolution du plan. Bergmann cite un texto du 30 juin (« The rat will go with his group »), un message du 3 juillet sur 3000 dollars pour nourrir les Colombiens, et un appel du 5 juillet où Solages lui aurait dit, selon son récit, que « ça va se passer à la clinique, pas à l'hôpital ». Bergmann dit que la clinique désignait la résidence de Moïse et l'hôpital le Palais national. Il dit avoir rapporté ces propos à Sanon, qui les aurait confirmés tout en se plaignant d'avoir été laissé seul.\n\nSous le contre-interrogatoire de l'avocat de la défense, Humberto Dominguez, Bergmann a reconnu, toujours selon le Herald, que Solages ne lui avait jamais dit explicitement quel était le plan, et qu'il avait rarement posé de questions à Sanon. Le Miami Herald écrit que ce témoignage est, dans ce procès, la première fois qu'un récit lie directement Sanon au projet d'assassinat. Jusqu'ici, écrit le journal, les éléments présentés le plaçaient surtout dans des discussions sur une capture et un exil de Moïse.\n\nSanon conteste les accusations et reste présumé innocent. Les propos de Bergmann sont des déclarations d'un témoin, pas une décision du tribunal. Les personnes citées dans ce témoignage qui n'ont pas été condamnées pour ces faits restent présumées innocentes.\n\nQuestions aux lecteurs :\n\n• Bergmann est un témoin coopérant, et il a reconnu à la barre que Solages ne lui avait jamais dit explicitement le plan. Qu'est-ce qui est établi dans ce témoignage, et qu'est-ce qui reste son interprétation ?\n\n• Le Herald écrit que, jusqu'ici, les éléments du procès plaçaient surtout Sanon dans des discussions sur une capture et un exil. Quel autre témoin, à part Bergmann, a décrit devant ce jury un plan pour tuer ?\n\nAuparavant, mise à jour du 3 novembre. Selon le Miami Herald (Jacqueline Charles), Mario Antonio Palacios Palacios, le seul commando colombien à avoir échappé à la police après l'attaque du 7 juillet 2021, a témoigné le lundi 2 novembre. Palacios, qui a plaidé coupable, raconte qu'après une nuit dans la rue il a croisé Gordon Phénil Désir à Pétion-Ville. Désir l'aurait conduit chez lui et aurait passé un appel. « Je crois qu'il appelait le sénateur, John », a dit Palacios. Deux policiers seraient venus le chercher pour l'emmener à la base de Vitel'homme Innocent, chef du gang Kraze Baryè. L'ex-sénateur John Joël Joseph l'aurait rejoint une semaine plus tard. Palacios affirme avoir payé Innocent avec de l'argent pris dans la chambre du président. Les deux hommes ont fui en Jamaïque par bateau.\n\nLe même jour, Désir a comparu pour la première fois devant la juge magistrate Enjoliqué A. Lett, à Miami, pour 3 chefs d'accusation, dont le complot visant à tuer ou enlever une personne hors des États-Unis. La peine maximale est la prison à vie. L'audience a été renvoyée au mardi 3 novembre après-midi. Le parquet demandait sa détention provisoire. Désir, Innocent et John Joël Joseph sont présumés innocents dans ce volet tant qu'un tribunal ne les a pas condamnés.\n\nLes 27 et 28 octobre, l'ex-sénateur John Joël Joseph, déjà condamné à la prison à vie et témoin coopérant, a affirmé que Joseph Félix Badio dirigeait le convoi des mercenaires colombiens vers Pèlerin 5. Selon le Miami Herald et Haïti Liberté cités par NAGO, au premier procès en avril il avait désigné James Solages. Il a aussi déclaré que Badio a appelé un journaliste et un responsable des droits humains le matin du 7 juillet 2021 pour annoncer l'assassinat. Badio est présumé innocent et aucune date de procès n'a été fixée pour lui.\n\nLe procès fédéral de Sanon s'est ouvert le 28 septembre 2026. Martine Moïse a été le premier témoin, le 29 septembre. Les 13 et 14 octobre, l'agente du FBI Elizabeth Wieder a présenté des messages sur les difficultés à payer les mercenaires colombiens jusqu'au 6 juillet 2021, et sur des scénarios de succession. Sanon a d'abord été envisagé, puis écarté en raison de sa citoyenneté américaine. Un autre scénario plaçait la juge Wendelle Coq Thélot à la présidence et Joseph Lambert à la primature. Les noms cités dans ces messages ne sont pas des constats judiciaires. La défense cherche à dissocier Sanon des volets violents.\n\nLe 21 octobre, l'analyste du FBI Kaitlin Dayton a montré aux jurés une vidéo de 7 minutes reçue par Sanon le 3 mai 2021, présentée par l'accusation comme un guide pour renverser un gouvernement (Miami Herald). Le 23 octobre, John Joël Joseph a déclaré avoir organisé une rencontre entre Sanon et Pierre Espérance (RNDDH), selon Juno7. Ce témoignage n'établit pas à lui seul un rôle d'Espérance dans l'assassinat.\n\nFin septembre, 18 accusés ont été transférés d'Haïti vers Miami, dont Joseph Félix Badio et 17 anciens soldats colombiens.\n\nEn Haïti, dans une lettre du 22 octobre 2026, le commissaire du gouvernement près la Cour d'appel de Port-au-Prince, Claude Jean, a signalé au ministre de la Justice Patrick Pélissier que le juge Cyprien Jn F. Denis Pierre, chargé du complément d'enquête ordonné le 13 octobre 2025, n'avait toujours pas remis son rapport.",
     },
     sources: ["Miami Herald (Jacqueline Charles)", "NAGO", "Juno7", "Le National", "InfoNation", "RHINEWS",
       "Miami Herald",
@@ -4773,6 +5027,7 @@ export const STORIES: Story[] = [
       { name: "Miami Herald", url: "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article318072506.html" },
     ],
   },
+
   {
     id: "qh-caonabo-richard-alexandre-2026-10-29",
     isFollowUp: true,
@@ -5525,27 +5780,32 @@ export function isNewStory(story: Story, now = Date.now()): boolean {
 
 export function needToKnowStories(): Story[] {
   // Standing rule: Sports stories never take top-story (Need to Know) slots; they live only in the Sports section.
-  // Standing pin: the prolonged-detention opinion stays at #1 unless a breaking lead is named.
-  // Approved 11 Nov 2026 (t383u): the GRAND letter to the CEP sits at #2, after the detention opinion.
-  // 14 Nov 2026 6 PM: no breaking lead was named. The strongest new story, GSF Fort Dimanche, sits at #3.
+  // 16 Nov 2026 catch-up: Gros-Morne sits at #1, Morne Robert at #2.
+  // The prolonged-detention opinion then sits at #3, and the GRAND letter to the CEP at #4.
   const list = sortNewestFirst(STORIES.filter((s) => !s.archived && s.tier === "need-to-know" && s.topic !== "sports"));
+  const firstId = "ntk-gros-morne-gsf-kokorat-2026-11-16";
+  const firstAt = list.findIndex((s) => s.id === firstId);
+  if (firstAt > 0) {
+    const [first] = list.splice(firstAt, 1);
+    list.splice(0, 0, first);
+  }
+  const secondId = "ntk-morne-robert-gran-grif-2026-11-16";
+  const secondAt = list.findIndex((s) => s.id === secondId);
+  if (secondAt > 1) {
+    const [second] = list.splice(secondAt, 1);
+    list.splice(1, 0, second);
+  }
   const detentionId = "ntk-detention-preventive-commissariats-2026-10-30";
   const detentionAt = list.findIndex((s) => s.id === detentionId);
-  if (detentionAt > 0) {
+  if (detentionAt > 2) {
     const [det] = list.splice(detentionAt, 1);
-    list.splice(0, 0, det);
+    list.splice(2, 0, det);
   }
   const holdId = "ntk-grand-lettre-cep-2026-11-08";
   const holdAt = list.findIndex((s) => s.id === holdId);
-  if (holdAt > 1) {
+  if (holdAt > 3) {
     const [held] = list.splice(holdAt, 1);
-    list.splice(1, 0, held);
-  }
-  const thirdId = "ntk-gsf-fort-dimanche-2026-11-14";
-  const thirdAt = list.findIndex((s) => s.id === thirdId);
-  if (thirdAt > 2) {
-    const [third] = list.splice(thirdAt, 1);
-    list.splice(2, 0, third);
+    list.splice(3, 0, held);
   }
   return list;
 }
