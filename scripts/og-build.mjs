@@ -27,6 +27,7 @@ const PALETTE = {
   development:    { bg: "#4b5320", label: "#e3eb9a", rule: "#636b36", ...LIGHTTXT },
   tech:           { bg: "#4fb3f2", label: "#08304f", rule: "#2f8fcc", ...DARKTXT },
   commerce:       { bg: "#f5c400", label: "#4a3800", rule: "#c99f00", ...DARKTXT },
+  economy:        { bg: "#f5c400", label: "#4a3800", rule: "#c99f00", ...DARKTXT },
   security:       { bg: "#b3001b", label: "#ffc2c2", rule: "#c2404f", ...LIGHTTXT, url: "#ffb3b3", teaser: "#ffe5e5" },
   society:        { bg: "#8ed16f", label: "#174d0a", rule: "#6aae4c", ...DARKTXT },
   "moise-trials": { bg: "#4a0f1c", label: "#ffa3b4", rule: "#642634", ...LIGHTTXT },
@@ -168,20 +169,29 @@ for (const topic of topics) {
   writeShell(`/${topic.slug.fr}`, "fr", `${topic.label.fr} | Opak News`, desc.fr, `/ht/${topic.slug.ht}`);
   writeShell(`/ht/${topic.slug.ht}`, "ht", `${topic.label.ht} | Opak News`, desc.ht, `/${topic.slug.fr}`);
 }
+function patchRedirectShell(rel, destUrl) {
+  const f = path.join(dist, rel.replace(/^\//, ""), "index.html");
+  let html = fs.readFileSync(f, "utf8");
+  if (!html.includes('http-equiv="refresh"')) {
+    html = html.replace("<head>", `<head>\n    <meta http-equiv="refresh" content="0;url=${destUrl}" />`);
+  }
+  html = html.replace(/<link rel="canonical" href="[^"]*" \/>/, `<link rel="canonical" href="${destUrl}" />`);
+  fs.writeFileSync(f, html);
+}
+function writeRedirect(rel, lang, destRel, title, altRel) {
+  writeShell(rel, lang, title, desc[lang], altRel);
+  patchRedirectShell(rel, `${SITE}${destRel}`);
+}
 const justice = topics.find((t) => t.id === "justice");
 if (justice) {
-  const destFr = `/${justice.slug.fr}`;
-  const destHt = `/ht/${justice.slug.ht}`;
-  writeShell("/opinion", "fr", `${justice.label.fr} | Opak News`, desc.fr, destHt);
-  writeShell("/ht/opinyon", "ht", `${justice.label.ht} | Opak News`, desc.ht, destFr);
-  for (const [rel, dest] of [["/opinion", `${SITE}${destFr}`], ["/ht/opinyon", `${SITE}${destHt}`]]) {
-    const f = path.join(dist, rel.replace(/^\//, ""), "index.html");
-    let html = fs.readFileSync(f, "utf8");
-    if (!html.includes('http-equiv="refresh"')) {
-      html = html.replace("<head>", `<head>\n    <meta http-equiv="refresh" content="0;url=${dest}" />`);
-    }
-    html = html.replace(/<link rel="canonical" href="[^"]*" \/>/, `<link rel="canonical" href="${dest}" />`);
-    fs.writeFileSync(f, html);
-  }
+  writeRedirect("/opinion", "fr", `/${justice.slug.fr}`, `${justice.label.fr} | Opak News`, `/ht/${justice.slug.ht}`);
+  writeRedirect("/ht/opinyon", "ht", `/ht/${justice.slug.ht}`, `${justice.label.ht} | Opak News`, `/${justice.slug.fr}`);
+}
+const economy = topics.find((t) => t.id === "economy");
+if (economy) {
+  writeRedirect("/commerce", "fr", `/${economy.slug.fr}`, `${economy.label.fr} | Opak News`, `/ht/${economy.slug.ht}`);
+  writeRedirect("/ht/komes", "ht", `/ht/${economy.slug.ht}`, `${economy.label.ht} | Opak News`, `/${economy.slug.fr}`);
+  writeRedirect("/developpement", "fr", `/${economy.slug.fr}`, `${economy.label.fr} | Opak News`, `/ht/${economy.slug.ht}`);
+  writeRedirect("/ht/devlopman", "ht", `/ht/${economy.slug.ht}`, `${economy.label.ht} | Opak News`, `/${economy.slug.fr}`);
 }
 console.log(`OG: ${stories.length} cards + pages; section shells written`);

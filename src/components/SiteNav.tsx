@@ -1,13 +1,12 @@
 import { Link, useLocation } from "react-router-dom";
 import { useLanguage } from "../context/LanguageContext";
 import { TOPICS, sectionPath } from "../data/topics";
-import { sectionPageStories } from "../data/stories";
 
-/** Section links for the masthead. Empty topics are omitted. */
+/** Section links for the masthead, in TOPICS order. */
 export function SiteNav() {
   const { lang, ui } = useLanguage();
   const location = useLocation();
-  const items = TOPICS.filter((topic) => sectionPageStories(topic.id).length > 0);
+  const items = TOPICS;
 
   if (items.length === 0) return null;
 

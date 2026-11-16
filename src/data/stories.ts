@@ -631,7 +631,7 @@ export const STORIES: Story[] = [
   {
     id: "qh-reserves-forestieres-communales-2026-11-14",
     tier: "quick-hit",
-    topic: "development",
+    topic: "economy",
     publishedAt: "2026-11-14",
     publishedTime: "2026-11-14T08:16:00-05:00",
     headline: {
@@ -873,7 +873,7 @@ export const STORIES: Story[] = [
   {
     id: "qh-landau-investissement-securite-2026-11-13",
     tier: "quick-hit",
-    topic: "commerce",
+    topic: "economy",
     publishedAt: "2026-11-13",
     publishedTime: "2026-11-13T23:20:00-05:00",
     headline: {
@@ -929,7 +929,7 @@ export const STORIES: Story[] = [
   {
     id: "qh-brh-130-79-circulaire-126-2026-11-13",
     tier: "quick-hit",
-    topic: "commerce",
+    topic: "economy",
     publishedAt: "2026-11-13",
     publishedTime: "2026-11-13T23:16:00-05:00",
     headline: {
@@ -958,7 +958,7 @@ export const STORIES: Story[] = [
   {
     id: "qh-taiwan-riz-artibonite-2026-11-13",
     tier: "quick-hit",
-    topic: "development",
+    topic: "economy",
     publishedAt: "2026-11-13",
     publishedTime: "2026-11-13T23:14:00-05:00",
     headline: {
@@ -1800,7 +1800,7 @@ export const STORIES: Story[] = [
   {
     id: "ntk-american-airlines-quotidien-cap-2026-11-12",
     tier: "need-to-know",
-    topic: "commerce",
+    topic: "economy",
     publishedAt: "2026-11-12",
     publishedTime: "2026-11-12T08:48:40-05:00",
     isFollowUp: true,
@@ -2212,7 +2212,7 @@ export const STORIES: Story[] = [
   {
     id: "qh-cap-haitien-chambre-canada-2026-11-10",
     tier: "quick-hit",
-    topic: "commerce",
+    topic: "economy",
     publishedAt: "2026-11-11",
     publishedTime: "2026-11-11T09:40:40-05:00",
     headline: {
@@ -2240,7 +2240,7 @@ export const STORIES: Story[] = [
   {
     id: "qh-brh-taux-reference-2026-11-11",
     tier: "quick-hit",
-    topic: "commerce",
+    topic: "economy",
     publishedAt: "2026-11-16",
     publishedTime: "2026-11-16T10:56:00-05:00",
     isFollowUp: true,
@@ -2302,7 +2302,7 @@ export const STORIES: Story[] = [
   {
     id: "qh-haiti-cop31-financement-climatique-2026-11-09",
     tier: "quick-hit",
-    topic: "development",
+    topic: "economy",
     publishedAt: "2026-11-11",
     publishedTime: "2026-11-11T07:32:50-05:00",
     headline: {
@@ -2329,7 +2329,7 @@ export const STORIES: Story[] = [
   {
     id: "qh-nord-est-caravane-mci-2026-11-09",
     tier: "quick-hit",
-    topic: "commerce",
+    topic: "economy",
     publishedAt: "2026-11-11",
     publishedTime: "2026-11-11T07:32:30-05:00",
     headline: {
@@ -2732,7 +2732,7 @@ export const STORIES: Story[] = [
   {
     id: "qh-le-levier-mbanq-caisses-2026-11-10",
     tier: "quick-hit",
-    topic: "commerce",
+    topic: "economy",
     publishedAt: "2026-11-10",
     publishedTime: "2026-11-10T15:52:00-05:00",
     headline: {
@@ -3007,7 +3007,7 @@ export const STORIES: Story[] = [
   {
     id: "qh-nippes-projets-agricoles-suivi-2026-11-08",
     tier: "quick-hit",
-    topic: "commerce",
+    topic: "economy",
     publishedAt: "2026-11-10",
     publishedTime: "2026-11-10T15:49:40-05:00",
     headline: {
@@ -3034,7 +3034,7 @@ export const STORIES: Story[] = [
   {
     id: "qh-dgi-revenus-2025-2026-bareme-2026-11-08",
     tier: "quick-hit",
-    topic: "commerce",
+    topic: "economy",
     publishedAt: "2026-11-10",
     publishedTime: "2026-11-10T15:49:30-05:00",
     headline: {
@@ -3095,7 +3095,7 @@ export const STORIES: Story[] = [
   {
     id: "ntk-sud-semences-garanties-2026-11-08",
     tier: "need-to-know",
-    topic: "commerce",
+    topic: "economy",
     publishedAt: "2026-11-08",
     publishedTime: "2026-11-08T08:26:11-05:00",
     archived: true,
@@ -3526,7 +3526,7 @@ export const STORIES: Story[] = [
     {
     id: "ntk-anjha-jeux-hasard-2026-11-05",
     tier: "need-to-know",
-    topic: "commerce",
+    topic: "economy",
     publishedAt: "2026-11-10",
     publishedTime: "2026-11-10T15:52:30-05:00",
     isFollowUp: true,
@@ -3613,7 +3613,7 @@ export const STORIES: Story[] = [
     id: "ntk-brana-suspension-insecurite-2026-11-04",
     archived: true,
     tier: "need-to-know",
-    topic: "commerce",
+    topic: "economy",
     publishedAt: "2026-11-05",
     publishedTime: "2026-11-05T13:35:11-05:00",
     headline: {
@@ -3707,7 +3707,7 @@ export const STORIES: Story[] = [
     id: "qh-secteur-informel-indemnisation-2026-11-04",
     archived: true,
     tier: "quick-hit",
-    topic: "commerce",
+    topic: "economy",
     publishedAt: "2026-11-04",
     publishedTime: "2026-11-04T07:15:00-05:00",
     headline: {
@@ -4131,7 +4131,7 @@ export const STORIES: Story[] = [
     id: "ntk-brh-transferts-tps-choc-2026-11-02",
     archived: true,
     tier: "need-to-know",
-    topic: "commerce",
+    topic: "economy",
     publishedAt: "2026-11-02",
     publishedTime: "2026-11-02T12:30:00-05:00",
     headline: {
@@ -4408,7 +4408,7 @@ export const STORIES: Story[] = [
     id: "qh-iia-code-fiscal-formation-2026-11-01",
     archived: true,
     tier: "quick-hit",
-    topic: "commerce",
+    topic: "economy",
     publishedAt: "2026-11-01",
     publishedTime: "2026-11-01T21:05:00-05:00",
     headline: {
@@ -4674,7 +4674,7 @@ export const STORIES: Story[] = [
     id: "ntk-american-airlines-cap-haitien-2026-10-31",
     archived: true,
     tier: "need-to-know",
-    topic: "commerce",
+    topic: "economy",
     publishedAt: "2026-10-31",
     publishedTime: "2026-11-02T01:20:00-05:00",
     isBreaking: true,
@@ -5710,7 +5710,7 @@ export const STORIES: Story[] = [
     id: "qh-commerce-caravan-5000",
     archived: true,
     tier: "quick-hit",
-    topic: "commerce",
+    topic: "economy",
     publishedAt: "2026-10-18",
     publishedTime: "2026-10-18T07:00:00-04:00",
     headline: {

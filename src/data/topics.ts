@@ -7,34 +7,9 @@ export const TOPICS: TopicMeta[] = [
     label: { ht: "Politik", fr: "Politique" },
   },
   {
-    id: "governance",
-    slug: { ht: "gouvenans-ak-teritwa", fr: "gouvernance-et-territoire" },
-    label: { ht: "Gouvènans ak teritwa", fr: "Gouvernance et territoire" },
-  },
-  {
-    id: "justice",
-    slug: { ht: "ayiti-ak-jistis", fr: "justice-a-lhaitienne" },
-    label: { ht: "Ayiti ak Jistis", fr: "Justice à l’Haïtienne" },
-  },
-  {
-    id: "development",
-    slug: { ht: "devlopman", fr: "developpement" },
-    label: { ht: "Devlopman", fr: "Développement" },
-  },
-  {
-    id: "tech",
-    slug: { ht: "teknoloji", fr: "technologie" },
-    label: { ht: "Teknoloji", fr: "Technologie" },
-  },
-  {
-    id: "commerce",
-    slug: { ht: "komes", fr: "commerce" },
-    label: { ht: "Komès", fr: "Commerce" },
-  },
-  {
-    id: "security",
-    slug: { ht: "sekirite", fr: "securite" },
-    label: { ht: "Sekirite", fr: "Sécurité" },
+    id: "economy",
+    slug: { ht: "ekonomi", fr: "economie" },
+    label: { ht: "Ekonomi", fr: "Économie" },
   },
   {
     id: "society",
@@ -42,14 +17,34 @@ export const TOPICS: TopicMeta[] = [
     label: { ht: "Sosyete", fr: "Société" },
   },
   {
-    id: "moise-trials",
-    slug: { ht: "jistis-nan-lakou-a", fr: "justice-dans-larriere-cour" },
-    label: { ht: "Jistis nan lakou a", fr: "Justice dans l’arrière-cour" },
+    id: "justice",
+    slug: { ht: "ayiti-ak-jistis", fr: "justice-a-lhaitienne" },
+    label: { ht: "Ayiti ak Jistis", fr: "Justice à l’Haïtienne" },
+  },
+  {
+    id: "security",
+    slug: { ht: "sekirite", fr: "securite" },
+    label: { ht: "Sekirite", fr: "Sécurité" },
+  },
+  {
+    id: "tech",
+    slug: { ht: "teknoloji", fr: "technologie" },
+    label: { ht: "Teknoloji", fr: "Technologie" },
   },
   {
     id: "sports",
     slug: { ht: "espo", fr: "sports" },
     label: { ht: "Espò", fr: "Sports" },
+  },
+  {
+    id: "moise-trials",
+    slug: { ht: "jistis-nan-lakou-a", fr: "justice-dans-larriere-cour" },
+    label: { ht: "Jistis nan lakou a", fr: "Justice dans l’arrière-cour" },
+  },
+  {
+    id: "governance",
+    slug: { ht: "gouvenans-ak-teritwa", fr: "gouvernance-et-territoire" },
+    label: { ht: "Gouvènans ak teritwa", fr: "Gouvernance et territoire" },
   },
   {
     id: "gossip",

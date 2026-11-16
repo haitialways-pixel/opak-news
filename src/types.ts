@@ -2,15 +2,14 @@ export type Lang = "ht" | "fr";
 
 export type TopicId =
   | "politics"
-  | "governance"
-  | "justice"
-  | "development"
-  | "tech"
-  | "commerce"
-  | "security"
+  | "economy"
   | "society"
-  | "moise-trials"
+  | "justice"
+  | "security"
+  | "tech"
   | "sports"
+  | "moise-trials"
+  | "governance"
   | "gossip";
 
 export interface LocalizedText {
