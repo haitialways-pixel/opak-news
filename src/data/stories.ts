@@ -47,6 +47,320 @@ export const STORIES: Story[] = [
   },
 
   {
+    id: "ntk-onu-panel-400-mawozo-munitions-rd-2026-11-17",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-17",
+    publishedTime: "2026-11-17T18:56:00-05:00",
+    headline: {
+      ht: "Panel ONU a: 400 Mawozo te jwenn minisyon ki soti nan rezèv lame ak polis Dominikèn",
+      fr: "Panel de l'ONU : 400 Mawozo s'est procuré des munitions provenant des réserves de l'armée et de la police dominicaines",
+    },
+    teaser: {
+      ht: "Se sa Listín Diario relè nan rapò 2026 panèl ekspè yo. Nou relè sa panèl la dokimante, nou pa ajoute sou li.",
+      fr: "C'est ce que relaye Listín Diario à partir du rapport 2026 du panel d'experts. Nous relayons ce que le panel a documenté, sans rien y ajouter.",
+    },
+    brief: {
+      ht: "Listín Diario ekri, mardi 17 novanm, ke panèl ekspè Nasyonzini sou Ayiti dokimante, pandan kat ane, zam ak minisyon k ap soti nan Repiblik Dominikèn pou rive nan men gang yo, tankou 400 Mawozo.",
+      fr: "Listín Diario écrit, mardi 17 novembre, que le panel d'experts des Nations unies sur Haïti a documenté, pendant quatre ans, des armes et des munitions qui partent de la République dominicaine vers des gangs haïtiens, dont 400 Mawozo.",
+    },
+    body: {
+      ht: "Listín Diario relè, mardi 17 novanm 2026, yon seri rapò panèl ekspè Nasyonzini sou Ayiti, ki dokimante depi 2023 trafik zam ak minisyon soti nan Repiblik Dominikèn rive nan men gang ayisyen yo. Jounal la ekri rapò 2026 a ajoute yon eleman nouvo: minisyon ki soti nan rezèv nasyonal Dominikèn, nan lame a ak nan Polis nasyonal la, te rive nan men gang yo, 400 Mawozo ladan.\n\nDapre rapò yo ke Listín site, 400 Mawozo, ki pi pre fwontyè a, sèvi ak trafikè dominikèn pou achte zam ak minisyon, souvan nan pasaj Belladère, bò Elías Piña. Panèl la ekri lidè gang lan, Wilson Joseph, ke yo rele Lanmò San Jou, jwe yon wòl nan acha sa yo, epi li revann yon pati bay lòt gwoup. Se konklizyon panèl la, ke jounal la relè.\n\nRapò yo note tou yon dezyèm wout: kèk trafikè sèvi ak teritwa Dominikèn kòm pasaj pou materyèl ki soti dirèkteman Etazini pou Ayiti. Panèl ekspè yo te etabli pa Konsèy Sekirite a, rezolisyon 2653 (2022). Nou relè sa dokiman yo di; nou pa gen yon ankèt endepandan sou volim ki te janbe fwontyè a.",
+      fr: "Listín Diario relaye, mardi 17 novembre 2026, une série de rapports du panel d'experts des Nations unies sur Haïti, qui documentent depuis 2023 un trafic d'armes et de munitions depuis la République dominicaine vers des gangs haïtiens. Le journal écrit que le rapport de 2026 ajoute un élément nouveau: des munitions provenant des réserves nationales dominicaines, de l'armée et de la Police nationale, ont été acquises par des gangs, dont 400 Mawozo.\n\nD'après les rapports que Listín cite, 400 Mawozo, dont le territoire est le plus proche de la frontière, utilise des trafiquants dominicains pour acheter armes et munitions, souvent au passage de Belladère, près d'Elías Piña. Le panel écrit que le chef du gang, Wilson Joseph, dit Lanmò San Jou, joue un rôle dans ces achats, et en revend une partie à d'autres groupes. C'est la conclusion du panel, que le journal relaye.\n\nLes rapports notent aussi une deuxième voie: certains trafiquants se servent du territoire dominicain pour faire transiter du matériel venant directement des États-Unis vers Haïti. Le panel d'experts a été établi par le Conseil de sécurité, résolution 2653 (2022). Nous relayons ce que ces documents disent; nous n'avons pas d'enquête indépendante sur les volumes qui ont traversé la frontière.",
+    },
+    sources: ["Listín Diario"],
+    sourceLinks: [
+      { name: "Listín Diario", url: "https://listindiario.com/la-republica/20261117/lider-400-mawozo-compraba-armas-municiones-rd-revendia-bandas-haitianas_930388.html" },
+    ],
+  },
+
+  {
+    id: "qh-haitilibre-armes-americaines-2026-11-17",
+    tier: "quick-hit",
+    topic: "security",
+    publishedAt: "2026-11-17",
+    publishedTime: "2026-11-17T18:55:00-05:00",
+    headline: {
+      ht: "HaitiLibre: zam ak minisyon ameriken ap nouri vyolans ann Ayiti",
+      fr: "HaitiLibre : les armes et munitions américaines alimentent la violence en Haïti",
+    },
+    teaser: {
+      ht: "Se yon atik HaitiLibre, ki site responsab ameriken ak yon odyans nan Kongrè a. Nou relè sa jounal la ekri.",
+      fr: "C'est un article de HaitiLibre, qui cite des responsables américains et une audition au Congrès. Nous relayons ce que le journal écrit.",
+    },
+    brief: {
+      ht: "HaitiLibre ekri, mardi 17 novanm, ke nan Washington, gen responsab ki rekonèt, an prive, ke zam ki soti Etazini kontribye nan vyolans ann Ayiti. Jounal la site kolonèl Justin Gorkowski devan Kongrè a.",
+      fr: "HaitiLibre écrit, mardi 17 novembre, qu'à Washington, des responsables reconnaissent, en privé, que des armes en provenance des États-Unis contribuent à la violence en Haïti. Le journal cite le colonel Justin Gorkowski devant le Congrès.",
+    },
+    body: {
+      ht: "HaitiLibre pibliye, mardi 17 novanm 2026, yon atik ki di ke nan Washington, kèk responsab rekonèt, an prive, ke zam ak minisyon ki soti Etazini ap nouri vyolans ak enstabilite ann Ayiti. Se lekti jounal la. Li raple yon rapò ONUDC an 2023 te deziyen Etazini kòm prensipal sous zam ann Ayiti.\n\nJounal la site kolonèl Justin Gorkowski, ko-responsab yon ekip ki swiv efò anti-gang yo, ki te depoze devan Kongrè a an jiyè 2026: zam ak minisyon yo pafwa soti dirèkteman nan Florid ak New York, via Repiblik Dominikèn. Se pawòl li, ke HaitiLibre relè.\n\nAtik la ajoute ke dè milye zam kontinye sikile nan peyi a, e ke fòs sekirite k ap konbat gang yo souvan sèvi ak zam ameriken tou. Nou pa gen yon chif endepandan pou konfime volim sa yo. Nou relè atik HaitiLibre a kòm sous inik sou pwen sa a; nou pa pran konklizyon politik jounal la kòm yon reyalite etabli.",
+      fr: "HaitiLibre publie, mardi 17 novembre 2026, un article selon lequel, à Washington, des responsables reconnaissent, en privé, que des armes et des munitions en provenance des États-Unis alimentent la violence et l'instabilité en Haïti. C'est la lecture du journal. Il rappelle qu'un rapport de l'ONUDC, en 2023, avait désigné les États-Unis comme principale source d'armes en Haïti.\n\nLe journal cite le colonel Justin Gorkowski, co-responsable d'une équipe qui suit les efforts anti-gangs, qui a témoigné devant le Congrès en juillet 2026: les armes et les munitions viennent parfois directement de Floride et de New York, via la République dominicaine. Ce sont ses propos, que HaitiLibre relaye.\n\nL'article ajoute que des centaines de milliers d'armes continuent de circuler dans le pays, et que les forces de sécurité qui affrontent les gangs sont, dans bien des cas, elles aussi équipées d'armes américaines. Nous n'avons pas de chiffre indépendant pour confirmer ces volumes. Nous relayons l'article de HaitiLibre comme source unique sur ce point; nous ne prenons pas les conclusions politiques du journal pour un fait établi.",
+    },
+    sources: ["HaitiLibre"],
+    sourceLinks: [
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48913-haiti-securite-les-armes-et-munitions-americaines-alimentent-la-violence-en-haiti.html" },
+    ],
+  },
+
+  {
+    id: "qh-oea-securite-ports-routes-2026-11-17",
+    tier: "quick-hit",
+    topic: "economy",
+    publishedAt: "2026-11-17",
+    publishedTime: "2026-11-17T18:54:00-05:00",
+    headline: {
+      ht: "OEA pwopoze senk aks pou sekirize pò yo ak wout komès Ayiti",
+      fr: "L'OEA propose cinq axes pour sécuriser les ports et les routes commerciales d'Haïti",
+    },
+    teaser: {
+      ht: "Rapò a soti lendi, apre yon konferans nan Panama an mas. Se yon pwopozisyon, se pa yon plan ki deja an plas.",
+      fr: "Le rapport a été publié lundi, après une conférence à Panama en mars. C'est une proposition, pas un dispositif déjà en place.",
+    },
+    brief: {
+      ht: "OEA pibliye lendi 16 novanm yon rapò ki pwopoze senk aks: yon sant kontwòl pò, siveyans maritim, koridò pou machandiz, pèsonèl ki pi byen fòme, ak yon fon sekirite pò.",
+      fr: "L'OEA a publié lundi 16 novembre un rapport qui propose cinq axes: un centre de contrôle portuaire, une surveillance maritime, des corridors pour les marchandises, un personnel mieux formé, et un fonds de sécurité portuaire.",
+    },
+    body: {
+      ht: "Òganizasyon Eta ameriken yo (OEA) pibliye lendi 16 novanm 2026 rapò final konferans li sou sekirite maritim ak pò ann Ayiti, ki te fèt 18 ak 19 mas 2026 nan Panama, NAGO ak Le Nouvelliste relè. Dokiman an pwopoze senk aks priyorite. Se rekòmandasyon, se pa mezi ki deja aplike.\n\nPremye aks la: yon sant entè-enstitisyonèl pou kontwole pò yo ak aksè lanmè yo. Dezyèm: yon siveyans maritim entegre, ak rada, imaj satelit ak sistèm idantifikasyon bato, plis pi bon pataj enfòmasyon. Twazyèm: pwoteksyon tèminal yo ak koridò lojistik yo. Katriyèm: fòmasyon ak sètifikasyon pèsonèl, prevansyon koripsyon, ak modernizasyon kad legal la. Senkyèm: yon fon sekirite pò, finanse ak redevans espesyal, pou achte ak kenbe ekipman yo.\n\nSekretè jeneral OEA a, Albert R. Ramdin, di pwoteje pò yo ak wout komès yo enpòtan pou èd imanitè a ka rive, ak pou devlopman. Rapò a mete aksan sou pò Pòtoprens, epi li raple atak ak piyaj sou Pò entènasyonal la an mas 2024, ak kanizo sou pò a ak tèminal petwòl Varreux an jen, apre echanj ant gang. Otorite ayisyen yo ta dwe mennen aplikasyon an, ak sipò patnè yo, toujou dapre rapò a.",
+      fr: "L'Organisation des États américains (OEA) a publié lundi 16 novembre 2026 le rapport final de sa conférence sur la sécurité maritime et portuaire en Haïti, tenue les 18 et 19 mars 2026 à Panama, relaient NAGO et Le Nouvelliste. Le document propose cinq axes prioritaires. Ce sont des recommandations, pas des mesures déjà appliquées.\n\nPremier axe: un centre interinstitutionnel de contrôle portuaire, pour coordonner les institutions responsables des ports et de leurs accès maritimes. Deuxième: une surveillance maritime intégrée, avec radars, images satellitaires et systèmes d'identification des navires, et un meilleur partage d'informations. Troisième: la protection des terminaux et des corridors logistiques. Quatrième: la formation et la certification du personnel, la prévention de la corruption, et la modernisation du cadre juridique. Cinquième: un fonds de sécurité portuaire, alimenté par des redevances spécifiques, pour financer et entretenir les équipements.\n\nLe secrétaire général de l'OEA, Albert R. Ramdin, estime que protéger les ports et les routes commerciales est essentiel pour faire arriver l'aide humanitaire et rétablir les conditions du développement. Le rapport accorde une attention particulière aux ports de Port-au-Prince, et rappelle l'attaque et le pillage du Port international en mars 2024, ainsi que l'interruption des activités du port et du terminal pétrolier de Varreux en juin, après des affrontements entre gangs. Les autorités haïtiennes devraient conduire la mise en oeuvre, avec l'appui des partenaires, toujours selon le rapport.",
+    },
+    sources: ["OEA", "NAGO", "Le Nouvelliste"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/oea-propose-des-mesures-pour-securiser-les-ports-haitiens" },
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273931/quand-un-rapport-de-loea-propose-des-mesures-pour-renforcer-la-securite-des-ports-et-des-routes-commerciales-dhaiti" },
+    ],
+  },
+
+  {
+    id: "qh-rizzuto-oea-soutien-bukele-2026-11-17",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-17",
+    publishedTime: "2026-11-17T18:53:00-05:00",
+    headline: {
+      ht: "Rizzuto, reprezantan Etazini nan OEA, salye ofansiv salvadoryen an",
+      fr: "Rizzuto, représentant des États-Unis à l'OEA, salue l'offensive salvadorienne",
+    },
+    teaser: {
+      ht: "Li di li aplodi 'agresivite franche' prezidan Bukele a, 'paske se sa ki nesesè pou sove lavi'. Se pozisyon li.",
+      fr: "Il dit applaudir l'agressivité franche du président Bukele, parce que c'est ce qui est nécessaire pour sauver des vies. C'est sa position.",
+    },
+    brief: {
+      ht: "Leandro Rizzuto, reprezantan Etazini nan OEA, salye operasyon fòs Salvador yo ann Ayiti. Li mande tou pou yo konpare lajan yo depanse ak rezilta yo.",
+      fr: "Leandro Rizzuto, représentant des États-Unis auprès de l'OEA, a salué les opérations des forces salvadoriennes en Haïti. Il demande aussi que l'on compare l'argent dépensé et les résultats obtenus.",
+    },
+    body: {
+      ht: "Leandro Rizzuto, reprezantan Etazini nan Òganizasyon Eta ameriken yo, salye operasyon militè Salvador ap mennen ann Ayiti, Vant Bèf Info ak NAGO relè. « M aplodi efò yo ak agresivite franche prezidan Bukele, paske se sa ki nesesè pou sove lavi », li te deklare.\n\nRizzuto di kèk Ayisyen ki gen kat rezidan pèmanan nan Florid sipòte prezans fòs salvadoryen yo, e yo vle pou yo rete. Se sa li di. Li mande tou pou yo evalye rezilta yo devan lajan ki depanse: « Dola yo depanse dwe evalye tankou nan yon antrepriz. Ki rezilta yo? [...] M mande tout moun konpare dola yo ak rezilta yo. »\n\nSe pozisyon reprezantan ameriken an. Li pa vle di OEA pran yon desizyon kolektif sou pwolongasyon misyon an, ni sou kòmandman operasyon yo.",
+      fr: "Leandro Rizzuto, représentant des États-Unis auprès de l'Organisation des États américains, a salué les opérations militaires menées en Haïti par les forces salvadoriennes, relaient Vant Bèf Info et NAGO. « J'applaudis les efforts et l'agressivité franche du président Bukele, parce que c'est ce qui est nécessaire pour sauver des vies », a-t-il déclaré.\n\nRizzuto a dit que certains Haïtiens titulaires d'une carte de résident permanent en Floride soutiennent la présence des forces salvadoriennes, et souhaitent qu'elles restent. C'est ce qu'il affirme. Il a aussi demandé que l'on évalue les résultats obtenus au regard de l'argent dépensé: « Les dollars dépensés doivent être évalués comme dans une entreprise. Quels sont les résultats ? [...] Je demande à tout le monde de comparer les dollars et les résultats. »\n\nC'est la position du représentant américain. Elle ne signifie pas que l'OEA a pris une décision collective sur une prolongation de la mission, ni sur le commandement des opérations.",
+    },
+    sources: ["Vant Bèf Info", "NAGO"],
+    sourceLinks: [
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/haiti-leandro-rizzuto-salue-loffensive-militaire-salvadorienne-et-plaide-pour-une-meilleure-coordination/" },
+      { name: "NAGO", url: "https://news.nago.tv/leandro-rizzuto-salue-l-offensive-militaire-salvadorienne" },
+    ],
+  },
+
+  {
+    id: "qh-cscca-bendgy-tilias-decharge-2026-11-17",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-17",
+    publishedTime: "2026-11-17T18:51:00-05:00",
+    headline: {
+      ht: "CSCCA di Bendgy Tilias pa te jere fon leta, li pa bezwen dechaj",
+      fr: "La CSCCA dit que Bendgy Tilias n'a pas géré de fonds publics et n'est pas soumis à la décharge",
+    },
+    teaser: {
+      ht: "Se yon arè 13 novanm, sètifye lendi 16 novanm. Li konsène jèsyon l kòm sekretè deta, se pa yon sètifika pou tout moun.",
+      fr: "C'est un arrêt du 13 novembre, certifié lundi 16 novembre. Il concerne sa gestion comme secrétaire d'État, ce n'est pas un certificat pour tout le monde.",
+    },
+    brief: {
+      ht: "Kou siperyè kont yo di, nan yon arè 13 novanm sètifye 16 novanm, Bendgy Tilias, ansyen sekretè deta Kominikasyon, pa t òdonatè ni kontab lajan piblik soti 11 desanm 2024 rive 4 mas 2026.",
+      fr: "La Cour supérieure des comptes dit, dans un arrêt du 13 novembre certifié le 16 novembre, que Bendgy Tilias, ancien secrétaire d'État à la Communication, n'a été ni ordonnateur ni comptable de deniers publics du 11 décembre 2024 au 4 mars 2026.",
+    },
+    body: {
+      ht: "Gazette Haiti ekri, mardi 17 novanm 2026, ke Chanm finansye Kou siperyè kont ak kontansye administratif (CSCCA) te rann yon arè 13 novanm, sètifye lendi 16 novanm, sou jèsyon Bendgy Tilias kòm sekretè deta Kominikasyon. Kou a konklizyon pa gen eleman ki pèmèt di li te òdonatè oswa kontab lajan piblik. Se poutèt sa, li pa soumèt devan fòmalite dechaj la.\n\nDapre arè a, ke Gazette Haiti relè, Tilias pa t jere okenn fon piblik ant 11 desanm 2024 ak 4 mas 2026. Kou a deklare rapò odit li prezante a recevable, epi li òdone leve ipotèk ki te sou byen l yo, ak sa ayant dwa li yo, dapre dispozisyon legal yo. Jij yo te se Rogavil Boisguéne, ki te prezide, Marie-France H. Mondésir ak Nonie H. Mathieu.\n\nTilias di, sou kont li, li te fè deklarasyon patrimwàn antre ak soti devan ULCC, e se li menm ki te mande odit la. Li kandida pou Sena a, nan depatman Nò. Desizyon sa a konsène ka pa l; li pa chanje avètisma CSCCA a, 12 novanm, ke se Palman an ki ka bay dechaj pou ansyen Premye minis ak minis ki te jere fon leta.",
+      fr: "Gazette Haiti écrit, mardi 17 novembre 2026, que la Chambre financière de la Cour supérieure des comptes et du contentieux administratif (CSCCA) a rendu un arrêt le 13 novembre, certifié lundi 16 novembre, sur la gestion de Bendgy Tilias comme secrétaire d'État à la Communication. La Cour conclut qu'aucun élément ne permet d'établir qu'il a été ordonnateur ou comptable de deniers publics. Il n'est donc pas assujetti à la formalité de décharge.\n\nD'après l'arrêt, que Gazette Haiti relaye, Tilias n'a géré aucun fonds public entre le 11 décembre 2024 et le 4 mars 2026. La Cour déclare recevable le rapport d'audit qu'il a présenté, et ordonne la levée des inscriptions hypothécaires grevant ses biens, ainsi que ceux de ses ayants droit, conformément aux dispositions légales. Les juges étaient Rogavil Boisguéne, président, Marie-France H. Mondésir et Nonie H. Mathieu.\n\nTilias dit, sur son compte, avoir fait ses déclarations de patrimoine d'entrée et de sortie auprès de l'ULCC, et avoir lui-même demandé cet audit. Il est candidat au Sénat pour le département du Nord. Cette décision concerne son cas; elle ne change pas l'avis de la CSCCA, le 12 novembre, selon lequel seul le Parlement peut accorder la décharge aux anciens Premiers ministres et ministres qui ont géré des fonds publics.",
+    },
+    sources: ["Gazette Haiti"],
+    sourceLinks: [
+      { name: "Gazette Haiti", url: "https://www.gazettehaiti.com/node/14552" },
+    ],
+  },
+
+  {
+    id: "qh-jolicoeur-debloke-lapeh-petion-ville-2026-11-17",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-17",
+    publishedTime: "2026-11-17T18:50:00-05:00",
+    headline: {
+      ht: "Yvanka Jolicoeur kite DEBLOKE pou brige majistra Petyonvil ak Lapeh",
+      fr: "Yvanka Jolicoeur quitte DEBLOKE pour briguer la mairie de Pétion-Ville avec Lapeh",
+    },
+    teaser: {
+      ht: "Lèt 16 novanm nan pa bay motif yo. Dokiman an gen tampon resepsyon CEP.",
+      fr: "La lettre du 16 novembre n'expose pas les motifs. Le document porte le tampon de réception du CEP.",
+    },
+    brief: {
+      ht: "Minerve Yvanka Jolicoeur, ak adjwen Willy Louis ak Hans Dominique, te notifye DEBLOKE lendi 16 novanm yo ap retire estrikti yo nèt, epi yo rale sou Lapeh.",
+      fr: "Minerve Yvanka Jolicoeur, avec ses adjoints Willy Louis et Hans Dominique, a notifié DEBLOKE lundi 16 novembre le retrait complet de leur structure, puis s'est tournée vers Lapeh.",
+    },
+    body: {
+      ht: "NAGO ak Le Quotidien 509 ekri ke lendi 16 novanm 2026, kandida titilè Minerve Yvanka Jolicoeur, ak Willy Louis ak Hans Dominique, premye ak dezyèm adjwen, te notifye dirijan Kowòdinasyon nasyonal DEBLOKE yo ap retire estrikti yo nèt. Yo mande pou yo libere yo anba angajman yo te genyen, epi pou ansyen fòmasyon an avèti CEP.\n\nDokiman an gen tampon resepsyon Konsèy elektoral pwovizwa a. Yo te voye kopi bay Peterson Pierre Louis, prezidan CEP, ak Uder Antoine, direktè jeneral. Tèks lèt la pa eksplike poukisa yo separe. Apre sa, katèl la ak ekip tèritoryal li yo te rale sou platfòm Lapeh, pou brige majistra Petyonvil.\n\nSe yon chanjman bannyè, sou yon lis ki te deja anplis. CEP poko pibliye lis ofisyèl kandida yo.",
+      fr: "NAGO et Le Quotidien 509 écrivent que lundi 16 novembre 2026, la candidate titulaire Minerve Yvanka Jolicoeur, avec Willy Louis et Hans Dominique, premier et deuxième adjoints, a notifié aux dirigeants de la Coordination nationale de DEBLOKE le retrait complet de leur structure. Ils demandent à être déliés de leurs engagements, et que leur ancienne formation prévienne le CEP.\n\nLe document porte le tampon de réception du Conseil électoral provisoire. Une copie a été transmise à Peterson Pierre Louis, président du CEP, et à Uder Antoine, directeur général. Le texte de la lettre n'expose pas les motifs de la séparation. Ensuite, le cartel et ses équipes territoriales se sont tournés vers la plateforme Lapeh, pour briguer la mairie de Pétion-Ville.\n\nC'est un changement de bannière, sur une liste déjà en cours. Le CEP n'a pas encore publié la liste officielle des candidats.",
+    },
+    sources: ["NAGO", "Le Quotidien 509"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/yvanka-jolicoeur-quitte-debloke-pour-briguer-la-mairie-de-petion-ville" },
+      { name: "Le Quotidien 509", url: "https://lequotidien509.com/municipales-a-petion-ville-le-cartel-dyvanka-jolicoeur-claque-la-porte-de-debloke-et-rejoint-lapeh/" },
+    ],
+  },
+
+  {
+    id: "qh-wilner-joseph-viktwa-dialogue-rd-2026-11-17",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-17",
+    publishedTime: "2026-11-17T18:48:00-05:00",
+    headline: {
+      ht: "Wilner Joseph, kandida VIKTWA, pwopoze yon mekanis dyalòg ak Repiblik Dominikèn",
+      fr: "Wilner Joseph, candidat de VIKTWA, propose un mécanisme de dialogue avec la République dominicaine",
+    },
+    teaser: {
+      ht: "Se pwopozisyon l nan liv 'Le pari du dialogue'. Se pa yon akò ant de eta yo.",
+      fr: "C'est sa proposition, dans l'ouvrage « Le pari du dialogue ». Ce n'est pas un accord entre les deux États.",
+    },
+    brief: {
+      ht: "Kandida prezidans lan, sou bannyè VIKTWA, plede pou yon mekanis konsètasyon pèmanan ant Pòtoprens ak Santo Domingo, sou komès, migrasyon, anviwònman ak dwa fondamantal.",
+      fr: "Le candidat à la présidence, sous la bannière VIKTWA, plaide pour un mécanisme de concertation permanent entre Port-au-Prince et Saint-Domingue, sur le commerce, la migration, l'environnement et les droits fondamentaux.",
+    },
+    body: {
+      ht: "Wilner Joseph, kandida prezidans sou bannyè VIKTWA, pwopoze yon refòm nan relasyon diplomatik ant Ayiti ak Repiblik Dominikèn, NAGO ak Listín Diario relè, 16 novanm 2026. Nan liv li « Le pari du dialogue », li mande yon mekanis konsètasyon pèmanan ant de kapital yo, pou trete komès, migrasyon, anviwònman, resous transfwontyè ak dwa fondamantal.\n\nLi di dyalòg sa a dwe chita sou respè mityèl ak enterè komen, san li pa konpwomèt souverènte Ayiti. Li pwopoze tou negosyasyon ak peyi destinasyon pou fasilite migrasyon regilye, epi konbat trafik moun. Objektif li, dapre li, se pou Ayisyen yo ka rete nan peyi yo pa chwa, gras a pi bon pèspektiv ekonomik.\n\nSe pwogram yon kandida. Sa pa vle di de gouvènman yo te siyen yon akò sou baz sa a.",
+      fr: "Wilner Joseph, candidat à la présidence sous la bannière VIKTWA, propose une réforme des relations diplomatiques entre Haïti et la République dominicaine, relaient NAGO et Listín Diario, le 16 novembre 2026. Dans son ouvrage « Le pari du dialogue », il demande un mécanisme de concertation permanent entre les deux capitales, pour traiter le commerce, la migration, l'environnement, les ressources transfrontalières et les droits fondamentaux.\n\nIl dit que ce dialogue doit reposer sur le respect mutuel et l'intérêt commun, sans compromettre la souveraineté d'Haïti. Il préconise aussi des négociations avec les pays de destination pour faciliter la migration régulière, et combattre le trafic d'êtres humains. L'objectif, selon lui, est que les Haïtiens puissent rester dans leur pays par choix, grâce à de meilleures perspectives économiques.\n\nC'est le programme d'un candidat. Cela ne signifie pas que les deux gouvernements ont signé un accord sur cette base.",
+    },
+    sources: ["NAGO", "Listín Diario"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/wilner-joseph-propose-de-refonder-les-relations-avec-la-republique-dom" },
+      { name: "Listín Diario", url: "https://listindiario.com/la-republica/politica/20261116/candidato-presidencial-haitiano-wilner-joseph-propone-nueva-diplomacia-rd_930193.html" },
+    ],
+  },
+
+  {
+    id: "ntk-charleroi-tps-fin-diaspora-2026-11-17",
+    tier: "need-to-know",
+    topic: "society",
+    publishedAt: "2026-11-17",
+    publishedTime: "2026-11-17T18:47:00-05:00",
+    headline: {
+      ht: "Charleroi, Pennsilvani: apre fen TPS, kominote ayisyen an ap diminye",
+      fr: "Charleroi, en Pennsylvanie : après la fin du TPS, la communauté haïtienne diminue",
+    },
+    teaser: {
+      ht: "Yon avoka lokal estime anviwon 2 000 benefisyè te viv la, e ke apeprè mwatye popilasyon ayisyen an te ale. Se yon estimasyon, se pa yon resansman.",
+      fr: "Un avocat local estime qu'environ 2 000 bénéficiaires y ont vécu, et qu'à peu près la moitié de la population haïtienne est partie. C'est une estimation, pas un recensement.",
+    },
+    brief: {
+      ht: "Depi 27 jiyè, lè TPS pou Ayisyen yo te pran fen, vil endistriyèl Charleroi wè kominote ayisyen l la ap depliye, Pittsburgh's Public Source ak NAGO relè.",
+      fr: "Depuis le 27 juillet, date à laquelle le TPS a pris fin pour les Haïtiens, la ville industrielle de Charleroi voit sa communauté haïtienne s'éclaircir, relaient Pittsburgh's Public Source et NAGO.",
+    },
+    body: {
+      ht: "Nan Charleroi, yon ti vil endistriyèl nan sidwès Pennsilvani, kominote ayisyen an ap diminye depi fen estati pwoteksyon tanporè (TPS). Pwogram nan te pran fen pou Ayisyen yo 27 jiyè 2026, apre Tribinal siprèm Etazini te pèmèt administrasyon Trump sispann li, Pittsburgh's Public Source ak NAGO relè.\n\nYon avoka lokal estime anviwon 2 000 benefisyè TPS te viv nan Charleroi nan yon moman, e ke apeprè mwatye popilasyon ayisyen vil la te ale. Chif la se yon estimasyon; pa gen resansman ofisyèl ki konfime l.\n\nSiy yo vizib. Depi fen out, administratè vil la, Joe Manning, te dekri lari ki prèske vid: « Pa gen moun deyò ankò. » Li te siyale tou yon ogmantasyon nan demand pèmi pou ben, yon siy kay yo ap vide. NAGO ekri kèk moun te ale Florid, New York, New Jersey, Chili oswa Brezil. Pa te gen yon gwo operasyon ICE ki te rapòte nan vil la pou eksplike depa sa yo.",
+      fr: "À Charleroi, petite ville industrielle du sud-ouest de la Pennsylvanie, la communauté haïtienne diminue depuis la fin du statut de protection temporaire (TPS). Le programme a pris fin pour les Haïtiens le 27 juillet 2026, après que la Cour suprême des États-Unis a permis à l'administration Trump d'y mettre un terme, relaient Pittsburgh's Public Source et NAGO.\n\nUn avocat local estime qu'environ 2 000 bénéficiaires du TPS ont vécu à Charleroi à un moment, et qu'à peu près la moitié de la population haïtienne de la ville est partie. Le chiffre est une estimation; aucun recensement officiel ne le confirme.\n\nLes signes sont visibles. Dès la fin août, l'administrateur de la ville, Joe Manning, décrivait des rues presque désertes: « Il n'y a plus personne dehors. » Il signalait aussi une hausse des demandes de permis de bennes, signe que des logements sont vidés. NAGO écrit que certains sont partis vers la Floride, New York, le New Jersey, le Chili ou le Brésil. Aucune vaste opération de l'ICE n'a été rapportée dans la ville pour expliquer ces départs.",
+    },
+    sources: ["Pittsburgh's Public Source", "NAGO"],
+    sourceLinks: [
+      { name: "Pittsburgh's Public Source", url: "https://www.publicsource.org/charleroi-haitian-tps-factory-closures/" },
+      { name: "NAGO", url: "https://news.nago.tv/charleroi-pennsylvanie-apres-la-fin-du-tps-la-ville-se-vide-de-ses-haitiens" },
+    ],
+  },
+
+  {
+    id: "ntk-fdse-concours-admission-2026-11-17",
+    tier: "need-to-know",
+    topic: "society",
+    publishedAt: "2026-11-17",
+    publishedTime: "2026-11-17T18:46:00-05:00",
+    headline: {
+      ht: "FDSE: 4 000 dosye valide pou konkou a; fakilte a prevwa 500 a 600 etidyan nouvo",
+      fr: "FDSE : 4 000 dossiers validés pour le concours; la faculté prévoit 500 à 600 nouveaux étudiants",
+    },
+    teaser: {
+      ht: "4 000 pa vle di 4 000 moun deja admèt nan fakilte a. Doyen an di kapasite a se 500 a 600.",
+      fr: "4 000 ne veut pas dire que 4 000 personnes sont déjà admises à la faculté. Le doyen dit que la capacité est de 500 à 600.",
+    },
+    brief: {
+      ht: "Fakilte dwa ak syans ekonomik Inivèsite Leta a te òganize konkou admisyon 2026-2027 dimanch 15 novanm. Sou anviwon 5 000 enskri, 4 000 te valide, NAGO ekri.",
+      fr: "La Faculté de droit et des sciences économiques de l'Université d'État a organisé son concours d'admission 2026-2027 dimanche 15 novembre. Sur environ 5 000 inscrits, 4 000 ont été validés, écrit NAGO.",
+    },
+    body: {
+      ht: "Fakilte dwa ak syans ekonomik (FDSE) Inivèsite Leta Ayiti te òganize konkou admisyon pou ane akademik 2026-2027 dimanch 15 novanm, NAGO ekri, 16 novanm, e Vant Bèf Info relè. Sou anviwon 5 000 kandida ki te enskri, 4 000 te valide pou konkou a. Sa pa vle di 4 000 moun deja antre nan fakilte a.\n\nMe Eugène Pierre-Louis, doyen FDSE, di enstitisyon an prevwa akeyi ant 500 ak 600 etidyan nouvo. Li te souliye yon ogmantasyon konpare ak ane pase a, ki te gen anviwon 2 500 enskri.\n\nPou akeyi kandida yo, FDSE te itilize sis sant egzamen nan twa komin: Pòtoprens, Petyonvil ak Dèlma, pami yo Kolèj Kanada-Ayisyen, Lise Horatius Laventure, Lekòl nasyonal Repiblik Etazini, Kolèj Interfamilia, ak lokal FDSE nan Péguiville. NAGO ekri te gen reta nan distribisyon sijè yo ak lòt pwoblèm lojistik, men konkou a te fèt.",
+      fr: "La Faculté de droit et des sciences économiques (FDSE) de l'Université d'État d'Haïti a organisé son concours d'admission pour l'année académique 2026-2027 dimanche 15 novembre, écrit NAGO le 16 novembre, également relayé par Vant Bèf Info. Sur environ 5 000 candidats inscrits, 4 000 ont été validés pour le concours. Cela ne signifie pas que 4 000 personnes sont déjà entrées à la faculté.\n\nMe Eugène Pierre-Louis, doyen de la FDSE, dit que l'institution prévoit d'accueillir entre 500 et 600 nouveaux étudiants. Il a souligné une augmentation par rapport à l'année précédente, qui avait compté environ 2 500 inscrits.\n\nPour accueillir les candidats, la FDSE a utilisé six centres d'examen dans trois communes: Port-au-Prince, Pétion-Ville et Delmas, parmi lesquels le Collège Canado-Haïtien, le Lycée Horatius Laventure, l'École nationale République des États-Unis, le Collège Interfamilia, et les locaux de la FDSE à Péguiville. NAGO écrit qu'il y a eu du retard dans la distribution des sujets et d'autres problèmes logistiques, mais que le concours a eu lieu.",
+    },
+    sources: ["NAGO", "Vant Bèf Info"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/concours-d-admission-a-la-fdse-4000-candidats-admis" },
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/haiti-4-000-candidats-au-concours-dadmission-2026-2027-de-la-fdse/" },
+    ],
+  },
+
+  {
+    id: "qh-jamaique-portland-reseau-haitiens-2026-11-17",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-17",
+    publishedTime: "2026-11-17T18:44:00-05:00",
+    headline: {
+      ht: "Jamayik: polis Portland sispèk yon rezo òganize dèyè arive Ayisyen, san akizasyon pou trafik",
+      fr: "Jamaïque : la police de Portland soupçonne un réseau organisé derrière les arrivées d'Haïtiens, sans inculpation pour trafic",
+    },
+    teaser: {
+      ht: "Se sispèk polis la, nan yon podcast fòs yo. Yo pa anonse akizasyon pou trafik moun.",
+      fr: "C'est un soupçon de la police, dans un podcast de la force. Aucune inculpation pour trafic d'êtres humains n'a été annoncée.",
+    },
+    brief: {
+      ht: "Sipèentandan Ainsley McCarthy di kèk Ayisyen peye pou rive, epi yo vin chèche yo pou mennen yo lòt kote. Asistan komisyonè McArthur Sutherland di li kwè sa òganize, an pati paske gen moun ki te deja ranvwaye e ki tounen.",
+      fr: "Le surintendant Ainsley McCarthy dit que certains Haïtiens paient pour arriver, puis sont récupérés pour être emmenés ailleurs. L'assistant-commissaire McArthur Sutherland dit croire que c'est organisé, notamment parce que des personnes déjà éloignées sont revenues.",
+    },
+    body: {
+      ht: "Jamaica Observer ekri, mardi 17 novanm 2026, ke chèf polis Portland, sipèentandan Ainsley McCarthy, di arive souvan Ayisyen sou kòt pawas la fè pati yon rezo trafik pi laj nan Jamayik. Li te pale nan podcast Force4good Fòs polis Jamayik la. « Gen Ayisyen ki peye pou rive isit, epi gen moun ki vin chèche yo pou mennen yo lòt kote, pifò fwa andeyò pawas la », li te di.\n\nAsistan komisyonè McArthur Sutherland, ki dirije Zòn 2 (Portland, St Mary, St Ann), di polis la kwè gen yon nivo kowòdinasyon andeyò Portland. Li site kòm siy moun ki te deja ranvwaye e ki tounen nan dènye vwayaj la. Mwa pase a, polis la te kenbe 22 Ayisyen nan Zòn 2 an yon semèn. Nan mwa jen, 17 te rive nan Passley Gardens, Port Antonio, epi 11 lòt te debake kèk jou apre; yo te mennen yo nan komisarya pou swen sante ak imigrasyon.\n\nSutherland di peyi a bezwen sipò enfrastrikti, paske gen anpil pò ki pa kontwole. Se sispèk polis la. Jounal la pa rapòte akizasyon pou trafik moun. Yon dosye apa, sou yon diskisyon nan yon fèt sou yon fèm ki te kite yon Ayisyen mouri ane pase, toujou devan tribinal, dapre Sutherland.",
+      fr: "Le Jamaica Observer écrit, mardi 17 novembre 2026, que le chef de la police de Portland, le surintendant Ainsley McCarthy, affirme que les arrivées fréquentes d'Haïtiens sur les côtes de la paroisse s'inscrivent dans un réseau de trafic plus large en Jamaïque. Il s'exprimait dans le podcast Force4good de la police jamaïcaine. « Certains Haïtiens paient pour arriver ici, puis des personnes viennent les chercher pour les emmener ailleurs, le plus souvent hors de la paroisse », a-t-il dit.\n\nL'assistant-commissaire McArthur Sutherland, qui dirige la Zone 2 (Portland, St Mary, St Ann), dit que la police croit à un niveau de coordination en dehors de Portland. Il cite comme indice des personnes déjà éloignées qui sont revenues lors du dernier voyage. Le mois dernier, la police a interpellé 22 Haïtiens dans la Zone 2 en une semaine. En juin, 17 personnes sont arrivées à Passley Gardens, à Port Antonio, puis 11 autres ont débarqué quelques jours plus tard; elles ont été emmenées au commissariat pour des formalités sanitaires et d'immigration.\n\nSutherland dit que le pays a besoin d'un soutien en infrastructures, parce que de nombreux points d'accès côtiers ne sont pas contrôlés. C'est un soupçon de la police. Le journal n'annonce pas d'inculpation pour trafic d'êtres humains. Une affaire distincte, un différend lors d'une fête sur une ferme qui a coûté la vie à un Haïtien l'an dernier, est toujours devant les tribunaux, selon Sutherland.",
+    },
+    sources: ["Jamaica Observer"],
+    sourceLinks: [
+      { name: "Jamaica Observer", url: "https://www.jamaicaobserver.com/2026/11/17/haitian-trafficking-network/" },
+    ],
+  },
+
+  {
+    id: "qh-frantzdy-henry-eloquence-chili-2026-11-17",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-17",
+    publishedTime: "2026-11-17T18:43:00-05:00",
+    headline: {
+      ht: "Frantzdy Henry pran premye pri nan yon konkou entènasyonal elokans nan Chili",
+      fr: "Frantzdy Henry remporte le premier prix d'un concours international d'éloquence au Chili",
+    },
+    teaser: {
+      ht: "HaitiLibre relè final la, samdi 14 novanm, nan Pontificia Universidad Católica. Se sous inik n ap swiv la.",
+      fr: "HaitiLibre relaye la finale, samedi 14 novembre, à la Pontificia Universidad Católica. C'est la source unique que nous suivons ici.",
+    },
+    brief: {
+      ht: "Pami 10 finalis, Ayisyen Frantzdy Henry te ranpòte premye pri a, sou tèm: « Eske edikasyon se pi bon zam pou lapè? »",
+      fr: "Parmi 10 finalistes, l'Haïtien Frantzdy Henry a remporté le premier prix, sur le thème: « L'éducation est-elle la meilleure arme pour la Paix? »",
+    },
+    body: {
+      ht: "HaitiLibre ekri, nan yon zapping mardi 17 novanm 2026, ke samdi 14 novanm, gwo final Konkò entènasyonal elokans an franse te fèt sou kanpis Lo Contador Pontificia Universidad Católica, nan Chili. Tèm nan te: « Eske edikasyon se pi bon zam pou lapè? » Pami 10 kandida finalis, Ayisyen Frantzdy Henry te ranpòte premye pri a.\n\nNou relè nòt HaitiLibre a. Nou poko gen yon kont rann endepandan sou detay seremoni an.",
+      fr: "HaitiLibre écrit, dans un zapping publié mardi 17 novembre 2026, que samedi 14 novembre, la grande finale du Concours international d'éloquence en français s'est tenue sur le campus Lo Contador de la Pontificia Universidad Católica, au Chili. Le thème était: « L'éducation est-elle la meilleure arme pour la Paix? » Parmi 10 candidats finalistes, l'Haïtien Frantzdy Henry a remporté le premier prix.\n\nNous relayons cette note de HaitiLibre. Nous n'avons pas encore de compte rendu indépendant sur le détail de la cérémonie.",
+    },
+    sources: ["HaitiLibre"],
+    sourceLinks: [
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48917-haiti-actualite-zapping.html" },
+    ],
+  },
+
+  {
     id: "ntk-bicentenaire-pnh-task-force-5-segonn-2026-11-17",
     tier: "need-to-know",
     topic: "security",
@@ -190,28 +504,31 @@ export const STORIES: Story[] = [
 
   {
     id: "qh-eligibility-residency-decharge-2026-11-17",
+    isFollowUp: true,
     tier: "quick-hit",
     topic: "politics",
     publishedAt: "2026-11-17",
-    publishedTime: "2026-11-17T08:47:00-05:00",
+    publishedTime: "2026-11-17T18:52:00-05:00",
     headline: {
-      ht: "Eligibilite: Miami Herald evoke kesyon rezidans ak dechaj pou kèk kandida prezidans",
-      fr: "Éligibilité : le Miami Herald évoque des questions de résidence et de décharge pour certains inscrits",
+      ht: "Mathias Pierre mande pou kandidati ansyen minis san dechaj yo irrecevable",
+      fr: "Mathias Pierre demande que les candidatures d'anciens ministres sans décharge soient irrecevables",
     },
     teaser: {
-      ht: "Se posibilite jounal la souleve. Enskripsyon sou platfòm lan pa vle di CEP deja valide dosye yo.",
-      fr: "Ce sont des possibilités que le journal soulève. L'inscription en ligne ne signifie pas que le CEP a déjà validé les dossiers.",
+      ht: "Ansyen minis la te di sa nan radyo, dapre Scoop FM ak NAGO. Se yon demand, se pa yon desizyon CEP.",
+      fr: "L'ancien ministre l'a dit à la radio, selon Scoop FM et NAGO. C'est une demande, pas une décision du CEP.",
     },
     brief: {
-      ht: "Apre fèmen enskripsyon sou entènèt yo, Miami Herald ekri pwochen etap la se konnen kiyès ki kalifye pou parèt sou bilten an. Li evoke rezidans senk ane, sètifika DCPJ, ak dechaj pou ansyen minis.",
-      fr: "Après la clôture des inscriptions en ligne, le Miami Herald écrit que la prochaine étape consiste à déterminer qui remplit les conditions pour figurer sur le bulletin. Il évoque cinq années de résidence, un certificat de la police judiciaire, et une décharge pour les anciens ministres.",
+      ht: "Mathias Pierre estime ke Konstitisyon an ak dekrè elektoral la mande dechaj pou ansyen Premye minis ak minis yo, epi ke dosye san dechaj ta dwe rejte.",
+      fr: "Mathias Pierre estime que la Constitution et le décret électoral exigent la décharge pour les anciens Premiers ministres et ministres, et que les dossiers sans décharge devraient être rejetés.",
     },
     body: {
-      ht: "Miami Herald ekri, 16 novanm 2026, ke apre fèmen enskripsyon sou entènèt yo, pwochen etap pwosesis elektoral la se detèmine kiyès ki satisfè kondisyon lwa a pou parèt sou bilten an. Jounal la raple kandida yo gen jouk 30 novanm pou depoze pyès yo, e ke CEP dwe pibliye lis ofisyèl kandida nasyonal yo 11 janvye 2027. Se posibilite jounal la souleve. Yo pa vle di dosye yo deja rejte.\n\nPami kondisyon Herald la site: senk ane rezidans ann Ayiti, yon sètifika polis jidisyè, epi, pou ansyen minis ki te jere fon leta, yon sètifika dechaj. Jounal la ekri chak nan kondisyon sa yo ka redwi lis la, sitou pou moun ki te viv aletranje, oswa ki te okipe yon fonksyon piblik.\n\nLi evoke ka Martine Moïse, ki te enskri kèk èdtan anvan fèmen an, e ki te di li rete nan Sid Florid depi asasina mari l an 2021. Li evoke tou ansyen prezidan Michel Martelly, ki te viv nan Miyami, sou kesyon rezidans lan. Sou sanksyon yo, Herald la presize lwa elektoral modifye a anpeche moun ki sou sanksyon Nasyonzini, men li pa mete menm restriksyon an pou moun eta yo deziyen yo menm.\n\nJounal la evoke tou ansyen minis zafè etranjè Dominique Dupuy ak Claude Joseph, ki te Premye minis tou, sou kesyon dechaj la. Li raple, 12 novanm, Kou siperyè kont ak kontansye administratif te di li pa gen otorite legal pou sètifye ansyen Premye minis ak minis yo te jere fon leta yo kòrèkteman. Dapre Konstitisyon an, se Palman an ki bay dechaj la, e peyi a pa gen lejislati k ap fonksyone depi plizyè ane. Se sa Miami Herald ekri.",
-      fr: "Le Miami Herald écrit, le 16 novembre 2026, qu'après la clôture des inscriptions en ligne, la prochaine étape du processus électoral consiste à déterminer qui remplit les conditions prévues par la loi pour figurer sur le bulletin. Le journal rappelle que les candidats ont jusqu'au 30 novembre pour déposer leurs pièces, et que le CEP doit publier la liste officielle des candidats nationaux le 11 janvier 2027. Ce sont des possibilités que le journal soulève. Elles ne signifient pas que des dossiers ont déjà été rejetés.\n\nParmi les conditions que le Herald cite: cinq années de résidence en Haïti, un certificat de la police judiciaire, et, pour les anciens ministres qui ont géré des fonds publics, un certificat de décharge. Le journal écrit que chacune de ces exigences pourrait réduire le champ, surtout pour des personnes qui ont vécu à l'étranger, ou qui ont occupé une fonction publique.\n\nIl évoque le cas de Martine Moïse, inscrite quelques heures avant la clôture, et qui a dit vivre en Floride du Sud depuis l'assassinat de son mari en 2021. Il évoque aussi l'ancien président Michel Martelly, qui a vécu à Miami, sur la question de la résidence. Sur les sanctions, le Herald précise que la loi électorale modifiée écarte les personnes visées par des sanctions des Nations unies, mais qu'elle n'impose pas la même restriction aux personnes désignées par des États.\n\nLe journal évoque également les anciens ministres des Affaires étrangères Dominique Dupuy et Claude Joseph, qui a aussi été Premier ministre, sur la question de la décharge. Il rappelle que, le 12 novembre, la Cour supérieure des comptes et du contentieux administratif a dit qu'elle n'avait pas l'autorité légale pour certifier que d'anciens Premiers ministres et ministres avaient correctement géré les fonds de l'État. Selon la Constitution, la décharge ne peut être accordée que par le Parlement, et le pays est sans législature en fonction depuis des années. C'est ce qu'écrit le Miami Herald.",
+      ht: "Ansyen minis Mathias Pierre te estime, nan yon emisyon radyo, ke kandidati ansyen Premye minis ak minis ki pa gen dechaj jèsyon ta dwe irrecevable, Scoop FM ak NAGO relè, mardi 17 novanm 2026. Dapre li, Konstitisyon an ak dekrè elektoral la mande pyès sa a pou valide kandidati moun sa yo, e li ensiste sou respè delè yo. Se pozisyon li. CEP poko pibliye yon lis ofisyèl, ni yon desizyon sou dosye sa yo.\n\nMiami Herald ekri, 16 novanm 2026, ke apre fèmen enskripsyon sou entènèt yo, pwochen etap pwosesis elektoral la se detèmine kiyès ki satisfè kondisyon lwa a pou parèt sou bilten an. Jounal la raple kandida yo gen jouk 30 novanm pou depoze pyès yo, e ke CEP dwe pibliye lis ofisyèl kandida nasyonal yo 11 janvye 2027. Se posibilite jounal la souleve. Yo pa vle di dosye yo deja rejte.\n\nPami kondisyon Herald la site: senk ane rezidans ann Ayiti, yon sètifika polis jidisyè, epi, pou ansyen minis ki te jere fon leta, yon sètifika dechaj. Jounal la ekri chak nan kondisyon sa yo ka redwi lis la, sitou pou moun ki te viv aletranje, oswa ki te okipe yon fonksyon piblik.\n\nLi evoke ka Martine Moïse, ki te enskri kèk èdtan anvan fèmen an, e ki te di li rete nan Sid Florid depi asasina mari l an 2021. Li evoke tou ansyen prezidan Michel Martelly, ki te viv nan Miyami, sou kesyon rezidans lan. Sou sanksyon yo, Herald la presize lwa elektoral modifye a anpeche moun ki sou sanksyon Nasyonzini, men li pa mete menm restriksyon an pou moun eta yo deziyen yo menm.\n\nJounal la evoke tou ansyen minis zafè etranjè Dominique Dupuy ak Claude Joseph, ki te Premye minis tou, sou kesyon dechaj la. Li raple, 12 novanm, Kou siperyè kont ak kontansye administratif te di li pa gen otorite legal pou sètifye ansyen Premye minis ak minis yo te jere fon leta yo kòrèkteman. Dapre Konstitisyon an, se Palman an ki bay dechaj la, e peyi a pa gen lejislati k ap fonksyone depi plizyè ane. Se sa Miami Herald ekri.",
+      fr: "L'ancien ministre Mathias Pierre a estimé, lors d'une émission de radio, que les candidatures d'anciens Premiers ministres et ministres sans décharge de gestion devraient être déclarées irrecevables, relaient Scoop FM et NAGO, mardi 17 novembre 2026. Selon lui, la Constitution et le décret électoral imposent cette pièce pour valider ces candidatures, et il insiste sur le respect des délais. C'est sa position. Le CEP n'a pas encore publié de liste officielle, ni de décision sur ces dossiers.\n\nLe Miami Herald écrit, le 16 novembre 2026, qu'après la clôture des inscriptions en ligne, la prochaine étape du processus électoral consiste à déterminer qui remplit les conditions prévues par la loi pour figurer sur le bulletin. Le journal rappelle que les candidats ont jusqu'au 30 novembre pour déposer leurs pièces, et que le CEP doit publier la liste officielle des candidats nationaux le 11 janvier 2027. Ce sont des possibilités que le journal soulève. Elles ne signifient pas que des dossiers ont déjà été rejetés.\n\nParmi les conditions que le Herald cite: cinq années de résidence en Haïti, un certificat de la police judiciaire, et, pour les anciens ministres qui ont géré des fonds publics, un certificat de décharge. Le journal écrit que chacune de ces exigences pourrait réduire le champ, surtout pour des personnes qui ont vécu à l'étranger, ou qui ont occupé une fonction publique.\n\nIl évoque le cas de Martine Moïse, inscrite quelques heures avant la clôture, et qui a dit vivre en Floride du Sud depuis l'assassinat de son mari en 2021. Il évoque aussi l'ancien président Michel Martelly, qui a vécu à Miami, sur la question de la résidence. Sur les sanctions, le Herald précise que la loi électorale modifiée écarte les personnes visées par des sanctions des Nations unies, mais qu'elle n'impose pas la même restriction aux personnes désignées par des États.\n\nLe journal évoque également les anciens ministres des Affaires étrangères Dominique Dupuy et Claude Joseph, qui a aussi été Premier ministre, sur la question de la décharge. Il rappelle que, le 12 novembre, la Cour supérieure des comptes et du contentieux administratif a dit qu'elle n'avait pas l'autorité légale pour certifier que d'anciens Premiers ministres et ministres avaient correctement géré les fonds de l'État. Selon la Constitution, la décharge ne peut être accordée que par le Parlement, et le pays est sans législature en fonction depuis des années. C'est ce qu'écrit le Miami Herald.",
     },
-    sources: ["Miami Herald"],
+    sources: ["Miami Herald", "Scoop FM", "NAGO"],
     sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/mathias-pierre-reclame-l-irrecevabilite-des-candidatures-sans-decharge" },
+      { name: "Scoop FM", url: "https://www.scoopfmhaiti.com/17553/haiti-mathias-pierre-reclame-lirrecevabilite-des-candidatures-danciens-ministres-sans-decharge/" },
       { name: "Miami Herald", url: "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article318096190.html" },
     ],
   },
@@ -275,28 +592,31 @@ export const STORIES: Story[] = [
 
   {
     id: "ntk-pelissier-salvador-contingent-2026-11-16",
+    isFollowUp: true,
     tier: "need-to-know",
     topic: "security",
-    publishedAt: "2026-11-16",
-    publishedTime: "2026-11-16T20:44:00-05:00",
+    publishedAt: "2026-11-17",
+    publishedTime: "2026-11-17T18:57:00-05:00",
     headline: {
-      ht: "Pélissier salye twoup salvadoryen yo nan San Salvador; li pale de yon posib pwolongasyon",
-      fr: "Pélissier salue les troupes salvadoriennes à San Salvador; il évoque une possible prolongation",
+      ht: "Villatoro: n ap tounen le nou jwenn kat aérotechnisyen yo; Ayiti vle pwolonje misyon an",
+      fr: "Villatoro: nous rentrerons une fois les quatre aérotechniciens retrouvés; Haïti veut prolonger la mission",
     },
     teaser: {
-      ht: "Li te fè vwayaj la nan plas Fils-Aimé, ki rete ann Ayiti pou prepare pwochèn reyinyon yo, Reuters ekri.",
-      fr: "Il a fait le déplacement à la place de Fils-Aimé, resté en Haïti pour préparer de prochaines réunions, écrit Reuters.",
+      ht: "Minis sekirite Salvador a te di sa lendi nan San Salvador. Pélissier te deja pale de yon posib pwolongasyon.",
+      fr: "Le ministre salvadorien de la Sécurité l'a dit lundi à San Salvador. Pélissier avait déjà évoqué une possible prolongation.",
     },
     brief: {
-      ht: "Minis Jistis ak Sekirite piblik Patrick Pélissier te salye, lendi 16 novanm nan San Salvador, deplwaman plis pase 2 000 sòlda salvadoryen ann Ayiti, Reuters relè. Li te di Premye minis la te rete pou prepare yon posib pwolongasyon.",
-      fr: "Le ministre de la Justice et de la Sécurité publique, Patrick Pélissier, a salué, lundi 16 novembre à San Salvador, le déploiement de plus de 2 000 soldats salvadoriens en Haïti, relait Reuters. Il a dit que le Premier ministre était resté pour préparer une possible prolongation.",
+      ht: "Gustavo Villatoro te di, lendi 16 novanm: si demen yo refe parèt, nou tounen, tankou prezidan Bukele te di. Gouvènman ayisyen an, li menm, vle misyon an kontinye.",
+      fr: "Gustavo Villatoro a dit, lundi 16 novembre: si demain ils réapparaissent, nous rentrons, comme l'a dit le président Bukele. Le gouvernement haïtien, lui, souhaite que la mission se poursuive.",
     },
     body: {
-      ht: "Minis Jistis ak Sekirite piblik la, Patrick Pélissier, te salye, lendi 16 novanm 2026 nan San Salvador, deplwaman plis pase 2 000 sòlda salvadoryen ann Ayiti, Reuters relè. Li t ap pale anvan yon rankont ak prezidan Nayib Bukele. Dapre li, misyon sa a te remete lespwa nan pèp ayisyen an, e li te fè balans lan chanje kont gang ame yo.\n\nMinis la te fè vwayaj la nan plas Premye minis Alix Didier Fils-Aimé. Pélissier te di chèf gouvènman an te rete ann Ayiti pou prepare pwochèn reyinyon ak otorite salvadoryen yo sou yon posib pwolongasyon deplwaman an, toujou dapre Reuters.\n\nBukele te voye fòs sa yo mwa pase a, apre kat Salvadoyen nan yon misyon Nasyonzini te sipòte te disparèt 18 oktòb. Yo poko jwenn yo. Ni Pòtoprens, ni San Salvador, pa pibliye ni chif egzak, ni kalandriye operasyon an. Nasyonzini di « gwo majorite » twoup sa yo ap travay andeyò Fòs represyon gang yo (GSF).\n\nSou enkyetid Washington ak Repiblik Dominikèn sou kowòdinasyon an, Pélissier te di, nan yon konferans laprès, tout fòs yo, polis ayisyen, lame ak kontra prive, « ap travay sou menm paj la ». « Pèp ayisyen an aplodi desizyon Nayib Bukele te pran pou voye twoup », li te di, dapre Reuters. Li te ajoute fòs yo ansanm te reprann yon estad foutbòl gang yo te okipe depi plis pase senk ane.\n\nNasyonzini rapòte operasyon sekirite yo te reprezante plis pase mwatye 4 217 moun ki mouri nan nèf premye mwa ane a, 300 sivil ladan, epi prèske 2 000 moun te deplase depi Salvadoyen yo rive. Pélissier te di dènye operasyon yo ap fèt yon fason pwofesyonèl, san viktim sivil gouvènman an rapòte. « Pi bon bagay se evite, otank posib, vyolasyon dwa moun, e se sa n ap fè ansanm », li te deklare.\n\nNan menm konferans lan, vis-prezidan dominikèn Raquel Peña te di lendi sekirite ann Ayiti se yon « nesesite ijan » ki mande koperasyon entènasyonal, dapre EFE, ke Infobae relè. Li te reyafime sipò gouvènman peyi l, tankou yon sipò lojistik ak entèlijans pou militè salvadoryen yo, jan prezidan Luis Abinader te deja di plizyè fwa.",
-      fr: "Le ministre de la Justice et de la Sécurité publique, Patrick Pélissier, a salué, lundi 16 novembre 2026 à San Salvador, le déploiement de plus de 2 000 soldats salvadoriens en Haïti, relait Reuters. Il s'exprimait avant des entretiens avec le président Nayib Bukele. Selon lui, cette mission a redonné de l'espoir aux Haïtiens et a fait basculer la dynamique contre les gangs armés.\n\nLe ministre a fait le déplacement à la place du Premier ministre Alix Didier Fils-Aimé. Pélissier a dit que le chef du gouvernement était resté en Haïti pour préparer de prochaines réunions avec les autorités salvadoriennes sur une possible prolongation du déploiement, toujours selon Reuters.\n\nBukele a envoyé ces forces le mois dernier, après la disparition, le 18 octobre, de quatre Salvadoriens d'une mission soutenue par l'ONU. Ils n'ont toujours pas été retrouvés. Ni Port-au-Prince ni San Salvador n'ont rendu public l'effectif exact ni le calendrier de cette opération. Les Nations unies ont indiqué que la « vaste majorité » de ces troupes opèrent en dehors de la Force de répression des gangs (GSF).\n\nRépondant aux préoccupations de Washington et de la République dominicaine sur la coordination, Pélissier a dit, en conférence de presse, que toutes les forces, police haïtienne, armée et contractants privés, « travaillent sur la même page ». « Le peuple haïtien applaudit la décision de Nayib Bukele d'envoyer des troupes », a-t-il déclaré, d'après Reuters. Il a ajouté que les forces conjointes ont récemment repris un stade de football que des gangs occupaient depuis plus de cinq ans.\n\nLes Nations unies rapportent que les opérations de sécurité ont représenté plus de la moitié des 4 217 décès recensés sur les neuf premiers mois de l'année, dont 300 civils, et que près de 2 000 personnes ont été déplacées depuis l'arrivée des Salvadoriens. Pélissier a dit que les dernières opérations se déroulent de manière professionnelle, sans victimes civiles rapportées par le gouvernement. « Le mieux à faire est d'éviter, autant que possible, les violations des droits humains, et c'est ce que nous faisons ensemble », a-t-il déclaré.\n\nLors de la même conférence, la vice-présidente dominicaine Raquel Peña a dit lundi que la sécurité en Haïti est une « nécessité urgente » qui exige une coopération internationale, selon EFE, repris par Infobae. Elle a réaffirmé le soutien de son gouvernement, y compris un appui logistique et de renseignement aux militaires salvadoriens, comme l'a indiqué à plusieurs reprises le président Luis Abinader.",
+      ht: "Minis Sekirite Salvador a, Gustavo Villatoro, te di lendi 16 novanm 2026 nan San Salvador: « Si demen yo refe parèt, jan prezidan Bukele te di a, nou tounen. » NAGO, Infobae ak DW relè deklarasyon sa a, te fèt sou bò Dezyèm Konferans entènasyonal sou Eta ak demokrasi. Villatoro presize misyon an, pou kounye a, se pou yo retrè kat aérotechnisyen ki disparèt 18 oktòb.\n\nSou menm evènman an, minis Jistis ayisyen Patrick Pélissier te repete Premye minis Alix Didier Fils-Aimé ap prepare reyinyon ak otorite salvadoryen yo pou pale de yon pwolongasyon. Vis-prezidan Félix Ulloa te di tout estrateji a gen yon sèl objektif: mennen kat konpatriyòt yo tounen, e ke anviwon 90% depans operasyon an soti nan bidjè Salvador, dapre Infobae. Pa gen kalandriye retrè ni akò pwolongasyon ki te anonse.\n\nMinis Jistis ak Sekirite piblik la, Patrick Pélissier, te salye, lendi 16 novanm 2026 nan San Salvador, deplwaman plis pase 2 000 sòlda salvadoryen ann Ayiti, Reuters relè. Li t ap pale anvan yon rankont ak prezidan Nayib Bukele. Dapre li, misyon sa a te remete lespwa nan pèp ayisyen an, e li te fè balans lan chanje kont gang ame yo.\n\nMinis la te fè vwayaj la nan plas Premye minis Alix Didier Fils-Aimé. Pélissier te di chèf gouvènman an te rete ann Ayiti pou prepare pwochèn reyinyon ak otorite salvadoryen yo sou yon posib pwolongasyon deplwaman an, toujou dapre Reuters.\n\nBukele te voye fòs sa yo mwa pase a, apre kat Salvadoyen nan yon misyon Nasyonzini te sipòte te disparèt 18 oktòb. Yo poko jwenn yo. Ni Pòtoprens, ni San Salvador, pa pibliye ni chif egzak, ni kalandriye operasyon an. Nasyonzini di « gwo majorite » twoup sa yo ap travay andeyò Fòs represyon gang yo (GSF).\n\nSou enkyetid Washington ak Repiblik Dominikèn sou kowòdinasyon an, Pélissier te di, nan yon konferans laprès, tout fòs yo, polis ayisyen, lame ak kontra prive, « ap travay sou menm paj la ». « Pèp ayisyen an aplodi desizyon Nayib Bukele te pran pou voye twoup », li te di, dapre Reuters. Li te ajoute fòs yo ansanm te reprann yon estad foutbòl gang yo te okipe depi plis pase senk ane.\n\nNasyonzini rapòte operasyon sekirite yo te reprezante plis pase mwatye 4 217 moun ki mouri nan nèf premye mwa ane a, 300 sivil ladan, epi prèske 2 000 moun te deplase depi Salvadoyen yo rive. Pélissier te di dènye operasyon yo ap fèt yon fason pwofesyonèl, san viktim sivil gouvènman an rapòte. « Pi bon bagay se evite, otank posib, vyolasyon dwa moun, e se sa n ap fè ansanm », li te deklare.\n\nNan menm konferans lan, vis-prezidan dominikèn Raquel Peña te di lendi sekirite ann Ayiti se yon « nesesite ijan » ki mande koperasyon entènasyonal, dapre EFE, ke Infobae relè. Li te reyafime sipò gouvènman peyi l, tankou yon sipò lojistik ak entèlijans pou militè salvadoryen yo, jan prezidan Luis Abinader te deja di plizyè fwa.",
+      fr: "Le ministre salvadorien de la Sécurité, Gustavo Villatoro, a déclaré lundi 16 novembre 2026 à San Salvador: « Si demain ils réapparaissent, comme l'a dit le président Bukele, nous rentrons. » NAGO, Infobae et DW relaient cette déclaration, faite en marge de la deuxième Conférence internationale sur l'État et la démocratie. Villatoro a précisé que la mission, pour l'instant, consiste à retrouver les quatre aérotechniciens disparus le 18 octobre.\n\nLors du même événement, le ministre haïtien de la Justice, Patrick Pélissier, a répété que le Premier ministre Alix Didier Fils-Aimé préparait des rencontres avec les autorités salvadoriennes pour discuter d'une prolongation. Le vice-président Félix Ulloa a dit que toute la stratégie a une seule finalité: ramener les quatre compatriotes, et qu'environ 90% du coût de l'opération provient du budget salvadorien, d'après Infobae. Aucun calendrier de retrait ni accord de prolongation n'a été annoncé.\n\nLe ministre de la Justice et de la Sécurité publique, Patrick Pélissier, a salué, lundi 16 novembre 2026 à San Salvador, le déploiement de plus de 2 000 soldats salvadoriens en Haïti, relaye Reuters. Il s'exprimait avant des entretiens avec le président Nayib Bukele. Selon lui, cette mission a redonné de l'espoir aux Haïtiens et a fait basculer la dynamique contre les gangs armés.\n\nLe ministre a fait le déplacement à la place du Premier ministre Alix Didier Fils-Aimé. Pélissier a dit que le chef du gouvernement était resté en Haïti pour préparer de prochaines réunions avec les autorités salvadoriennes sur une possible prolongation du déploiement, toujours selon Reuters.\n\nBukele a envoyé ces forces le mois dernier, après la disparition, le 18 octobre, de quatre Salvadoriens d'une mission soutenue par l'ONU. Ils n'ont toujours pas été retrouvés. Ni Port-au-Prince ni San Salvador n'ont rendu public l'effectif exact ni le calendrier de cette opération. Les Nations unies ont indiqué que la « vaste majorité » de ces troupes opèrent en dehors de la Force de répression des gangs (GSF).\n\nRépondant aux préoccupations de Washington et de la République dominicaine sur la coordination, Pélissier a dit, en conférence de presse, que toutes les forces, police haïtienne, armée et contractants privés, « travaillent sur la même page ». « Le peuple haïtien applaudit la décision de Nayib Bukele d'envoyer des troupes », a-t-il déclaré, d'après Reuters. Il a ajouté que les forces conjointes ont récemment repris un stade de football que des gangs occupaient depuis plus de cinq ans.\n\nLes Nations unies rapportent que les opérations de sécurité ont représenté plus de la moitié des 4 217 décès recensés sur les neuf premiers mois de l'année, dont 300 civils, et que près de 2 000 personnes ont été déplacées depuis l'arrivée des Salvadoriens. Pélissier a dit que les dernières opérations se déroulent de manière professionnelle, sans victimes civiles rapportées par le gouvernement. « Le mieux à faire est d'éviter, autant que possible, les violations des droits humains, et c'est ce que nous faisons ensemble », a-t-il déclaré.\n\nLors de la même conférence, la vice-présidente dominicaine Raquel Peña a dit lundi que la sécurité en Haïti est une « nécessité urgente » qui exige une coopération internationale, selon EFE, repris par Infobae. Elle a réaffirmé le soutien de son gouvernement, y compris un appui logistique et de renseignement aux militaires salvadoriens, comme l'a indiqué à plusieurs reprises le président Luis Abinader.",
     },
-    sources: ["Reuters", "Infobae", "EFE"],
+    sources: ["Reuters", "Infobae", "EFE", "NAGO", "DW"],
     sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/le-salvador-retirera-ses-troupes-une-fois-les-quatre-aerotechniciens-retrouves-haiti-veut-prolonger" },
+      { name: "Infobae", url: "https://www.infobae.com/el-salvador/2026/11/16/gobierno-de-el-salvador-reafirma-que-retirara-sus-tropas-de-haiti-tras-recuperar-a-cuatro-aerotecnicos/" },
       { name: "Reuters, via Investing.com", url: "https://www.investing.com/news/world-news/haiti-praises-salvadoran-troop-deployment-ahead-of-bukele-talks-5030813" },
       { name: "Infobae / EFE, Raquel Peña", url: "https://www.infobae.com/america/agencias/2026/11/16/la-seguridad-en-haiti-es-una-necesidad-urgente-senala-la-vicepresidenta-dominicana/" },
     ],
@@ -834,28 +1154,30 @@ export const STORIES: Story[] = [
     tier: "need-to-know",
     topic: "society",
     publishedAt: "2026-11-17",
-    publishedTime: "2026-11-17T08:45:00-05:00",
+    publishedTime: "2026-11-17T18:58:00-05:00",
     isFollowUp: true,
     headline: {
-      ht: "Mach 17 ak 18 novanm: rasanbleman anonse nan plizyè vil; PNH mete an gad",
-      fr: "Marches des 17 et 18 novembre : des rassemblements annoncés dans plusieurs villes; la PNH met en garde",
+      ht: "Milye moun mache pou Bukele; polis la tire gaz lakrimojèn toupre estad Sylvio Cator",
+      fr: "Des milliers de personnes ont marché pour Bukele; la police a tiré du gaz lacrymogène près du stade Sylvio-Cator",
     },
     teaser: {
-      ht: "Se anons, se pa evènman nou ka di ki deja fèt. Mardi maten, nou poko gen yon kont rann sou lari yo.",
-      fr: "Ce sont des appels, pas des événements dont nous pourrions dire qu'ils ont déjà eu lieu. Mardi matin, nous n'avons pas encore de compte rendu de la rue.",
+      ht: "NAGO, AFP ak AP pale de milye moun nan Pòtoprens, Jeremi, Jakmèl ak Senmak. Pa te gen bilan blese oswa arestasyon ki te kominike.",
+      fr: "NAGO, l'AFP et l'AP parlent de milliers de personnes à Port-au-Prince, Jérémie, Jacmel et Saint-Marc. Aucun bilan de blessés ou d'arrestations n'avait été communiqué.",
     },
     brief: {
-      ht: "Madi 17 ak mercredi 18 novanm, òganizatè yo anonse rasanbleman pou sipòte twoup salvadoryen yo, nan Senmak ak nan lòt vil. PNH raple preavi 48 èdtan, epi li evoke risk moun ame ta enfiltre manifestasyon yo.",
-      fr: "Mardi 17 et mercredi 18 novembre, des organisateurs annoncent des rassemblements de soutien aux troupes salvadoriennes, à Saint-Marc et dans d'autres villes. La PNH rappelle le préavis de 48 heures, et évoque le risque que des personnes armées s'infiltrent dans les manifestations.",
+      ht: "Mardi 17 novanm, milye moun te manifeste pou sipòte Nayib Bukele ak sòlda salvadoryen yo. Nan apremidi, polis la te gaye yon korte ki t ap prale estad Sylvio Cator, ak gaz lakrimojèn, NAGO ak Alternance Media relè.",
+      fr: "Mardi 17 novembre, des milliers de personnes ont manifesté pour soutenir Nayib Bukele et les soldats salvadoriens. Dans l'après-midi, la police a dispersé au gaz lacrymogène un cortège qui se dirigeait vers le stade Sylvio-Cator, relaient NAGO et Alternance Media.",
     },
     body: {
-      ht: "Madi 17 ak mercredi 18 novanm 2026, plizyè rasanbleman anonse nan peyi a pou sipòte prezidan salvadoryen Nayib Bukele, e, nan kèk apèl, pou mande Premye minis Alix Didier Fils-Aimé ale. Se anons òganizatè yo. Mardi maten, Opak News poko jwenn yon kont rann sou rasanbleman ki ta deja fèt.\n\nNan Senmak, òganizatè yo di yo ap tann delegasyon dis komin Latibonit, Rezo Nòdwès te deja ekri. Le Quotidien 509 ajoute rasanbleman yo te anonse tou nan Pòtoprens, Kenscoff, Lakayè ak Gresye. Nan Gresye, doktè Michelet Jeanty, ke jounal la prezante kòm youn nan inisyatè yo, di rasanbleman an dwe kòmanse Leyogàn epi fini nan Kafou Lakolin. Prezidan APCH, Méhu Changeux, apèl popilasyon an desann nan lari mardi, toujou dapre Le Quotidien 509.\n\nGazette Haiti relè kominike PNH lendi a: anplis preavi 48 èdtan ak avètisman kont vyolans ak vandalis, polis la evoke risk moun ame ta enfiltre manifestasyon yo pou pwovoke dezòd e deranje operasyon sekirite yo. Li di li pral ranfòse siveyans, e ke moun ki t ap fè vyolans ta pral arete, dapre lalwa. Se pozisyon PNH. Dwa pou manifeste pasifikman rete nan Konstitisyon an.\n\nNan yon kominike pibliye lendi 16 novanm 2026, Polis nasyonal Ayiti di li pral pran mezi legal kont nenpòt moun ki ta sèvi ak manifestasyon pou fè vyolans, vandalis oswa twouble lòd piblik, Le Nouvelliste ekri. Li raple òganizatè yo dwe avèti otorite konpetan yo omwen 48 èdtan anvan nenpòt rasanbleman sou wout piblik, epi kowòdone dispozisyon sekirite yo ak fòs yo.\n\nRegwoupman Aktè Favorab pou Kou kasasyon ak Alye yo (AFC ak Alye) te anonse, nan yon konferans laprès vandredi 13 novanm, twa jou mobilizasyon 17, 18 ak 29 novanm, Vant Bèf Info ekri. Dènye dat la raple masak ruelle Vaillant, 29 novanm 1987. Regwoupman an te kalifye bilan 24 mwa Premye minis Alix Didier Fils-Aimé kòm « catastrophique », e li te di bilan an « nul sur toute la ligne ». Se pozisyon yo; nou relè l jan Vant Bèf Info pibliye l. Yo reklame yon ekzekitif bisefal tou.\n\nAnons yo kontinye. Rezo Nòdwès ekri, nan yon atik 15 novanm, Dr Josué Renaud, responsab New England Human Rights Organization (NEHRO), apel pou manifestasyon pasifik 16, 17 ak 18 novanm, sitou 18 novanm, jou anivèsè batay Vètyè, pou di mesi prezidan Nayib Bukele epi mande demisyon Premye minis Alix Didier Fils-Aimé. Jounal la tit atik la ak fòmil « protecteur des gangs » pou pale de Premye minis la, nan prezantasyon apèl Renaud la. Nou atribiye fòmil sa a a tit jounal la sou antretyen an. Nan menm nòt la, rasanbleman yo te anonse nan Pòtoprens, Senmak, Gonayiv ak Brooklyn. Nan Senmak, òganizatè yo di yo ap tann, 17 ak 18 novanm, delegasyon soti nan dis komin Latibonit. Se apèl, se pa evènman nou ka di ki deja fèt.\n\nJuno7 ekri lidè relijye ayisyen yo ap mobilize pou soutni entèvansyon twoup salvadoryen yo kont gang ame yo. Vandredi 13 novanm 2026, evèk Grégory Toussaint, yon figi evanjelik, te lanse petisyon entènasyonal « Free Haiti – Libérez Haïti – Libere Ayiti », ki enspire de Pwovèb 31, vèsè 8. Petisyon an adrese gouvènman ameriken, Nasyonzini ak òganizasyon defans dwa moun, pami yo Amnisti Entènasyonal, pou yo tande apèl popilasyon an. Inisyatè yo vle mobilize kominote kretyen ann Ayiti ak nan dyaspora. Se pozisyon yo; nou relè l jan Juno7 pibliye l.\n\nNan Artibonite, Rezo Nòdwès ekri yon mobilizasyon pwograme 17 ak 18 novanm nan Senmak, kote òganizatè yo di yo ap tann delegasyon dis komin. Yo vle di mesi prezidan salvadoryen Nayib Bukele pou entèvansyon l kont gang yo, mande twoup salvadoryen nan depatman an, epi reklame demisyon Premye minis Alix Didier Fils-Aimé. Rasanbleman an tonbe lavèy ak jou komemorasyon batay Vètyè, 18 novanm. Se sa òganizatè yo anonse, dapre Rezo Nòdwès; mach la poko fèt, e nou pa ka konfime konbyen moun ki pral la.",
-      fr: "Mardi 17 et mercredi 18 novembre 2026, plusieurs rassemblements sont annoncés dans le pays pour soutenir le président salvadorien Nayib Bukele, et, dans certains appels, pour demander le départ du Premier ministre Alix Didier Fils-Aimé. Ce sont les annonces des organisateurs. Mardi matin, Opak News n'a pas encore trouvé de compte rendu de rassemblements qui auraient déjà eu lieu.\n\nÀ Saint-Marc, les organisateurs disent attendre des délégations de dix communes de l'Artibonite, comme Rezo Nòdwès l'avait déjà écrit. Le Quotidien 509 ajoute que des rassemblements étaient aussi annoncés à Port-au-Prince, Kenscoff, Arcahaie et Gressier. À Gressier, le Dr Michelet Jeanty, que le journal présente comme l'un des initiateurs, dit que le rassemblement doit commencer à Léogâne et s'achever à Kafou Lakolin. Le président de l'APCH, Méhu Changeux, appelle la population à descendre dans la rue mardi, toujours selon Le Quotidien 509.\n\nGazette Haiti relait le communiqué de la PNH publié lundi: outre le préavis de 48 heures et la mise en garde contre les violences et le vandalisme, la police évoque le risque que des personnes armées s'infiltrent dans les manifestations pour provoquer des désordres et perturber les opérations de sécurité. Elle dit qu'elle renforcera la surveillance, et que toute personne impliquée dans des actes de violence sera interpellée, conformément à la loi. C'est la position de la PNH. Le droit de manifester pacifiquement reste inscrit dans la Constitution.\n\nDans un communiqué publié lundi 16 novembre 2026, la Police nationale d'Haïti dit qu'elle prendra des mesures légales contre toute personne qui utiliserait les manifestations pour commettre des actes de violence, de vandalisme ou troubler l'ordre public, écrit Le Nouvelliste. Elle rappelle aux organisateurs l'obligation d'informer les autorités compétentes au moins 48 heures avant tout rassemblement sur la voie publique, et de coordonner les dispositions de sécurité avec les forces de l'ordre.\n\nLe regroupement Acteurs Favorables à la Cour de cassation et Alliés (AFC et Alliés) a annoncé, lors d'une conférence de presse vendredi 13 novembre, trois journées de mobilisation les 17, 18 et 29 novembre, écrit Vant Bèf Info. Cette dernière date rappelle le massacre de la ruelle Vaillant, le 29 novembre 1987. Le regroupement a qualifié de « catastrophique » le bilan des 24 mois du Premier ministre Alix Didier Fils-Aimé, et a dit que ce bilan était « nul sur toute la ligne ». C'est leur position; nous la relayons telle que Vant Bèf Info l'a publiée. Ils réclament aussi un exécutif bicéphale.\n\nLes appels se poursuivent. Rezo Nòdwès écrit, dans un article du 15 novembre, que le Dr Josué Renaud, responsable de la New England Human Rights Organization (NEHRO), appelle à des manifestations pacifiques les 16, 17 et 18 novembre, surtout le 18 novembre, jour anniversaire de la bataille de Vertières, pour remercier le président Nayib Bukele et demander la démission du Premier ministre Alix Didier Fils-Aimé. Le journal titre cet article avec la formule « protecteur des gangs » à propos du Premier ministre, dans sa présentation de l'appel de Renaud. Nous attribuons cette formule au titre du journal sur cet entretien. Dans la même note, des rassemblements étaient annoncés à Port-au-Prince, à Saint-Marc, aux Gonaïves et à Brooklyn. À Saint-Marc, les organisateurs disent attendre, les 17 et 18 novembre, des délégations de dix communes de l'Artibonite. Ce sont des appels, pas des événements dont nous pourrions dire qu'ils ont déjà eu lieu.\n\nJuno7 écrit que des responsables religieux haïtiens se mobilisent pour soutenir l'intervention des troupes salvadoriennes contre les gangs armés. Vendredi 13 novembre 2026, l'évêque Grégory Toussaint, une figure du milieu évangélique, a lancé la pétition internationale « Free Haiti – Libérez Haïti – Libere Ayiti », inspirée du Livre des Proverbes, chapitre 31, verset 8. Cette pétition s'adresse au gouvernement américain, à l'ONU et à des organisations de défense des droits humains, dont Amnesty International, afin qu'ils entendent l'appel de la population. Les initiateurs veulent mobiliser les communautés chrétiennes en Haïti et dans la diaspora. C'est leur position; nous la relayons telle que Juno7 l'a publiée.\n\nDans l'Artibonite, Rezo Nòdwès écrit qu'une mobilisation est prévue les 17 et 18 novembre à Saint-Marc, où les organisateurs disent attendre des délégations de dix communes. Ils veulent remercier le président salvadorien Nayib Bukele pour son intervention contre les gangs, demander l'envoi de soldats salvadoriens dans le département, et réclamer la démission du Premier ministre Alix Didier Fils-Aimé. Le rassemblement tombe à la veille et le jour de la commémoration de la bataille de Vertières, le 18 novembre. C'est l'annonce des organisateurs, selon Rezo Nòdwès; la marche n'a pas encore eu lieu, et nous ne pouvons pas confirmer le nombre de participants.",
+      ht: "Milye moun te manifeste mardi 17 novanm 2026 nan Pòtoprens, epi tou nan Jeremi, Jakmèl ak Senmak, pou sipòte Nayib Bukele ak sòlda salvadoryen yo, NAGO, AFP ak Associated Press ekri. Nan kapital la, korte a te soti Lalue, apre yon seremoni vodou, dapre NAGO. Nan apremidi, polis la te tire gaz lakrimojèn epi gaye yon korte ki t ap prale estad Sylvio-Cator, NAGO ak Alternance Media relè. Pa te gen bilan blese oswa arestasyon ki te kominike, e polis la poko te kòmante ensidan an, NAGO ekri.\n\nNan Jeremi, manifestan yo te defile ak drapo ayisyen ak salvadoryen; nan Jakmèl, kèk moun te mande pou wout Grand Sid la relouvri, dapre imaj ak lejand NAGO relè. Haiti Standard ekri ke, nan Mizo, inite PNH te anpeche korte a pase devan Primati a.\n\nMadi 17 ak mercredi 18 novanm 2026, plizyè rasanbleman anonse nan peyi a pou sipòte prezidan salvadoryen Nayib Bukele, e, nan kèk apèl, pou mande Premye minis Alix Didier Fils-Aimé ale. Sa yo te anons òganizatè yo, anvan korte mardi yo te dekri.\n\nNan Senmak, òganizatè yo di yo ap tann delegasyon dis komin Latibonit, Rezo Nòdwès te deja ekri. Le Quotidien 509 ajoute rasanbleman yo te anonse tou nan Pòtoprens, Kenscoff, Lakayè ak Gresye. Nan Gresye, doktè Michelet Jeanty, ke jounal la prezante kòm youn nan inisyatè yo, di rasanbleman an dwe kòmanse Leyogàn epi fini nan Kafou Lakolin. Prezidan APCH, Méhu Changeux, apèl popilasyon an desann nan lari mardi, toujou dapre Le Quotidien 509.\n\nGazette Haiti relè kominike PNH lendi a: anplis preavi 48 èdtan ak avètisman kont vyolans ak vandalis, polis la evoke risk moun ame ta enfiltre manifestasyon yo pou pwovoke dezòd e deranje operasyon sekirite yo. Li di li pral ranfòse siveyans, e ke moun ki t ap fè vyolans ta pral arete, dapre lalwa. Se pozisyon PNH. Dwa pou manifeste pasifikman rete nan Konstitisyon an.\n\nNan yon kominike pibliye lendi 16 novanm 2026, Polis nasyonal Ayiti di li pral pran mezi legal kont nenpòt moun ki ta sèvi ak manifestasyon pou fè vyolans, vandalis oswa twouble lòd piblik, Le Nouvelliste ekri. Li raple òganizatè yo dwe avèti otorite konpetan yo omwen 48 èdtan anvan nenpòt rasanbleman sou wout piblik, epi kowòdone dispozisyon sekirite yo ak fòs yo.\n\nRegwoupman Aktè Favorab pou Kou kasasyon ak Alye yo (AFC ak Alye) te anonse, nan yon konferans laprès vandredi 13 novanm, twa jou mobilizasyon 17, 18 ak 29 novanm, Vant Bèf Info ekri. Dènye dat la raple masak ruelle Vaillant, 29 novanm 1987. Regwoupman an te kalifye bilan 24 mwa Premye minis Alix Didier Fils-Aimé kòm « catastrophique », e li te di bilan an « nul sur toute la ligne ». Se pozisyon yo; nou relè l jan Vant Bèf Info pibliye l. Yo reklame yon ekzekitif bisefal tou.\n\nAnons yo kontinye. Rezo Nòdwès ekri, nan yon atik 15 novanm, Dr Josué Renaud, responsab New England Human Rights Organization (NEHRO), apel pou manifestasyon pasifik 16, 17 ak 18 novanm, sitou 18 novanm, jou anivèsè batay Vètyè, pou di mesi prezidan Nayib Bukele epi mande demisyon Premye minis Alix Didier Fils-Aimé. Jounal la tit atik la ak fòmil « protecteur des gangs » pou pale de Premye minis la, nan prezantasyon apèl Renaud la. Nou atribiye fòmil sa a a tit jounal la sou antretyen an. Nan menm nòt la, rasanbleman yo te anonse nan Pòtoprens, Senmak, Gonayiv ak Brooklyn. Nan Senmak, òganizatè yo di yo ap tann, 17 ak 18 novanm, delegasyon soti nan dis komin Latibonit. Se apèl, se pa evènman nou ka di ki deja fèt.\n\nJuno7 ekri lidè relijye ayisyen yo ap mobilize pou soutni entèvansyon twoup salvadoryen yo kont gang ame yo. Vandredi 13 novanm 2026, evèk Grégory Toussaint, yon figi evanjelik, te lanse petisyon entènasyonal « Free Haiti – Libérez Haïti – Libere Ayiti », ki enspire de Pwovèb 31, vèsè 8. Petisyon an adrese gouvènman ameriken, Nasyonzini ak òganizasyon defans dwa moun, pami yo Amnisti Entènasyonal, pou yo tande apèl popilasyon an. Inisyatè yo vle mobilize kominote kretyen ann Ayiti ak nan dyaspora. Se pozisyon yo; nou relè l jan Juno7 pibliye l.\n\nNan Artibonite, Rezo Nòdwès ekri yon mobilizasyon pwograme 17 ak 18 novanm nan Senmak, kote òganizatè yo di yo ap tann delegasyon dis komin. Yo vle di mesi prezidan salvadoryen Nayib Bukele pou entèvansyon l kont gang yo, mande twoup salvadoryen nan depatman an, epi reklame demisyon Premye minis Alix Didier Fils-Aimé. Rasanbleman an tonbe lavèy ak jou komemorasyon batay Vètyè, 18 novanm. Se sa òganizatè yo anonse, dapre Rezo Nòdwès; mach la poko fèt, e nou pa ka konfime konbyen moun ki pral la.",
+      fr: "Des milliers de personnes ont manifesté mardi 17 novembre 2026 à Port-au-Prince, ainsi qu'à Jérémie, Jacmel et Saint-Marc, pour soutenir Nayib Bukele et les soldats salvadoriens, écrivent NAGO, l'AFP et Associated Press. Dans la capitale, le cortège est parti de Lalue, après une cérémonie vodou, selon NAGO. Dans l'après-midi, la police a tiré du gaz lacrymogène et dispersé un cortège qui se dirigeait vers le stade Sylvio-Cator, relaient NAGO et Alternance Media. Aucun bilan de blessés ou d'arrestations n'avait été communiqué, et la police n'avait pas encore commenté l'incident, écrit NAGO.\n\nÀ Jérémie, des manifestants ont défilé avec des drapeaux haïtiens et salvadoriens; à Jacmel, des marcheurs ont demandé que la route du Grand Sud soit rouverte, selon des images et légendes relayées par NAGO. Haiti Standard écrit que, à Musseau, des unités de la PNH ont empêché le cortège de passer devant la Primature.\n\nMardi 17 et mercredi 18 novembre 2026, plusieurs rassemblements sont annoncés dans le pays pour soutenir le président salvadorien Nayib Bukele, et, dans certains appels, pour demander le départ du Premier ministre Alix Didier Fils-Aimé. C'étaient les annonces des organisateurs, avant que les cortèges de mardi ne soient décrits.\n\nÀ Saint-Marc, les organisateurs disent attendre des délégations de dix communes de l'Artibonite, comme Rezo Nòdwès l'avait déjà écrit. Le Quotidien 509 ajoute que des rassemblements étaient aussi annoncés à Port-au-Prince, Kenscoff, Arcahaie et Gressier. À Gressier, le Dr Michelet Jeanty, que le journal présente comme l'un des initiateurs, dit que le rassemblement doit commencer à Léogâne et s'achever à Kafou Lakolin. Le président de l'APCH, Méhu Changeux, appelle la population à descendre dans la rue mardi, toujours selon Le Quotidien 509.\n\nGazette Haiti relaye le communiqué de la PNH publié lundi: outre le préavis de 48 heures et la mise en garde contre les violences et le vandalisme, la police évoque le risque que des personnes armées s'infiltrent dans les manifestations pour provoquer des désordres et perturber les opérations de sécurité. Elle dit qu'elle renforcera la surveillance, et que toute personne impliquée dans des actes de violence sera interpellée, conformément à la loi. C'est la position de la PNH. Le droit de manifester pacifiquement reste inscrit dans la Constitution.\n\nDans un communiqué publié lundi 16 novembre 2026, la Police nationale d'Haïti dit qu'elle prendra des mesures légales contre toute personne qui utiliserait les manifestations pour commettre des actes de violence, de vandalisme ou troubler l'ordre public, écrit Le Nouvelliste. Elle rappelle aux organisateurs l'obligation d'informer les autorités compétentes au moins 48 heures avant tout rassemblement sur la voie publique, et de coordonner les dispositions de sécurité avec les forces de l'ordre.\n\nLe regroupement Acteurs Favorables à la Cour de cassation et Alliés (AFC et Alliés) a annoncé, lors d'une conférence de presse vendredi 13 novembre, trois journées de mobilisation les 17, 18 et 29 novembre, écrit Vant Bèf Info. Cette dernière date rappelle le massacre de la ruelle Vaillant, le 29 novembre 1987. Le regroupement a qualifié de « catastrophique » le bilan des 24 mois du Premier ministre Alix Didier Fils-Aimé, et a dit que ce bilan était « nul sur toute la ligne ». C'est leur position; nous la relayons telle que Vant Bèf Info l'a publiée. Ils réclament aussi un exécutif bicéphale.\n\nLes appels se poursuivent. Rezo Nòdwès écrit, dans un article du 15 novembre, que le Dr Josué Renaud, responsable de la New England Human Rights Organization (NEHRO), appelle à des manifestations pacifiques les 16, 17 et 18 novembre, surtout le 18 novembre, jour anniversaire de la bataille de Vertières, pour remercier le président Nayib Bukele et demander la démission du Premier ministre Alix Didier Fils-Aimé. Le journal titre cet article avec la formule « protecteur des gangs » à propos du Premier ministre, dans sa présentation de l'appel de Renaud. Nous attribuons cette formule au titre du journal sur cet entretien. Dans la même note, des rassemblements étaient annoncés à Port-au-Prince, à Saint-Marc, aux Gonaïves et à Brooklyn. À Saint-Marc, les organisateurs disent attendre, les 17 et 18 novembre, des délégations de dix communes de l'Artibonite. Ce sont des appels, pas des événements dont nous pourrions dire qu'ils ont déjà eu lieu.\n\nJuno7 écrit que des responsables religieux haïtiens se mobilisent pour soutenir l'intervention des troupes salvadoriennes contre les gangs armés. Vendredi 13 novembre 2026, l'évêque Grégory Toussaint, une figure du milieu évangélique, a lancé la pétition internationale « Free Haiti – Libérez Haïti – Libere Ayiti », inspirée du Livre des Proverbes, chapitre 31, verset 8. Cette pétition s'adresse au gouvernement américain, à l'ONU et à des organisations de défense des droits humains, dont Amnesty International, afin qu'ils entendent l'appel de la population. Les initiateurs veulent mobiliser les communautés chrétiennes en Haïti et dans la diaspora. C'est leur position; nous la relayons telle que Juno7 l'a publiée.\n\nDans l'Artibonite, Rezo Nòdwès écrit qu'une mobilisation est prévue les 17 et 18 novembre à Saint-Marc, où les organisateurs disent attendre des délégations de dix communes. Ils veulent remercier le président salvadorien Nayib Bukele pour son intervention contre les gangs, demander l'envoi de soldats salvadoriens dans le département, et réclamer la démission du Premier ministre Alix Didier Fils-Aimé. Le rassemblement tombe à la veille et le jour de la commémoration de la bataille de Vertières, le 18 novembre. C'est l'annonce des organisateurs, selon Rezo Nòdwès; la marche n'a pas encore eu lieu, et nous ne pouvons pas confirmer le nombre de participants.",
     },
-    sources: ["Gazette Haiti", "Le Quotidien 509", "Le Nouvelliste", "Vant Bèf Info", "Juno7", "Rezo Nòdwès",
-      "Josué Renaud / NEHRO",
-    ],
+    sources: ["Gazette Haiti", "Le Quotidien 509", "Le Nouvelliste", "Vant Bèf Info", "Juno7", "Rezo Nòdwès", "Josué Renaud / NEHRO", "NAGO", "AFP", "Associated Press", "Alternance Media", "Haiti Standard"],
     sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/manifestations-pro-bukele-des-milliers-de-personnes-a-port-au-prince-et-en-province" },
+      { name: "Associated Press", url: "https://apnews.com/article/haiti-gangs-violence-el-salvador-forces-d198c1a2d075bb161f9f438d76b8d7a1" },
+      { name: "Alternance Media", url: "https://alternance-media.com/politique/haiti-bukele-acclame-fils-aime-conteste-la-rue-reprend-voix/" },
+      { name: "Haiti Standard", url: "https://haitistandard.com/marche-dappui-au-president-nayib-bukele-les-manifestants-interdits-de-passer-devant-la-primature/" },
       { name: "Gazette Haiti, mises en garde PNH", url: "https://www.gazettehaiti.com/node/14550" },
       { name: "Le Quotidien 509", url: "https://lequotidien509.com/haiti-des-manifestations-annoncees-dans-plusieurs-villes-pour-soutenir-nayib-bukele/" },
       { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273950/la-pnh-met-en-garde-contre-toute-tentative-de-troubler-lordre-public-lors-des-manifestations" },
@@ -1217,28 +1539,27 @@ export const STORIES: Story[] = [
     isFollowUp: true,
     tier: "need-to-know",
     topic: "politics",
-    publishedAt: "2026-11-13",
-    publishedTime: "2026-11-14T20:20:00-05:00",
+    publishedAt: "2026-11-17",
+    publishedTime: "2026-11-17T18:49:00-05:00",
     headline: {
-      ht: "Fanmi Lavalas sispann patisipasyon l nan eleksyon yo e li mande yon dyalòg nasyonal",
-      fr: "Fanmi Lavalas suspend sa participation aux élections et appelle à un dialogue national",
+      ht: "Lavalas, atravè pòtpawòl Jodson Dirogène, mande sispann pwosesis elektoral la",
+      fr: "Lavalas, par la voix de son porte-parole Jodson Dirogène, demande la suspension du processus électoral",
     },
     teaser: {
-      ht: "Maryse Narcisse ak Joël Vorbe te di sa 13 novanm, nan Fondasyon Aristide. Pati a presize se pa yon refi prensip eleksyon yo.",
-      fr: "Maryse Narcisse et Joël Vorbe l'ont dit le 13 novembre, à la Fondation Aristide. Le parti précise que ce n'est pas un refus de principe des élections.",
+      ht: "Li te pale lendi nan radyo, Scoop FM ak NAGO relè. Li site 6,5 milyon moun ki ta kalifye ak yon milyon enskri: se chif li bay.",
+      fr: "Il s'est exprimé lundi à la radio, relaient Scoop FM et NAGO. Il cite 6,5 millions d'électeurs potentiels et un million d'inscrits: ce sont les chiffres qu'il avance.",
     },
     brief: {
-      ht: "Vandredi 13 novanm, nan yon konferans pou laprès nan Fondasyon Doktè Aristide, nan Tabar, Fanmi Lavalas te anonse li sispann patisipasyon l nan pwochen eleksyon yo, epi li mande yon dyalòg nasyonal enkli, Gazette Haiti ak HaitiLibre relè.",
-      fr: "Vendredi 13 novembre, lors d'une conférence de presse à la Fondation Dr Aristide, à Tabarre, Fanmi Lavalas a annoncé la suspension de sa participation aux prochaines élections, et appelé à un dialogue national inclusif, relaient Gazette Haiti et HaitiLibre.",
+      ht: "Apre anons 13 novanm nan Fondasyon Aristide, pòtpawòl pati a te repete lendi ke sekirite a pa nan nivo, e li mande yon dyalòg enkli.",
+      fr: "Après l'annonce du 13 novembre à la Fondation Aristide, le porte-parole du parti a répété lundi que la sécurité n'est pas au rendez-vous, et demandé un dialogue inclusif.",
     },
     body: {
-      ht: "HaitiLibre ak Gazette Haiti konfime, nan nòt 13 ak 14 novanm, Fanmi Lavalas te anonse, vandredi 13 novanm 2026, li sispann patisipasyon l nan pwochen eleksyon yo, nan kondisyon yo ye kounye a. Konferans pou laprès la te fèt nan syèj Fondasyon Doktè Jean-Bertrand Aristide pou demokrasi, nan Tabar. Maryse Narcisse, koordinatris pati a ak ansyen kandida prezidans, ansanm ak Joël Vorbe, manm komite egzekitif, te mande ouvèti yon dyalòg nasyonal enkli, ak pati politik, sosyete sivil ak lòt fòs viv. Yo di sekirite, enpasyalite enstitisyon yo, ak garanti pou sitwayen yo ka sikile, fè kanpay epi vote san laperèz, dwe vin anvan. Yo presize pozisyon sa a se pa yon refi prensip eleksyon yo.\n\nPati Fanmi Lavalas te anonse, vandredi 13 novanm 2026, li p ap patisipe nan pwochen eleksyon yo nan kondisyon yo ye kounye a. Konferans pou laprès la te fèt nan lokal Fondasyon Doktè Aristide pou demokrasi, nan Taba. Gazette Haiti, HPN, Realite Info ak Alternance Media relè pozisyon sa a.\n\nKowòdonatris pati a, doktè Maryse Narcisse, ak Joël Vorbe, manm komite egzekitif la, te eksprime rezèv sou kalandriye CEP la ak sou kapasite otorite yo pou òganize yon skrutin kredib. Yo mande pou sekirite retabli anvan yon konsiltasyon popilè: siveye pou sitwayen yo ka sikile, pou kandida yo ka fè kanpay sou teritwa a, epi pou elektè yo ka vote san entimidasyon.\n\nNarcisse, dapre HPN, presize Fanmi Lavalas te fè anrejistreman 30 000 manm dekrè elektoral la mande. Li ajoute kondisyon pou eleksyon kredib poko reyni. Pati a di se pa yon refi nan prensip pou eleksyon, e li di li prè pou patisipe le sekirite ak yon dyalòg nasyonal ap pèmèt yon skrutin ouvè.\n\nPati a prekonize yon dyalòg nasyonal ki rasanble pati politik, sosyete sivil ak lòt fòs nan peyi a. Li poze kesyon tou sou kèk dispozisyon administratif, tankou sètifika lapolis ak delè pou dosye kandida yo. Se pozisyon Fanmi Lavalas. CEP la, de bò pa l, kenbe kalandriye li te pibliye, ki prevwa premye tou 18 jiyè 2027.",
-      fr: "HaitiLibre et Gazette Haiti confirment, dans des notes des 13 et 14 novembre, que Fanmi Lavalas a annoncé, vendredi 13 novembre 2026, la suspension de sa participation aux prochaines élections, dans les conditions actuelles. La conférence de presse s'est tenue au siège de la Fondation Dr Jean-Bertrand Aristide pour la démocratie, à Tabarre. Maryse Narcisse, coordinatrice du parti et ancienne candidate à la présidence, ainsi que Joël Vorbe, membre du comité exécutif, ont demandé l'ouverture d'un dialogue national inclusif, réunissant partis politiques, société civile et autres forces vives. Ils disent que la sécurité, l'impartialité des institutions, et la garantie que les citoyens puissent circuler, faire campagne et voter sans crainte, doivent venir d'abord. Ils précisent que cette position n'est pas un refus de principe des élections.\n\nLe parti Fanmi Lavalas a annoncé, vendredi 13 novembre 2026, qu'il ne participera pas aux prochaines élections dans les conditions actuelles. La conférence de presse s'est tenue au local de la Fondation Dr Aristide pour la démocratie, à Tabarre. Gazette Haiti, HPN, Realite Info et Alternance Media relaient cette position.\n\nLa coordinatrice du parti, la docteure Maryse Narcisse, et Joël Vorbe, membre du comité exécutif, ont exprimé des réserves sur le calendrier du CEP et sur la capacité des autorités à organiser un scrutin crédible. Ils demandent que la sécurité soit rétablie avant toute consultation populaire: que les citoyens puissent circuler, que les candidats puissent faire campagne sur le territoire, et que les électeurs puissent voter sans intimidation.\n\nNarcisse, selon HPN, a précisé que Fanmi Lavalas avait bien procédé à l'enregistrement des 30 000 membres exigés par le décret électoral. Elle estime toutefois que les conditions d'élections crédibles ne sont pas encore réunies. Le parti dit que ce n'est pas un refus de principe des élections, et qu'il est prêt à participer dès que la sécurité et un dialogue national permettront un scrutin ouvert.\n\nFanmi Lavalas préconise un dialogue national réunissant les partis politiques, la société civile et d'autres forces du pays. Il interroge aussi certaines dispositions administratives, notamment les certificats de police et les délais impartis pour les dossiers de candidature. C'est la position du parti. Le CEP, de son côté, maintient le calendrier qu'il a publié, avec un premier tour prévu le 18 juillet 2027.",
+      ht: "Pòtpawòl Fanmi Lavalas, Jodson Dirogène, te pale lendi 16 novanm nan yon radyo ayisyen, Scoop FM ak NAGO relè. Li te mande sispann pwosesis elektoral la, paske, dapre li, kondisyon sekirite yo pa reyini, sitou lè gang yo toujou nan plizyè zòn, tankou Site Soley ak Kafou. Li di aksyon fòs yo poko ase pou garanti sekirite sou tout teritwa a.\n\nDirogène te site anviwon 6,5 milyon moun ki ta kalifye pou vote, e sèlman yon milyon ki ta enskri. Se chif li bay; se pa yon bilten ofisyèl CEP n ap konfime isit la. Li estime Premye minis Alix Didier Fils-Aimé pèdi lejitimite, paske angajman nan yon pak sou sekirizasyon eleksyon yo pa t kenbe, e li mande yon dyalòg enkli.\n\nHaitiLibre ak Gazette Haiti konfime, nan nòt 13 ak 14 novanm, Fanmi Lavalas te anonse, vandredi 13 novanm 2026, li sispann patisipasyon l nan pwochen eleksyon yo, nan kondisyon yo ye kounye a. Konferans pou laprès la te fèt nan syèj Fondasyon Doktè Jean-Bertrand Aristide pou demokrasi, nan Tabar. Maryse Narcisse, koordinatris pati a ak ansyen kandida prezidans, ansanm ak Joël Vorbe, manm komite egzekitif, te mande ouvèti yon dyalòg nasyonal enkli, ak pati politik, sosyete sivil ak lòt fòs viv. Yo di sekirite, enpasyalite enstitisyon yo, ak garanti pou sitwayen yo ka sikile, fè kanpay epi vote san laperèz, dwe vin anvan. Yo presize pozisyon sa a se pa yon refi prensip eleksyon yo.\n\nPati Fanmi Lavalas te anonse, vandredi 13 novanm 2026, li p ap patisipe nan pwochen eleksyon yo nan kondisyon yo ye kounye a. Konferans pou laprès la te fèt nan lokal Fondasyon Doktè Aristide pou demokrasi, nan Taba. Gazette Haiti, HPN, Realite Info ak Alternance Media relè pozisyon sa a.\n\nKowòdonatris pati a, doktè Maryse Narcisse, ak Joël Vorbe, manm komite egzekitif la, te eksprime rezèv sou kalandriye CEP la ak sou kapasite otorite yo pou òganize yon skrutin kredib. Yo mande pou sekirite retabli anvan yon konsiltasyon popilè: siveye pou sitwayen yo ka sikile, pou kandida yo ka fè kanpay sou teritwa a, epi pou elektè yo ka vote san entimidasyon.\n\nNarcisse, dapre HPN, presize Fanmi Lavalas te fè anrejistreman 30 000 manm dekrè elektoral la mande. Li ajoute kondisyon pou eleksyon kredib poko reyni. Pati a di se pa yon refi nan prensip pou eleksyon, e li di li prè pou patisipe le sekirite ak yon dyalòg nasyonal ap pèmèt yon skrutin ouvè.\n\nPati a prekonize yon dyalòg nasyonal ki rasanble pati politik, sosyete sivil ak lòt fòs nan peyi a. Li poze kesyon tou sou kèk dispozisyon administratif, tankou sètifika lapolis ak delè pou dosye kandida yo. Se pozisyon Fanmi Lavalas. CEP la, de bò pa l, kenbe kalandriye li te pibliye, ki prevwa premye tou 18 jiyè 2027.",
+      fr: "Le porte-parole de Fanmi Lavalas, Jodson Dirogène, s'est exprimé lundi 16 novembre sur une radio haïtienne, relaient Scoop FM et NAGO. Il a demandé la suspension du processus électoral, parce que, selon lui, les conditions de sécurité ne sont pas réunies, notamment tant que des gangs restent présents dans plusieurs zones, comme Cité Soleil et Carrefour. Il a dit que les actions des forces de l'ordre restent insuffisantes pour garantir la sécurité sur tout le territoire.\n\nDirogène a cité environ 6,5 millions de personnes qui seraient en âge de voter, et seulement un million d'inscrits. Ce sont les chiffres qu'il avance; ce n'est pas un bulletin officiel du CEP que nous confirmons ici. Il estime que le Premier ministre Alix Didier Fils-Aimé a perdu sa légitimité, parce que les engagements d'un pacte sur la sécurisation des élections n'auraient pas été tenus, et il demande un dialogue inclusif.\n\nHaitiLibre et Gazette Haiti confirment, dans des notes des 13 et 14 novembre, que Fanmi Lavalas a annoncé, vendredi 13 novembre 2026, la suspension de sa participation aux prochaines élections, dans les conditions actuelles. La conférence de presse s'est tenue au siège de la Fondation Dr Jean-Bertrand Aristide pour la démocratie, à Tabarre. Maryse Narcisse, coordinatrice du parti et ancienne candidate à la présidence, ainsi que Joël Vorbe, membre du comité exécutif, ont demandé l'ouverture d'un dialogue national inclusif, réunissant partis politiques, société civile et autres forces vives. Ils disent que la sécurité, l'impartialité des institutions, et la garantie que les citoyens puissent circuler, faire campagne et voter sans crainte, doivent venir d'abord. Ils précisent que cette position n'est pas un refus de principe des élections.\n\nLe parti Fanmi Lavalas a annoncé, vendredi 13 novembre 2026, qu'il ne participera pas aux prochaines élections dans les conditions actuelles. La conférence de presse s'est tenue au local de la Fondation Dr Aristide pour la démocratie, à Tabarre. Gazette Haiti, HPN, Realite Info et Alternance Media relaient cette position.\n\nLa coordinatrice du parti, la docteure Maryse Narcisse, et Joël Vorbe, membre du comité exécutif, ont exprimé des réserves sur le calendrier du CEP et sur la capacité des autorités à organiser un scrutin crédible. Ils demandent que la sécurité soit rétablie avant toute consultation populaire: que les citoyens puissent circuler, que les candidats puissent faire campagne sur le territoire, et que les électeurs puissent voter sans intimidation.\n\nNarcisse, selon HPN, a précisé que Fanmi Lavalas avait bien procédé à l'enregistrement des 30 000 membres exigés par le décret électoral. Elle estime toutefois que les conditions d'élections crédibles ne sont pas encore réunies. Le parti dit que ce n'est pas un refus de principe des élections, et qu'il est prêt à participer dès que la sécurité et un dialogue national permettront un scrutin ouvert.\n\nFanmi Lavalas préconise un dialogue national réunissant les partis politiques, la société civile et d'autres forces du pays. Il interroge aussi certaines dispositions administratives, notamment les certificats de police et les délais impartis pour les dossiers de candidature. C'est la position du parti. Le CEP, de son côté, maintient le calendrier qu'il a publié, avec un premier tour prévu le 18 juillet 2027.",
     },
-    sources: ["Gazette Haiti", "HPN", "Realite Info", "Alternance Media",
-      "HaitiLibre",
-    ],
+    sources: ["Gazette Haiti", "HPN", "Realite Info", "Alternance Media", "HaitiLibre", "Scoop FM", "NAGO"],
     sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/fanmi-lavalas-demande-la-suspension-des-elections" },
       { name: "Gazette Haiti", url: "https://www.gazettehaiti.com/node/14535" },
       { name: "HPN", url: "https://www.hpninfo.com/post/ha%C3%AFti-%C3%A9lections-fanmi-lavalas-conditionne-sa-participation-au-r%C3%A9tablissement-de-la-s%C3%A9curit%C3%A9" },
       { name: "Realite Info", url: "https://realiteinfo.com/haiti-elections-fanmi-lavalas-pose-trois-conditions-avant-de-passer-aux-urnes/" },
@@ -1711,7 +2032,7 @@ export const STORIES: Story[] = [
     tier: "quick-hit",
     topic: "sports",
     publishedAt: "2026-11-17",
-    publishedTime: "2026-11-17T08:52:00-05:00",
+    publishedTime: "2026-11-17T18:42:00-05:00",
     isFollowUp: true,
     headline: {
       ht: "Cincinnati aswè a: Grenadye yo jwe retou a, yo mennen 0-6; U-17 yo louvri jedi kont Lafrans",
