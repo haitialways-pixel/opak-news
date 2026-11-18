@@ -46,6 +46,67 @@ export const STORIES: Story[] = [
     },
   },
 
+
+  {
+    id: "ntk-hup-medikaman-fne-lycee-cius-2026-11-17",
+    tier: "need-to-know",
+    topic: "society",
+    publishedAt: "2026-11-17",
+    publishedTime: "2026-11-17T19:22:00-05:00",
+    headline: {
+      ht: "Ministè Sante fèmen pòs vant medikaman bò HUP; FNE lanse reyabilitasyon lice Jean Robert Cius nan Gonaïv",
+      fr: "Le ministère de la Santé ferme des points de vente de médicaments autour de l'HUP; le FNE lance la réhabilitation du lycée Jean Robert Cius à Gonaïves",
+    },
+    teaser: {
+      ht: "Se HaitiLibre ki relè de nòt sa yo, nan zapping mardi 17 novanm. Jounal la pa bay kantite pòs yo fèmen, ni dat travay lekòl la kòmanse.",
+      fr: "C'est HaitiLibre qui relaye ces deux notes, dans son zapping du mardi 17 novembre. Le journal ne donne ni le nombre de points fermés, ni la date de début des travaux au lycée.",
+    },
+    brief: {
+      ht: "Ministè Sante Piblik, atravè DPM/MT, te fè yon operasyon enspeksyon ak fèmen pòs vant medikaman fiks ak mobil bò Lopital Inivèsitè La Paix, HaitiLibre relè. FNE di li lanse travay reyabilitasyon lice Jean Robert Cius, nan katye Raboto, Gonaïv.",
+      fr: "Le ministère de la Santé publique, par la DPM/MT, a mené une opération d'inspection et de fermeture de points de vente de médicaments, fixes et mobiles, aux environs de l'Hôpital universitaire La Paix, relaye HaitiLibre. Le FNE dit avoir lancé les travaux de réhabilitation du lycée Jean Robert Cius, dans le quartier Raboto, à Gonaïves.",
+    },
+    body: {
+      ht: "HaitiLibre ekri, nan zapping mardi 17 novanm 2026, ke Ministè Sante Piblik, atravè Direksyon Famasi, Medikaman ak Medsin Tradisyonèl (DPM/MT), te fè semèn sa a yon operasyon enspeksyon ak fèmen pòs vant medikaman, fiks ak mobil, nan anviron Lopital Inivèsitè La Paix (HUP). Jounal la pa di konbyen pòs yo fèmen, ni ki jou egzak operasyon an te fèt.\n\nDapre objektif ministè a ke HaitiLibre relè, operasyon an te vize vann ki pa konfòm, medikaman ki ka gen kalite dout, ak respe règ ki gouvène vant ak distribisyon medikaman. Nou relè sa jounal la pibliye; nou pa gen yon bilen ofisyèl apa.\n\nNan menm zapping la, HaitiLibre ekri Fon Nasyonal Edikasyon (FNE) te lanse travay reyabilitasyon lice Jean Robert Cius, nan katye Raboto, Gonaïv, nan depatman Latibonit. Jounal la pa bay ni bidjè, ni delè travay yo, ni dat yo te kòmanse sou teren an. Nou rete sou sa FNE di, jan HaitiLibre relè l.",
+      fr: "HaitiLibre écrit, dans son zapping du mardi 17 novembre 2026, que le ministère de la Santé publique, par la Direction de la pharmacie, du médicament et de la médecine traditionnelle (DPM/MT), a mené cette semaine une opération d'inspection et de fermeture de points de vente de médicaments, fixes et mobiles, aux environs de l'Hôpital universitaire La Paix (HUP). Le journal ne dit pas combien de points ont été fermés, ni quel jour exact l'opération a eu lieu.\n\nD'après les objectifs du ministère que HaitiLibre relaye, l'opération visait la vente non conforme, les médicaments de qualité douteuse, et le respect des règles qui régissent la vente et la distribution des médicaments. Nous relayons ce que le journal publie; nous n'avons pas de bilan officiel à part.\n\nDans le même zapping, HaitiLibre écrit que le Fonds national de l'éducation (FNE) a lancé les travaux de réhabilitation du lycée Jean Robert Cius, dans le quartier Raboto, à Gonaïves, dans le département de l'Artibonite. Le journal ne donne ni budget, ni délai, ni date de début des travaux sur le terrain. Nous en restons à ce que le FNE en dit, tel que HaitiLibre le relaye.",
+    },
+    sources: ["HaitiLibre"],
+    sourceLinks: [
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48917-haiti-actualite-zapping.html" },
+    ],
+  },
+
+  {
+    id: "ntk-papej-dgi-brh-2026-11-17",
+    tier: "need-to-know",
+    topic: "economy",
+    publishedAt: "2026-11-17",
+    publishedTime: "2026-11-17T19:21:00-05:00",
+    headline: {
+      ht: "PAPEJ louvri yon konkou plan biznis; DGI te pale ak chanm komès sou Kòd fiskal la; BRH afiche 130,6701 mardi",
+      fr: "PAPEJ ouvre un concours de plans d'affaires; la DGI a dialogué avec les chambres sur le Code fiscal; la BRH affiche 130,6701 mardi",
+    },
+    teaser: {
+      ht: "Konkou a fèmen 30 novanm. Reyinyon DGI a te fèt mèkredi 11 novanm nan Karibe. To 130,6701 se chif ofisyèl bank lan; Juno7 pibliye 130,67, yon awondi.",
+      fr: "Le concours ferme le 30 novembre. La rencontre de la DGI a eu lieu mercredi 11 novembre, au Karibe. Le taux 130,6701 est le chiffre officiel de la banque; Juno7 publie 130,67, un arrondi.",
+    },
+    brief: {
+      ht: "Ministè Komès, atravè PAPEJ, louvri yon konkou pou jèn antreprenè, HaitiLibre relè. DGI te nan yon konferans-deba sou nouvo Kòd fiskal la, mèkredi 11 novanm. BRH afiche 130,6701 goud pou 1 dola, mardi 17 novanm.",
+      fr: "Le ministère du Commerce, à travers le PAPEJ, ouvre un concours pour les jeunes entrepreneurs, relaye HaitiLibre. La DGI a participé à une conférence-débat sur le nouveau Code fiscal, mercredi 11 novembre. La BRH affiche 130,6701 gourdes pour 1 dollar, mardi 17 novembre.",
+    },
+    body: {
+      ht: "Ministè Komès ak Endistri, atravè Pwogram Sipò Antreprenarya Jèn (PAPEJ), ak sipò patnè finansye li yo, lanse yon konkou plan biznis pou jèn antreprenè ayisyen, HaitiLibre relè, mardi 17 novanm. Finansman an ka rive 2 000 000 goud, ant 50 000 ak 2 000 000 goud, dapre nòt la. Pwotèktè a dwe gen mwens pase 41 ane. Dosye yo dwe ale nan papej@mci.gouv.ht, fèk 30 novanm 2026. Canevas ofisyèl la sou sit ministè a.\n\nLòt kondisyon kredi yo, jan HaitiLibre ekri yo: ranbousman ka rive 10 ane, to enterè fiks ant 3% ak 5%, peryòd gras 6 a 12 mwa. Plan yo kenbe yo pral soumèt bay patnè finansye yo, apre koordinasyon PAPEJ valide yo. Bay lajan an rete sou kondisyon; se pa yon kredi ki deja asire.\n\nNan yon lòt nòt, HaitiLibre ekri direktè jeneral DGI, Chesnel François, ak adjwen li, Alfred Pierre, te patisipe nan yon konferans-deba sou Kòd fiskal la, nan otèl Karibe, ansanm ak minis Ekonomi ak Finans, Serge Gabriel Collin. Jounal la te pibliye kont rann sa a dimanch 15 novanm, li te di « semèn sa a ». NAGO, Jounal l'Observatoire ak Vant Bèf Info presize reyinyon an te fèt mèkredi 11 novanm. AmCham-Haïti te òganize l, ak plizyè lòt chanm komès ak asosyasyon. Chesnel François te pale de reyabilitasyon Infocentre, yon sant apèl ki te kòmanse an 2019, ki te sispann an 2023. Li pa di sant la deja relouvri.\n\nMadi 17 novanm 2026, Bank Repiblik Ayiti afiche, sou paj ofisyèl « Taux du jour » li a, yon to referans 130,6701 goud pou yon dola ameriken. Juno7 pibliye 130,67, yon awondi.",
+      fr: "Le ministère du Commerce et de l'Industrie, à travers le Programme d'appui à l'entrepreneuriat jeunesse (PAPEJ), avec l'appui de ses partenaires financiers, lance un concours de plans d'affaires destiné aux jeunes entrepreneurs haïtiens, relaye HaitiLibre, mardi 17 novembre. Un financement pouvant atteindre 2 000 000 de gourdes, entre 50 000 et 2 000 000 de gourdes, pourra être accordé, selon la note. Le promoteur doit avoir moins de 41 ans. Les dossiers doivent être envoyés à papej@mci.gouv.ht, au plus tard le 30 novembre 2026. Le canevas officiel est sur le site du ministère.\n\nLes autres conditions du crédit, telles que HaitiLibre les écrit: remboursement pouvant aller jusqu'à 10 ans, taux d'intérêt fixe entre 3% et 5%, période de grâce de 6 à 12 mois. Les plans retenus seront soumis aux partenaires financiers, après validation par la coordination du PAPEJ. L'octroi du financement reste conditionnel; ce n'est pas un crédit déjà assuré.\n\nDans une autre note, HaitiLibre écrit que le directeur général de la DGI, Chesnel François, et son adjoint, Alfred Pierre, ont pris part à une conférence-débat sur le Code fiscal, à l'hôtel Karibe, aux côtés du ministre de l'Économie et des Finances, Serge Gabriel Collin. Le journal a publié ce compte rendu le dimanche 15 novembre, en parlant de « cette semaine ». NAGO, le Journal l'Observatoire et Vant Bèf Info précisent que la rencontre a eu lieu mercredi 11 novembre. Elle était organisée par AmCham-Haïti, avec plusieurs autres chambres de commerce et associations. Chesnel François a évoqué la réhabilitation de l'Infocentre, un centre d'appels mis en place en 2019 et arrêté en 2023. Il ne dit pas que le centre a déjà rouvert.\n\nMardi 17 novembre 2026, la Banque de la République d'Haïti affiche, sur sa page officielle « Taux du jour », un taux de référence de 130,6701 gourdes pour un dollar américain. Juno7 publie 130,67, un arrondi.",
+    },
+    sources: ["HaitiLibre", "NAGO", "Journal l'Observatoire", "Vant Bèf Info", "BRH", "Juno7"],
+    sourceLinks: [
+      { name: "HaitiLibre (PAPEJ)", url: "https://www.haitilibre.com/article-48915-haiti-entrepreneuriat-concours-de-plan-d-affaires-inscriptions-ouvertes.html" },
+      { name: "HaitiLibre (DGI)", url: "https://www.haitilibre.com/article-48901-haiti-economie-la-dgi-dialogue-avec-le-secteur-prive-des-affaires-autour-du-nouveau-code-fiscal.html" },
+      { name: "NAGO", url: "https://news.nago.tv/code-fiscal-amcham-ccio-adih-reunissent-gouvernement-et-entreprises-karibe" },
+      { name: "BRH", url: "https://www.brh.ht/taux-du-jour/" },
+      { name: "Juno7", url: "https://www.juno7.ht/haiti-taux-de-reference-brh-mardi-17-novembre-2026/" },
+    ],
+  },
+
   {
     id: "ntk-onu-panel-400-mawozo-munitions-rd-2026-11-17",
     tier: "need-to-know",
@@ -1481,30 +1542,32 @@ export const STORIES: Story[] = [
     id: "ntk-djouly-jean-65-deportes-cap-2026-11-13",
     tier: "need-to-know",
     topic: "society",
-    publishedAt: "2026-11-13",
-    publishedTime: "2026-11-13T23:40:00-05:00",
+    publishedAt: "2026-11-17",
+    publishedTime: "2026-11-17T19:20:00-05:00",
+    isFollowUp: true,
     headline: {
-      ht: "Etazini depòte 65 Ayisyen nan Okap, pami yo tiktokeuse Djouly Jean",
-      fr: "Les États-Unis expulsent 65 Haïtiens au Cap-Haïtien, dont la tiktokeuse Djouly Jean",
+      ht: "Repiblik Dominikèn refoule tiktokeuse Djouly Best nan Wanament; li tounen Okap",
+      fr: "Refoulée à Ouanaminthe par la République dominicaine, la tiktokeuse Djouly Best est de retour au Cap-Haïtien",
     },
     teaser: {
-      ht: "Yo te rive jedi 12 novanm, sou yon avyon ICE. ONM di se 57 gason ak 8 fi.",
-      fr: "Ils sont arrivés jeudi 12 novembre, à bord d'un avion de l'ICE. L'ONM parle de 57 hommes et 8 femmes.",
+      ht: "Rezo Nòdwès ekri sa te fèt lendi 16 novanm, kat jou apre depòtasyon li soti Etazini. Jounal la pa bay rezon otorite dominikèn yo.",
+      fr: "Rezo Nòdwès écrit que cela s'est passé lundi 16 novembre, quatre jours après son expulsion des États-Unis. Le journal ne donne pas les raisons des autorités dominicaines.",
     },
     brief: {
-      ht: "Jedi 12 novanm, 65 Ayisyen ki te depòte soti Etazini te rive nan ayewopò entènasyonal Okap, sou yon avyon ICE. Pami yo te gen kreyatè kontni Djouly Jean, ke yo konnen kòm Djouly Best.",
-      fr: "Jeudi 12 novembre, 65 Haïtiens expulsés des États-Unis sont arrivés à l'aéroport international du Cap-Haïtien, à bord d'un avion affrété par l'ICE. Parmi eux se trouvait la créatrice de contenu Djouly Jean, connue sous le nom de Djouly Best.",
+      ht: "Lendi 16 novanm, otorite dominikèn yo te refoule tiktokeuse a, ke Rezo Nòdwès idantifye kòm Paulette Jean, nan fwontyè Wanament, jounal la relè. Yo te remèt li bay POLIFRONT sou 18h30, yo te lage l, epi li pran wout Okap.",
+      fr: "Lundi 16 novembre, les autorités dominicaines ont refoulé la tiktokeuse, que Rezo Nòdwès identifie comme Paulette Jean, à la frontière de Ouanaminthe, relaye le journal. Elle a été remise à la POLIFRONT vers 18h30, puis relâchée, et elle a pris la direction du Cap-Haïtien.",
     },
     body: {
-      ht: "Otorite ameriken yo te rapatriye, jedi 12 novanm 2026, 65 sitwayen ayisyen nan ayewopò entènasyonal Okap, sou yon avyon sèvis imigrasyon Etazini (ICE) te lwe. Le Nouvelliste, Gazette Haiti, Radio Télé Caramel ak Amitie FM relè arive sa a. Pami moun yo te gen Djouly Jean, yon tiktokeuse yo konnen kòm Djouly Best.\n\nBiwo Nasyonal Migrasyon (ONM), dapre yon nòt Amitie FM relè, presize se 12yèm kontenjan an: 57 gason ak 8 fi. Chak moun ki tounen resevwa yon alokasyon 25 000 goud, ansanm ak yon èd medikal, sikososyal ak lojistik, jounal la ekri. Caramel di avyon an te soti Alexandria, nan Lwizyàn.\n\nDjouly Jean te arete 2 novanm nan sid Florid. Caramel, ki relè Miami Herald, ekri pres ameriken an pa di li te antre ilegalman nan peyi a; yo ta sispèk li te bay ajan imigrasyon yo fo enfòmasyon. Se yon akizasyon, li poko jije. Amitie FM ekri, lè li rive Okap, li te di li pase uit jou nan detansyon san aksè a medikaman l yo, apre yon operasyon pou fibwòm. Li ajoute, dapre li, priz pawòl li sou rezo sosyal yo ta kontribye nan dezyèm arestasyon li ak depòtasyon li. Se pawòl li, nou pa ka verifye sa pou kont nou.\n\nOkap rete prensipal pòt antre avyon nan peyi a pou rapatriye sa yo, pandan ayewopò Pòtoprens lan kontinye fèmen pou vòl sivil ameriken yo.",
-      fr: "Les autorités américaines ont rapatrié, jeudi 12 novembre 2026, 65 ressortissants haïtiens à l'aéroport international du Cap-Haïtien, à bord d'un avion affrété par l'ICE. Le Nouvelliste, Gazette Haiti, Radio Télé Caramel et Amitie FM relatent cette arrivée. Parmi les personnes expulsées se trouvait Djouly Jean, une tiktokeuse connue sous le nom de Djouly Best.\n\nL'Office national de la migration (ONM), selon une note relayée par Amitie FM, précise qu'il s'agit du 12e contingent: 57 hommes et 8 femmes. Chaque rapatrié reçoit une allocation de 25 000 gourdes, ainsi qu'une aide médicale, psychosociale et logistique, écrit la radio. Caramel indique que l'avion était parti d'Alexandria, en Louisiane.\n\nDjouly Jean avait été arrêtée le 2 novembre dans le sud de la Floride. Caramel, qui relaye le Miami Herald, écrit que la presse américaine ne dit pas qu'elle serait entrée illégalement aux États-Unis; elle serait soupçonnée d'avoir fourni de fausses informations aux agents de l'immigration. Il s'agit d'une accusation, elle n'a pas été jugée. Amitie FM écrit qu'à son arrivée au Cap-Haïtien, elle a dit avoir passé huit jours en détention sans accès à ses médicaments, après une opération pour des fibromes. Elle estime, selon la radio, que ses prises de parole sur les réseaux sociaux auraient contribué à sa seconde arrestation et à son expulsion. Ce sont ses propos, nous ne pouvons pas les vérifier de manière indépendante.\n\nLe Cap-Haïtien reste la principale porte d'entrée aérienne du pays pour ces rapatriements, alors que l'aéroport de Port-au-Prince demeure fermé aux vols civils américains.",
+      ht: "Rezo Nòdwès ekri tiktokeuse yo konnen kòm Djouly Best, ke jounal la idantifye kòm Paulette Jean, te refoule lendi 16 novanm 2026 pa otorite dominikèn yo, nan fwontyè Wanament. Yo te remèt li bay Polis fwontyè tèrès (POLIFRONT) sou 18h30, yo te lage l, epi li pran wout Okap.\n\nDapre menm jounal la, depi nan demen apre li te rive ann Ayiti, vandredi 13 novanm, li te pase nan Repiblik Dominikèn pa fwontyè sa a. Rezo Nòdwès presize rezon refoulman an poko etabli. Se yon kont rann yon sèl sous, pou epizòd Wanament sa a.\n\n12 novanm, li te pami 65 Ayisyen Etazini te depòte ki te rive nan ayewopò Okap. Se sa nou te deja relè.\n\nOtorite ameriken yo te rapatriye, jedi 12 novanm 2026, 65 sitwayen ayisyen nan ayewopò entènasyonal Okap, sou yon avyon sèvis imigrasyon Etazini (ICE) te lwe. Le Nouvelliste, Gazette Haiti, Radio Télé Caramel ak Amitie FM relè arive sa a. Pami moun yo te gen Djouly Jean, yon tiktokeuse yo konnen kòm Djouly Best.\n\nBiwo Nasyonal Migrasyon (ONM), dapre yon nòt Amitie FM relè, presize se 12yèm kontenjan an: 57 gason ak 8 fi. Chak moun ki tounen resevwa yon alokasyon 25 000 goud, ansanm ak yon èd medikal, sikososyal ak lojistik, jounal la ekri. Caramel di avyon an te soti Alexandria, nan Lwizyàn.\n\nDjouly Jean te arete 2 novanm nan sid Florid. Caramel, ki relè Miami Herald, ekri pres ameriken an pa di li te antre ilegalman nan peyi a; yo ta sispèk li te bay ajan imigrasyon yo fo enfòmasyon. Se yon akizasyon, li poko jije. Amitie FM ekri, lè li rive Okap, li te di li pase uit jou nan detansyon san aksè a medikaman l yo, apre yon operasyon pou fibwòm. Li ajoute, dapre li, priz pawòl li sou rezo sosyal yo ta kontribye nan dezyèm arestasyon li ak depòtasyon li. Se pawòl li, nou pa ka verifye sa pou kont nou.\n\nOkap rete prensipal pòt antre avyon nan peyi a pou rapatriye sa yo, pandan ayewopò Pòtoprens lan kontinye fèmen pou vòl sivil ameriken yo.",
+      fr: "Rezo Nòdwès écrit que la tiktokeuse connue comme Djouly Best, que le journal identifie comme Paulette Jean, a été refoulée lundi 16 novembre 2026 par les autorités dominicaines, à la frontière de Ouanaminthe. Elle a été remise à la Police frontalière terrestre (POLIFRONT) vers 18h30, puis relâchée, avant de prendre la direction du Cap-Haïtien.\n\nSelon le même journal, dès le lendemain de son arrivée en Haïti, le vendredi 13 novembre, elle était passée en République dominicaine par cette frontière. Rezo Nòdwès précise que les raisons du refoulement n'ont pas été établies. C'est un compte rendu d'une seule source, pour cet épisode à Ouanaminthe.\n\nLe 12 novembre, elle figurait parmi les 65 Haïtiens expulsés des États-Unis arrivés à l'aéroport du Cap-Haïtien. C'est ce que nous avions déjà relaté.\n\nLes autorités américaines ont rapatrié, jeudi 12 novembre 2026, 65 ressortissants haïtiens à l'aéroport international du Cap-Haïtien, à bord d'un avion affrété par l'ICE. Le Nouvelliste, Gazette Haiti, Radio Télé Caramel et Amitie FM relatent cette arrivée. Parmi les personnes expulsées se trouvait Djouly Jean, une tiktokeuse connue sous le nom de Djouly Best.\n\nL'Office national de la migration (ONM), selon une note relayée par Amitie FM, précise qu'il s'agit du 12e contingent: 57 hommes et 8 femmes. Chaque rapatrié reçoit une allocation de 25 000 gourdes, ainsi qu'une aide médicale, psychosociale et logistique, écrit la radio. Caramel indique que l'avion était parti d'Alexandria, en Louisiane.\n\nDjouly Jean avait été arrêtée le 2 novembre dans le sud de la Floride. Caramel, qui relaye le Miami Herald, écrit que la presse américaine ne dit pas qu'elle serait entrée illégalement aux États-Unis; elle serait soupçonnée d'avoir fourni de fausses informations aux agents de l'immigration. Il s'agit d'une accusation, elle n'a pas été jugée. Amitie FM écrit qu'à son arrivée au Cap-Haïtien, elle a dit avoir passé huit jours en détention sans accès à ses médicaments, après une opération pour des fibromes. Elle estime, selon la radio, que ses prises de parole sur les réseaux sociaux auraient contribué à sa seconde arrestation et à son expulsion. Ce sont ses propos, nous ne pouvons pas les vérifier de manière indépendante.\n\nLe Cap-Haïtien reste la principale porte d'entrée aérienne du pays pour ces rapatriements, alors que l'aéroport de Port-au-Prince demeure fermé aux vols civils américains.",
     },
-    sources: ["Le Nouvelliste", "Gazette Haiti", "Radio Télé Caramel", "Amitie FM"],
+    sources: ["Le Nouvelliste", "Gazette Haiti", "Radio Télé Caramel", "Amitie FM", "Rezo Nòdwès"],
     sourceLinks: [
       { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273874/65-haitiens-expulses-au-cap-haitien-par-les-etats-unis-dont-la-tiktokeuse-djouly-jean" },
       { name: "Gazette Haiti", url: "https://www.gazettehaiti.com/node/14536" },
       { name: "Radio Télé Caramel", url: "https://caramelhaiti.com/expulsions-65-haitiens-cap-haitien-djouly-jean/" },
       { name: "Amitie FM", url: "https://www.amitiefm.ht/post/%C3%A9tats-unis-65-ha%C3%AFtiens-expuls%C3%A9s-dont-la-tiktokeuse-djouly-jean-rapatri%C3%A9s-au-cap-ha%C3%AFtien" },
+      { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/refoulee-par-la-republique-dominicaine-la-tiktokeuse-djouly-best-regagne-le-cap-haitien/" },
     ],
   },
   {
