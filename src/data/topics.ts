@@ -19,7 +19,7 @@ export const TOPICS: TopicMeta[] = [
   {
     id: "justice",
     slug: { ht: "ayiti-ak-jistis", fr: "justice-a-lhaitienne" },
-    label: { ht: "Ayiti ak Jistis", fr: "Justice à l’Haïtienne" },
+    label: { ht: "Jistis", fr: "Justice" },
   },
   {
     id: "security",
