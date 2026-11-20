@@ -46,6 +46,393 @@ export const STORIES: Story[] = [
     },
   },
 
+  {
+    id: "ntk-pnh-martissant-34-ti-lapli-2026-11-20",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-20",
+    publishedTime: "2026-11-20T08:16:00-05:00",
+    headline: {
+      ht: "PNH di li touye 34 sipoze manm gang Ti Lapli nan Matisan, jedi maten",
+      fr: "La PNH dit avoir tué 34 présumés membres du gang de Ti Lapli à Martissant, jeudi matin",
+    },
+    teaser: {
+      ht: "Se bilan lapolis la, li poko verifye pou kont li. Dapre Associated Press, PNH di pa gen polisye ni sivil blese, e sòlda salvadoryen yo pa t nan operasyon an.",
+      fr: "C'est le bilan de la police, il n'a pas été vérifié de manière indépendante. Selon l'Associated Press, la police dit qu'aucun policier ni civil n'a été blessé, et que les soldats salvadoriens n'ont pas pris part à l'opération.",
+    },
+    brief: {
+      ht: "Polis nasyonal ayisyen di li te touye 34 sipoze manm gang nan yon operasyon jedi 19 novanm nan Matisan 2, 4 ak 23, nan yon baz Renel Destina, alias Ti Lapli, chèf gang Gran Ravin, NAGO ak Associated Press relè.",
+      fr: "La Police nationale d'Haïti dit avoir tué 34 présumés membres de gang lors d'une opération jeudi 19 novembre à Martissant 2, 4 et 23, dans une base de Renel Destina, alias Ti Lapli, chef du gang de Grand-Ravine, relaient NAGO et l'Associated Press.",
+    },
+    body: {
+      ht: "Polis nasyonal ayisyen (PNH) di li te touye 34 sipoze manm gang jedi 19 novanm 2026, nan yon operasyon nan Matisan, nan sid Pòtoprens, nan « yon gwo baz » Renel Destina, yo konnen kòm Ti Lapli, chèf gang Gran Ravin. NAGO relè videyo PNH te pibliye a, ki vize zòn Matisan 2, 4 ak 23, kote yo wè blende nan lari yo, epi yon kay ki eksploze, sanble yon drone frape l. Se bilan lapolis la; li poko verifye pou kont li. Otorite yo pa di si Ti Lapli te pami moun ki mouri yo.\n\nDapre Associated Press ak Al Jazeera, ki relè Reuters tou, PNH di ofisye li yo te fè operasyon an ak yon task force antigang kote gen manm Vectus Global, yon sosyete sekirite prive. Menm sous yo ekri lapolis di pa te gen lòt viktim, e okenn nan apeprè 2 500 sòlda salvadoryen ki nan peyi a pa t patisipe. Se pawòl lapolis yo. NAGO te presize, nan premye kont rann li, otorite yo pa t di si gen sivil ki te frape.\n\nKatye Matisan an sou yon wout kle ki lye Pòtoprens ak sid ak lwès peyi a. Li anba kontwòl gang yo depi plis pase senk ane, jounal yo ekri.",
+      fr: "La Police nationale d'Haïti (PNH) dit avoir tué 34 présumés membres de gang jeudi 19 novembre 2026, lors d'une opération à Martissant, au sud de Port-au-Prince, dans « une grande base » de Renel Destina, connu comme Ti Lapli, chef du gang de Grand-Ravine. NAGO relaie la vidéo publiée par la police, qui vise les zones de Martissant 2, 4 et 23: on y voit des blindés avancer dans les rues, puis une maison exploser, apparemment frappée par un drone. Ce bilan est celui de la police; il n'a pas été vérifié de manière indépendante. Les autorités n'ont pas dit si Ti Lapli figurait parmi les morts.\n\nSelon l'Associated Press et Al Jazeera, qui relaient aussi Reuters, la PNH a indiqué que ses officiers ont mené l'opération avec une task force antigang comprenant des membres de Vectus Global, une société de sécurité privée. Les mêmes sources écrivent que la police a dit qu'il n'y avait pas eu d'autres victimes, et qu'aucun des quelque 2 500 soldats salvadoriens présents en Haïti n'avait pris part à l'opération. Ce sont des déclarations de la police. NAGO avait précisé, dans son premier compte rendu, que les autorités n'avaient pas dit si des civils avaient été touchés.\n\nLe quartier de Martissant se trouve sur un axe qui relie Port-au-Prince au sud et à l'ouest du pays. Il est sous le contrôle de gangs depuis plus de cinq ans, écrivent ces journaux.",
+    },
+    sources: ["NAGO", "Associated Press", "Al Jazeera", "Reuters"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/martissant-la-pnh-dit-avoir-tue-34-membres-de-gang-dans-une-base-de-ti-lapli" },
+      { name: "Associated Press", url: "https://apnews.com/article/haiti-martissant-police-el-salvador-pnh-gangs-69cedb174f2b429b2ca0e9d5dadd4acb" },
+      { name: "Al Jazeera", url: "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid" },
+    ],
+  },
+  {
+    id: "ntk-ambassade-usa-alerte-tabarre-cdb-2026-11-20",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-20",
+    publishedTime: "2026-11-20T08:15:00-05:00",
+    headline: {
+      ht: "Anbasad ameriken an avèti: operasyon ak kout zam nan Kwadèbouke ak toupre anbasad la nan Tabar",
+      fr: "L'ambassade américaine alerte: des opérations et des tirs à Croix-des-Bouquets et près de l'ambassade, à Tabarre",
+    },
+    teaser: {
+      ht: "Alerte a soti vandredi 20 novanm. Li konseye sitwayen ameriken yo evite zòn sa yo.",
+      fr: "L'alerte a été publiée vendredi 20 novembre. Elle conseille aux citoyens américains d'éviter ces zones.",
+    },
+    brief: {
+      ht: "Anbasad Etazini nan Pòtoprens pibliye vandredi 20 novanm yon alète sekirite. Li enfòme sitwayen ameriken yo gen operasyon sekirite k ap fèt nan Kwadèbouke ak nan vwazinaj anbasad la, nan Tabar. Yo siyale kout zam nan sektè a.",
+      fr: "L'ambassade des États-Unis à Port-au-Prince a publié vendredi 20 novembre une alerte de sécurité. Elle informe les citoyens américains d'opérations de sécurité en cours à Croix-des-Bouquets et à proximité de l'ambassade, à Tabarre. Des tirs sont signalés dans le secteur.",
+    },
+    body: {
+      ht: "Anbasad Etazini nan Pòtoprens te pibliye vandredi 20 novanm 2026 yon alète sekirite. Li avèti sitwayen ameriken yo gen operasyon sekirite k ap fèt nan Kwadèbouke ak nan vwazinaj anbasad la, nan Tabar. « Yo siyale kout zam nan zòn nan », alète a ekri.\n\nAnbasad la konseye evite sektè sa yo epi swiv medya lokal yo pou dènye enfòmasyon yo. Se yon nòt ofisyèl anbasad la.",
+      fr: "L'ambassade des États-Unis à Port-au-Prince a publié vendredi 20 novembre 2026 une alerte de sécurité. Elle avise les citoyens américains d'opérations de sécurité en cours à Croix-des-Bouquets et à proximité de l'ambassade, à Tabarre. « Des tirs sont signalés dans le secteur », écrit l'alerte.\n\nL'ambassade conseille d'éviter ces zones et de suivre les médias locaux pour les dernières informations. C'est une note officielle de l'ambassade.",
+    },
+    sources: ["U.S. Embassy in Haiti"],
+    sourceLinks: [
+      { name: "U.S. Embassy in Haiti", url: "https://ht.usembassy.gov/security-alert-u-s-embassy-port-au-prince-haiti-november-20-2026/" },
+    ],
+  },
+  {
+    id: "ntk-frg-base-rn1-tabarre-artibonite-2026-11-20",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-20",
+    publishedTime: "2026-11-20T08:14:00-05:00",
+    headline: {
+      ht: "FRG di li enstale yon baz sou RN1, nan nò ayewopò a, epi li ranfòse operasyon nan Tabar ak Latibonit",
+      fr: "La FRG dit avoir installé une base sur la RN1, au nord de l'aéroport, et intensifier ses opérations à Tabarre et dans l'Artibonite",
+    },
+    teaser: {
+      ht: "Se fòs la ki di sa, nan nòt li yo. Li pale tou de baraj yo te netwaye sou RN5, nan nò Gros-Mòn. Pa gen balans viktim.",
+      fr: "C'est la force qui le dit, dans ses communiqués. Elle parle aussi de barrages dégagés sur la RN5, au nord de Gros-Morne. Aucun bilan de victimes n'a été publié.",
+    },
+    brief: {
+      ht: "Fòs reprezyon gang yo anonse li enstale yon baz toupre Wout nasyonal 1, nan nò ayewopò Tousen Louvèti, pandan li di li fè operasyon nan Tabar ak nan Latibonit, Le Quotidien 509 relè.",
+      fr: "La Force de répression des gangs annonce avoir installé une base près de la route nationale 1, au nord de l'aéroport Toussaint Louverture, alors qu'elle dit mener des opérations à Tabarre et dans l'Artibonite, relaie Le Quotidien 509.",
+    },
+    body: {
+      ht: "Fòs reprezyon gang yo (FRG) anonse li enstale yon baz toupre Wout nasyonal 1, nan nò ayewopò entènasyonal Tousen Louvèti, Le Quotidien 509 relè, daprè yon seri kominike fòs la te pibliye sou rezo sosyal li yo. Li di li deplwaye sòlda sou baz sa a pou kontinye operasyon kont gang yo, ranfòse sekirite nan katye vwazen yo, epi kenbe wout la ouvè.\n\nNan Tabar, FRG prezante entèvansyon li yo kòm yon « nouvo faz », apre plizyè mwa patwouy lannwit ak operasyon vize. Li ekri objektif la se pa sèlman pouse gang yo, se kraze kontwòl yo epi anpeche yo tounen.\n\nNan Latibonit, fòs la di twoup li yo te avanse de jou sou Wout nasyonal 5, nan nò Gros-Mòn, kote gang yo te mete obstak. Li di manm gang yo te tire sou militè yo, ki te reponn e fè yo rekile. Yo pa bay balans viktim. Se kont rann FRG a, jan jounal la relè l.",
+      fr: "La Force de répression des gangs (FRG) annonce avoir installé une base près de la route nationale 1, au nord de l'aéroport international Toussaint Louverture, relaie Le Quotidien 509, d'après une série de communiqués publiés cette semaine sur les réseaux de la force. Elle dit y avoir déployé des soldats pour poursuivre les opérations contre les gangs, renforcer la sécurité dans les quartiers voisins et maintenir la route ouverte.\n\nÀ Tabarre, la FRG présente ses interventions comme une « nouvelle phase », après plusieurs mois de patrouilles nocturnes et d'opérations ciblées. Elle écrit que l'objectif n'est pas seulement de repousser les gangs, mais de démanteler leur emprise et d'empêcher leur retour.\n\nDans l'Artibonite, la force dit que ses troupes ont progressé pendant deux jours le long de la route nationale 5, au nord de Gros-Morne, où des gangs avaient installé des obstacles. Elle indique que des membres de gangs ont ouvert le feu sur les militaires, qui ont riposté et les ont contraints à se replier. Aucun bilan humain n'a été communiqué. C'est le compte rendu de la FRG, tel que le journal le relaie.",
+    },
+    sources: ["Le Quotidien 509"],
+    sourceLinks: [
+      { name: "Le Quotidien 509", url: "https://lequotidien509.com/haiti-la-frg-installe-une-base-sur-la-rn1-et-intensifie-ses-operations-a-tabarre-et-dans-lartibonite/" },
+    ],
+  },
+  {
+    id: "qh-muscadin-bed-ouest-i-dossier-2026-11-20",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-20",
+    publishedTime: "2026-11-20T08:12:00-05:00",
+    headline: {
+      ht: "Muscadin tounen nan BED Lwès I, ak eskort lapolis, pou depoze dosye prezidansyèl li ankò",
+      fr: "Muscadin retourne au BED de l'Ouest I, sous escorte policière, pour redéposer son dossier présidentiel",
+    },
+    teaser: {
+      ht: "29 oktòb, BED la te rejte dosye a paske li te manke 2 pyès. Biwo a poko pal sou nouvo depo a.",
+      fr: "Le 29 octobre, le BED avait rejeté le dossier, faute de 2 pièces. Le bureau ne s'est pas encore prononcé sur ce nouveau dépôt.",
+    },
+    brief: {
+      ht: "Ansyen komissè gouvènman Miragwàn, Jean Ernest Muscadin, te tounen jedi 19 novanm nan Biwo elektoral depatmantal Lwès I pou depoze pyès li yo ankò kòm kandida prezidans, sou banyè Fòs Chanjman Nasyonal, NAGO relè.",
+      fr: "L'ancien commissaire du gouvernement de Miragoâne, Jean Ernest Muscadin, est retourné jeudi 19 novembre au Bureau électoral départemental de l'Ouest I pour déposer de nouveau ses pièces comme candidat à la présidence, sous la bannière de Fòs Chanjman Nasyonal, relaie NAGO.",
+    },
+    body: {
+      ht: "Jean Ernest Muscadin, ansyen komissè gouvènman Miragwàn, te tounen jedi 19 novanm 2026 nan Biwo elektoral depatmantal (BED) Lwès I pou depoze pyès li yo ankò kòm kandida prezidans, sou banyè Fòs Chanjman Nasyonal (FCN), NAGO relè. Tele Pam te konstate sa sou plas. Li te rive nan maten nan aerogare Guy Malary, epi li ale nan BED la ak polisye bò kote l, dapre imaj Tele Pam ak Canal Infos.\n\n29 oktòb, BED Lwès I te jije dosye a irrecevable, paske li te manke de pyès: lèt demisyon li kòm komissè gouvènman, ak dènye deklarasyon enpo li. Minis Jistis la aksepte demisyon an depi lè sa a, e Accel Trofort asire entèrim nan parkèt Miragwàn, NAGO ekri.\n\nBED la poko pwononse sou nouvo depo a.",
+      fr: "Jean Ernest Muscadin, ancien commissaire du gouvernement de Miragoâne, est retourné jeudi 19 novembre 2026 au Bureau électoral départemental (BED) de l'Ouest I pour déposer de nouveau ses pièces comme candidat à la présidence, sous la bannière de Fòs Chanjman Nasyonal (FCN), relaie NAGO. Tele Pam l'a constaté sur place. Arrivé dans la matinée à l'aérogare Guy Malary, il s'est rendu au BED entouré de policiers, selon des images de Tele Pam et de Canal Infos.\n\nLe 29 octobre, le BED de l'Ouest I avait jugé le dossier irrecevable, faute de deux pièces: sa lettre de démission de son poste de commissaire du gouvernement, et sa dernière déclaration d'impôt. Le ministre de la Justice a depuis accepté sa démission, et Accel Trofort assure l'intérim au parquet de Miragoâne, écrit NAGO.\n\nLe BED ne s'est pas encore prononcé sur ce nouveau dépôt.",
+    },
+    sources: ["NAGO"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/presidentielle-jean-ernest-muscadin-retourne-au-bed-de-l-ouest-i-pour-deposer-a-nouveau-son-dossier" },
+    ],
+  },
+  {
+    id: "qh-gonaives-marche-29-novembre-2026-11-20",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-20",
+    publishedTime: "2026-11-20T08:11:00-05:00",
+    headline: {
+      ht: "Yon mach anonse nan Gonayiv dimanch 29 novanm pou mande Fils-Aimé ale",
+      fr: "Une marche est annoncée aux Gonaïves dimanche 29 novembre pour demander le départ de Fils-Aimé",
+    },
+    teaser: {
+      ht: "Se 11 jou apre foul yo te aklame Bukele nan menm vil la. Rezo Nòdwès se sèl sous nou genyen sou anons sa a.",
+      fr: "C'est 11 jours après que des foules y ont acclamé Bukele. Rezo Nòdwès est notre seule source sur cette annonce.",
+    },
+    brief: {
+      ht: "Yon nouvo manifestasyon anonse nan Gonayiv pou dimanch 29 novanm, pou mande Premye minis Alix Didier Fils-Aimé ale, Rezo Nòdwès ekri. Se 11 jou apre yon mobilizasyon kote patisipan yo te sipòte prezidan salvadoryen Nayib Bukele.",
+      fr: "Une nouvelle manifestation est annoncée aux Gonaïves pour le dimanche 29 novembre, afin de réclamer le départ du Premier ministre Alix Didier Fils-Aimé, écrit Rezo Nòdwès. Elle interviendrait 11 jours après une mobilisation au cours de laquelle des participants ont soutenu le président salvadorien Nayib Bukele.",
+    },
+    body: {
+      ht: "Yon nouvo manifestasyon anonse nan Gonayiv pou dimanch 29 novanm 2026, pou mande Premye minis Alix Didier Fils-Aimé ale, dapre enfòmasyon yo te kominike Rezo Nòdwès. Jounal la pibliye anons sa a jedi 19 novanm. Se yon kont rann yon sèl sous, sou yon evènman ki poko fèt.\n\nLi ta vini 11 jou apre yon mobilizasyon 18 novanm, kote plizyè milye moun te mache nan lari yo pou mande demisyon chèf gouvènman an epi salye operasyon fòs salvadoryen yo, menm jounal la ekri.\n\nNou pa ka di ki jan anpil moun va vin nan mach 29 novanm nan. Se yon anons.",
+      fr: "Une nouvelle manifestation est annoncée aux Gonaïves pour le dimanche 29 novembre 2026, afin de réclamer le départ du Premier ministre Alix Didier Fils-Aimé, selon des informations communiquées à Rezo Nòdwès. Le journal a publié cette annonce jeudi 19 novembre. C'est un compte rendu d'une seule source, sur un événement qui n'a pas encore eu lieu.\n\nElle interviendrait 11 jours après une mobilisation, le 18 novembre, au cours de laquelle plusieurs milliers de personnes avaient parcouru les rues pour demander la démission du chef du gouvernement et saluer les opérations des forces salvadoriennes, écrit le même journal.\n\nNous ne pouvons pas dire combien de personnes se rendront à la marche du 29 novembre. C'est une annonce.",
+    },
+    sources: ["Rezo Nòdwès"],
+    sourceLinks: [
+      { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/gonaives-29-novembre-apres-avoir-acclame-bukele-la-cite-de-lindependance-sapprete-a-redescendre-dans-la-rue-pour-exiger-le-depart-de-fils-aime/" },
+    ],
+  },
+  {
+    id: "qh-cep-copenhague-pnud-materiel-2026-11-20",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-20",
+    publishedTime: "2026-11-20T08:10:00-05:00",
+    headline: {
+      ht: "CEP te nan Kopènag ak PNUD, 16 rive 19 novanm, pou egzamine echantiyon materyèl elektoral",
+      fr: "Le CEP était à Copenhague avec le PNUD, du 16 au 19 novembre, pour examiner des échantillons de matériel électoral",
+    },
+    teaser: {
+      ht: "Se yon nòt CEP HaitiLibre relè. Misyon an pa vle di materyèl la deja achte.",
+      fr: "C'est une note du CEP, relayée par HaitiLibre. Cette mission ne signifie pas que le matériel a déjà été acheté.",
+    },
+    brief: {
+      ht: "Yon delegasyon CEP, ak Direktè jeneral Uder Antoine, te patisipe nan yon misyon konjwen ak PNUD nan Kopènag, nan Denmark, 16 rive 19 novanm, pou evalye echantiyon materyèl elektoral, HaitiLibre relè.",
+      fr: "Une délégation du CEP, avec le directeur général Uder Antoine, a pris part à une mission conjointe avec le PNUD à Copenhague, au Danemark, du 16 au 19 novembre, pour évaluer des échantillons de matériel électoral, relaie HaitiLibre.",
+    },
+    body: {
+      ht: "Konsèy Elektoral Pwovizwa (CEP) enfòme, nan yon nòt HaitiLibre relè jedi 19 novanm, yon delegasyon te patisipe nan yon misyon konjwen ak Pwogram Nasyonzini pou devlopman (PNUD) nan Kopènag, nan Denmark, 16 rive 19 novanm 2026. Konsilan elektoral Jacques Desrosiers te kondui delegasyon an, ak Direktè jeneral Uder Antoine, Jean Marie Rémy, Direktè Rejis elektoral, ak Eddy Philémon, Direktè Fòmasyon elektoral.\n\nNòt la di misyon an te pou evalye echantiyon ak spesifikasyon teknik materyèl elektoral sansib ak pa sansib yo pral itilize nan pwochen eleksyon jeneral yo. Seyans yo te pote sou isoloir, kit elektoral, lank ki pa efase, ak dispozitif sekirite pou enprime.\n\nSe yon etap verifikasyon, anvan acha ak disponiblite materyèl la. Nòt la pa di lòd acha a deja siyen, ni materyèl la deja nan peyi a.",
+      fr: "Le Conseil électoral provisoire (CEP) informe, dans une note relayée par HaitiLibre jeudi 19 novembre, qu'une délégation a pris part à une mission conjointe avec le Programme des Nations unies pour le développement (PNUD) à Copenhague, au Danemark, du 16 au 19 novembre 2026. Le conseiller électoral Jacques Desrosiers conduisait la délégation, avec le directeur général Uder Antoine, Jean Marie Rémy, directeur du Registre électoral, et Eddy Philémon, directeur de la Formation électorale.\n\nLa note dit que la mission visait à évaluer les échantillons et les spécifications techniques des matériels électoraux sensibles et non sensibles qui seront utilisés pour les prochaines élections générales. Les séances ont porté sur les isoloirs, les kits électoraux, l'encre indélébile et les dispositifs de sécurité liés à l'impression.\n\nC'est une étape de vérification, avant l'acquisition et la mise à disposition du matériel. La note ne dit pas qu'un ordre d'achat a déjà été signé, ni que le matériel est déjà dans le pays.",
+    },
+    sources: ["HaitiLibre", "CEP"],
+    sourceLinks: [
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48930-haitielections-evaluation-des-echantillons-du-materiel-electoral-au-danemark.html" },
+    ],
+  },
+  {
+    id: "qh-coulisses-franck-delma-menfp-2026-11-20",
+    tier: "quick-hit",
+    topic: "gossip",
+    publishedAt: "2026-11-20",
+    publishedTime: "2026-11-20T08:09:00-05:00",
+    headline: {
+      ht: "Rezo Nòdwès mande Franck Delma klarifye fonksyon li nan MENFP ak ki moun ki peye rasanbleman Vètyè a",
+      fr: "Rezo Nòdwès demande à Franck Delma de clarifier ses fonctions au MENFP et qui a payé le rassemblement de Vertières",
+    },
+    teaser: {
+      ht: "Jounal la di akizasyon sou lajan eta a poko etabli. Se yon kont rann yon sèl sous, ak kesyon, se pa yon jijman.",
+      fr: "Le journal dit que les accusations sur l'argent de l'État ne sont pas établies. C'est le compte rendu d'une seule source, avec des questions, pas un jugement.",
+    },
+    brief: {
+      ht: "Rezo Nòdwès ekri Franck Delma, kandida pou Sena a nan Nò, ta toujou adjwen direktè nan Direksyon depatmantal edikasyon an. Jounal la poze kesyon sou ki moun ki finanse mobilizasyon 18 novanm nan, kote li di te gen patizan ki soti nan 19 komin yo.",
+      fr: "Rezo Nòdwès écrit que Franck Delma, candidat au Sénat pour le Nord, serait toujours directeur adjoint à la Direction départementale de l'éducation. Le journal pose la question de savoir qui a financé la mobilisation du 18 novembre, où il dit que des partisans étaient venus des 19 communes.",
+    },
+    body: {
+      ht: "Rezo Nòdwès ekri, jedi 19 novanm, mobilizasyon Franck Delma te òganize mèkredi 18 novanm, nan kad 223e anivèsè batay Vètyè a, poze yon kesyon sou responsablite piblik. Jounal la prezante l kòm kandida pou Sena a nan Nò, e li ekri li ta toujou adjwen direktè nan Direksyon depatmantal edikasyon an. Li di li ta rasanble patizan ki soti nan 19 komin depatman an. Si li toujou nan pòs la, Rezo Nòdwès ekri MENFP ak CEP dwe klarifye sitiyasyon administratif li, ak kondisyon kote li mennen aktivite politik li.\n\nMenm atik la presize akizasyon sou itilizasyon lajan ak materyèl eta a pou mobilizasyon sa a grav, men eleman yo bay yo pa pèmèt etabli yo. Jounal la poze kesyon: kiyès ki finanse deplasman yo, lojistik la ak òganizasyon an? Èske te gen machin, ekipman oswa pèsonèl MENFP yo te sevi? Li ekri Franck Delma dwe ka reponn kesyon sa yo, e administrasyon an dwe rann kont.\n\nSe pawòl Rezo Nòdwès, yon sèl sous. Nou pa verifye pou kont nou si mesye a toujou nan pòs la, ni ki moun ki peye rasanbleman an. Nou relè kesyon jounal la poze, nou pa pran akizasyon yo kòm yon reyalite etabli.",
+      fr: "Rezo Nòdwès écrit, jeudi 19 novembre, que la mobilisation organisée par Franck Delma mercredi 18 novembre, dans le cadre du 223e anniversaire de la bataille de Vertières, soulève une question de responsabilité publique. Le journal le présente comme candidat au Sénat pour le Nord, et écrit qu'il serait toujours directeur adjoint à la Direction départementale de l'éducation. Il dit qu'il aurait réuni des partisans venus des 19 communes du département. Si son maintien en fonction est confirmé, Rezo Nòdwès écrit que le MENFP et le CEP doivent clarifier sa situation administrative et les conditions dans lesquelles il mène ses activités politiques.\n\nLe même article précise que les accusations d'utilisation d'argent et de matériel de l'État pour cette mobilisation sont graves, mais que les éléments fournis ne permettent pas de les établir. Le journal pose des questions: qui a financé les déplacements, la logistique et l'organisation? Des véhicules, des équipements ou du personnel du MENFP ont-ils été utilisés? Il écrit que Franck Delma doit pouvoir répondre, et que l'administration doit rendre compte.\n\nCe sont les propos de Rezo Nòdwès, une seule source. Nous n'avons pas vérifié de manière indépendante s'il est toujours en poste, ni qui a payé le rassemblement. Nous relayons les questions que le journal pose, nous ne tenons pas les accusations pour un fait établi.",
+    },
+    sources: ["Rezo Nòdwès"],
+    sourceLinks: [
+      { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/nord-franck-delma-doit-clarifier-ses-fonctions-au-menfp-et-le-financement-de-sa-mobilisation-politique/" },
+    ],
+  },
+  {
+    id: "qh-bukele-troisieme-mandat-2026-11-20",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-20",
+    publishedTime: "2026-11-20T08:08:00-05:00",
+    headline: {
+      ht: "Bukele depoze kandida pou yon twazyèm manda jedi swa, ak apeprè 3 000 sipòtè devan tribinal elektoral la",
+      fr: "Bukele a déposé sa candidature pour un troisième mandat jeudi soir, avec environ 3 000 partisans devant le tribunal électoral",
+    },
+    teaser: {
+      ht: "Eleksyon an fikse 28 fevriye 2027. AFP te konstate foul la sou plas. Félix Ulloa se kolisye li.",
+      fr: "L'élection est fixée au 28 février 2027. L'AFP a constaté la foule sur place. Félix Ulloa est son colistier.",
+    },
+    brief: {
+      ht: "Prezidan salvadoryen Nayib Bukele te depoze jedi swa 19 novanm, li menm, kandida li pou yon twazyèm manda, ak apeprè 3 000 sipòtè devan Tribinal siprèm elektoral la, jounalis AFP te konstate. Vant Bèf Info te relè kandida a tou.",
+      fr: "Le président salvadorien Nayib Bukele a déposé en personne, jeudi soir 19 novembre, sa candidature pour un troisième mandat, accompagné d'environ 3 000 partisans devant le Tribunal suprême électoral, ont constaté des journalistes de l'AFP. Vant Bèf Info a aussi relayé cette candidature.",
+    },
+    body: {
+      ht: "Prezidan salvadoryen Nayib Bukele te depoze jedi swa 19 novanm 2026, li menm, kandida li pou yon twazyèm manda prezidansyèl, ak apeprè 3 000 sipòtè devan Tribinal siprèm elektoral la nan San Salvador, jounalis AFP te konstate, France 24 relè. Eleksyon an fikse 28 fevriye 2027. Diario El Salvador ekri li te enskri ansanm ak vis-prezidan Félix Ulloa, sou banyè pati Nuevas Ideas.\n\nKongrè a, ke pati prezidan an kontwole, te adopte ane pase a yon refòm konstitisyon ki otorize reeleksyon san limit epi ki lonje manda a de 5 a 6 ane, AFP ekri.\n\nKandida sa a vin nan menm tan ak deplwaman plis pase 2 000 sòlda salvadoryen ann Ayiti. Vant Bèf Info te relè kandida a tou, nan yon nòt sou ofansiv gang yo ann Ayiti. Se pa yon eleksyon ayisyen, men li enterese peyi a, kote militè salvadoryen yo ap opere.",
+      fr: "Le président salvadorien Nayib Bukele a déposé en personne, jeudi soir 19 novembre 2026, sa candidature pour un troisième mandat présidentiel, accompagné d'environ 3 000 partisans devant le Tribunal suprême électoral à San Salvador, ont constaté des journalistes de l'AFP, relaie France 24. L'élection est fixée au 28 février 2027. Diario El Salvador écrit qu'il s'est inscrit avec le vice-président Félix Ulloa, sous la bannière du parti Nuevas Ideas.\n\nLe Congrès, que le parti présidentiel contrôle, a adopté l'an dernier une réforme constitutionnelle qui autorise la réélection sans limite et allonge le mandat de 5 à 6 ans, écrit l'AFP.\n\nCette candidature intervient alors que plus de 2 000 soldats salvadoriens sont déployés en Haïti. Vant Bèf Info a aussi relayé cette candidature, dans une note sur l'offensive contre les gangs en Haïti. Ce n'est pas une élection haïtienne, mais elle concerne le pays, où des militaires salvadoriens opèrent.",
+    },
+    sources: ["AFP", "France 24", "Diario El Salvador", "Vant Bèf Info"],
+    sourceLinks: [
+      { name: "France 24 (AFP)", url: "https://www.france24.com/fr/info-en-continu/20261120-salvador-bukele-candidat-a-un-troisieme-mandat-presidentiel" },
+      { name: "Diario El Salvador", url: "https://diarioelsalvador.com/depais/nayib-bukele-y-felix-ulloa-se-inscriben-ante-el-tse-como-formula-presidencial-del-partido-nuevas-ideas-para-las-elecciones-2027/878400" },
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/salvador-nayib-bukele-candidat-a-un-troisieme-mandat-sur-fond-doffensive-contre-les-gangs-en-haiti/" },
+    ],
+  },
+  {
+    id: "qh-forbin-mackey-ambassade-usa-2026-11-20",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-20",
+    publishedTime: "2026-11-20T08:07:00-05:00",
+    headline: {
+      ht: "Raina Forbin te resevwa Holly Mackey, adjwen chèf misyon anbasad ameriken an: sekirite, eleksyon, migrasyon",
+      fr: "Raina Forbin a reçu Holly Mackey, cheffe de mission adjointe par intérim de l'ambassade américaine: sécurité, élections, migration",
+    },
+    teaser: {
+      ht: "Reyinyon an te fèt jedi nan Pòtoprens, ministè a anonse. Li pa bay detay sou okenn angajman.",
+      fr: "La rencontre a eu lieu jeudi à Port-au-Prince, a annoncé le ministère. Il ne donne aucun détail sur d'éventuels engagements.",
+    },
+    brief: {
+      ht: "Minis Afè etranjè Raina Forbin te pale jedi 19 novanm nan Pòtoprens ak Holly Mackey, chèf misyon adjwen enterimè anbasad Etazini ann Ayiti, ministè a anonse, NAGO relè. Yo te pale de sekirite, pwosesis elektoral, migrasyon ak estabilite.",
+      fr: "La ministre des Affaires étrangères Raina Forbin s'est entretenue jeudi 19 novembre à Port-au-Prince avec Holly Mackey, cheffe de mission adjointe par intérim de l'ambassade des États-Unis en Haïti, a annoncé son ministère, relaie NAGO. Les échanges ont porté sur la sécurité, le processus électoral, la migration et la stabilité.",
+    },
+    body: {
+      ht: "Minis Afè etranjè ak Kil, Raina Forbin, te antretyen jedi 19 novanm 2026 nan Pòtoprens ak Holly Mackey, chèf misyon adjwen enterimè anbasad Etazini ann Ayiti, ministè a anonse, NAGO relè.\n\nDapre kominike a, echanj yo te pote sitou sou efò pou retabli sekirite, sou pwosesis elektoral la, sou kesyon migratwa yo ak sou estabilite peyi a. Ministè a prezante reyinyon an kòm siy yon volonte pou kenbe yon dyalòg regilye. Li pa bay okenn detay sou evantyèl angajman.",
+      fr: "La ministre des Affaires étrangères et des Cultes, Raina Forbin, s'est entretenue jeudi 19 novembre 2026 à Port-au-Prince avec Holly Mackey, cheffe de mission adjointe par intérim de l'ambassade des États-Unis en Haïti, a annoncé son ministère, relaie NAGO.\n\nSelon le communiqué, les échanges ont surtout porté sur les efforts pour rétablir la sécurité, le processus électoral, les questions migratoires et la stabilité du pays. Le ministère présente cette rencontre comme le signe d'une volonté de maintenir un dialogue régulier. Aucun détail n'a été donné sur d'éventuels engagements.",
+    },
+    sources: ["NAGO"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/raina-forbin-recoit-holly-mackey-de-l-ambassade-des-etats-unis-securite-elections-et-migration-au-menu" },
+    ],
+  },
+  {
+    id: "qh-ordedh-epu-geneve-impunite-2026-11-20",
+    tier: "quick-hit",
+    topic: "justice",
+    publishedAt: "2026-11-20",
+    publishedTime: "2026-11-20T08:06:00-05:00",
+    headline: {
+      ht: "ORDEDH denonse enpinite ak kondisyon prizon yo nan pre-sesyon EPU yo nan Jenèv",
+      fr: "L'ORDEDH dénonce l'impunité et les conditions carcérales aux pré-sessions de l'EPU, à Genève",
+    },
+    teaser: {
+      ht: "Chif yo se sa òganizasyon an prezante, NAGO relè. Nou pa verifye yo pou kont nou.",
+      fr: "Ces chiffres sont ceux que l'organisation a présentés, relaie NAGO. Nous ne les avons pas vérifiés de manière indépendante.",
+    },
+    brief: {
+      ht: "Òd defansè dwa moun yo (ORDEDH) te kritike sitiyasyon jidisyè ak karseral Ayiti nan pre-sesyon Ekzamen peryodik inivèsèl yo nan Jenèv, NAGO relè. Òganizasyon an denonse enpinite ak kondisyon nan prizon yo.",
+      fr: "L'Ordre des défenseurs des droits humains (ORDEDH) a critiqué la situation judiciaire et carcérale d'Haïti lors des pré-sessions de l'Examen périodique universel à Genève, relaie NAGO. L'organisation dénonce l'impunité et les conditions dans les prisons.",
+    },
+    body: {
+      ht: "Òd defansè dwa moun yo (ORDEDH) te kritike sitiyasyon jidisyè ak karseral Ayiti nan pre-sesyon Ekzamen peryodik inivèsèl (EPU) yo nan Jenèv, NAGO relè, jedi 19 novanm. Reprezantan òganizasyon an te pale devan lòt òganizasyon sivik ayisyen.\n\nDapre chif ORDEDH prezante, sou 166 rapò akizatwa yo te transmet bay otorite jidisyè yo ant 2005 ak 2024, yo te pwononse sèlman kat jisman ak de kondanasyon. Òganizasyon an di tou mezi desanm 2025 yo pwoteje kèk wo fonksyonè kont pouswit. Sou prizon yo, li di 134 moun te mouri an detansyon an 2025, poutèt mank dlo, manje ak swen medikal. Se chif ORDEDH, NAGO relè; nou pa verifye yo pou kont nou.\n\nORDEDH di li te kòmanse diskisyon ak misyon diplomatik Kanada, Wayòm Ini, Espay, Swis ak Frans. Se yon kont rann NAGO.",
+      fr: "L'Ordre des défenseurs des droits humains (ORDEDH) a critiqué la situation judiciaire et carcérale d'Haïti lors des pré-sessions de l'Examen périodique universel (EPU) à Genève, relaie NAGO, jeudi 19 novembre. Le représentant de l'organisation s'est exprimé en présence d'autres organisations civiques haïtiennes.\n\nSelon les chiffres présentés par l'ORDEDH, sur 166 rapports accusatoires transmis aux autorités judiciaires entre 2005 et 2024, seuls quatre jugements et deux condamnations ont été prononcés. L'organisation dit aussi que des mesures prises en décembre 2025 protègent certains hauts fonctionnaires contre des poursuites. Sur les prisons, elle indique que 134 personnes sont mortes en détention en 2025, faute d'eau, de nourriture et de soins médicaux. Ce sont les chiffres de l'ORDEDH, relayés par NAGO; nous ne les avons pas vérifiés de manière indépendante.\n\nL'ORDEDH dit avoir déjà engagé des discussions avec les missions diplomatiques du Canada, du Royaume-Uni, de l'Espagne, de la Suisse et de la France. C'est un compte rendu de NAGO.",
+    },
+    sources: ["NAGO"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/l-ordedh-denonce-limpunite-et-les-conditions-de-detention-en-haiti" },
+    ],
+  },
+  {
+    id: "qh-ueh-etudiants-rectorat-2026-11-20",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-20",
+    publishedTime: "2026-11-20T08:05:00-05:00",
+    headline: {
+      ht: "Etidyan UEH mache jouk rektorat la pou mande lokal diy, ak pneu k ap boule; lapolis te sou plas",
+      fr: "Des étudiants de l'UEH marchent jusqu'au rectorat pour demander des locaux dignes, des pneus brûlent; la police était sur place",
+    },
+    teaser: {
+      ht: "Se dezyèm manifestasyon etidyan semèn sa a, apre FASCH lendi. Rektorat la poko reponn piblikman.",
+      fr: "C'est la deuxième manifestation étudiante de la semaine, après celle de la FASCH lundi. Le rectorat n'avait pas encore réagi publiquement.",
+    },
+    brief: {
+      ht: "Etidyan Fakilte etnoloji ak plizyè lòt fakilte Inivèsite Leta Ayiti te manifeste jedi 19 novanm jouk devan rektorat la, pou mande lokal diy ak kondisyon pou etidye, NAGO relè. Se dezyèm mobilizasyon etidyan semèn sa a, apre FASCH lendi.",
+      fr: "Des étudiants de la Faculté d'ethnologie et de plusieurs autres facultés de l'Université d'État d'Haïti ont manifesté jeudi 19 novembre jusqu'au rectorat, pour réclamer des locaux dignes et des conditions pour étudier, relaie NAGO. C'est la deuxième mobilisation étudiante de la semaine, après celle de la FASCH lundi.",
+    },
+    body: {
+      ht: "Etidyan Fakilte etnoloji ak plizyè lòt fakilte Inivèsite Leta Ayiti (UEH) te manifeste jedi 19 novanm 2026 nan lari Pòtoprens, jouk devan rektorat inivèsite a, NAGO relè. Yo mande lokal diy ak kondisyon ki adapte pou etidye.\n\nImaj sou plas yo montre etidyan ak pankat devan pòtay rektorat la, pneu k ap boule nan lari a, epi pita manifestan k ap kouri pandan polisye yo deplwaye nan sektè a, jounal la ekri.\n\nSe dezyèm mobilizasyon etidyan UEH nan kèk jou. Lendi 16 novanm, etidyan Fakilte syans imèn (FASCH) te manifeste nan Petyonvil kont kondisyon aprantisaj yo, e lapolis te sèvi ak gaz lakrimojèn pou gaye mouvman an, NAGO sonje. Ni rektorat UEH ni Ministè Edikasyon nasyonal pa t reaji piblikman sou manifestasyon jedi a, nan moman NAGO te pibliye.",
+      fr: "Des étudiants de la Faculté d'ethnologie et de plusieurs autres facultés de l'Université d'État d'Haïti (UEH) ont manifesté jeudi 19 novembre 2026 dans les rues de Port-au-Prince, jusqu'au rectorat de l'université, relaie NAGO. Ils réclament des locaux dignes de ce nom et des conditions adaptées pour étudier.\n\nLes images tournées sur place montrent des étudiants, pancartes en main, devant le portail du rectorat, des pneus enflammés dans la rue, puis des manifestants qui courent tandis que des policiers sont déployés dans le secteur, écrit le journal.\n\nC'est la deuxième mobilisation d'étudiants de l'UEH en quelques jours. Le lundi 16 novembre, les étudiants de la Faculté des sciences humaines (FASCH) avaient manifesté à Pétion-Ville contre leurs conditions d'apprentissage, et la police avait utilisé du gaz lacrymogène pour disperser le mouvement, rappelle NAGO. Ni le rectorat de l'UEH ni le ministère de l'Éducation nationale n'avaient réagi publiquement à la manifestation de jeudi, au moment de la publication de NAGO.",
+    },
+    sources: ["NAGO"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/ueh-les-etudiants-d-ethnologie-et-d-autres-facultes-manifestent-devant-le-rectorat" },
+    ],
+  },
+  {
+    id: "qh-ona-employes-protestation-francois-2026-11-20",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-20",
+    publishedTime: "2026-11-20T08:04:00-05:00",
+    headline: {
+      ht: "Anplwaye ONA fèmen plizyè biwo pou konteste jesyon Lovely François",
+      fr: "Des employés de l'ONA ferment plusieurs bureaux pour contester la gestion de Lovely François",
+    },
+    teaser: {
+      ht: "Se Vant Bèf Info sèl sous nou genyen. Direksyon an pa t reponn, nan nòt jounal la.",
+      fr: "Vant Bèf Info est notre seule source. La direction n'avait pas répondu, dans la note du journal.",
+    },
+    brief: {
+      ht: "Plizyè biwo Ofis nasyonal asirans vyeyès (ONA), sitou nan pwovens, te bloke jedi 19 novanm apre yon protestasyon anplwaye ki konteste jesyon direktè jeneral Lovely François, Vant Bèf Info relè.",
+      fr: "Plusieurs bureaux de l'Office national d'assurance vieillesse (ONA), notamment en province, ont été paralysés jeudi 19 novembre après une protestation d'employés qui contestent la gestion de la directrice générale Lovely François, relaie Vant Bèf Info.",
+    },
+    body: {
+      ht: "Plizyè biwo Ofis nasyonal asirans vyeyès (ONA), sitou nan vil pwovens yo, te bloke jedi 19 novanm 2026 apre yon protestasyon anplwaye, Vant Bèf Info relè. Yo mande chanjman nan jesyon enstitisyon an epi yo denonse plizyè desizyon yo atribiye a direktè jeneral la, Lovely François. Se yon kont rann yon sèl sous.\n\nDapre jounal la, nan kè mekontantman an gen sispansyon plizyè kategori kredi anplwaye yo te konn jwenn, blòkaj pwomosyon ki te kòmanse sou ansyen administrasyon an, ak frè kat debit yo. Kontestè yo pale tou de avantaj sosyal, tankou yon alokasyon fen ane.\n\nJounal la ekri anplwaye yo di kèk ansyen pèsonèl k ap tann chèk pansyon yo depi anviwon kat mwa. Yo etabli yon lyen ak lanmò yon pansyonè; Vant Bèf Info menm presize akizasyon sa a bezwen verifikasyon endepandan. Nou pa pran l kòm yon reyalite etabli.\n\nNòt la ajoute mobilizasyon an vini kèk jou apre yo te entèpele Béthie Milot, yon anplwaye ki ta eksprime revandikasyon li yo devan direksyon an, epi yo ta lage l apre kolèg li yo te mobilize. Direksyon jeneral la pa t reponn akizasyon yo, nan enfòmasyon jounal la te genyen.",
+      fr: "Plusieurs bureaux de l'Office national d'assurance vieillesse (ONA), notamment dans des villes de province, ont été paralysés jeudi 19 novembre 2026 après une protestation d'employés, relaie Vant Bèf Info. Ils demandent des changements dans la gestion de l'institution et dénoncent plusieurs décisions attribuées à la directrice générale, Lovely François. C'est un compte rendu d'une seule source.\n\nSelon le journal, au cœur du mécontentement figurent la suspension de plusieurs catégories de prêts jusqu'alors accessibles au personnel, le blocage de procédures de promotion engagées sous l'ancienne administration, et les frais liés aux cartes de débit. Les contestataires évoquent aussi des avantages sociaux, dont une allocation de fin d'année.\n\nLe journal écrit que des employés affirment que certains anciens membres du personnel attendent depuis environ quatre mois le paiement de leurs chèques de pension. Ils établissent un lien avec le décès d'un pensionné; Vant Bèf Info précise elle-même que cette accusation nécessite des vérifications indépendantes. Nous ne la tenons pas pour un fait établi.\n\nLa note ajoute que cette mobilisation survient quelques jours après l'interpellation de Béthie Milot, une employée qui aurait exprimé ses revendications devant la direction, et qui aurait été relâchée après une mobilisation de ses collègues. La direction générale n'avait pas répondu aux accusations, dans les informations dont le journal disposait.",
+    },
+    sources: ["Vant Bèf Info"],
+    sourceLinks: [
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/haiti-ona-des-employes-paralysent-plusieurs-bureaux-pour-contester-la-gestion-de-lovely-francois/" },
+    ],
+  },
+  {
+    id: "qh-brh-ppih-oit-sud-2026-11-20",
+    tier: "quick-hit",
+    topic: "economy",
+    publishedAt: "2026-11-20",
+    publishedTime: "2026-11-20T08:02:00-05:00",
+    headline: {
+      ht: "BRH anonse platfòm peman enstantane PPIH 21 janvye 2027; yon pwojè OIT nan Sid te kreye plis pase 8 600 jou travay",
+      fr: "La BRH annonce la plateforme de paiement instantané PPIH le 21 janvier 2027; un projet de l'OIT dans le Sud a créé plus de 8 600 journées de travail",
+    },
+    teaser: {
+      ht: "Premye faz PPIH la dwe kòmanse nan Nò, Sid ak Lwès, Juno7 relè. Pwojè OIT la te reyabilite kanal irigasyon, HaitiLibre ekri.",
+      fr: "La première phase de la PPIH doit commencer dans le Nord, le Sud et l'Ouest, relaie Juno7. Le projet de l'OIT a réhabilité des canaux d'irrigation, écrit HaitiLibre.",
+    },
+    brief: {
+      ht: "Bank Repiblik Ayiti anonse premye faz Platfòm peman enstantane Ayiti (PPIH) pou 21 janvye 2027 nan Nò, Sid ak Lwès, Juno7 relè. Nan Sid, yon pwojè OIT te jenere plis pase 8 600 jou travay sou kanal irigasyon, HaitiLibre ekri.",
+      fr: "La Banque de la République d'Haïti annonce la première phase de la Plateforme de paiement instantané d'Haïti (PPIH) pour le 21 janvier 2027 dans le Nord, le Sud et l'Ouest, relaie Juno7. Dans le Sud, un projet de l'OIT a généré plus de 8 600 journées de travail sur des canaux d'irrigation, écrit HaitiLibre.",
+    },
+    body: {
+      ht: "Bank Repiblik Ayiti (BRH) prepare deplwaman Platfòm peman enstantane Ayiti (PPIH). Nan yon nòt ak yon videyo sansibilizasyon, bank lan anonse premye faz la pou 21 janvye 2027 nan twa depatman: Nò, Sid ak Lwès, Juno7 relè. BRH di platfòm nan dwe konekte bank, koperativ ak founisè sèvis peman elektwonik, pou transfere lajan epi peye pi rapid, menm lè moun yo pa nan menm enstitisyon an. Se yon lansman ki anonse, li poko kòmanse.\n\nNan yon lòt nòt, HaitiLibre ekri, vandredi 20 novanm, yon pwojè Òganizasyon entènasyonal travay (OIT) nan Sid te jenere plis pase 8 600 jou travay, gras a reyabilitasyon kanal irigasyon ak lòt enfrastrikti riral, ansanm ak fòmasyon pou jèn. Bidjè a se 505 000 dola ameriken, finanse sou yon kont siplemantè bidjè òdinè OIT. Nan komin Okay, Torbèk ak Kanperen, travay yo te pèmèt netwaye prèske 10 kilomèt kanal irigasyon ak drenaj, HaitiLibre ekri.",
+      fr: "La Banque de la République d'Haïti (BRH) prépare le déploiement de la Plateforme de paiement instantané d'Haïti (PPIH). Dans une note accompagnée d'une vidéo de sensibilisation, la banque annonce la première phase pour le 21 janvier 2027 dans trois départements: le Nord, le Sud et l'Ouest, relaie Juno7. La BRH dit que la plateforme doit connecter banques, coopératives et fournisseurs de services de paiement électronique, pour transférer de l'argent et payer plus vite, même lorsque les usagers passent par des institutions différentes. C'est un lancement annoncé, il n'a pas encore commencé.\n\nDans une autre note, HaitiLibre écrit, vendredi 20 novembre, qu'un projet de l'Organisation internationale du travail (OIT) dans le Sud a généré plus de 8 600 journées de travail, grâce à la réhabilitation de canaux d'irrigation et d'autres infrastructures rurales, ainsi qu'à des formations pour les jeunes. Le budget est de 505 000 dollars américains, financé sur un compte supplémentaire du budget ordinaire de l'OIT. Dans les communes des Cayes, de Torbeck et de Camp-Perrin, les travaux ont permis de curer près de 10 kilomètres de canaux d'irrigation et de drainage, écrit HaitiLibre.",
+    },
+    sources: ["Juno7", "HaitiLibre"],
+    sourceLinks: [
+      { name: "Juno7", url: "https://www.juno7.ht/brh-ppih-paiement-instantane-janvier-2027/" },
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48936-haiti-sud-un-projet-de-l-oit-cree-plus-de-8-600-journees-de-travail.html" },
+    ],
+  },
+  {
+    id: "qh-violette-cavaly-fhtt-open-2026-11-20",
+    tier: "quick-hit",
+    topic: "sports",
+    publishedAt: "2026-11-20",
+    publishedTime: "2026-11-20T08:00:00-05:00",
+    headline: {
+      ht: "Roberto Jean marke nan 88e minit, Violette bat Cavaly 1-0; FHTT kenbe 13e Haiti Open 21 ak 22 novanm",
+      fr: "Roberto Jean marque à la 88e minute, Violette bat Cavaly 1-0; la FHTT maintient le 13e Haïti Open les 21 et 22 novembre",
+    },
+    teaser: {
+      ht: "Se yon match an reta nan chanpyona D1 a, nan Pak Sainte-Thérèse. 52 pongist pral nan tounwa a.",
+      fr: "C'est un match en retard du championnat de D1, au parc Sainte-Thérèse. 52 pongistes sont attendus au tournoi.",
+    },
+    brief: {
+      ht: "Roberto Jean te make yon gòl nan 88e minit, Violette AC bat Cavaly AS 1-0 jedi nan yon match an reta 2e jounen chanpyona D1 a, NAGO ak iciHaïti relè. Federasyon tenis de tab ayisyen an konfime 13e edisyon Haiti Open 21 ak 22 novanm.",
+      fr: "Roberto Jean a marqué à la 88e minute, et le Violette AC a battu le Cavaly AS 1-0 jeudi, lors d'un match en retard de la 2e journée du championnat de D1, relaient NAGO et iciHaïti. La Fédération haïtienne de tennis de table confirme la 13e édition du Haïti Open les 21 et 22 novembre.",
+    },
+    body: {
+      ht: "Roberto Jean te make nan 88e minit, e Violette AC te bat Cavaly AS 1-0 jedi 19 novanm 2026, nan yon match an reta ki konte pou 2e jounen chanpyona D1 a, NAGO ak iciHaïti relè. Match la te fèt nan Pak Sainte-Thérèse. Se twazyèm viktwa swiv Violette, ki pran tèt gwoup Sid la ak nèf pwen, iciHaïti ekri.\n\nNan tenis de tab, Federasyon ayisyen an (FHTT) konfime li pral òganize 21 ak 22 novanm 2026 13e edisyon tounwa Haiti Open, malgre klima ensekirite a, NAGO relè. Nan fen enskripsyon yo, 16 novanm, sekretarya a te anonse 52 pongist pral aliyen. Tiraj la te fèt mèkredi 18 novanm nan Petyonvil.",
+      fr: "Roberto Jean a marqué à la 88e minute, et le Violette AC a battu le Cavaly AS 1-0 jeudi 19 novembre 2026, lors d'un match en retard comptant pour la 2e journée du championnat de D1, relaient NAGO et iciHaïti. La rencontre a eu lieu au parc Sainte-Thérèse. C'est une troisième victoire consécutive pour le Violette, qui prend la tête du groupe Sud avec neuf points, écrit iciHaïti.\n\nEn tennis de table, la Fédération haïtienne (FHTT) confirme qu'elle organisera les 21 et 22 novembre 2026 la 13e édition du tournoi Haïti Open, malgré le climat d'insécurité, relaie NAGO. À la clôture des inscriptions, le 16 novembre, le secrétariat a annoncé que 52 pongistes s'aligneraient. Le tirage au sort a eu lieu mercredi 18 novembre, à Pétion-Ville.",
+    },
+    sources: ["NAGO", "iciHaïti"],
+    sourceLinks: [
+      { name: "NAGO (Violette)", url: "https://news.nago.tv/roberto-jean-donne-la-victoire-au-violette-ac" },
+      { name: "iciHaïti", url: "https://www.icihaiti.com/en/news-48935-icihaiti-national-d1-championship-victory-for-violette-ac-1-0-standings-and-schedule-for-matchday-4.html" },
+      { name: "NAGO (FHTT)", url: "https://news.nago.tv/la-fhtt-maintient-la-13e-edition-du-haiti-open-malgre-l-insecurite" },
+    ],
+  },
+
+
 
   {
     id: "ntk-bukele-jeff-larose-canaan-2026-11-19",
@@ -452,27 +839,30 @@ export const STORIES: Story[] = [
     id: "qh-u17-qatar-france-2026-11-18",
     tier: "quick-hit",
     topic: "sports",
+    isFollowUp: true,
     publishedAt: "2026-11-18",
-    publishedTime: "2026-11-18T08:01:00-05:00",
+    publishedTime: "2026-11-20T08:01:00-05:00",
     headline: {
-      ht: "Mondyal U-17: ti Grenadye yo rive Katar, yo jwe Lafrans jedi",
-      fr: "Mondial U-17 : les jeunes Grenadiers sont au Qatar, la France jeudi",
+      ht: "Mondyal U-17: Lafrans bat Ayiti 3-1, Prophète Macenat sove lonè a nan 88e minit",
+      fr: "Mondial U-17: la France bat Haïti 3-1, Prophète Macenat sauve l'honneur à la 88e",
     },
     teaser: {
-      ht: "Match la jedi a 8è, lè Ayiti, nan Aspire Zone, Doha. Apre sa, Irigwe dimanch, Arabi Sawoudit mèkredi.",
-      fr: "Le match est jeudi à 8 h, heure d'Haïti, à l'Aspire Zone, à Doha. Ensuite viennent l'Uruguay dimanche et l'Arabie saoudite mercredi.",
+      ht: "Loan Merrifield te make nan 4e ak 41e minit, Noha Tiehi nan 47e. Apre sa, Irigwe dimanch, Arabi Sawoudit mèkredi.",
+      fr: "Loan Merrifield a marqué aux 4e et 41e minutes, Noha Tiehi à la 47e. Viennent ensuite l'Uruguay dimanche et l'Arabie saoudite mercredi.",
     },
     brief: {
-      ht: "Seleksyon mwens 17 ane Ayiti a rive Katar, apre preparasyon nan Brezil, Federasyon ayisyen foutbòl te anonse dimanch 15 novanm, NAGO relè. Yo louvri Koup di Mond la jedi 19 novanm kont Lafrans.",
-      fr: "La sélection haïtienne des moins de 17 ans est arrivée au Qatar, après sa préparation au Brésil, a annoncé la Fédération haïtienne de football dimanche 15 novembre, relaie NAGO. Elle ouvre la Coupe du monde jeudi 19 novembre contre la France.",
+      ht: "Lafrans te bat Ayiti 3-1 jedi 19 novanm, nan ouvèti Koup di Mond U-17 FIFA a, nan Aspire Zone, nan Doha, Katar. Prophète Macenat te redwi ekaw a nan 88e minit, FIFA ak NAGO relè.",
+      fr: "La France a battu Haïti 3-1 jeudi 19 novembre, à l'ouverture de la Coupe du monde U-17 de la FIFA, à l'Aspire Zone, à Doha, au Qatar. Prophète Macenat a réduit l'écart à la 88e minute, relaient la FIFA et NAGO.",
     },
     body: {
-      ht: "Seleksyon ayisyen mwens 17 ane a rive Katar, apre preparasyon li nan Brezil, Federasyon ayisyen foutbòl (FHF) te anonse dimanch 15 novanm 2026, NAGO relè. Grenadye yo louvri Koup di Mond U-17 FIFA a jedi 19 novanm, a 8è, lè Ayiti, kont Lafrans, nan Aspire Zone, nan Doha. Apre sa, yo jwe Irigwe dimanch 22 novanm a 10è 30, epi Arabi Sawoudit mèkredi 25 novanm a 8è 30, toujou nan Aspire Zone, dapre kalandriye konpetisyon an.\n\nTounwa a rasanble 48 ekip, 19 novanm rive 13 desanm. De premye chak gwoup, ak uit pi bon twazyèm, ale nan faz eliminasyon. NAGO raple Ayiti poko janm genyen yon match nan Koup di Mond U-17: sèl pwen li te fè, se 1-1 kont Lafrans, an 2007 nan Kore di Sid. Ane pase, tou nan Katar, ti Grenadye yo te elimine apre twa defèt.",
-      fr: "La sélection haïtienne des moins de 17 ans est arrivée au Qatar, après sa préparation au Brésil, a annoncé la Fédération haïtienne de football (FHF) dimanche 15 novembre 2026, relaie NAGO. Les Grenadiers ouvriront la Coupe du monde U-17 de la FIFA jeudi 19 novembre, à 8 h, heure d'Haïti, contre la France, à l'Aspire Zone, à Doha. Ils joueront ensuite l'Uruguay le dimanche 22 novembre à 10 h 30, puis l'Arabie saoudite le mercredi 25 novembre à 8 h 30, toujours à l'Aspire Zone, selon le calendrier de la compétition.\n\nLe tournoi réunit 48 sélections, du 19 novembre au 13 décembre. Les deux premiers de chaque groupe et les huit meilleurs troisièmes se qualifient pour la phase à élimination directe. NAGO rappelle qu'Haïti n'a encore jamais gagné un match de Coupe du monde U-17: son seul point dans la compétition a été obtenu contre la France, en 2007 en Corée du Sud (1-1). L'an dernier, également au Qatar, les jeunes Grenadiers avaient été éliminés après trois défaites.",
+      ht: "Lafrans te bat Ayiti 3-1 jedi 19 novanm 2026, nan ouvèti Koup di Mond U-17 FIFA a, nan Aspire Zone (Pitch 9), nan Doha, Katar. Loan Merrifield te make nan 4e ak 41e minit, Noha Tiehi nan 47e, epi Prophète Macenat te redwi ekaw a nan 88e, dapre FIFA ak NAGO. Match la te kòmanse a 8è, lè Ayiti. Grenadye yo jwe Irigwe dimanch 22 novanm, epi Arabi Sawoudit mèkredi 25 novanm.\n\nSeleksyon ayisyen mwens 17 ane a rive Katar, apre preparasyon li nan Brezil, Federasyon ayisyen foutbòl (FHF) te anonse dimanch 15 novanm 2026, NAGO relè. Grenadye yo louvri Koup di Mond U-17 FIFA a jedi 19 novanm, a 8è, lè Ayiti, kont Lafrans, nan Aspire Zone, nan Doha. Apre sa, yo jwe Irigwe dimanch 22 novanm a 10è 30, epi Arabi Sawoudit mèkredi 25 novanm a 8è 30, toujou nan Aspire Zone, dapre kalandriye konpetisyon an.\n\nTounwa a rasanble 48 ekip, 19 novanm rive 13 desanm. De premye chak gwoup, ak uit pi bon twazyèm, ale nan faz eliminasyon. NAGO raple Ayiti poko janm genyen yon match nan Koup di Mond U-17: sèl pwen li te fè, se 1-1 kont Lafrans, an 2007 nan Kore di Sid. Ane pase, tou nan Katar, ti Grenadye yo te elimine apre twa defèt.",
+      fr: "La France a battu Haïti 3-1 jeudi 19 novembre 2026, à l'ouverture de la Coupe du monde U-17 de la FIFA, à l'Aspire Zone (Pitch 9), à Doha, au Qatar. Loan Merrifield a marqué à la 4e et à la 41e minute, Noha Tiehi à la 47e, et Prophète Macenat a réduit l'écart à la 88e, selon la FIFA et NAGO. Le match a commencé à 8 h, heure d'Haïti. Les Grenadiers jouent ensuite l'Uruguay dimanche 22 novembre, puis l'Arabie saoudite mercredi 25 novembre.\n\nLa sélection haïtienne des moins de 17 ans est arrivée au Qatar, après sa préparation au Brésil, a annoncé la Fédération haïtienne de football (FHF) dimanche 15 novembre 2026, relaie NAGO. Les Grenadiers ouvriront la Coupe du monde U-17 de la FIFA jeudi 19 novembre, à 8 h, heure d'Haïti, contre la France, à l'Aspire Zone, à Doha. Ils joueront ensuite l'Uruguay le dimanche 22 novembre à 10 h 30, puis l'Arabie saoudite le mercredi 25 novembre à 8 h 30, toujours à l'Aspire Zone, selon le calendrier de la compétition.\n\nLe tournoi réunit 48 sélections, du 19 novembre au 13 décembre. Les deux premiers de chaque groupe et les huit meilleurs troisièmes se qualifient pour la phase à élimination directe. NAGO rappelle qu'Haïti n'a encore jamais gagné un match de Coupe du monde U-17: son seul point dans la compétition a été obtenu contre la France, en 2007 en Corée du Sud (1-1). L'an dernier, également au Qatar, les jeunes Grenadiers avaient été éliminés après trois défaites.",
     },
-    sources: ["NAGO", "FHF"],
+    sources: ["NAGO", "FHF", "FIFA"],
     sourceLinks: [
       { name: "NAGO", url: "https://news.nago.tv/mondial-u17-les-grenadiers-sont-arrives-au-qatar-la-france-jeudi-en-ouverture" },
+      { name: "FIFA", url: "https://www.fifa.com/en/match-centre/match/102/292937/292938/400022607" },
+      { name: "NAGO", url: "https://news.nago.tv/mondial-u17-haiti-battue-3-1-par-la-france-prophete-macenat-sauve-l-honneur" },
     ],
   },
 
@@ -883,28 +1273,30 @@ export const STORIES: Story[] = [
     id: "ntk-boyard-fille-liberee-2026-11-17",
     tier: "need-to-know",
     topic: "security",
+    isFollowUp: true,
     publishedAt: "2026-11-17",
-    publishedTime: "2026-11-17T08:54:00-05:00",
+    publishedTime: "2026-11-20T08:13:00-05:00",
     headline: {
-      ht: "Pitit fi James Boyard libere; papa a toujou nan men kidnapè yo",
-      fr: "La fille de James Boyard a été libérée; son père est toujours retenu",
+      ht: "Marco Rubio remèsye PNH ak lapolis ameriken pou liberasyon pitit fi James Boyard",
+      fr: "Marco Rubio remercie la PNH et la police américaine pour la libération de la fille de James Boyard",
     },
     teaser: {
-      ht: "Manman an te libere deja. Le Nouvelliste site de sous gouvènmantal. Miami Herald di ti fi a gen 6 an.",
-      fr: "La mère avait déjà été libérée. Le Nouvelliste cite deux sources gouvernementales. Le Miami Herald écrit que la fillette a 6 ans.",
+      ht: "Se Rezo Nòdwès ki relè pawòl sekretè eta ameriken an. Papa a toujou nan men kidnapè yo.",
+      fr: "C'est Rezo Nòdwès qui relaie les propos du secrétaire d'État américain. Le père est toujours retenu par ses ravisseurs.",
     },
     brief: {
-      ht: "Pitit fi pwofesè James Boyard, wo grad PNH ak chèf kabinè minis Defans Mario Andrésol, te libere lendi 16 novanm, Le Nouvelliste ekri. Papa a toujou nan men kidnapè yo, ansanm ak plizyè polisye.",
-      fr: "La fillette du professeur James Boyard, haut gradé de la PNH et chef de cabinet du ministre de la Défense Mario Andrésol, a été libérée lundi 16 novembre, écrit Le Nouvelliste. Le père est toujours retenu par ses ravisseurs, avec plusieurs policiers.",
+      ht: "Sekretè eta ameriken Marco Rubio remèsye, mèkredi 19 novanm, Polis nasyonal ayisyen, inite ki konbat kidnaping, ak sèvis ameriken yo, pou liberasyon yon minè ameriken, Rezo Nòdwès ekri. Jounal la idantifye li kòm pitit fi James Boyard. Papa a toujou kenbe.",
+      fr: "Le secrétaire d'État américain Marco Rubio a remercié, mercredi 19 novembre, la Police nationale d'Haïti, l'unité de lutte contre le kidnapping et les services américains d'application de la loi, pour la libération d'une mineure américaine, écrit Rezo Nòdwès. Le journal l'identifie comme la fille de James Boyard. Le père est toujours retenu.",
     },
     body: {
-      ht: "Pitit fi pwofesè James Boyard, wo grad Polis nasyonal Ayiti ak chèf kabinè minis Defans Mario Andrésol, te libere lendi 16 novanm 2026, Le Nouvelliste ekri, dapre de sous gouvènmantal. Fanmi an te kidnape nan mwa jen 2026. Manman an te libere deja. Pwofesè Boyard toujou nan men kidnapè yo. Avè l, gen yon gwoup polisye menm gwoup kriminèl la kenbe, toujou dapre jounal la.\n\nMiami Herald ekri ti fi a gen 6 an, e li se sitwayen ameriken. Dapre jounal la, yo te kidnape l 11 jen, ansanm ak papa l ak manman l, lè yo t ap ale wè yon doktè. Herald la di kat lòt polisye toujou kenbe avèk Boyard. Li ekri tou plizyè ranson te peye, e yon delegasyon kongrè ameriken te entèvni an jiyè nan Pòtoprens, san sa pa te pèmèt yo libere pitit fi a ak papa a nan moman sa a. Apre liberasyon lendi a, jounal la ekri ti fi a t ap kesyone pa FBI, dapre sa yo rapòte.\n\nSikonstans liberasyon an poko pibliye ofisyèlman. Nou pa bay non ti fi a.",
-      fr: "La fillette du professeur James Boyard, haut gradé de la Police nationale d'Haïti et chef de cabinet du ministre de la Défense Mario Andrésol, a été libérée lundi 16 novembre 2026, écrit Le Nouvelliste, d'après deux sources gouvernementales. La famille avait été enlevée en juin 2026. La mère avait déjà été libérée. Le professeur Boyard est toujours retenu par ses ravisseurs. Avec lui se trouve également un groupe de policiers retenus par le même groupe criminel, toujours selon le journal.\n\nLe Miami Herald écrit que la fillette a 6 ans, et qu'elle est citoyenne américaine. Selon le journal, elle a été enlevée le 11 juin, avec son père et sa mère, alors que la famille se rendait chez le médecin. Le Herald dit que quatre autres policiers sont toujours détenus avec M. Boyard. Il écrit aussi que plusieurs rançons ont été payées, et qu'une délégation du Congrès américain était intervenue en juillet à Port-au-Prince, sans que cela libère alors l'enfant et son père. Après la libération de lundi, le journal écrit que la fillette était interrogée par le FBI, d'après ce qui a été rapporté.\n\nLes circonstances de cette libération n'ont pas été rendues publiques officiellement. Nous ne publions pas le nom de l'enfant.",
+      ht: "Sekretè eta ameriken Marco Rubio remèsye, mèkredi 19 novanm 2026, Polis nasyonal ayisyen, inite ki konbat kidnaping, ak sèvis ameriken ki fè lalwa yo, pou liberasyon yon minè ameriken, Rezo Nòdwès ekri, ki relè pawòl chèf diplomasi ameriken an. Mesye Rubio pa bay non timoun nan. Rezo Nòdwès idantifye li kòm pitit fi pwofesè James Boyard, wo grad PNH, ke yo te kidnape depi jen 2026. Papa a toujou nan men kidnapè yo.\n\nPitit fi pwofesè James Boyard, wo grad Polis nasyonal Ayiti ak chèf kabinè minis Defans Mario Andrésol, te libere lendi 16 novanm 2026, Le Nouvelliste ekri, dapre de sous gouvènmantal. Fanmi an te kidnape nan mwa jen 2026. Manman an te libere deja. Pwofesè Boyard toujou nan men kidnapè yo. Avè l, gen yon gwoup polisye menm gwoup kriminèl la kenbe, toujou dapre jounal la.\n\nMiami Herald ekri ti fi a gen 6 an, e li se sitwayen ameriken. Dapre jounal la, yo te kidnape l 11 jen, ansanm ak papa l ak manman l, lè yo t ap ale wè yon doktè. Herald la di kat lòt polisye toujou kenbe avèk Boyard. Li ekri tou plizyè ranson te peye, e yon delegasyon kongrè ameriken te entèvni an jiyè nan Pòtoprens, san sa pa te pèmèt yo libere pitit fi a ak papa a nan moman sa a. Apre liberasyon lendi a, jounal la ekri ti fi a t ap kesyone pa FBI, dapre sa yo rapòte.\n\nSikonstans liberasyon an poko pibliye ofisyèlman. Nou pa bay non ti fi a.",
+      fr: "Le secrétaire d'État américain Marco Rubio a remercié, mercredi 19 novembre 2026, la Police nationale d'Haïti, l'unité de lutte contre le kidnapping et les services américains d'application de la loi, pour la libération d'une mineure américaine, écrit Rezo Nòdwès, qui relaie les propos du chef de la diplomatie américaine. M. Rubio n'a pas nommé l'enfant. Rezo Nòdwès l'identifie comme la fille du professeur James Boyard, haut gradé de la PNH, enlevée depuis juin 2026. Le père est toujours retenu.\n\nLa fillette du professeur James Boyard, haut gradé de la Police nationale d'Haïti et chef de cabinet du ministre de la Défense Mario Andrésol, a été libérée lundi 16 novembre 2026, écrit Le Nouvelliste, d'après deux sources gouvernementales. La famille avait été enlevée en juin 2026. La mère avait déjà été libérée. Le professeur Boyard est toujours retenu par ses ravisseurs. Avec lui se trouve également un groupe de policiers retenus par le même groupe criminel, toujours selon le journal.\n\nLe Miami Herald écrit que la fillette a 6 ans, et qu'elle est citoyenne américaine. Selon le journal, elle a été enlevée le 11 juin, avec son père et sa mère, alors que la famille se rendait chez le médecin. Le Herald dit que quatre autres policiers sont toujours détenus avec M. Boyard. Il écrit aussi que plusieurs rançons ont été payées, et qu'une délégation du Congrès américain était intervenue en juillet à Port-au-Prince, sans que cela libère alors l'enfant et son père. Après la libération de lundi, le journal écrit que la fillette était interrogée par le FBI, d'après ce qui a été rapporté.\n\nLes circonstances de cette libération n'ont pas été rendues publiques officiellement. Nous ne publions pas le nom de l'enfant.",
     },
-    sources: ["Le Nouvelliste", "Miami Herald"],
+    sources: ["Le Nouvelliste", "Miami Herald", "Rezo Nòdwès"],
     sourceLinks: [
       { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273963/liberation-de-la-fille-de-james-boyard" },
       { name: "Miami Herald", url: "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article318111779.html" },
+      { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/haiti-marco-rubio-remercie-la-pnh-et-u-s-law-enforcement-apres-la-liberation-de-la-fille-de-james-boyard-enlevee-depuis-cinq-mois/" },
     ],
   },
 
@@ -2498,28 +2890,31 @@ export const STORIES: Story[] = [
     id: "qh-lycee-marie-jeanne-travaux-2026-11-13",
     tier: "quick-hit",
     topic: "society",
+    isFollowUp: true,
     publishedAt: "2026-11-13",
-    publishedTime: "2026-11-13T09:13:20-05:00",
+    publishedTime: "2026-11-20T08:03:00-05:00",
     headline: {
-      ht: "Lise Marie Jeanne an travay apre deplase yo ale ; yo espere elèv yo tounen nan desanm, san dat ofisyèl",
-      fr: "Le lycée Marie Jeanne en travaux après le départ des déplacés ; un retour des élèves visé pour décembre, sans date officielle",
+      ht: "Lise Marie Jeanne dwe relouvri nan desanm, apre 3 ane kòm kan deplase, Premye minis la anonse",
+      fr: "Le lycée Marie Jeanne doit rouvrir en décembre, après 3 ans comme camp de déplacés, le Premier ministre l'annonce",
     },
     teaser: {
-      ht: "MICT lanse travay asenisman ak reparasyon, Le Nouvelliste ekri. Dat desanm nan se yon objektif rapòte, se pa yon kalandriye ofisyèl.",
-      fr: "Le MICT a lancé des travaux d'assainissement et de réparation, écrit Le Nouvelliste. L'échéance de décembre est un objectif rapporté, pas un calendrier officiel.",
+      ht: "Li te vizite lekòl la mardi. Li pale de 26 sit kote te gen plis pase 100 000 deplase. Relouvèti a toujou depann de travay yo ak sekirite a.",
+      fr: "Il a visité l'école mardi. Il a parlé de 26 sites qui accueillaient plus de 100 000 déplacés. La réouverture reste liée aux travaux et à la sécurité.",
     },
     brief: {
-      ht: "Kèk jou apre dènye deplase yo kite lokal Lise Marie Jeanne nan Pòtoprens, Ministè Enteryè a lanse travay pou lekòl tifi sa a ka akeyi elèv yo nan dezyèm pati ane lekòl la, Le Nouvelliste ekri.",
-      fr: "Quelques jours après le départ des derniers déplacés des locaux du lycée Marie Jeanne, à Port-au-Prince, le ministère de l'Intérieur a engagé des travaux pour que cet établissement public de jeunes filles puisse accueillir les élèves durant la seconde partie de l'année scolaire, écrit Le Nouvelliste.",
+      ht: "Lise Marie Jeanne, nan Pòtoprens, dwe relouvri nan desanm 2026, apre twa ane kòm kan pou moun deplase, Premye minis Alix Didier Fils-Aimé te anonse nan yon vizit mardi 17 novanm, NAGO ak iciHaïti relè.",
+      fr: "Le lycée Marie Jeanne, à Port-au-Prince, doit rouvrir en décembre 2026, après trois ans d'occupation comme camp de déplacés, a annoncé le Premier ministre Alix Didier Fils-Aimé lors d'une visite mardi 17 novembre, relaient NAGO et iciHaïti.",
     },
     body: {
-      ht: "Kèk jou apre dènye moun deplase yo kite lokal Lise Marie Jeanne, nan Pòtoprens, Ministè Enteryè ak Kolektivite teritoryal yo (MICT) lanse travay asenisman ak reparasyon pou etablisman an ka akeyi elèv yo ankò nan dezyèm pati ane lekòl la, Le Nouvelliste ekri 11 novanm. Se yon lekòl piblik pou jèn fi. Jounal la di te gen plizyè milye moun ki te jwenn refij la, epi, apre yo ale, travay yo kòmanse.\n\nResponsab yo espere elèv yo tounen nan lokal yo nan desanm 2026, jounal la ekri. Haiti OSINT, ki relè atik Le Nouvelliste a, presize echèy sa a rete yon objektif rapòte pa laprès. Li pa jwenn yon kalandriye ofisyèl ki fikse dat relouvèti a, eta konplè travay yo, ni kondisyon materyèl repriz la.\n\n7 septanm 2026, Biwo nasyonal migrasyon an (ONM) te anonse yon operasyon anrejistreman sou sit la, nan kad yon pwojè relokasyon. Lè sa a, li te di sit la te gen 2938 fanmi, ki reprezante 10283 moun. Se chif popilasyon yo te resanse nan dat sa a, se pa yon bilan moun ki deja reloge yo.",
-      fr: "Quelques jours après le départ des derniers déplacés internes des locaux du lycée Marie Jeanne, à Port-au-Prince, le ministère de l'Intérieur et des Collectivités territoriales (MICT) a engagé des travaux d'assainissement et de réparation pour rendre l'établissement apte à accueillir les élèves durant la seconde partie de l'année scolaire, écrit Le Nouvelliste le 11 novembre. Il s'agit d'un établissement public consacré à l'éducation des jeunes filles. Le quotidien indique que des milliers de personnes y avaient trouvé refuge, et que les travaux ont commencé après leur départ.\n\nLes responsables espèrent un retour des élèves dans leurs locaux d'ici décembre 2026, écrit le journal. Haiti OSINT, qui relaie cet article, précise que cette échéance reste un objectif rapporté par la presse. Il n'a pas identifié de calendrier officiel fixant la date de réouverture, l'état d'avancement complet des travaux ou les conditions matérielles de la reprise.\n\nLe 7 septembre 2026, l'Office national de la migration (ONM) avait annoncé une opération d'enregistrement sur ce site, dans le cadre d'un projet de relocalisation. Il indiquait alors que le site comptait 2938 ménages, représentant 10283 personnes. Ces chiffres décrivent la population recensée à cette date, pas un bilan des personnes effectivement relogées.",
+      ht: "Lise Marie Jeanne, nan Pòtoprens, dwe relouvri nan desanm 2026, apre twa ane kòm kan pou moun deplase, Premye minis Alix Didier Fils-Aimé te anonse nan yon vizit sou plas, mardi 17 novanm, NAGO ak iciHaïti relè. Chèf gouvènman an te anonse liberasyon 26 sit ki te akeyi plis pase 100 000 moun deplase, dapre kont rann sa yo. Direktè etablisman an, Yonise Alusma, di travay reyabilitasyon yo ta dwe fini nan fen novanm. Relouvèti a toujou mare ak fini travay yo ak sekirite a, sous sa yo presize.\n\nKèk jou apre dènye moun deplase yo kite lokal Lise Marie Jeanne, nan Pòtoprens, Ministè Enteryè ak Kolektivite teritoryal yo (MICT) lanse travay asenisman ak reparasyon pou etablisman an ka akeyi elèv yo ankò nan dezyèm pati ane lekòl la, Le Nouvelliste ekri 11 novanm. Se yon lekòl piblik pou jèn fi. Jounal la di te gen plizyè milye moun ki te jwenn refij la, epi, apre yo ale, travay yo kòmanse.\n\nResponsab yo espere elèv yo tounen nan lokal yo nan desanm 2026, jounal la ekri. Haiti OSINT, ki relè atik Le Nouvelliste a, presize echèy sa a rete yon objektif rapòte pa laprès. Li pa jwenn yon kalandriye ofisyèl ki fikse dat relouvèti a, eta konplè travay yo, ni kondisyon materyèl repriz la.\n\n7 septanm 2026, Biwo nasyonal migrasyon an (ONM) te anonse yon operasyon anrejistreman sou sit la, nan kad yon pwojè relokasyon. Lè sa a, li te di sit la te gen 2938 fanmi, ki reprezante 10283 moun. Se chif popilasyon yo te resanse nan dat sa a, se pa yon bilan moun ki deja reloge yo.",
+      fr: "Le lycée Marie Jeanne, à Port-au-Prince, doit rouvrir en décembre 2026, après trois ans d'occupation comme camp de déplacés, a annoncé le Premier ministre Alix Didier Fils-Aimé lors d'une visite sur place, mardi 17 novembre, relaient NAGO et iciHaïti. Le chef du gouvernement a annoncé la libération de 26 sites d'hébergement qui accueillaient plus de 100 000 déplacés internes, selon ces comptes rendus. La directrice de l'établissement, Yonise Alusma, a indiqué que les travaux de réhabilitation devraient s'achever à la fin de novembre. La réouverture reste liée à l'achèvement des travaux et à la sécurité, précisent ces sources.\n\nQuelques jours après le départ des derniers déplacés internes des locaux du lycée Marie Jeanne, à Port-au-Prince, le ministère de l'Intérieur et des Collectivités territoriales (MICT) a engagé des travaux d'assainissement et de réparation pour rendre l'établissement apte à accueillir les élèves durant la seconde partie de l'année scolaire, écrit Le Nouvelliste le 11 novembre. Il s'agit d'un établissement public consacré à l'éducation des jeunes filles. Le quotidien indique que des milliers de personnes y avaient trouvé refuge, et que les travaux ont commencé après leur départ.\n\nLes responsables espèrent un retour des élèves dans leurs locaux d'ici décembre 2026, écrit le journal. Haiti OSINT, qui relaie cet article, précise que cette échéance reste un objectif rapporté par la presse. Il n'a pas identifié de calendrier officiel fixant la date de réouverture, l'état d'avancement complet des travaux ou les conditions matérielles de la reprise.\n\nLe 7 septembre 2026, l'Office national de la migration (ONM) avait annoncé une opération d'enregistrement sur ce site, dans le cadre d'un projet de relocalisation. Il indiquait alors que le site comptait 2938 ménages, représentant 10283 personnes. Ces chiffres décrivent la population recensée à cette date, pas un bilan des personnes effectivement relogées.",
     },
-    sources: ["Le Nouvelliste", "Haiti OSINT"],
+    sources: ["Le Nouvelliste", "Haiti OSINT", "NAGO", "iciHaïti"],
     sourceLinks: [
       { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/273808/le-lycee-marie-jeanne-fait-peau-neuve-et-espere-un-retour-des-eleves-dici-decembre-2026" },
       { name: "Haiti OSINT", url: "https://haitiosint.com/port-au-prince-lycee-marie-jeanne-travaux-depart-deplaces-novembre-2026/" },
+      { name: "NAGO", url: "https://news.nago.tv/lycee-marie-jeanne-rouvrira-en-decembre-apres-trois-ans-d-occupation" },
+      { name: "iciHaïti", url: "https://www.icihaiti.com/en/news-48931-icihaiti-education-rehabilitation-of-the-lycee-marie-jeanne.html" },
     ],
   },
   {
@@ -2573,6 +2968,7 @@ export const STORIES: Story[] = [
     topic: "security",
     publishedAt: "2026-11-12",
     publishedTime: "2026-11-14T08:23:00-05:00",
+    archived: true,
     isFollowUp: true,
     headline: {
       ht: "Sylvio Cator: MJSAC pwomèt yon reyabilitasyon konplè estad la apre repriz sit la",
@@ -2617,6 +3013,7 @@ export const STORIES: Story[] = [
     topic: "politics",
     publishedAt: "2026-11-12",
     publishedTime: "2026-11-12T18:04:40-05:00",
+    archived: true,
     headline: {
       ht: "Pari: Forbin ak Kogri pale pou ranfòse koperasyon sekirite ant Ayiti ak Tchad",
       fr: "Paris : Forbin et Kogri s'entretiennent pour renforcer la coopération de sécurité entre Haïti et le Tchad",
@@ -2648,6 +3045,7 @@ export const STORIES: Story[] = [
     topic: "politics",
     publishedAt: "2026-11-12",
     publishedTime: "2026-11-12T18:04:20-05:00",
+    archived: true,
     headline: {
       ht: "Revizyon Konstitisyon: premye minis Fils-Aimé mande yon konsiltasyon nasyonal",
       fr: "Révision de la Constitution : le Premier ministre Fils-Aimé appelle à une concertation nationale",
@@ -2675,6 +3073,7 @@ export const STORIES: Story[] = [
     topic: "politics",
     publishedAt: "2026-11-12",
     publishedTime: "2026-11-12T18:04:00-05:00",
+    archived: true,
     headline: {
       ht: "Nip: Volcy Assad kandida pou Sena a sou banyè VIKTWA; 31 enskripsyon nan depatman an",
       fr: "Nippes : Volcy Assad candidat au Sénat sous la bannière de VIKTWA ; 31 inscriptions dans le département",
@@ -2703,6 +3102,7 @@ export const STORIES: Story[] = [
     topic: "politics",
     publishedAt: "2026-11-12",
     publishedTime: "2026-11-12T18:03:40-05:00",
+    archived: true,
     headline: {
       ht: "CEP: prezidan Peterson Pierre-Louis nan 19e Rankont entèameriken otorite elektoral yo, nan Sen Domeng",
       fr: "CEP : le président Peterson Pierre-Louis à la 19e Rencontre interaméricaine des autorités électorales, à Saint-Domingue",
@@ -2731,6 +3131,7 @@ export const STORIES: Story[] = [
     topic: "society",
     publishedAt: "2026-11-12",
     publishedTime: "2026-11-12T18:03:20-05:00",
+    archived: true,
     isFollowUp: true,
     headline: {
       ht: "Ansapitr: yo relouvri pas fwontyè a apre twa jou tansyon pou lanmò de Ayisyen",
@@ -2763,6 +3164,7 @@ export const STORIES: Story[] = [
     topic: "society",
     publishedAt: "2026-11-12",
     publishedTime: "2026-11-12T18:03:00-05:00",
+    archived: true,
     headline: {
       ht: "Bahamas rapatriye 62 Ayisyen; imigrasyon avèti moun ki pa gen estati yo",
       fr: "Les Bahamas rapatrient 62 Haïtiens ; l'immigration avertit les personnes sans statut",
@@ -2790,6 +3192,7 @@ export const STORIES: Story[] = [
     topic: "sports",
     publishedAt: "2026-11-12",
     publishedTime: "2026-11-12T18:02:40-05:00",
+    archived: true,
     isFollowUp: true,
     headline: {
       ht: "Grenadye yo: Fernando Cicéron, kòmandan Violette, jwenn premye konvokasyon li; vag blesi kontinye",
@@ -2824,6 +3227,7 @@ export const STORIES: Story[] = [
     topic: "security",
     publishedAt: "2026-11-12",
     publishedTime: "2026-11-12T12:58:00-05:00",
+    archived: true,
     isFollowUp: true,
     headline: {
       ht: "Abinader di li sipòte Bukele ak prezans sòlda salvadorien yo ann Ayiti, ak lojistik ak entèlijans, dapre AP",
@@ -2859,6 +3263,7 @@ export const STORIES: Story[] = [
     topic: "gossip",
     publishedAt: "2026-11-12",
     publishedTime: "2026-11-12T08:48:20-05:00",
+    archived: true,
     headline: {
       ht: "Kontra zam PNH: Miami Herald lyen Ellie Soto, ki te deja trete pou fwod nan Texas, ak omwen 7 milyon dola ki disparèt",
       fr: "Contrat d'armes de la PNH : le Miami Herald relie Ellie Soto, déjà visée pour fraude au Texas, à au moins 7 millions de dollars manquants",
@@ -2886,6 +3291,7 @@ export const STORIES: Story[] = [
     topic: "justice",
     publishedAt: "2026-11-12",
     publishedTime: "2026-11-12T08:48:00-05:00",
+    archived: true,
     headline: {
       ht: "Presime detounman machin Sena: ansyen senatè Wanique Pierre ak yon ansyen chèf kontab yo voye devan tribinal kriminèl",
       fr: "Détournement présumé de véhicules du Sénat : l'ex-sénateur Wanique Pierre et un ancien chef comptable renvoyés en criminel",
@@ -2913,6 +3319,7 @@ export const STORIES: Story[] = [
     topic: "security",
     publishedAt: "2026-11-12",
     publishedTime: "2026-11-12T08:50:00-05:00",
+    archived: true,
     headline: {
       ht: "FRG: yo sezi zam ak minisyon nan nò ayewopò Toussaint-Louverture",
       fr: "FRG : des armes et des munitions saisies au nord de l'aéroport Toussaint-Louverture",
@@ -2941,6 +3348,7 @@ export const STORIES: Story[] = [
     topic: "politics",
     publishedAt: "2026-11-12",
     publishedTime: "2026-11-12T08:47:40-05:00",
+    archived: true,
     headline: {
       ht: "RASANBLE: nouvo dirèktwa a mande CEP ranplase Innocent Joseph pa Josias Benoit, epi yon lòt delè apre 15 novanm",
       fr: "RASANBLE : le nouveau directoire demande au CEP de remplacer Innocent Joseph par Josias Benoit et un délai après le 15 novembre",
@@ -2969,6 +3377,7 @@ export const STORIES: Story[] = [
     topic: "politics",
     publishedAt: "2026-11-12",
     publishedTime: "2026-11-12T08:49:40-05:00",
+    archived: true,
     headline: {
       ht: "Prezidansyèl: Dominique Dupuy enskri sou entènèt pou PVD; 26 enskripsyon a 1 h 52, yo fèmen 15 novanm minwi",
       fr: "Présidentielle : Dominique Dupuy s'inscrit en ligne pour le PVD ; 26 inscriptions à 1 h 52, clôture le 15 novembre à minuit",
@@ -3001,6 +3410,7 @@ export const STORIES: Story[] = [
     topic: "security",
     publishedAt: "2026-11-12",
     publishedTime: "2026-11-12T08:49:20-05:00",
+    archived: true,
     headline: {
       ht: "Nip: PNH ranfòse patwouy ak kontwòl pou anpeche gang k ap kouri yo vin kache nan depatman an",
       fr: "Nippes : la PNH renforce les patrouilles et les contrôles pour empêcher des gangs en fuite de s'y réfugier",
@@ -3028,6 +3438,7 @@ export const STORIES: Story[] = [
     topic: "gossip",
     publishedAt: "2026-11-12",
     publishedTime: "2026-11-12T08:47:20-05:00",
+    archived: true,
     headline: {
       ht: "Yon kronikè dominiken akize ansyen senatè Rony Célestin kòm presime finansye 400 Mawozo; yon rapò Nasyonzini te site l pami finansye yo",
       fr: "Un chroniqueur dominicain accuse l'ex-sénateur Rony Célestin de financer présumément 400 Mawozo ; un rapport de l'ONU l'avait cité parmi les financiers",
@@ -3056,6 +3467,7 @@ export const STORIES: Story[] = [
     topic: "economy",
     publishedAt: "2026-11-12",
     publishedTime: "2026-11-12T08:48:40-05:00",
+    archived: true,
     isFollowUp: true,
     headline: {
       ht: "American Airlines ap vole chak jou pou Okap; Air Canada ak Air Transat pa prevwa tounen pou kounye a",
@@ -3088,6 +3500,7 @@ export const STORIES: Story[] = [
     topic: "society",
     publishedAt: "2026-11-12",
     publishedTime: "2026-11-12T08:47:00-05:00",
+    archived: true,
     headline: {
       ht: "Akò sou peyi tyè ki an sekirite: Kanada voye plizyè dizèn Ayisyen pa mwa tounen Ozetazini, kote TPS fini, dapre The Gazette",
       fr: "Accord sur les tiers pays sûrs : le Canada renvoie des dizaines d'Haïtiens par mois vers les États-Unis, où le TPS a pris fin, selon The Gazette",
@@ -3115,6 +3528,7 @@ export const STORIES: Story[] = [
     topic: "politics",
     publishedAt: "2026-11-12",
     publishedTime: "2026-11-12T08:49:00-05:00",
+    archived: true,
     isFollowUp: true,
     headline: {
       ht: "G7: Frantz Duval poze kesyon si yo pral wete moun ki sanksyone yo nan kous prezidansyèl la; France Inter pale de parye Bukele a",
@@ -7120,9 +7534,9 @@ export const FRONT_PAGE_PER_SECTION = 4;
  */
 export const FRONT_PAGE_PIN_IDS = [
   "opinion-cassation-jemley-jean-baptiste-2026-11-16",
-  "moise-trials-2026-10-29",
-  "ntk-bukele-jeff-larose-canaan-2026-11-19",
-  "ntk-petition-marche-saint-marc-2026-11-14",
+  "ntk-pnh-martissant-34-ti-lapli-2026-11-20",
+  "ntk-ambassade-usa-alerte-tabarre-cdb-2026-11-20",
+  "ntk-frg-base-rn1-tabarre-artibonite-2026-11-20",
 ] as const;
 
 export function frontPageLeads(): Story[] {
@@ -7137,7 +7551,7 @@ export function frontPageLeads(): Story[] {
 
 export function needToKnowStories(): Story[] {
   // Standing rule: Sports stories never take top-story (Need to Know) slots; they live only in the Sports section.
-  // 19 Nov 2026: the BAJ Cassation opinion stays at #1, then the Sanon verdict, Bukele's announcement on Jeff Larose's house in Canaan, and the second day of pro-Bukele marches.
+  // 20 Nov 2026: the BAJ Cassation opinion stays at #1, then the PNH Martissant operation, the U.S. Embassy security alert, and the FRG base on RN1.
   const list = sortNewestFirst(STORIES.filter((s) => !s.archived && s.tier === "need-to-know" && s.topic !== "sports"));
   FRONT_PAGE_PIN_IDS.forEach((id, pos) => {
     const at = list.findIndex((s) => s.id === id);
