@@ -47,32 +47,287 @@ export const STORIES: Story[] = [
   },
 
   {
+    id: "ntk-soldats-salvadoriens-explosion-camp-2026-11-21",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-21",
+    publishedTime: "2026-11-21T14:20:00-05:00",
+    headline: {
+      ht: "Twa sòlda salvadoryen mouri nan yon eksplozyon nan yon kan ann Ayiti, yon katriyèm soti danje",
+      fr: "Trois soldats salvadoriens meurent dans l'explosion d'un camp en Haïti, un quatrième est hors de danger",
+    },
+    teaser: {
+      ht: "Se lame Salvador ki di sa. Li pale de yon eksplozyon aksidan, li pa bay non viktim yo ni kote kan an ye. Pa konfonn yo ak kat teknisyen ki toujou disparèt depi 18 oktòb.",
+      fr: "C'est l'armée salvadorienne qui le dit. Elle parle d'une explosion accidentelle, sans nommer les victimes ni le camp. Il ne faut pas les confondre avec les quatre techniciens toujours disparus depuis le 18 octobre.",
+    },
+    brief: {
+      ht: "Fòs lame Salvador di kat sòlda yo te frape vandredi 20 novanm, pandan yo t ap manyen materyèl eksplozif nan yon kan ann Ayiti ki poko idantifye. Premye bilan an te di de moun mouri ak de blese; nan aswè, lame a di youn nan blese yo mouri nan yon lopital nan Dominikani, sa fè twa mò.",
+      fr: "L'armée salvadorienne dit que quatre de ses soldats ont été touchés vendredi 20 novembre, alors qu'ils manipulaient du matériel explosif dans un camp en Haïti qui n'a pas été identifié. Le premier bilan faisait état de deux morts et deux blessés; dans la soirée, l'armée a dit que l'un des blessés était mort dans un hôpital en République dominicaine, ce qui porte le total à trois morts.",
+    },
+    body: {
+      ht: "Fòs lame Salvador (Fuerza Armada) di kat sòlda yo te frape vandredi 20 novanm 2026, pandan yo t ap manyen materyèl eksplozif nan youn nan kan kontenjan yo ann Ayiti. Premye kominike a te pale de de mò ak de blese. Nan aswè vandredi, lame a te ekri sou X youn nan de blese yo te mouri pandan l t ap resevwa swen nan yon lopital nan Repiblik dominikèn, kote yo te evakye l pa avyon. Sa fè twa sòlda mouri. Lame a di lòt sòlda blese a soti danje kounye a. Li prezante kondoleyans li bay fanmi yo.\n\nLame a pale de yon « detonasyon aksidan ». Li pa bay non militè yo, ni kote kan an ye, ni plis detay sou sikonstans yo. Se premye fwa, depi deplwaman an, lame salvadoryen an konfime lanmò sòlda li yo ann Ayiti, BBC, Diario Libre ak Miami Herald relè.\n\nPremye minis Alix Didier Fils-Aimé voye kondoleyans li bay fanmi mò yo ak otorite Salvador yo, NAGO relè. De mò sa yo pa gen rapò ak kat teknisyen avyasyon salvadoryen ki toujou ofisyèlman disparèt depi anbiskad 18 oktòb la nan Kwadèbouke.",
+      fr: "L'armée salvadorienne (Fuerza Armada) dit que quatre de ses soldats ont été touchés vendredi 20 novembre 2026, alors qu'ils manipulaient du matériel explosif dans l'un des camps de leur contingent en Haïti. Un premier communiqué faisait état de deux morts et de deux blessés. Dans la soirée de vendredi, l'armée a écrit sur X que l'un des deux blessés était mort alors qu'il recevait des soins dans un hôpital en République dominicaine, où il avait été évacué par avion. Le bilan s'élève à trois morts. L'armée dit que l'autre soldat blessé est désormais hors de danger. Elle a présenté ses condoléances aux familles.\n\nL'armée parle d'une « détonation accidentelle ». Elle n'a nommé ni les militaires, ni le camp, et n'a pas donné plus de détails sur les circonstances. C'est la première fois, depuis le déploiement, que l'armée salvadorienne confirme la mort de soldats en Haïti, relaient la BBC, Diario Libre et le Miami Herald.\n\nLe Premier ministre Alix Didier Fils-Aimé a adressé ses condoléances aux familles des morts et aux autorités du Salvador, relaie NAGO. Ces décès sont distincts du sort des quatre techniciens de l'aviation salvadorienne toujours officiellement portés disparus depuis l'embuscade du 18 octobre, à Croix-des-Bouquets.",
+    },
+    sources: ["NAGO", "Miami Herald", "Diario Libre", "BBC", "Le Nouvelliste"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/trois-soldats-salvadoriens-morts-dans-une-explosion-en-haiti" },
+      { name: "Miami Herald", url: "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article318180232.html" },
+      { name: "Diario Libre", url: "https://www.diariolibre.com/mundo/haiti/2026/11/21/muere-un-tercer-militar-salvadoreno-en-haiti-tras-una-detonacion/3727476" },
+      { name: "BBC", url: "https://www.bbc.com/mundo/articles/cmvg212k7lyko" },
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/274115/deux-militaires-salvadoriens-perissent-dans-une-explosion-deux-autres-blesses" },
+    ],
+  },
+  {
+    id: "qh-kroslak-banuh-centre-artibonite-2026-11-21",
+    tier: "quick-hit",
+    topic: "security",
+    publishedAt: "2026-11-21",
+    publishedTime: "2026-11-21T14:18:00-05:00",
+    headline: {
+      ht: "Daniela Kroslak, chèf BANUH, te vizite Sant ak Latibonit jedi pou fè pwen sou sipò bay FRG",
+      fr: "Daniela Kroslak, cheffe du BANUH, a visité le Centre et l'Artibonite jeudi pour faire le point sur l'appui à la FRG",
+    },
+    teaser: {
+      ht: "Se Le Nouvelliste ki relè vizit jedi a, nan yon nòt vandredi. BANUH ekri travay la ap vanse sou teren an.",
+      fr: "C'est Le Nouvelliste qui relaie la visite de jeudi, dans une note parue vendredi. Le BANUH écrit que le travail avance sur le terrain.",
+    },
+    brief: {
+      ht: "Chèf Biwo sipò Nasyonzini ann Ayiti (BANUH), Daniela Kroslak, te fè jedi 19 novanm yon vizit nan depatman Sant ak Latibonit, Le Nouvelliste relè vandredi. Vizit la te pou fè pwen sou sipò BANUH bay deplwaman Fòs reprezyon gang yo.",
+      fr: "La cheffe du Bureau d'appui des Nations unies en Haïti (BANUH), Daniela Kroslak, a effectué jeudi 19 novembre une visite dans les départements du Centre et de l'Artibonite, relaie Le Nouvelliste vendredi. Le déplacement visait à faire le point sur l'appui du BANUH au déploiement de la Force de répression des gangs.",
+    },
+    body: {
+      ht: "Chèf Biwo sipò Nasyonzini ann Ayiti (BANUH), Daniela Kroslak, te fè jedi 19 novanm 2026 yon vizit nan depatman Sant ak Latibonit, Le Nouvelliste relè nan yon nòt vandredi 20 novanm. Jounal la ekri deplasman an te pou fè pwen sou sipò BANUH bay deplwaman Fòs reprezyon gang yo (FRG), sitou sou lojistik, materyèl ak enfrastrikti.\n\nBANUH te ekri sou X: « Travay la ap vanse sou teren an. » Se yon kont rann Le Nouvelliste, sou yon vizit ki te fèt jedi.",
+      fr: "La cheffe du Bureau d'appui des Nations unies en Haïti (BANUH), Daniela Kroslak, a effectué jeudi 19 novembre 2026 une visite dans les départements du Centre et de l'Artibonite, relaie Le Nouvelliste dans une note parue vendredi 20 novembre. Le journal écrit que ce déplacement visait à faire le point sur l'appui apporté par le BANUH au déploiement de la Force de répression des gangs (FRG), notamment en matière de logistique, de matériel et d'infrastructures.\n\nLe BANUH a écrit sur X: « Le travail avance sur le terrain. » C'est un compte rendu du Nouvelliste, sur une visite qui a eu lieu jeudi.",
+    },
+    sources: ["Le Nouvelliste"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/274103/la-cheffe-du-banuh-daniela-kroslak-en-visite-dans-le-centre-et-lartibonite" },
+    ],
+  },
+  {
+    id: "qh-cep-962321-inscrits-2026-11-21",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-21",
+    publishedTime: "2026-11-21T14:17:00-05:00",
+    headline: {
+      ht: "CEP konte 962 321 elektè enskri nan 19 novanm, anviwon 16,4% moun ki ka enskri",
+      fr: "Le CEP compte 962 321 électeurs inscrits au 19 novembre, soit environ 16,4 % des personnes éligibles",
+    },
+    teaser: {
+      ht: "Se chif HaitiLibre relè, dapre done CEP. Rit enskripsyon an ralanti nan novanm, apre yon peryòd pi fò nan mwa out ak septanm.",
+      fr: "Ce sont les chiffres relayés par HaitiLibre, d'après les données du CEP. Le rythme des inscriptions a ralenti en novembre, après une période plus forte en août et en septembre.",
+    },
+    brief: {
+      ht: "Dapre done Konsèy Elektoral Pwovizwa nan 19 novanm 2026, te gen 962 321 elektè enskri, sètadi 16,4% moun ki te ka enskri, HaitiLibre relè. Te gen 3 065 operatè aktif, ak 1 327 sant enskripsyon ouvè sou 1 447 yo te resanse.",
+      fr: "Selon les données du Conseil électoral provisoire en date du 19 novembre 2026, il y avait 962 321 électeurs inscrits, soit 16,4 % des personnes potentiellement en droit de s'inscrire, relaie HaitiLibre. L'opération comptait 3 065 opérateurs actifs, et 1 327 centres d'inscription ouverts sur 1 447 recensés.",
+    },
+    body: {
+      ht: "Konsèy Elektoral Pwovizwa (CEP) te konte, nan 19 novanm 2026, 962 321 elektè enskri, sètadi 16,4% moun ki te ka enskri nan peyi a, HaitiLibre relè vandredi 20 novanm. Sou teren an, operasyon an te apiye sou 3 065 operatè aktif. Nan 1 447 sant enskripsyon yo te resanse, 1 327 te ouvè.\n\nDapre menm chif yo, te gen yon ti majorite fanm nan moun ki enskri: 490 396 fanm, kont 471 925 gason. HaitiLibre ekri rit la te pi fò nan mwa out ak septanm, epi li ralanti nan novanm. Se done CEP, jan HaitiLibre relè yo.",
+      fr: "Le Conseil électoral provisoire (CEP) comptait, au 19 novembre 2026, 962 321 électeurs inscrits, soit 16,4 % des personnes potentiellement en droit de s'inscrire dans le pays, relaie HaitiLibre vendredi 20 novembre. Sur le terrain, l'opération s'appuyait sur 3 065 opérateurs actifs. Sur 1 447 centres d'inscription recensés, 1 327 étaient ouverts.\n\nSelon les mêmes chiffres, les femmes sont légèrement majoritaires parmi les inscrits: 490 396 femmes, contre 471 925 hommes. HaitiLibre écrit que le rythme avait été plus fort en août et en septembre, puis qu'il a ralenti en novembre. Ce sont les données du CEP, telles que HaitiLibre les relaie.",
+    },
+    sources: ["HaitiLibre", "CEP"],
+    sourceLinks: [
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48939-haiti-statistiques-electorales-pres-de-1-million-d-electeurs-inscrits.html" },
+    ],
+  },
+  {
+    id: "qh-paulemon-wgs-lac-punta-cana-2026-11-21",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-21",
+    publishedTime: "2026-11-21T14:16:00-05:00",
+    headline: {
+      ht: "Sandra Paulémon reprezante Ayiti nan dyalòg WGS-LAC nan Punta Cana",
+      fr: "Sandra Paulémon représente Haïti au dialogue WGS-LAC à Punta Cana",
+    },
+    teaser: {
+      ht: "Minis Planifikasyon an te kite peyi a jedi, nan tèt yon delegasyon, Le Nouvelliste relè. Se yon reyinyon rejyonal, se pa yon nòt desizyon.",
+      fr: "La ministre de la Planification a quitté le pays jeudi, à la tête d'une délégation, relaie Le Nouvelliste. C'est une réunion régionale, ce n'est pas une note de décision.",
+    },
+    brief: {
+      ht: "Minis Planifikasyon ak Koperasyon ekstèn, Sandra Paulémon, reprezante Ayiti nan Punta Cana, nan Repiblik dominikèn, kote Dyalòg Somè mondyal gouvènman yo pou Amerik latin ak Karayib (WGS-LAC 2026) ap fèt 20 ak 21 novanm, Le Nouvelliste relè.",
+      fr: "La ministre de la Planification et de la Coopération externe, Sandra Paulémon, représente Haïti à Punta Cana, en République dominicaine, où se tient les 20 et 21 novembre le Dialogue du Sommet mondial des gouvernements pour l'Amérique latine et les Caraïbes (WGS-LAC 2026), relaie Le Nouvelliste.",
+    },
+    body: {
+      ht: "Minis Planifikasyon ak Koperasyon ekstèn, Sandra Paulémon, reprezante Ayiti nan Punta Cana, nan Repiblik dominikèn, kote Dyalòg Somè mondyal gouvènman yo pou Amerik latin ak Karayib (WGS-LAC 2026) ap fèt 20 ak 21 novanm, Le Nouvelliste relè vandredi. Minis la te kite peyi a jedi 19 novanm, nan tèt yon delegasyon, jounal la ekri.\n\nReyinyon an, òganize nan Cap Cana, rasanble chèf eta ak gouvènman, minis, ak reprezantan òganizasyon entènasyonal, dapre nòt la. Se yon kont rann yon sèl sous, sou yon dyalòg rejyonal. Jounal la pa relè okenn desizyon konkrè pou Ayiti.",
+      fr: "La ministre de la Planification et de la Coopération externe, Sandra Paulémon, représente Haïti à Punta Cana, en République dominicaine, où se tient les 20 et 21 novembre le Dialogue du Sommet mondial des gouvernements pour l'Amérique latine et les Caraïbes (WGS-LAC 2026), relaie Le Nouvelliste vendredi. La ministre a quitté le pays jeudi 19 novembre, à la tête d'une délégation, écrit le journal.\n\nLa réunion, organisée à Cap Cana, rassemble des chefs d'État et de gouvernement, des ministres et des représentants d'organisations internationales, d'après cette note. C'est le compte rendu d'une seule source, sur un dialogue régional. Le journal ne relaye aucune décision concrète pour Haïti.",
+    },
+    sources: ["Le Nouvelliste"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/274118/dialogue-du-sommet-mondial-des-gouvernements-haiti-defend-sa-place-dans-la-grande-caraibe" },
+    ],
+  },
+  {
+    id: "qh-pelissier-accord-prisons-salvador-2026-11-21",
+    tier: "quick-hit",
+    topic: "justice",
+    publishedAt: "2026-11-21",
+    publishedTime: "2026-11-21T14:15:00-05:00",
+    headline: {
+      ht: "Pélissier anonse yon akò ak Salvador sou jistis, lapolis ak prizon yo; kantite etablisman yo poko klè",
+      fr: "Pélissier annonce un accord avec le Salvador sur la justice, la police et les prisons; le nombre d'établissements n'est pas tranché",
+    },
+    teaser: {
+      ht: "NAGO ekri yon nouvo prizon prevwa, ak yon konpayi salvadoryen ak yon patnè ayisyen. Associated Press pale de twa prizon. Nou kenbe prekosyon NAGO a.",
+      fr: "NAGO écrit qu'une nouvelle prison est envisagée, avec une firme salvadorienne et un partenaire haïtien. L'Associated Press parle de trois prisons. Nous gardons la prudence de NAGO.",
+    },
+    brief: {
+      ht: "Minis Jistis Patrick Pélissier te anonse vandredi 20 novanm, apre yon misyon ofisyèl nan Salvador, yon akò koperasyon sou fòmasyon jidisyè ak polis, ekipman pou PNH, ak prizon yo, NAGO relè. Associated Press ekri yo pale de twa nouvo prizon.",
+      fr: "Le ministre de la Justice Patrick Pélissier a annoncé vendredi 20 novembre, après une mission officielle au Salvador, un accord de coopération sur la formation judiciaire et policière, l'équipement de la PNH et les prisons, relaie NAGO. L'Associated Press écrit qu'il est question de trois nouveaux établissements.",
+    },
+    body: {
+      ht: "Minis Jistis ak Sekirite piblik la, Patrick Pélissier, te anonse vandredi 20 novanm 2026 yon akò koperasyon ak Salvador, apre yon misyon ofisyèl nan peyi sa a, NAGO relè. Dapre jounal la, akò a predwi ranfòse fòmasyon majistra ak polisye, kapasite envestigasyon Polis nasyonal ayisyen gras a ekipman modèn, ak sistèm penitansye a. NAGO ekri yon nouvo prizon « prevwa » ann Ayiti, ak èd yon konpayi salvadoryen ak yon patnè lokal.\n\nAssociated Press, ke Africanews relè, ekri Ayiti te anonse yon akò pou bati twa nouvo prizon, ke travay sou premye a ta dwe kòmanse talè, e ke Premye minis la te mande pou pwojè a fèt rapid. Menm sous sa yo presize mesye Pélissier pa bay ni pri a, ni jan yo pral finanse l, ni ki wòl Salvador ta genyen nan jesyon etablisman yo, epi li pa bay non konpayi yo.\n\nChif twa prizon an se sa Associated Press. NAGO, sou teren ayisyen an, rete sou yon prizon ki prevwa. Nou pa trete kantite a kòm yon reyalite deja etabli. Anons sa a vin apre vizit minis la nan prizon CECOT la, nan Salvador.",
+      fr: "Le ministre de la Justice et de la Sécurité publique, Patrick Pélissier, a annoncé vendredi 20 novembre 2026 un accord de coopération avec le Salvador, à la suite d'une mission officielle dans ce pays, relaie NAGO. Selon le journal, l'accord prévoit de renforcer la formation des magistrats et des policiers, les capacités d'investigation de la Police nationale d'Haïti grâce à des équipements modernes, et le système pénitentiaire. NAGO écrit qu'une nouvelle prison est « envisagée » en Haïti, avec l'aide d'une firme salvadorienne et d'un partenaire local.\n\nL'Associated Press, que relaie Africanews, écrit qu'Haïti a annoncé un accord en vue de la construction de trois nouveaux établissements pénitentiaires, que les travaux du premier devraient commencer prochainement, et que le Premier ministre a demandé que le projet soit mené rapidement. Les mêmes sources précisent que M. Pélissier n'a donné ni le coût, ni les modalités de financement, ni le rôle que le Salvador pourrait jouer dans la gestion des établissements, et qu'il n'a pas nommé les entreprises.\n\nLe chiffre de trois prisons est celui de l'Associated Press. NAGO, sur le terrain haïtien, en reste à une prison envisagée. Nous ne tenons pas ce nombre pour un fait déjà établi. Cette annonce vient après la visite du ministre à la prison CECOT, au Salvador.",
+    },
+    sources: ["NAGO", "Associated Press", "Africanews"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/accord-de-cooperation-entre-haiti-et-le-salvador-dans-la-justice-la-po" },
+      { name: "Associated Press", url: "https://apnews.com/article/el-salvador-haiti-troops-killed-injured-bukele-c3192c1276fd235b727666a05062db00" },
+      { name: "Africanews", url: "https://fr.africanews.com/2026/11/21/haiti-signe-un-accord-avec-le-salvador-pour-la-construction-de-trois-nouvelles-prisons/" },
+    ],
+  },
+  {
+    id: "qh-mci-zouti-pou-demen-2026-11-21",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-21",
+    publishedTime: "2026-11-21T14:12:00-05:00",
+    headline: {
+      ht: "MCI lanse pwojè « Zouti pou Demen » pou jèn diplome yo",
+      fr: "Le MCI lance le projet « Zouti pou Demen » pour de jeunes diplômés",
+    },
+    teaser: {
+      ht: "Se Le Nouvelliste sèl sous nou genyen sou anons sa a. Pwojè a predwi bay jèn diplome teknik yo kit pwofesyonèl.",
+      fr: "Le Nouvelliste est notre seule source sur cette annonce. Le projet doit fournir des kits professionnels à de jeunes diplômés techniques.",
+    },
+    brief: {
+      ht: "Ministè Komès ak Endistri (MCI) lanse pwojè « Zouti pou Demen », pou bay jèn diplome teknik yo kit pwofesyonèl, Le Nouvelliste relè.",
+      fr: "Le ministère du Commerce et de l'Industrie (MCI) lance le projet « Zouti pou Demen », destiné à fournir des kits professionnels à de jeunes diplômés techniques, relaie Le Nouvelliste.",
+    },
+    body: {
+      ht: "Ministè Komès ak Endistri (MCI) lanse pwojè « Zouti pou Demen » pou jèn diplome, Le Nouvelliste relè. Dapre jounal la, pwojè a predwi bay jèn diplome teknik yo kit pwofesyonèl.\n\nSe yon kont rann yon sèl sous, sou yon anons ministè a. Nòt la pa bay detay sou bidjè a, ni sou kantite benefisyè yo, ni sou kalandriye a.",
+      fr: "Le ministère du Commerce et de l'Industrie (MCI) lance le projet « Zouti pou Demen » au profit de jeunes diplômés, relaie Le Nouvelliste. Selon le journal, le projet doit fournir des kits professionnels à de jeunes diplômés techniques.\n\nC'est un compte rendu d'une seule source, sur une annonce du ministère. La note ne donne pas de détail sur le budget, ni sur le nombre de bénéficiaires, ni sur le calendrier.",
+    },
+    sources: ["Le Nouvelliste"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/274125/le-mci-lance-le-projet-zouti-pou-demen-au-profit-de-jeunes-diplomes" },
+    ],
+  },
+  {
+    id: "qh-ruiz-massieu-hopital-la-paix-2026-11-21",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-21",
+    publishedTime: "2026-11-21T14:11:00-05:00",
+    headline: {
+      ht: "Carlos Ruiz Massieu, chèf BINUH, te vizite Lopital inivèsitè La Paix jedi",
+      fr: "Carlos Ruiz Massieu, chef du BINUH, a visité l'Hôpital universitaire La Paix jeudi",
+    },
+    teaser: {
+      ht: "Vizit la te fèt jedi 19 novanm, Le Nouvelliste relè. Li te ak reprezantan OPS ak OMS.",
+      fr: "La visite a eu lieu jeudi 19 novembre, relaie Le Nouvelliste. Il était accompagné de représentants de l'OPS et de l'OMS.",
+    },
+    brief: {
+      ht: "Chèf Biwo entegre Nasyonzini ann Ayiti (BINUH), Carlos Ruiz Massieu, te vizite jedi 19 novanm Lopital inivèsitè La Paix nan Pòtoprens, ak reprezantan Òganizasyon pànamerikèn sante ak Òganizasyon mondyal sante, Le Nouvelliste relè.",
+      fr: "Le chef du Bureau intégré des Nations unies en Haïti (BINUH), Carlos Ruiz Massieu, a visité jeudi 19 novembre l'Hôpital universitaire La Paix, à Port-au-Prince, accompagné de représentants de l'Organisation panaméricaine de la santé et de l'Organisation mondiale de la santé, relaie Le Nouvelliste.",
+    },
+    body: {
+      ht: "Chèf Biwo entegre Nasyonzini ann Ayiti (BINUH), Carlos Ruiz Massieu, te vizite jedi 19 novanm 2026 Lopital inivèsitè La Paix, nan Pòtoprens, Le Nouvelliste relè. Li te akonpaye de reprezantan Òganizasyon pànamerikèn sante (OPS) ak Òganizasyon mondyal sante (OMS), jounal la ekri.\n\nDapre nòt la, li te souliye reponn bezwen imanitè ijan yo ak garanti aksè a swen se eleman esansyèl pou yon lapè ki dire. Se yon kont rann sou yon vizit ki te fèt jedi, ke Le Nouvelliste te relè.",
+      fr: "Le chef du Bureau intégré des Nations unies en Haïti (BINUH), Carlos Ruiz Massieu, a visité jeudi 19 novembre 2026 l'Hôpital universitaire La Paix, à Port-au-Prince, relaie Le Nouvelliste. Il était accompagné de représentants de l'Organisation panaméricaine de la santé (OPS) et de l'Organisation mondiale de la santé (OMS), écrit le journal.\n\nSelon cette note, il a souligné que répondre aux besoins humanitaires urgents et garantir l'accès aux soins sont essentiels pour une paix durable. C'est un compte rendu d'une visite intervenue jeudi, que Le Nouvelliste a relayé.",
+    },
+    sources: ["Le Nouvelliste"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/274105/visite-de-carlos-ruiz-massieu-a-lhopital-universitaire-la-paix" },
+    ],
+  },
+  {
+    id: "qh-dgi-moratoire-accise-telecom-2026-11-21",
+    tier: "quick-hit",
+    topic: "economy",
+    publishedAt: "2026-11-21",
+    publishedTime: "2026-11-21T14:10:00-05:00",
+    headline: {
+      ht: "DGI bay yon moratwa sou aksiz 2,5% telekominikasyon yo jouk 31 desanm, yo ranvwaye presyon an pou janvye 2027",
+      fr: "La DGI accorde un moratoire sur l'accise de 2,5 % des télécoms jusqu'au 31 décembre, la perception reportée à janvier 2027",
+    },
+    teaser: {
+      ht: "Taks la pa anile. Operatè yo dwe kòmanse pran l nan janvye 2027, epi ranmèt li bay DGI ant 1 ak 15 chak mwa.",
+      fr: "La taxe n'est pas annulée. Les opérateurs devront la percevoir à partir de janvier 2027, et la reverser à la DGI entre le 1er et le 15 de chaque mois.",
+    },
+    brief: {
+      ht: "Direksyon Jeneral Enpo (DGI) akòde yon moratwa jouk 31 desanm 2026 sou aksiz 2,5% kèk prestasyon telekominikasyon, Le Nouvelliste ak L'Observatoire relè. Taks la pa anile: presyon an ranvwaye pou janvye 2027.",
+      fr: "La Direction générale des impôts (DGI) accorde un moratoire jusqu'au 31 décembre 2026 sur l'accise de 2,5 % applicable à certaines prestations de télécommunications, relaient Le Nouvelliste et L'Observatoire. La taxe n'est pas annulée: sa perception est reportée à janvier 2027.",
+    },
+    body: {
+      ht: "Direksyon Jeneral Enpo (DGI) akòde yon moratwa jouk 31 desanm 2026 sou dwa aksiz 2,5% ki te dwe aplike sou kèk prestasyon telekominikasyon, Le Nouvelliste ak L'Observatoire relè. Jounal yo ekri reta a se pou operatè yo ka adapte sistèm faktirasyon yo.\n\nTaks la pa anile. Apati janvye 2027, antrepriz yo dwe pran l epi ranmèt li bay DGI ant 1 ak 15 chak mwa, dapre nòt sa yo.",
+      fr: "La Direction générale des impôts (DGI) accorde un moratoire jusqu'au 31 décembre 2026 sur les droits d'accise de 2,5 % qui devaient s'appliquer à certaines prestations de télécommunications, relaient Le Nouvelliste et L'Observatoire. Les journaux écrivent que ce délai doit permettre aux opérateurs d'adapter leurs systèmes de facturation.\n\nLa taxe n'est pas annulée. À partir de janvier 2027, les entreprises devront la percevoir et la reverser à la DGI entre le 1er et le 15 de chaque mois, selon ces notes.",
+    },
+    sources: ["Le Nouvelliste", "L'Observatoire"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/274074/telecommunications-la-dgi-accorde-un-moratoire-sur-les-droits-daccise-jusquau-31-decembre-2026" },
+      { name: "L'Observatoire", url: "https://www.lobservatoire.info/telecoms-la-dgi-reporte-a-janvier-2027-la-perception-des-droits-daccise-de-25/" },
+    ],
+  },
+  {
+    id: "qh-torbeck-pais-irrigation-2026-11-21",
+    tier: "quick-hit",
+    topic: "economy",
+    publishedAt: "2026-11-21",
+    publishedTime: "2026-11-21T14:09:00-05:00",
+    headline: {
+      ht: "Minis Agrikilti a lanse nan Torbèk travay irigasyon PAIS nan Périgny ak Charlette",
+      fr: "Le ministre de l'Agriculture lance à Torbeck les travaux d'irrigation PAIS à Périgny et Charlette",
+    },
+    teaser: {
+      ht: "Se HaitiLibre sèl sous nou genyen. Pwojè a prevwa 15 mwa, pou plis pase 500 ekta. Li pa menm pwojè OIT nou te relè deja.",
+      fr: "HaitiLibre est notre seule source. Le projet est prévu sur 15 mois, pour plus de 500 hectares. Ce n'est pas le même projet que celui de l'OIT déjà relayé.",
+    },
+    brief: {
+      ht: "Minis Agrikilti Marcelin Aubourg te lanse ofisyèlman vandredi 20 novanm travay konstriksyon ak reyabilitasyon sistèm irigasyon Périgny ak Charlette, nan komin Torbèk, HaitiLibre relè. Se nan kad Pwojè sipò irigasyon nan Sid (PAIS), prevwa sou 15 mwa.",
+      fr: "Le ministre de l'Agriculture Marcelin Aubourg a officiellement lancé vendredi 20 novembre les travaux de construction et de réhabilitation des systèmes d'irrigation de Périgny et de Charlette, dans la commune de Torbeck, relaie HaitiLibre. Ils s'inscrivent dans le Projet d'appui à l'irrigation dans le Sud (PAIS), prévu sur 15 mois.",
+    },
+    body: {
+      ht: "Minis Agrikilti Marcelin Aubourg te lanse ofisyèlman vandredi 20 novanm 2026 travay konstriksyon ak reyabilitasyon sistèm irigasyon yo nan Périgny ak Charlette, nan komin Torbèk, HaitiLibre relè. Pwojè a fè pati Pwojè sipò irigasyon nan Sid (PAIS), yon inisyativ 15 mwa ki ta dwe amelyore aksè a dlo pou plis pase 500 ekta tè agrikòl, dapre minis la, jan jounal la relè.\n\nNòt la pale de yon nouvo sèl an beton ame, travay sou priz dlo larivyè Torbèk, ak reparasyon kanal. Se yon kont rann HaitiLibre, sou yon seremoni premye wòch. Pwojè sa a pa menm ak pwojè Òganizasyon entènasyonal travay (OIT) nan Sid nou te relè deja, menm si se nan menm komin nan.",
+      fr: "Le ministre de l'Agriculture Marcelin Aubourg a officiellement lancé vendredi 20 novembre 2026 les travaux de construction et de réhabilitation des systèmes d'irrigation de Périgny et de Charlette, dans la commune de Torbeck, relaie HaitiLibre. Le projet s'inscrit dans le Projet d'appui à l'irrigation dans le Sud (PAIS), une initiative de 15 mois qui doit améliorer l'accès à l'eau pour plus de 500 hectares de terres agricoles, selon le ministre, tel que le journal le relaie.\n\nLa note décrit notamment un nouveau seuil en béton armé, des travaux sur les prises d'eau de la rivière de Torbeck, et la réparation de canaux. C'est un compte rendu d'HaitiLibre, sur une cérémonie de pose de première pierre. Ce projet n'est pas le même que celui de l'Organisation internationale du travail (OIT) dans le Sud, déjà relayé ici, même s'il concerne la même commune.",
+    },
+    sources: ["HaitiLibre"],
+    sourceLinks: [
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/en/news-48945-haiti-torbeck-laying-of-the-foundation-stone-for-new-hydro-agricultural-infrastructure.html" },
+    ],
+  },
+
+
+  {
     id: "ntk-pnh-martissant-34-ti-lapli-2026-11-20",
     tier: "need-to-know",
     topic: "security",
+    isFollowUp: true,
     publishedAt: "2026-11-20",
-    publishedTime: "2026-11-20T08:16:00-05:00",
+    publishedTime: "2026-11-21T14:19:00-05:00",
     headline: {
-      ht: "PNH di li touye 34 sipoze manm gang Ti Lapli nan Matisan, jedi maten",
-      fr: "La PNH dit avoir tué 34 présumés membres du gang de Ti Lapli à Martissant, jeudi matin",
+      ht: "PNH di li touye plis pase 20 lòt sipoze manm gang nan Matisan vandredi, omwen 54 an de jou",
+      fr: "La PNH dit avoir tué plus de 20 autres présumés membres de gang à Martissant vendredi, soit au moins 54 en deux jours",
     },
     teaser: {
-      ht: "Se bilan lapolis la, li poko verifye pou kont li. Dapre Associated Press, PNH di pa gen polisye ni sivil blese, e sòlda salvadoryen yo pa t nan operasyon an.",
-      fr: "C'est le bilan de la police, il n'a pas été vérifié de manière indépendante. Selon l'Associated Press, la police dit qu'aucun policier ni civil n'a été blessé, et que les soldats salvadoriens n'ont pas pris part à l'opération.",
+      ht: "Se toujou bilan lapolis la, li poko verifye pou kont li. Operasyon an kontinye nan Matisan 2A, pou relouvri wout sid la, NAGO ak Le Nouvelliste relè.",
+      fr: "C'est toujours le bilan de la police, il n'a pas été vérifié de manière indépendante. L'opération se poursuit à Martissant 2A, pour rouvrir la route du sud, relaient NAGO et Le Nouvelliste.",
     },
     brief: {
-      ht: "Polis nasyonal ayisyen di li te touye 34 sipoze manm gang nan yon operasyon jedi 19 novanm nan Matisan 2, 4 ak 23, nan yon baz Renel Destina, alias Ti Lapli, chèf gang Gran Ravin, NAGO ak Associated Press relè.",
-      fr: "La Police nationale d'Haïti dit avoir tué 34 présumés membres de gang lors d'une opération jeudi 19 novembre à Martissant 2, 4 et 23, dans une base de Renel Destina, alias Ti Lapli, chef du gang de Grand-Ravine, relaient NAGO et l'Associated Press.",
+      ht: "Polis nasyonal ayisyen di plis pase 20 lòt sipoze manm gang te mouri vandredi 20 novanm nan Matisan 2A, nan yon kay nan zòn Vilaj, NAGO ak Le Nouvelliste relè. Dapre chif lapolis yo menm, sa fè omwen 54 moun touye an de jou. Chif sa yo poko verifye pou kont yo.",
+      fr: "La Police nationale d'Haïti dit que plus de 20 autres présumés membres de gang sont morts vendredi 20 novembre à Martissant 2A, dans une maison du secteur Vilaj, relaient NAGO et Le Nouvelliste. Selon les chiffres de la police elle-même, cela porte à au moins 54 le nombre de personnes tuées en deux jours. Ces chiffres n'ont pas été vérifiés de manière indépendante.",
     },
     body: {
-      ht: "Polis nasyonal ayisyen (PNH) di li te touye 34 sipoze manm gang jedi 19 novanm 2026, nan yon operasyon nan Matisan, nan sid Pòtoprens, nan « yon gwo baz » Renel Destina, yo konnen kòm Ti Lapli, chèf gang Gran Ravin. NAGO relè videyo PNH te pibliye a, ki vize zòn Matisan 2, 4 ak 23, kote yo wè blende nan lari yo, epi yon kay ki eksploze, sanble yon drone frape l. Se bilan lapolis la; li poko verifye pou kont li. Otorite yo pa di si Ti Lapli te pami moun ki mouri yo.\n\nDapre Associated Press ak Al Jazeera, ki relè Reuters tou, PNH di ofisye li yo te fè operasyon an ak yon task force antigang kote gen manm Vectus Global, yon sosyete sekirite prive. Menm sous yo ekri lapolis di pa te gen lòt viktim, e okenn nan apeprè 2 500 sòlda salvadoryen ki nan peyi a pa t patisipe. Se pawòl lapolis yo. NAGO te presize, nan premye kont rann li, otorite yo pa t di si gen sivil ki te frape.\n\nKatye Matisan an sou yon wout kle ki lye Pòtoprens ak sid ak lwès peyi a. Li anba kontwòl gang yo depi plis pase senk ane, jounal yo ekri.",
-      fr: "La Police nationale d'Haïti (PNH) dit avoir tué 34 présumés membres de gang jeudi 19 novembre 2026, lors d'une opération à Martissant, au sud de Port-au-Prince, dans « une grande base » de Renel Destina, connu comme Ti Lapli, chef du gang de Grand-Ravine. NAGO relaie la vidéo publiée par la police, qui vise les zones de Martissant 2, 4 et 23: on y voit des blindés avancer dans les rues, puis une maison exploser, apparemment frappée par un drone. Ce bilan est celui de la police; il n'a pas été vérifié de manière indépendante. Les autorités n'ont pas dit si Ti Lapli figurait parmi les morts.\n\nSelon l'Associated Press et Al Jazeera, qui relaient aussi Reuters, la PNH a indiqué que ses officiers ont mené l'opération avec une task force antigang comprenant des membres de Vectus Global, une société de sécurité privée. Les mêmes sources écrivent que la police a dit qu'il n'y avait pas eu d'autres victimes, et qu'aucun des quelque 2 500 soldats salvadoriens présents en Haïti n'avait pris part à l'opération. Ce sont des déclarations de la police. NAGO avait précisé, dans son premier compte rendu, que les autorités n'avaient pas dit si des civils avaient été touchés.\n\nLe quartier de Martissant se trouve sur un axe qui relie Port-au-Prince au sud et à l'ouest du pays. Il est sous le contrôle de gangs depuis plus de cinq ans, écrivent ces journaux.",
+      ht: "Polis nasyonal ayisyen (PNH) di plis pase 20 lòt sipoze manm gang te « blese mortalman » vandredi 20 novanm 2026 nan Matisan 2A, nan yon kay nan zòn Vilaj, NAGO ak Le Nouvelliste relè, sou baz yon nòt lapolis. Dapre chif lapolis yo menm, sa fè omwen 54 moun touye oswa « blese mortalman » an de jou nan Matisan. Chif sa yo poko verifye pou kont yo.\n\nNAGO ekri, nan yon metajou samdi, operasyon an kontinye san pran souf, ak inite SWAT, UTAG, UDMO, selil Task Force, ak yon dizèn blende, pou relouvri wout sid la. Lapolis poko di kilè sikilasyon ka tounen nòmal sou Wout nasyonal 2, yon gwo pati ladan l gang yo kontwole depi 2021. Nou pa atribiye mò vandredi yo a yon lòt gwoup pase sa nòt lapolis yo ak NAGO ak Le Nouvelliste relè.\n\nPolis nasyonal ayisyen (PNH) di li te touye 34 sipoze manm gang jedi 19 novanm 2026, nan yon operasyon nan Matisan, nan sid Pòtoprens, nan « yon gwo baz » Renel Destina, yo konnen kòm Ti Lapli, chèf gang Gran Ravin. NAGO relè videyo PNH te pibliye a, ki vize zòn Matisan 2, 4 ak 23, kote yo wè blende nan lari yo, epi yon kay ki eksploze, sanble yon drone frape l. Se bilan lapolis la; li poko verifye pou kont li. Otorite yo pa di si Ti Lapli te pami moun ki mouri yo.\n\nDapre Associated Press ak Al Jazeera, ki relè Reuters tou, PNH di ofisye li yo te fè operasyon an ak yon task force antigang kote gen manm Vectus Global, yon sosyete sekirite prive. Menm sous yo ekri lapolis di pa te gen lòt viktim, e okenn nan apeprè 2 500 sòlda salvadoryen ki nan peyi a pa t patisipe. Se pawòl lapolis yo. NAGO te presize, nan premye kont rann li, otorite yo pa t di si gen sivil ki te frape.\n\nKatye Matisan an sou yon wout kle ki lye Pòtoprens ak sid ak lwès peyi a. Li anba kontwòl gang yo depi plis pase senk ane, jounal yo ekri.",
+      fr: "La Police nationale d'Haïti (PNH) dit que plus de 20 autres présumés membres de gang ont été « mortellement blessés » vendredi 20 novembre 2026 à Martissant 2A, dans une maison du secteur Vilaj, relaient NAGO et Le Nouvelliste, d'après une note de la police. Selon les chiffres de la police elle-même, cela porte à au moins 54 le nombre de personnes tuées ou « mortellement blessées » en deux jours à Martissant. Ces chiffres n'ont pas été vérifiés de manière indépendante.\n\nNAGO écrit, dans une mise à jour samedi, que l'offensive se poursuit sans pause, avec les unités SWAT, UTAG, UDMO, des cellules de la Task Force et une dizaine de véhicules blindés, dans le but de rouvrir la route du sud. La police n'a pas dit quand la circulation pourrait revenir à la normale sur la route nationale 2, dont une grande partie est sous le contrôle de gangs depuis 2021. Nous n'attribuons pas les morts de vendredi à un autre groupe que ce que relaient la note de police, NAGO et Le Nouvelliste.\n\nLa Police nationale d'Haïti (PNH) dit avoir tué 34 présumés membres de gang jeudi 19 novembre 2026, lors d'une opération à Martissant, au sud de Port-au-Prince, dans « une grande base » de Renel Destina, connu comme Ti Lapli, chef du gang de Grand-Ravine. NAGO relaie la vidéo publiée par la police, qui vise les zones de Martissant 2, 4 et 23: on y voit des blindés avancer dans les rues, puis une maison exploser, apparemment frappée par un drone. Ce bilan est celui de la police; il n'a pas été vérifié de manière indépendante. Les autorités n'ont pas dit si Ti Lapli figurait parmi les morts.\n\nSelon l'Associated Press et Al Jazeera, qui relaient aussi Reuters, la PNH a indiqué que ses officiers ont mené l'opération avec une task force antigang comprenant des membres de Vectus Global, une société de sécurité privée. Les mêmes sources écrivent que la police a dit qu'il n'y avait pas eu d'autres victimes, et qu'aucun des quelque 2 500 soldats salvadoriens présents en Haïti n'avait pris part à l'opération. Ce sont des déclarations de la police. NAGO avait précisé, dans son premier compte rendu, que les autorités n'avaient pas dit si des civils avaient été touchés.\n\nLe quartier de Martissant se trouve sur un axe qui relie Port-au-Prince au sud et à l'ouest du pays. Il est sous le contrôle de gangs depuis plus de cinq ans, écrivent ces journaux.",
     },
-    sources: ["NAGO", "Associated Press", "Al Jazeera", "Reuters"],
+    sources: ["NAGO", "Associated Press", "Al Jazeera", "Reuters", "Le Nouvelliste"],
     sourceLinks: [
       { name: "NAGO", url: "https://news.nago.tv/martissant-la-pnh-dit-avoir-tue-34-membres-de-gang-dans-une-base-de-ti-lapli" },
       { name: "Associated Press", url: "https://apnews.com/article/haiti-martissant-police-el-salvador-pnh-gangs-69cedb174f2b429b2ca0e9d5dadd4acb" },
       { name: "Al Jazeera", url: "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid" },
+      { name: "NAGO", url: "https://news.nago.tv/martissant-la-pnh-poursuit-son-operation-pour-rouvrir-la-route-du-sud" },
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/274138/offensive-a-matissant-plus-de-20-nouveaux-morts-dans-le-camp-des-bandits" },
     ],
   },
   {
@@ -324,54 +579,59 @@ export const STORIES: Story[] = [
     id: "qh-ueh-etudiants-rectorat-2026-11-20",
     tier: "quick-hit",
     topic: "society",
+    isFollowUp: true,
     publishedAt: "2026-11-20",
-    publishedTime: "2026-11-20T08:05:00-05:00",
+    publishedTime: "2026-11-21T14:13:00-05:00",
     headline: {
-      ht: "Etidyan UEH mache jouk rektorat la pou mande lokal diy, ak pneu k ap boule; lapolis te sou plas",
-      fr: "Des étudiants de l'UEH marchent jusqu'au rectorat pour demander des locaux dignes, des pneus brûlent; la police était sur place",
+      ht: "Rektorat UEH kondane zak vandalism jedi e li di yon anplwaye blese grav nan tèt",
+      fr: "Le rectorat de l'UEH condamne des actes de vandalisme jeudi et dit qu'un employé a été grièvement blessé à la tête",
     },
     teaser: {
-      ht: "Se dezyèm manifestasyon etidyan semèn sa a, apre FASCH lendi. Rektorat la poko reponn piblikman.",
-      fr: "C'est la deuxième manifestation étudiante de la semaine, après celle de la FASCH lundi. Le rectorat n'avait pas encore réagi publiquement.",
+      ht: "Nan yon nòt vandredi, rektorat la atribiye zak yo a etidyan FASCH. NAGO te pale jedi de etidyan etnoloji ak lòt fakilte.",
+      fr: "Dans une note vendredi, le rectorat attribue ces actes à des étudiants de la FASCH. NAGO avait parlé jeudi d'étudiants d'ethnologie et d'autres facultés.",
     },
     brief: {
-      ht: "Etidyan Fakilte etnoloji ak plizyè lòt fakilte Inivèsite Leta Ayiti te manifeste jedi 19 novanm jouk devan rektorat la, pou mande lokal diy ak kondisyon pou etidye, NAGO relè. Se dezyèm mobilizasyon etidyan semèn sa a, apre FASCH lendi.",
-      fr: "Des étudiants de la Faculté d'ethnologie et de plusieurs autres facultés de l'Université d'État d'Haïti ont manifesté jeudi 19 novembre jusqu'au rectorat, pour réclamer des locaux dignes et des conditions pour étudier, relaie NAGO. C'est la deuxième mobilisation étudiante de la semaine, après celle de la FASCH lundi.",
+      ht: "Rektorat Inivèsite Leta Ayiti te kondane vandredi 20 novanm zak vandalism ak agresyon li di ki te fèt nan lokal li yo jedi, pandan yon manifestasyon, Le Nouvelliste relè. Li atribiye zak yo a etidyan Fakilte syans imèn (FASCH), e li di yon anplwaye te blese grav nan tèt.",
+      fr: "Le rectorat de l'Université d'État d'Haïti a condamné vendredi 20 novembre des actes de vandalisme et d'agression qu'il dit avoir été commis dans ses locaux jeudi, lors d'une manifestation, relaie Le Nouvelliste. Il les attribue à des étudiants de la Faculté des sciences humaines (FASCH), et dit qu'un employé a été grièvement blessé à la tête.",
     },
     body: {
-      ht: "Etidyan Fakilte etnoloji ak plizyè lòt fakilte Inivèsite Leta Ayiti (UEH) te manifeste jedi 19 novanm 2026 nan lari Pòtoprens, jouk devan rektorat inivèsite a, NAGO relè. Yo mande lokal diy ak kondisyon ki adapte pou etidye.\n\nImaj sou plas yo montre etidyan ak pankat devan pòtay rektorat la, pneu k ap boule nan lari a, epi pita manifestan k ap kouri pandan polisye yo deplwaye nan sektè a, jounal la ekri.\n\nSe dezyèm mobilizasyon etidyan UEH nan kèk jou. Lendi 16 novanm, etidyan Fakilte syans imèn (FASCH) te manifeste nan Petyonvil kont kondisyon aprantisaj yo, e lapolis te sèvi ak gaz lakrimojèn pou gaye mouvman an, NAGO sonje. Ni rektorat UEH ni Ministè Edikasyon nasyonal pa t reaji piblikman sou manifestasyon jedi a, nan moman NAGO te pibliye.",
-      fr: "Des étudiants de la Faculté d'ethnologie et de plusieurs autres facultés de l'Université d'État d'Haïti (UEH) ont manifesté jeudi 19 novembre 2026 dans les rues de Port-au-Prince, jusqu'au rectorat de l'université, relaie NAGO. Ils réclament des locaux dignes de ce nom et des conditions adaptées pour étudier.\n\nLes images tournées sur place montrent des étudiants, pancartes en main, devant le portail du rectorat, des pneus enflammés dans la rue, puis des manifestants qui courent tandis que des policiers sont déployés dans le secteur, écrit le journal.\n\nC'est la deuxième mobilisation d'étudiants de l'UEH en quelques jours. Le lundi 16 novembre, les étudiants de la Faculté des sciences humaines (FASCH) avaient manifesté à Pétion-Ville contre leurs conditions d'apprentissage, et la police avait utilisé du gaz lacrymogène pour disperser le mouvement, rappelle NAGO. Ni le rectorat de l'UEH ni le ministère de l'Éducation nationale n'avaient réagi publiquement à la manifestation de jeudi, au moment de la publication de NAGO.",
+      ht: "Rektorat Inivèsite Leta Ayiti (UEH) te kondane vandredi 20 novanm 2026 zak vandalism ak agresyon li di ki te fèt nan lokal li yo jedi, pandan yon manifestasyon, Le Nouvelliste ak HaitiLibre relè. Dapre rektorat la, se etidyan Fakilte syans imèn (FASCH) ki te voye wòch ak boutèy, ki te blese yon anplwaye grav nan tèt, ki te domaje machin ak fenèt, epi ki te kraze baryè prensipal la, ak kout mas tou, HaitiLibre presize. Rektorat la di li rekonèt dwa pou manifeste nan kalm, men li kondane vyolans sa yo, epi li di li kòmanse demach ak responsab FASCH pou reponn revandikasyon etidyan yo.\n\nSe rektorat la ki atribiye zak jedi yo a etidyan FASCH. NAGO, nan premye kont rann li jedi, te pale de etidyan Fakilte etnoloji ak plizyè lòt fakilte devan rektorat la. Nou kenbe de lekti sa yo, nou pa trete idantite manifestan yo kòm yon pwen deja tranchyen.\n\nEtidyan Fakilte etnoloji ak plizyè lòt fakilte Inivèsite Leta Ayiti (UEH) te manifeste jedi 19 novanm 2026 nan lari Pòtoprens, jouk devan rektorat inivèsite a, NAGO relè. Yo mande lokal diy ak kondisyon ki adapte pou etidye.\n\nImaj sou plas yo montre etidyan ak pankat devan pòtay rektorat la, pneu k ap boule nan lari a, epi pita manifestan k ap kouri pandan polisye yo deplwaye nan sektè a, jounal la ekri.\n\nSe dezyèm mobilizasyon etidyan UEH nan kèk jou. Lendi 16 novanm, etidyan Fakilte syans imèn (FASCH) te manifeste nan Petyonvil kont kondisyon aprantisaj yo, e lapolis te sèvi ak gaz lakrimojèn pou gaye mouvman an, NAGO sonje. Ni rektorat UEH ni Ministè Edikasyon nasyonal pa t reaji piblikman sou manifestasyon jedi a, nan moman NAGO te pibliye.",
+      fr: "Le rectorat de l'Université d'État d'Haïti (UEH) a condamné vendredi 20 novembre 2026 des actes de vandalisme et d'agression qu'il dit avoir été commis dans ses locaux jeudi, lors d'une manifestation, relaient Le Nouvelliste et HaitiLibre. Selon le rectorat, des étudiants de la Faculté des sciences humaines (FASCH) ont lancé des pierres et des bouteilles, grièvement blessé un employé à la tête, endommagé des véhicules et des fenêtres, et saccagé la barrière principale, notamment à coups de masse, précise HaitiLibre. Le rectorat dit reconnaître le droit de manifester pacifiquement, mais condamne ces violences, et affirme avoir engagé des démarches avec les responsables de la FASCH pour répondre aux revendications des étudiants.\n\nC'est le rectorat qui attribue les actes de jeudi à des étudiants de la FASCH. NAGO, dans son premier compte rendu jeudi, avait parlé d'étudiants de la Faculté d'ethnologie et de plusieurs autres facultés, devant le rectorat. Nous gardons ces deux lectures, nous ne tenons pas l'identité des manifestants pour un point déjà tranché.\n\nDes étudiants de la Faculté d'ethnologie et de plusieurs autres facultés de l'Université d'État d'Haïti (UEH) ont manifesté jeudi 19 novembre 2026 dans les rues de Port-au-Prince, jusqu'au rectorat de l'université, relaie NAGO. Ils réclament des locaux dignes de ce nom et des conditions adaptées pour étudier.\n\nLes images tournées sur place montrent des étudiants, pancartes en main, devant le portail du rectorat, des pneus enflammés dans la rue, puis des manifestants qui courent tandis que des policiers sont déployés dans le secteur, écrit le journal.\n\nC'est la deuxième mobilisation d'étudiants de l'UEH en quelques jours. Le lundi 16 novembre, les étudiants de la Faculté des sciences humaines (FASCH) avaient manifesté à Pétion-Ville contre leurs conditions d'apprentissage, et la police avait utilisé du gaz lacrymogène pour disperser le mouvement, rappelle NAGO. Ni le rectorat de l'UEH ni le ministère de l'Éducation nationale n'avaient réagi publiquement à la manifestation de jeudi, au moment de la publication de NAGO.",
     },
-    sources: ["NAGO"],
+    sources: ["NAGO", "Le Nouvelliste", "HaitiLibre"],
     sourceLinks: [
       { name: "NAGO", url: "https://news.nago.tv/ueh-les-etudiants-d-ethnologie-et-d-autres-facultes-manifestent-devant-le-rectorat" },
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/274120/le-rectorat-de-lueh-condamne-les-actes-de-vandalisme-commis-dans-ses-locaux-lors-dune-manifestation-detudiants-de-la-fasch" },
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48947-haiti-actualite-zapping.html" },
     ],
   },
   {
     id: "qh-ona-employes-protestation-francois-2026-11-20",
     tier: "quick-hit",
     topic: "society",
+    isFollowUp: true,
     publishedAt: "2026-11-20",
-    publishedTime: "2026-11-20T08:04:00-05:00",
+    publishedTime: "2026-11-21T14:14:00-05:00",
     headline: {
-      ht: "Anplwaye ONA fèmen plizyè biwo pou konteste jesyon Lovely François",
-      fr: "Des employés de l'ONA ferment plusieurs bureaux pour contester la gestion de Lovely François",
+      ht: "Grèv nan ONA: anplwaye yo kenbe mobilizasyon an vandredi epi yo mande demisyon Lovely François",
+      fr: "Grève à l'ONA: les employés maintiennent la mobilisation vendredi et demandent la démission de Lovely François",
     },
     teaser: {
-      ht: "Se Vant Bèf Info sèl sous nou genyen. Direksyon an pa t reponn, nan nòt jounal la.",
-      fr: "Vant Bèf Info est notre seule source. La direction n'avait pas répondu, dans la note du journal.",
+      ht: "NAGO relè dezyèm jou a. Sendika yo mande yon ankèt sou jesyon an, epi yo mande Premye minis la pran pozisyon.",
+      fr: "NAGO relaie ce deuxième jour. Les syndicats demandent une enquête sur la gestion, et appellent le Premier ministre à prendre position.",
     },
     brief: {
-      ht: "Plizyè biwo Ofis nasyonal asirans vyeyès (ONA), sitou nan pwovens, te bloke jedi 19 novanm apre yon protestasyon anplwaye ki konteste jesyon direktè jeneral Lovely François, Vant Bèf Info relè.",
-      fr: "Plusieurs bureaux de l'Office national d'assurance vieillesse (ONA), notamment en province, ont été paralysés jeudi 19 novembre après une protestation d'employés qui contestent la gestion de la directrice générale Lovely François, relaie Vant Bèf Info.",
+      ht: "Aktivite Ofis nasyonal asirans vyeyès (ONA) te rete bloke vandredi 20 novanm, nan dezyèm jou yon grèv anplwaye yo, NAGO relè. Yo mande demisyon direktè jeneral Lovely François, ak ouvèti yon ankèt sou jesyon li.",
+      fr: "Les activités de l'Office national d'assurance-vieillesse (ONA) sont restées paralysées vendredi 20 novembre, au deuxième jour d'une grève d'employés, relaie NAGO. Ils réclament la démission de la directrice générale Lovely François, et l'ouverture d'une enquête sur sa gestion.",
     },
     body: {
-      ht: "Plizyè biwo Ofis nasyonal asirans vyeyès (ONA), sitou nan vil pwovens yo, te bloke jedi 19 novanm 2026 apre yon protestasyon anplwaye, Vant Bèf Info relè. Yo mande chanjman nan jesyon enstitisyon an epi yo denonse plizyè desizyon yo atribiye a direktè jeneral la, Lovely François. Se yon kont rann yon sèl sous.\n\nDapre jounal la, nan kè mekontantman an gen sispansyon plizyè kategori kredi anplwaye yo te konn jwenn, blòkaj pwomosyon ki te kòmanse sou ansyen administrasyon an, ak frè kat debit yo. Kontestè yo pale tou de avantaj sosyal, tankou yon alokasyon fen ane.\n\nJounal la ekri anplwaye yo di kèk ansyen pèsonèl k ap tann chèk pansyon yo depi anviwon kat mwa. Yo etabli yon lyen ak lanmò yon pansyonè; Vant Bèf Info menm presize akizasyon sa a bezwen verifikasyon endepandan. Nou pa pran l kòm yon reyalite etabli.\n\nNòt la ajoute mobilizasyon an vini kèk jou apre yo te entèpele Béthie Milot, yon anplwaye ki ta eksprime revandikasyon li yo devan direksyon an, epi yo ta lage l apre kolèg li yo te mobilize. Direksyon jeneral la pa t reponn akizasyon yo, nan enfòmasyon jounal la te genyen.",
-      fr: "Plusieurs bureaux de l'Office national d'assurance vieillesse (ONA), notamment dans des villes de province, ont été paralysés jeudi 19 novembre 2026 après une protestation d'employés, relaie Vant Bèf Info. Ils demandent des changements dans la gestion de l'institution et dénoncent plusieurs décisions attribuées à la directrice générale, Lovely François. C'est un compte rendu d'une seule source.\n\nSelon le journal, au cœur du mécontentement figurent la suspension de plusieurs catégories de prêts jusqu'alors accessibles au personnel, le blocage de procédures de promotion engagées sous l'ancienne administration, et les frais liés aux cartes de débit. Les contestataires évoquent aussi des avantages sociaux, dont une allocation de fin d'année.\n\nLe journal écrit que des employés affirment que certains anciens membres du personnel attendent depuis environ quatre mois le paiement de leurs chèques de pension. Ils établissent un lien avec le décès d'un pensionné; Vant Bèf Info précise elle-même que cette accusation nécessite des vérifications indépendantes. Nous ne la tenons pas pour un fait établi.\n\nLa note ajoute que cette mobilisation survient quelques jours après l'interpellation de Béthie Milot, une employée qui aurait exprimé ses revendications devant la direction, et qui aurait été relâchée après une mobilisation de ses collègues. La direction générale n'avait pas répondu aux accusations, dans les informations dont le journal disposait.",
+      ht: "Aktivite Ofis nasyonal asirans vyeyès (ONA) te rete bloke vandredi 20 novanm 2026, nan dezyèm jou yon grèv anplwaye yo te lanse jedi, NAGO relè. Biwo nan Pòtoprens ak nan plizyè vil pwovens, tankou Okay, te touche. Protestatè yo mande demisyon direktè jeneral Lovely François, epi yo mande yon ankèt sou jesyon li. Yo di yo ka kontinye grèv la jouk yo ranplase l.\n\nSendika nasyonal ONA (Pitit ONA) ak Vwa Travayè ONA (VTO) mande direksyon an revize desizyon li yo epi antre nan diskisyon ak pèsonèl la, NAGO ekri. Anplwaye yo mande Premye minis Alix Didier Fils-Aimé pran pozisyon sou kriz la. Se yon kont rann NAGO, sou yon mobilizasyon travay. Nou pa relè okenn lòt dosye ki pa nan nòt sa a.\n\nPlizyè biwo Ofis nasyonal asirans vyeyès (ONA), sitou nan vil pwovens yo, te bloke jedi 19 novanm 2026 apre yon protestasyon anplwaye, Vant Bèf Info relè. Yo mande chanjman nan jesyon enstitisyon an epi yo denonse plizyè desizyon yo atribiye a direktè jeneral la, Lovely François. Se yon kont rann yon sèl sous.\n\nDapre jounal la, nan kè mekontantman an gen sispansyon plizyè kategori kredi anplwaye yo te konn jwenn, blòkaj pwomosyon ki te kòmanse sou ansyen administrasyon an, ak frè kat debit yo. Kontestè yo pale tou de avantaj sosyal, tankou yon alokasyon fen ane.\n\nJounal la ekri anplwaye yo di kèk ansyen pèsonèl k ap tann chèk pansyon yo depi anviwon kat mwa. Yo etabli yon lyen ak lanmò yon pansyonè; Vant Bèf Info menm presize akizasyon sa a bezwen verifikasyon endepandan. Nou pa pran l kòm yon reyalite etabli.\n\nNòt la ajoute mobilizasyon an vini kèk jou apre yo te entèpele Béthie Milot, yon anplwaye ki ta eksprime revandikasyon li yo devan direksyon an, epi yo ta lage l apre kolèg li yo te mobilize. Direksyon jeneral la pa t reponn akizasyon yo, nan enfòmasyon jounal la te genyen.",
+      fr: "Les activités de l'Office national d'assurance-vieillesse (ONA) sont restées paralysées vendredi 20 novembre 2026, au deuxième jour d'une grève lancée jeudi par des employés, relaie NAGO. Des bureaux à Port-au-Prince et dans plusieurs villes de province, dont Les Cayes, ont été touchés. Les protestataires réclament la démission de la directrice générale, Lovely François, et demandent l'ouverture d'une enquête sur sa gestion. Ils disent qu'ils peuvent poursuivre la grève jusqu'à son remplacement.\n\nLe Syndicat national de l'ONA (Pitit ONA) et Vwa Travayè ONA (VTO) ont appelé la direction à revoir ses décisions et à engager des discussions avec le personnel, écrit NAGO. Les employés demandent au Premier ministre Alix Didier Fils-Aimé de prendre position sur cette crise. C'est un compte rendu de NAGO, sur un conflit du travail. Nous ne relayons aucun autre dossier qui n'est pas dans cette note.\n\nPlusieurs bureaux de l'Office national d'assurance vieillesse (ONA), notamment dans des villes de province, ont été paralysés jeudi 19 novembre 2026 après une protestation d'employés, relaie Vant Bèf Info. Ils demandent des changements dans la gestion de l'institution et dénoncent plusieurs décisions attribuées à la directrice générale, Lovely François. C'est un compte rendu d'une seule source.\n\nSelon le journal, au cœur du mécontentement figurent la suspension de plusieurs catégories de prêts jusqu'alors accessibles au personnel, le blocage de procédures de promotion engagées sous l'ancienne administration, et les frais liés aux cartes de débit. Les contestataires évoquent aussi des avantages sociaux, dont une allocation de fin d'année.\n\nLe journal écrit que des employés affirment que certains anciens membres du personnel attendent depuis environ quatre mois le paiement de leurs chèques de pension. Ils établissent un lien avec le décès d'un pensionné; Vant Bèf Info précise elle-même que cette accusation nécessite des vérifications indépendantes. Nous ne la tenons pas pour un fait établi.\n\nLa note ajoute que cette mobilisation survient quelques jours après l'interpellation de Béthie Milot, une employée qui aurait exprimé ses revendications devant la direction, et qui aurait été relâchée après une mobilisation de ses collègues. La direction générale n'avait pas répondu aux accusations, dans les informations dont le journal disposait.",
     },
-    sources: ["Vant Bèf Info"],
+    sources: ["Vant Bèf Info", "NAGO"],
     sourceLinks: [
       { name: "Vant Bèf Info", url: "https://vantbefinfo.com/haiti-ona-des-employes-paralysent-plusieurs-bureaux-pour-contester-la-gestion-de-lovely-francois/" },
+      { name: "NAGO", url: "https://news.nago.tv/greve-a-l-ona-les-employes-maintiennent-leur-mobilisation-contre-lovel" },
     ],
   },
   {
@@ -2406,6 +2666,7 @@ export const STORIES: Story[] = [
     topic: "security",
     publishedAt: "2026-11-13",
     publishedTime: "2026-11-13T23:28:00-05:00",
+    archived: true,
     headline: {
       ht: "Viv Ansanm ta menase depo gaz Varreux, Fontamara ak Thorland, Le P'tit Journal Haïti rapòte",
       fr: "Viv Ansanm menacerait les dépôts de carburant de Varreux, Fontamara et Thorland, selon Le P'tit Journal Haïti",
@@ -2466,6 +2727,7 @@ export const STORIES: Story[] = [
     topic: "politics",
     publishedAt: "2026-11-13",
     publishedTime: "2026-11-13T23:24:00-05:00",
+    archived: true,
     headline: {
       ht: "Kanada reyini plis pase 100 patnè diplomatik pou sipòte FRG/GSF",
       fr: "Le Canada réunit plus de 100 partenaires diplomatiques en soutien à la GSF",
@@ -2494,6 +2756,7 @@ export const STORIES: Story[] = [
     topic: "governance",
     publishedAt: "2026-11-13",
     publishedTime: "2026-11-13T23:22:00-05:00",
+    archived: true,
     headline: {
       ht: "CSC/CA: se Palman an, se pa Lakou a, ki ka bay ansyen minis yo dechaj",
       fr: "CSC/CA : c'est au Parlement, pas à la Cour, d'accorder la décharge aux anciens ministres",
@@ -2524,6 +2787,7 @@ export const STORIES: Story[] = [
     topic: "economy",
     publishedAt: "2026-11-13",
     publishedTime: "2026-11-13T23:20:00-05:00",
+    archived: true,
     headline: {
       ht: "Christopher Landau: Ayiti p ap atire gwo envestisman prive toutotan gang yo kenbe kontwòl",
       fr: "Christopher Landau : Haïti n'attirera pas de gros investissements privés tant que les gangs tiendront le contrôle",
@@ -2552,6 +2816,7 @@ export const STORIES: Story[] = [
     topic: "politics",
     publishedAt: "2026-11-13",
     publishedTime: "2026-11-13T23:18:00-05:00",
+    archived: true,
     headline: {
       ht: "Salomon, Gué ak Sanon pami 30 enskripsyon preliminè pou prezidans lan; delè a se 15 novanm",
       fr: "Salomon, Gué et Sanon parmi 30 inscriptions préliminaires à la présidence; clôture le 15 novembre",
@@ -2580,6 +2845,7 @@ export const STORIES: Story[] = [
     topic: "economy",
     publishedAt: "2026-11-13",
     publishedTime: "2026-11-13T23:16:00-05:00",
+    archived: true,
     headline: {
       ht: "BRH: 130,79 goud pou 1 dola; sikilè 126 raple règle sekirite enfòmatik bank yo",
       fr: "BRH : 130,79 gourdes pour 1 dollar; la circulaire 126 rappelle les règles de sécurité informatique des banques",
@@ -2609,6 +2875,7 @@ export const STORIES: Story[] = [
     topic: "economy",
     publishedAt: "2026-11-13",
     publishedTime: "2026-11-13T23:14:00-05:00",
+    archived: true,
     headline: {
       ht: "Taïwan ap kontinye enspekte jaden semans diri nan Latibonit",
       fr: "Taïwan poursuit les inspections des champs de semences de riz dans l'Artibonite",
@@ -2636,6 +2903,7 @@ export const STORIES: Story[] = [
     topic: "society",
     publishedAt: "2026-11-13",
     publishedTime: "2026-11-13T23:12:00-05:00",
+    archived: true,
     headline: {
       ht: "Chili: minisipalite Maipú ak anbasad Ayiti pale de reenstalasyon fanmi ayisyen yo",
       fr: "Chili : la municipalité de Maipú et l'ambassade d'Haïti évoquent la réinstallation de familles haïtiennes",
@@ -2663,6 +2931,7 @@ export const STORIES: Story[] = [
     topic: "society",
     publishedAt: "2026-11-13",
     publishedTime: "2026-11-13T23:10:00-05:00",
+    archived: true,
     headline: {
       ht: "Festival Quatre Chemins ap dire jiska 5 desanm; pasteur Amel Lafleur ta mouri nan Kanada, NAGO relè",
       fr: "Le Festival Quatre Chemins court jusqu'au 5 décembre; le pasteur Amel Lafleur serait mort au Canada, selon NAGO",
@@ -2726,6 +2995,7 @@ export const STORIES: Story[] = [
     topic: "security",
     publishedAt: "2026-11-13",
     publishedTime: "2026-11-14T08:25:00-05:00",
+    archived: true,
     isFollowUp: true,
     headline: {
       ht: "Vandredi swa: eksplozyon ak drone nan Matisan, elikoptè salvadoryen sou Vilaj de Dye, Gran Ravin ak Fontamara",
@@ -2764,6 +3034,7 @@ export const STORIES: Story[] = [
     topic: "security",
     publishedAt: "2026-11-13",
     publishedTime: "2026-11-13T09:14:40-05:00",
+    archived: true,
     headline: {
       ht: "BINUH: omwen 1167 moun mouri ak 459 blese ant jiyè ak septanm; plis pase mwatye nan operasyon fòs sekirite yo",
       fr: "BINUH : au moins 1167 personnes tuées et 459 blessées entre juillet et septembre ; plus de la moitié lors d'opérations des forces de sécurité",
@@ -2791,6 +3062,7 @@ export const STORIES: Story[] = [
     topic: "security",
     publishedAt: "2026-11-13",
     publishedTime: "2026-11-13T09:14:20-05:00",
+    archived: true,
     headline: {
       ht: "Kenscoff: Premye minis Fils-Aimé vizite baz sekirite avanse Téléco a, ak Inyon ewopeyen ak OEA",
       fr: "Kenscoff : le Premier ministre Fils-Aimé visite la base de sécurité avancée de Téléco, avec l'UE et l'OEA",
@@ -2864,6 +3136,7 @@ export const STORIES: Story[] = [
     topic: "society",
     publishedAt: "2026-11-13",
     publishedTime: "2026-11-13T09:13:40-05:00",
+    archived: true,
     headline: {
       ht: "Yon mach sipò pou Nayib Bukele anonse mardi 17 novanm nan Pòtoprens",
       fr: "Une marche de soutien à Nayib Bukele annoncée pour le mardi 17 novembre à Port-au-Prince",
@@ -2893,6 +3166,7 @@ export const STORIES: Story[] = [
     isFollowUp: true,
     publishedAt: "2026-11-13",
     publishedTime: "2026-11-20T08:03:00-05:00",
+    archived: true,
     headline: {
       ht: "Lise Marie Jeanne dwe relouvri nan desanm, apre 3 ane kòm kan deplase, Premye minis la anonse",
       fr: "Le lycée Marie Jeanne doit rouvrir en décembre, après 3 ans comme camp de déplacés, le Premier ministre l'annonce",
@@ -3592,6 +3866,7 @@ export const STORIES: Story[] = [
     topic: "politics",
     publishedAt: "2026-11-13",
     publishedTime: "2026-11-13T09:14:10-05:00",
+    archived: true,
     headline: {
       ht: "G7 ak UE, nan Pari: yo soutni GSF jouk mas 2027 epi yo enkyete pou enskripsyon moun ki sanksyone; deklarasyon an pa site twoup salvadoryen yo",
       fr: "G7 et UE, à Paris : soutien à la GSF jusqu'en mars 2027 et inquiétude sur des inscriptions sanctionnées ; la déclaration ne cite pas les troupes salvadoriennes",
@@ -3773,6 +4048,7 @@ export const STORIES: Story[] = [
     topic: "society",
     publishedAt: "2026-11-13",
     publishedTime: "2026-11-13T09:13:10-05:00",
+    archived: true,
     headline: {
       ht: "USFAH: yon lopital soti tè a nan Dilma 75, ouvèti a anonse toujou kòm « pwòch », Le Nouvelliste ekri",
       fr: "USFAH : un hôpital sort de terre à Delmas 75, l'ouverture encore annoncée comme « prochaine », écrit Le Nouvelliste",
@@ -7534,9 +7810,9 @@ export const FRONT_PAGE_PER_SECTION = 4;
  */
 export const FRONT_PAGE_PIN_IDS = [
   "opinion-cassation-jemley-jean-baptiste-2026-11-16",
+  "ntk-soldats-salvadoriens-explosion-camp-2026-11-21",
   "ntk-pnh-martissant-34-ti-lapli-2026-11-20",
   "ntk-ambassade-usa-alerte-tabarre-cdb-2026-11-20",
-  "ntk-frg-base-rn1-tabarre-artibonite-2026-11-20",
 ] as const;
 
 export function frontPageLeads(): Story[] {
@@ -7551,7 +7827,7 @@ export function frontPageLeads(): Story[] {
 
 export function needToKnowStories(): Story[] {
   // Standing rule: Sports stories never take top-story (Need to Know) slots; they live only in the Sports section.
-  // 20 Nov 2026: the BAJ Cassation opinion stays at #1, then the PNH Martissant operation, the U.S. Embassy security alert, and the FRG base on RN1.
+  // 21 Nov 2026: the BAJ Cassation opinion stays at #1, then the Salvadoran camp explosion, the Martissant operation SUIVI, and the U.S. Embassy security alert.
   const list = sortNewestFirst(STORIES.filter((s) => !s.archived && s.tier === "need-to-know" && s.topic !== "sports"));
   FRONT_PAGE_PIN_IDS.forEach((id, pos) => {
     const at = list.findIndex((s) => s.id === id);
