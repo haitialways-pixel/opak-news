@@ -47,6 +47,144 @@ export const STORIES: Story[] = [
   },
 
   {
+    id: "ntk-lekens-ambassadeur-france-sanctions-2026-11-22",
+    tier: "need-to-know",
+    topic: "politics",
+    publishedAt: "2026-11-22",
+    publishedTime: "2026-11-22T08:10:00-05:00",
+    headline: {
+      ht: "Gautier Lekens: chwazi yon kandida Inyon ewopeyen sanksyone « ka gen enplikasyon » pou koperasyon ak Frans",
+      fr: "Gautier Lekens: élire un candidat sanctionné par l'UE « peut avoir des implications » pour la coopération avec la France",
+    },
+    teaser: {
+      ht: "Nan yon antretyen videyo Haiti Inter pibliye samdi, NAGO relè, anbasadè a di Ayisyen yo rete lib pou fikse règle elijibilite yo, men sa ka manyen koperasyon an.",
+      fr: "Dans un entretien vidéo publié samedi par Haiti Inter, relaté par NAGO, l'ambassadeur dit que les Haïtiens restent libres de fixer les règles d'éligibilité, mais que cela peut toucher la coopération.",
+    },
+    brief: {
+      ht: "Anbasadè Frans ann Ayiti, Gautier Lekens, avèti: chwazi yon kandida Inyon ewopeyen sanksyone « ka gen enplikasyon » sou relasyon ak Frans, NAGO relè, sou yon long antretyen videyo Haiti Inter pibliye samdi. Li di Ayisyen yo « pafètman lib » pou yo deklare elijib moun yo vle, men « an tèm koperasyon, evidamman sa ka gen yon enpak ».",
+      fr: "L'ambassadeur de France en Haïti, Gautier Lekens, met en garde: élire un candidat sanctionné par l'Union européenne « peut avoir des implications » sur la relation avec la France, relaie NAGO, d'après un long entretien vidéo publié samedi par Haiti Inter. Les Haïtiens sont « parfaitement libres » de déclarer éligibles qui ils veulent, précise-t-il, mais « en termes de coopération, évidemment ça peut avoir un impact ».",
+    },
+    body: {
+      ht: "Nan yon long antretyen videyo Haiti Inter pibliye samdi, ke NAGO relè dimanch, anbasadè Frans ann Ayiti, Gautier Lekens, avèti: chwazi yon kandida Inyon ewopeyen sanksyone « ka gen enplikasyon » sou relasyon ak Frans. Li presize Ayisyen yo « pafètman lib » pou yo deklare elijib moun yo vle, men « an tèm koperasyon, evidamman sa ka gen yon enpak ».\n\nLi raple rejim sanksyon Frans se rejim ewopeyen an: yon moun mezi restriktif Inyon ewopeyen vize, tout eta manm yo vize l tou. Lè yo poze l kesyon sou yon ansyen prezidan ayisyen Etazini ak Kanada deja sanksyone, li di moun sa a tou sou lis ewopeyen an. NAGO pa bay non l, nou pa ajoute l. Dapre li, minis G7 yo te bay yon mesaj ki sanble kèk jou de sa.\n\nSou prezans militè salvadoryen yo, Lekens di « se yon desizyon souverèn Ayiti te pran lè l te fè apèl ak Salvador ». Frans, li di, pito mize sou Fòs represyon gang yo (FRG), li kontribye finanse: kontenjan srilankè yo rive dènyèman, kontenjan ivwaryen yo tann nan desanm, e fòs la ta dwe rive prèske tout efèktif li anvan fen ane a. Li mande « yon ti pasyans ankò », epi li ensiste sou kowòdinasyon ant Salvadoryen yo, FRG, PNH, FAd'H ak task force la, pou evite kout zam zanmi epi pou respekte dwa konfli ame yo. Se pawòl anbasadè a.\n\nLi dekri yon amelyorasyon vizib depi kèk mwa nan plizyè zòn nan rejyon metwopolitèn nan, sitou Champ-de-Mars, nan sant vil la, ak Kenscoff, men li jije sitiyasyon an pi konplike nan Latibonit. Anbasad Frans, ki loje depi yon ane nan delegasyon Inyon ewopeyen an, espere tounen Champ-de-Mars « yon fwa tout kondisyon sekirite yo pèmèt sa »; desizyon an poko pran.\n\nSou lide ke pwisans oksidantal yo t ap deside politik ayisyen an, li reponn sa « soti swa nan yon fantasm, swa nan yon lide ki totalman fo ». Core Group la, kote Etazini, Kanada ak Frans chita, se yon sèk enfòmèl pou echanj enfòmasyon ak kowòdinasyon, dapre li. Pou koperasyon, li bay chif prèske 50 milyon ewo envesti an 2025 nan pwojè konkret, san konte fòmasyon lapolis ak militè, san konte kontribisyon nan fon sipò FRG. Militè ayisyen yo swiv fòmasyon nan Matinik, twa a kat fwa pa ane. Prèske 1 000 Fransè toujou ap viv ann Ayiti, dapre li.\n\nSou dèt endepandans lan, li voye sou komisyon mixt istoryen franko-ayisyen yo te kreye an 2025, senk istoryen ayisyen ak senk fransè, ak rekòmandasyon yo tann anvan fen ane a oswa nan kòmansman ane pwochèn. Li di li pa ka devanse kontni rapò a, e restitisyon p ap sèl sijè a. Li nan pòs depi 7 septanm. Li regrèt yo souvan redwi Ayiti a sitiyasyon sekirite a: « Ayiti, se anpil plis pase sa », li di. Se NAGO ki relè antretyen Haiti Inter la; nou pa jwenn paj videyo Haiti Inter la pou kont li.",
+      fr: "Dans un long entretien vidéo publié samedi par Haiti Inter, que NAGO relaie dimanche, l'ambassadeur de France en Haïti, Gautier Lekens, met en garde: élire un candidat sanctionné par l'Union européenne « peut avoir des implications » sur la relation avec la France. Les Haïtiens sont « parfaitement libres » de déclarer éligibles qui ils veulent, précise-t-il, mais « en termes de coopération, évidemment ça peut avoir un impact ».\n\nLe diplomate rappelle que le régime de sanctions de la France est européen: une personne visée par des mesures restrictives de l'Union européenne l'est par tous ses États membres. Interrogé sur un ancien président haïtien déjà sanctionné par les États-Unis et le Canada, il a indiqué que cette personne figure aussi sur la liste européenne. NAGO ne le nomme pas, et nous n'ajoutons pas de nom. Selon lui, les ministres du G7 ont tenu un message similaire il y a quelques jours.\n\nSur la présence des militaires salvadoriens, M. Lekens estime que « c'est une décision souveraine d'Haïti d'avoir fait appel au Salvador ». La France, dit-il, mise plutôt sur la Force de répression des gangs (FRG), qu'elle finance en partie: des contingents sri-lankais sont arrivés récemment, des contingents ivoiriens sont attendus en décembre, et la force devrait atteindre presque tout son effectif d'ici la fin de l'année. Il appelle à « encore un peu de patience » et insiste sur la coordination entre les Salvadoriens, la FRG, la PNH, les FAd'H et la task force, pour éviter les tirs amis et respecter le droit des conflits armés. Ce sont ses propos.\n\nL'ambassadeur décrit une amélioration visible depuis quelques mois dans plusieurs zones de la région métropolitaine, notamment au Champ-de-Mars, dans le centre-ville et à Kenscoff, tout en jugeant la situation plus compliquée dans l'Artibonite. L'ambassade de France, hébergée depuis un an par la délégation de l'Union européenne, espère revenir au Champ-de-Mars « une fois que toutes les conditions sécuritaires le permettront »; la décision n'est pas prise.\n\nInterrogé sur l'idée, répandue, que les puissances occidentales décideraient de la politique haïtienne, il répond que « ça relève soit du fantasme soit d'une idée totalement erronée ». Le Core Group, qui réunit notamment les États-Unis, le Canada et la France, n'est selon lui qu'un cercle informel d'échange d'informations et de coordination. Côté coopération, il chiffre l'action de la France en Haïti à près de 50 millions d'euros investis en 2025 dans des projets concrets, hors formation de la police et des militaires et hors contribution au fonds de soutien à la FRG. Des militaires haïtiens suivent aussi, trois à quatre fois par an, des formations en Martinique. Près de 1 000 Français vivent toujours en Haïti, selon lui.\n\nSur la dette de l'indépendance, il renvoie à la commission mixte d'historiens franco-haïtienne créée en 2025, composée de cinq historiens haïtiens et de cinq historiens français, dont les recommandations sont attendues d'ici la fin de l'année ou au début de l'an prochain. Il dit ne pas pouvoir en anticiper le contenu et estime que la restitution ne sera pas le seul sujet de ce rapport. En poste depuis le 7 septembre, M. Lekens regrette qu'Haïti soit souvent réduit à la situation sécuritaire: « Haïti, c'est beaucoup plus que ça », dit-il. C'est NAGO qui relaie l'entretien d'Haiti Inter; nous n'avons pas retrouvé la page ou la vidéo d'Haiti Inter elle-même.",
+    },
+    sources: ["NAGO", "Haiti Inter"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/l-ambassadeur-de-france-gautier-lekens-regrette-une-image-d-haiti-reduite-aux-gangs" },
+    ],
+  },
+  {
+    id: "qh-cherubin-calendrier-bluff-cep-2026-11-22",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-22",
+    publishedTime: "2026-11-22T08:07:00-05:00",
+    headline: {
+      ht: "Dieupie Chérubin trete kalandriye elektoral 2027 la kòm « blòf » epi li mande depa Fils-Aimé ak CEP",
+      fr: "Dieupie Chérubin traite le calendrier électoral de 2027 de « bluff » et demande le départ de Fils-Aimé et du CEP",
+    },
+    teaser: {
+      ht: "Se pozisyon ansyen senatè a, vandredi maten sou Radio Mega. Pwen sou yon prezans salvadoryen jiska oktòb 2027 poko konfime; li renvwaye sou yon lwa 29 septanm nan Salvador.",
+      fr: "C'est la position de l'ancien sénateur, vendredi matin sur Radio Mega. Le point sur une présence salvadorienne jusqu'en octobre 2027 n'est pas confirmé; il renvoie à une loi votée le 29 septembre au Salvador.",
+    },
+    brief: {
+      ht: "Ansyen senatè Sidès Dieupie Chérubin mande demisyon Premye minis Alix Didier Fils-Aimé ak manm Konsèy elektoral pwovizwa a, Constant Haïti ak Rezo Nòdwès relè, sou yon entèvansyon vandredi maten sou Radio Mega. Li trete kalandriye 2027 la kòm « blòf ». Se pawòl li, se pa yon desizyon gouvènman an ni CEP.",
+      fr: "L'ancien sénateur du Sud-Est Dieupie Chérubin demande la démission du Premier ministre Alix Didier Fils-Aimé et des membres du Conseil électoral provisoire, relaient Constant Haïti et Rezo Nòdwès, d'après une intervention vendredi matin sur Radio Mega. Il traite le calendrier de 2027 de « bluff ». Ce sont ses propos, pas une décision du gouvernement ni du CEP.",
+    },
+    body: {
+      ht: "Ansyen senatè Sidès Dieupie Chérubin te pale vandredi maten sou Radio Mega, nan emisyon Booster. Constant Haïti relè l samdi maten, Rezo Nòdwès tou. Li mande demisyon Premye minis Alix Didier Fils-Aimé ak manm Konsèy elektoral pwovizwa a. Li di otorite yo pa reyini kondisyon pou yon eleksyon kredib. « P ap gen eleksyon ak Alix Didier Fils-Aimé », li te deklare, daprè relè sa yo. Se pozisyon l, se pa yon anons ofisyèl.\n\nCEP fikse premye tou eleksyon prezidansyèl ak lejislatif yo 18 jiyè 2027, dezyèm tou 4 oktòb 2027. Chérubin trete kalandriye sa a kòm « blòf » ak « demagoji ». Li estime, nan kalkil pa l, yon prezidan yo ta eli nan youn nan dat sa yo ta ka tann jiska fevriye 2028 anvan li pran fonksyon. CEP pa t bay repons nan kont rann sa yo.\n\nLi pale tou de manifestasyon 17 ak 18 novanm yo, kote yon pati nan moun yo te mande depa Premye minis la. Li wè sa kòm yon siy pèdi konfyans.\n\nAnsyen senatè a evoke yon prezans militè salvadoryen ki ta ka dire jiska oktòb 2027, men li rekonèt li pa gen konfimasyon sou dat sa a. Pwen sa a pa dwe prezante kòm yon nouvo desizyon. 29 septanm 2026, Asanble lejislatif Salvador te otorize patisipasyon Fòs lame a nan Fòs represyon gang yo ann Ayiti pou douz mwa, apati 2 oktòb 2026, sètadi jiska oktòb 2027, ak posibilite pwolongasyon. Sa dwe separe ak akò koperasyon Ayiti-Salvador Konsèy minis ayisyen an te entèrinen 17 novanm, ki tèks li poko pibliye nan sous nou konsilte yo.",
+      fr: "L'ancien sénateur du Sud-Est Dieupie Chérubin s'est exprimé vendredi matin sur Radio Mega, dans l'émission Booster. Constant Haïti le relaie samedi matin, Rezo Nòdwès aussi. Il demande la démission du Premier ministre Alix Didier Fils-Aimé et des membres du Conseil électoral provisoire. Selon lui, les autorités en place ne réunissent pas les conditions d'un scrutin crédible. « Il n'y aura pas d'élections avec Alix Didier Fils-Aimé », a-t-il déclaré, d'après ces comptes rendus. C'est sa position, ce n'est pas une annonce officielle.\n\nLe CEP a fixé le premier tour des élections présidentielle et législatives au 18 juillet 2027, et le second tour au 4 octobre 2027. M. Chérubin traite ce calendrier de « bluff » et de « démagogie ». Il estime, selon son propre calcul, qu'un président élu à l'une de ces dates pourrait attendre jusqu'en février 2028 avant d'entrer en fonction. Le CEP n'est pas cité comme ayant répondu dans ces comptes rendus.\n\nIl a aussi évoqué les manifestations des 17 et 18 novembre, au cours desquelles une partie des participants a demandé le départ du Premier ministre. Il y voit un signe de perte de confiance.\n\nL'ancien sénateur a mentionné une éventuelle présence de militaires salvadoriens jusqu'en octobre 2027, tout en reconnaissant ne pas disposer d'une confirmation sur cette échéance. Ce point ne doit pas être présenté comme une décision nouvelle. Le 29 septembre 2026, l'Assemblée législative du Salvador a autorisé la participation de la Force armée à la Force de répression des gangs en Haïti pour douze mois, à compter du 2 octobre 2026, donc jusqu'en octobre 2027, avec possibilité de prolongation. Cette autorisation doit être distinguée de l'accord de coopération Haïti-Salvador entériné le 17 novembre par le Conseil des ministres haïtien, dont le texte n'avait pas été rendu public dans les sources consultées.",
+    },
+    sources: ["Constant Haïti", "Rezo Nòdwès"],
+    sourceLinks: [
+      { name: "Constant Haïti", url: "https://constanthaiti.info/dieupie-cherubin-conteste-le-calendrier-electoral-et-reclame-le-depart-du-gouvernement" },
+      { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/haiti-les-elections-de-2027-sont-un-bluff-dieupie-cherubin-reclame-le-depart-de-fils-aime-accuse-de-tirer-profit-de-la-longue-transition/" },
+    ],
+  },
+  {
+    id: "qh-mjsac-metye-m-se-zam-pam-2026-11-22",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-22",
+    publishedTime: "2026-11-22T08:06:00-05:00",
+    headline: {
+      ht: "MJSAC lanse « Metye m se zam pam » pou fòme 5 000 jèn nan kat mestye",
+      fr: "Le MJSAC lance « Metye m se zam pam » pour former 5 000 jeunes à quatre métiers",
+    },
+    teaser: {
+      ht: "Seremoni an te fèt vandredi nan Karibe, Vant Bèf Info ak Radar News relè. Nòt yo pa di kilè fòmasyon an kòmanse, ni kijan yo pral chwazi 5 000 jèn yo.",
+      fr: "La cérémonie a eu lieu vendredi à l'hôtel Karibe, relaient Vant Bèf Info et Radar News. Les notes ne disent pas quand la formation commence, ni comment les 5 000 jeunes seront choisis.",
+    },
+    brief: {
+      ht: "Ministè Jèn, Espò ak Aksyon sivik (MJSAC) te lanse vandredi 20 novanm pwogram « Metye m se zam pam », pou fòme yon premye kohòt 5 000 jèn nan kat mestye teknik, Vant Bèf Info ak Radar News relè.",
+      fr: "Le ministère de la Jeunesse, des Sports et de l'Action civique (MJSAC) a lancé vendredi 20 novembre le programme « Metye m se zam pam », destiné à former une première cohorte de 5 000 jeunes dans quatre métiers techniques, relaient Vant Bèf Info et Radar News.",
+    },
+    body: {
+      ht: "Ministè Jèn, Espò ak Aksyon sivik (MJSAC) te lanse vandredi 20 novanm 2026 pwogram « Metye m se zam pam », nan otèl Karibe, Petyonvil, Vant Bèf Info ak Radar News relè. Minis Pythagore Dumas te la, ansanm ak minis Kondisyon fanm ak Dwa fanm, Pédrica Saint-Jean, ak direktè jeneral MJSAC, Wilfince Mombrun.\n\nPremye kohòt la, dapre nòt yo, dwe fòme 5 000 jèn nan feronri, soud, reparasyon telefòn, ak mekanik motosiklèt. Pwogram nan predwi tou atelye katye, kote dis jèn nan menm filyè a ta ka mete tèt yo ansanm, epi yon fon demaraj ki depann de asidwite ak pèfòmans pandan fòmasyon an, ak èd Ministè Komès ak Endistri.\n\nMinis Dumas di pwogram nan ta dwe pwolonje pita nan lòt depatman. Nòt yo pa di kilè fòmasyon an kòmanse, ni kijan yo pral chwazi 5 000 jèn yo, ni ki bidjè ki deja dispoze.",
+      fr: "Le ministère de la Jeunesse, des Sports et de l'Action civique (MJSAC) a lancé vendredi 20 novembre 2026 le programme « Metye m se zam pam », à l'hôtel Karibe, à Pétion-Ville, relaient Vant Bèf Info et Radar News. Le ministre Pythagore Dumas y était, avec la ministre à la Condition féminine et aux Droits des femmes, Pédrica Saint-Jean, et le directeur général du MJSAC, Wilfince Mombrun.\n\nLa première cohorte doit, d'après ces notes, former 5 000 jeunes en ferronnerie, en soudure, en réparation de téléphones et en mécanique de motocyclettes. Le programme prévoit aussi des ateliers de quartier, où dix jeunes d'une même filière pourraient se regrouper, et un fonds de démarrage conditionné à l'assiduité et aux résultats pendant la formation, avec l'accompagnement du ministère du Commerce et de l'Industrie.\n\nM. Dumas a dit que le programme devrait ensuite s'étendre à d'autres départements. Les notes ne disent pas quand la formation commence, ni comment les 5 000 jeunes seront choisis, ni quel budget est déjà prévu.",
+    },
+    sources: ["Vant Bèf Info", "Radar News"],
+    sourceLinks: [
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/haiti-le-mjsac-lance-un-programme-de-formation-pour-5-000-jeunes/" },
+      { name: "Radar News", url: "https://radarnews-haiti.com/insertion-professionnelle-le-mjsac-lance-un-programme-de-formation-au-profit-de-5-000-jeunes/" },
+    ],
+  },
+  {
+    id: "qh-ueh-colloque-violence-2026-11-22",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-22",
+    publishedTime: "2026-11-22T08:04:00-05:00",
+    headline: {
+      ht: "UEH louvri dezyèm jounen yon kolòk entènasyonal sou vyolans ann Ayiti",
+      fr: "L'UEH ouvre la deuxième journée d'un colloque international sur la violence en Haïti",
+    },
+    teaser: {
+      ht: "Se NAGO sèl sous nou genyen. Entèvènan yo prezante l kòm yon espas refleksyon, se pa yon plan repons imedya.",
+      fr: "NAGO est notre seule source. Les intervenants le présentent comme un espace de réflexion, pas comme un plan de réponses immédiates.",
+    },
+    brief: {
+      ht: "Inivèsite Leta Ayiti te louvri samdi 21 novanm dezyèm jounen yon kolòk syantifik entènasyonal sou vyolans nan sosyete ayisyen an, òganize pa laboratwa LADIREP, NAGO relè.",
+      fr: "L'Université d'État d'Haïti a ouvert samedi 21 novembre la deuxième journée d'un colloque scientifique international sur la violence dans la société haïtienne, organisé par le laboratoire LADIREP, relaie NAGO.",
+    },
+    body: {
+      ht: "Inivèsite Leta Ayiti (UEH) te louvri samdi 21 novanm 2026 dezyèm jounen yon kolòk syantifik entènasyonal sou vyolans nan sosyete ayisyen an, NAGO relè. Laboratwa Langaj, Diskou ak Reprezantasyon (LADIREP) òganize l. Dezyèm jounen an te rasanble pwofesè ak chèchè UEH nan plizyè panel.\n\nDapre entèvènan yo, objektif la se kreye kondisyon pou yon refleksyon syantifik, se pa pote solisyon imedya. Se yon kont rann yon sèl sous. NAGO pa bay lis non yo, ni kote kolòk la fèt, ni kilè premye jounen an te kòmanse.",
+      fr: "L'Université d'État d'Haïti (UEH) a ouvert samedi 21 novembre 2026 la deuxième journée d'un colloque scientifique international sur la violence dans la société haïtienne, relaie NAGO. Il est organisé par le Laboratoire langages, discours et représentations (LADIREP). Cette deuxième journée a rassemblé des professeurs et des chercheurs de l'UEH dans plusieurs panels.\n\nSelon les intervenants, il ne s'agit pas d'apporter des solutions immédiates, mais de créer les conditions d'une réflexion scientifique. C'est le compte rendu d'une seule source. NAGO ne donne ni la liste des intervenants, ni le lieu du colloque, ni la date d'ouverture de la première journée.",
+    },
+    sources: ["NAGO"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/ueh-organise-un-colloque-sur-la-violence-en-haiti" },
+    ],
+  },
+  {
+    id: "qh-emst-opst-sainte-cecile-2026-11-22",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-22",
+    publishedTime: "2026-11-22T08:02:00-05:00",
+    headline: {
+      ht: "Lekòl mizik Sainte-Trinité fete 70 an li, òkès li a 55 an, dimanch sa a nan otèl Karibe",
+      fr: "L'École de musique Sainte-Trinité fête ses 70 ans, et son orchestre 55 ans, ce dimanche à l'hôtel Karibe",
+    },
+    teaser: {
+      ht: "Se Le Nouvelliste sèl sous nou genyen sou anons sa a. Jounal la pa bay èdtan konsè a.",
+      fr: "Le Nouvelliste est notre seule source sur cette annonce. Le journal ne donne pas l'heure du concert.",
+    },
+    brief: {
+      ht: "Lekòl mizik Sainte-Trinité (EMST) ap fete 70 an li dimanch 22 novanm nan otèl Karibe, an menm tan ak 55 an Òkès filamonik Sainte-Trinité (OPST), pou Sainte-Cécile, patròn mizisyen yo, Le Nouvelliste relè.",
+      fr: "L'École de musique Sainte-Trinité (EMST) célèbre ses 70 ans dimanche 22 novembre à l'hôtel Karibe, en même temps que les 55 ans de l'Orchestre philharmonique Sainte-Trinité (OPST), à l'occasion de la Sainte-Cécile, patronne des musiciens, relaie Le Nouvelliste.",
+    },
+    body: {
+      ht: "Lekòl mizik Sainte-Trinité (EMST) ap fete 70 an li dimanch 22 novanm 2026 nan otèl Karibe, Le Nouvelliste relè. Selebrasyon an kowenside ak 55 an Òkès filamonik Sainte-Trinité (OPST), nan okazyon Sainte-Cécile, patròn mizisyen yo.\n\nJounal la ekri lekòl la te fèt sou inisyativ sè Anne Marie Bickerstaff, ki te responsab Lekòl Sainte-Trinité nan epòk la, pou entegre mizik nan fòmasyon jèn yo. Se yon anons konsè, sou yon sèl sous. Le Nouvelliste pa bay èdtan an, ni pwogram nan, nan nòt nou li a.",
+      fr: "L'École de musique Sainte-Trinité (EMST) célèbre ses 70 ans dimanche 22 novembre 2026 à l'hôtel Karibe, relaie Le Nouvelliste. Cette célébration coïncide avec les 55 ans de l'Orchestre philharmonique Sainte-Trinité (OPST), à l'occasion de la Sainte-Cécile, patronne des musiciens.\n\nLe journal écrit que l'école a été fondée à l'initiative de sœur Anne Marie Bickerstaff, alors responsable de l'École Sainte-Trinité, qui souhaitait intégrer la musique à la formation des jeunes. C'est l'annonce d'un concert, d'après une seule source. Le Nouvelliste ne donne pas l'heure ni le programme, dans la note que nous avons lue.",
+    },
+    sources: ["Le Nouvelliste"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/274133/une-double-celebration-pour-lemst-et-lopst-a-loccasion-de-la-sainte-cecile" },
+    ],
+  },
+
+  {
     id: "ntk-soldats-salvadoriens-explosion-camp-2026-11-21",
     tier: "need-to-know",
     topic: "security",
@@ -135,27 +273,29 @@ export const STORIES: Story[] = [
     id: "qh-paulemon-wgs-lac-punta-cana-2026-11-21",
     tier: "quick-hit",
     topic: "politics",
+    isFollowUp: true,
     publishedAt: "2026-11-21",
-    publishedTime: "2026-11-21T14:16:00-05:00",
+    publishedTime: "2026-11-22T08:08:00-05:00",
     headline: {
-      ht: "Sandra Paulémon reprezante Ayiti nan dyalòg WGS-LAC nan Punta Cana",
-      fr: "Sandra Paulémon représente Haïti au dialogue WGS-LAC à Punta Cana",
+      ht: "Nan Punta Cana, Sandra Paulémon plede pou sikwi touris rejyonal, pi bon lyen transpò, ak yon nòt konjwen",
+      fr: "À Punta Cana, Sandra Paulémon plaide pour des circuits touristiques régionaux, de meilleures liaisons et une note conjointe",
     },
     teaser: {
-      ht: "Minis Planifikasyon an te kite peyi a jedi, nan tèt yon delegasyon, Le Nouvelliste relè. Se yon reyinyon rejyonal, se pa yon nòt desizyon.",
-      fr: "La ministre de la Planification a quitté le pays jeudi, à la tête d'une délégation, relaie Le Nouvelliste. C'est une réunion régionale, ce n'est pas une note de décision.",
+      ht: "Vant Bèf Info relè entèvansyon li vandredi devan Asosyasyon eta Karayib yo. Se pwopozisyon li yo, se pa yon desizyon ki deja pran.",
+      fr: "Vant Bèf Info relè son intervention vendredi devant l'Association des États de la Caraïbe. Ce sont ses propositions, pas une décision déjà prise.",
     },
     brief: {
-      ht: "Minis Planifikasyon ak Koperasyon ekstèn, Sandra Paulémon, reprezante Ayiti nan Punta Cana, nan Repiblik dominikèn, kote Dyalòg Somè mondyal gouvènman yo pou Amerik latin ak Karayib (WGS-LAC 2026) ap fèt 20 ak 21 novanm, Le Nouvelliste relè.",
-      fr: "La ministre de la Planification et de la Coopération externe, Sandra Paulémon, représente Haïti à Punta Cana, en République dominicaine, où se tient les 20 et 21 novembre le Dialogue du Sommet mondial des gouvernements pour l'Amérique latine et les Caraïbes (WGS-LAC 2026), relaie Le Nouvelliste.",
+      ht: "Nan yon panel Asosyasyon eta Karayib yo, vandredi 20 novanm nan Punta Cana, minis Planifikasyon Sandra Paulémon te plede pou yon koperasyon touris rejyonal, Vant Bèf Info relè. Li te prezante twa pwopozisyon: sikwi ant plizyè destinasyon, pi bon lyen avyon ak lanmè, ak yon nòt konsèptyèl konjwen.",
+      fr: "Lors d'un panel de l'Association des États de la Caraïbe, vendredi 20 novembre à Punta Cana, la ministre de la Planification Sandra Paulémon a plaidé pour une coopération touristique régionale, relaie Vant Bèf Info. Elle a présenté trois propositions: des circuits entre plusieurs destinations, de meilleures liaisons aériennes et maritimes, et une note conceptuelle conjointe.",
     },
     body: {
-      ht: "Minis Planifikasyon ak Koperasyon ekstèn, Sandra Paulémon, reprezante Ayiti nan Punta Cana, nan Repiblik dominikèn, kote Dyalòg Somè mondyal gouvènman yo pou Amerik latin ak Karayib (WGS-LAC 2026) ap fèt 20 ak 21 novanm, Le Nouvelliste relè vandredi. Minis la te kite peyi a jedi 19 novanm, nan tèt yon delegasyon, jounal la ekri.\n\nReyinyon an, òganize nan Cap Cana, rasanble chèf eta ak gouvènman, minis, ak reprezantan òganizasyon entènasyonal, dapre nòt la. Se yon kont rann yon sèl sous, sou yon dyalòg rejyonal. Jounal la pa relè okenn desizyon konkrè pou Ayiti.",
-      fr: "La ministre de la Planification et de la Coopération externe, Sandra Paulémon, représente Haïti à Punta Cana, en République dominicaine, où se tient les 20 et 21 novembre le Dialogue du Sommet mondial des gouvernements pour l'Amérique latine et les Caraïbes (WGS-LAC 2026), relaie Le Nouvelliste vendredi. La ministre a quitté le pays jeudi 19 novembre, à la tête d'une délégation, écrit le journal.\n\nLa réunion, organisée à Cap Cana, rassemble des chefs d'État et de gouvernement, des ministres et des représentants d'organisations internationales, d'après cette note. C'est le compte rendu d'une seule source, sur un dialogue régional. Le journal ne relaye aucune décision concrète pour Haïti.",
+      ht: "Minis Planifikasyon ak Koperasyon ekstèn, Sandra Paulémon, te pale vandredi 20 novanm nan Punta Cana, nan yon panel Asosyasyon eta Karayib yo (AEC) ki te rele « Yon sèl lanmè, plizyè destinasyon », nan kad Dyalòg Somè mondyal gouvènman yo pou Amerik latin ak Karayib (WGS-LAC 2026), Vant Bèf Info relè. Li te plede pou yon koperasyon ki chita sou konplemantarite touris. Li te prezante twa pwopozisyon: devlopman sikwi ki konekte plizyè destinasyon nan Karayib la, ranfòsman lyen avyon ak lanmè, ak ekriti yon nòt konsèptyèl konjwen sou touris rejyonal. Li te pale de richès istorik ak kiltirèl Ayiti, sitou patrimwàn Nò a, men li rekonèt difikilte sekirite yo.\n\nSe pwopozisyon li prezante nan panel sa a, se pa yon desizyon ki deja adopte. Vant Bèf Info se sous nou sou pawòl sa yo.\n\nLe Nouvelliste te ekri vandredi minis la t ap reprezante Ayiti nan reyinyon 20 ak 21 novanm nan, e ke li te kite peyi a jedi 19 novanm, nan tèt yon delegasyon. Reyinyon an, òganize nan Cap Cana, rasanble chèf eta ak gouvènman, minis, ak reprezantan òganizasyon entènasyonal, dapre premye nòt sa a, ki pa t ankò relè detay entèvansyon li.",
+      fr: "La ministre de la Planification et de la Coopération externe, Sandra Paulémon, est intervenue vendredi 20 novembre, à Punta Cana, dans un panel de l'Association des États de la Caraïbe (AEC) intitulé « Une seule mer, plusieurs destinations », en marge du Dialogue du Sommet mondial des gouvernements pour l'Amérique latine et les Caraïbes (WGS-LAC 2026), relaie Vant Bèf Info. Elle a plaidé pour une coopération fondée sur la complémentarité touristique. Elle a présenté trois propositions: des circuits reliant plusieurs destinations caribéennes, le renforcement des liaisons aériennes et maritimes, et l'élaboration d'une note conceptuelle conjointe sur le tourisme régional. Elle a cité les atouts historiques et culturels d'Haïti, notamment le patrimoine du Nord, et a reconnu les difficultés sécuritaires du pays.\n\nCe sont des propositions présentées dans ce panel, pas une décision déjà adoptée. Vant Bèf Info est notre source sur ces remarques.\n\nLe Nouvelliste avait écrit vendredi que la ministre représentait Haïti à cette réunion des 20 et 21 novembre, et qu'elle avait quitté le pays jeudi 19 novembre, à la tête d'une délégation. La rencontre, organisée à Cap Cana, rassemble des chefs d'État et de gouvernement, des ministres et des représentants d'organisations internationales, d'après cette première note, qui ne relayait pas encore le détail de son intervention.",
     },
-    sources: ["Le Nouvelliste"],
+    sources: ["Le Nouvelliste", "Vant Bèf Info"],
     sourceLinks: [
       { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/274118/dialogue-du-sommet-mondial-des-gouvernements-haiti-defend-sa-place-dans-la-grande-caraibe" },
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/integration-regionale-haiti-veut-renforcer-sa-cooperation-economique-et-touristique-dans-la-caraibe/" },
     ],
   },
   {
@@ -2134,8 +2274,8 @@ export const STORIES: Story[] = [
       fr: "La Côte d'Ivoire s'apprête à envoyer 812 militaires en Haïti pour rejoindre la Force de répression des gangs, écrit NAGO dimanche, d'après la presse ivoirienne. Une avant-garde d'une centaine de soldats arriverait à Port-au-Prince à partir du 23 novembre.",
     },
     body: {
-      ht: "NAGO ekri, dimanch 15 novanm 2026 a 19h27, Kòt divwa ap prepare voye 812 militè ann Ayiti pou yo rantre nan Fòs reprezyon gang yo (GSF). Dapre sous ki toupre dosye a, ke de medya ivwaryen sit, yon avangad sou san sòlda, eta-majora kontenjan an, ta rive Pòtoprens apati 23 novanm, epi gwo twoup yo ta swiv nan kòmansman desanm, pou yon misyon inisyal sis mwa. NAGO presize ministè Defans ivwaryen an ak eta-majora jeneral lame yo poko te kominike ofisyèlman dimanch, nan tann yon seremoni remèt drapo. Se dat sa yo n ap relè, ak atribisyon sa a. Nou pa ka trete yo kòm yon anons ofisyèl Abidjan.\n\nKontenjan an prezante kòm yon batayon mekanize Fòs lame Kòt divwa, ak blende. Òganizasyon entènasyonal Frankofoni an te konfime yon fòmasyon ki te fini 25 septanm nan Abidjan: depi jen, fòmatè ayisyen OIF te voye te inisye sòlda yo nan kreyòl, nan istwa peyi a ak nan kòd sosyal li. UNITAR te pran relè pandan sis semèn, ak sipò Frans, sou konba nan vil, pwoteksyon sivil, dwa moun ak prevansyon vyolans seksyèl.\n\nGSF, ke Konsèy Sekirite Nasyonzini te kreye, gen yon plafon 5\u00a0500 ajan. Mandat li pwolonje jouk 31 mas 2027. Sòlda ivwaryen yo ta jwenn, pami lòt, kontenjan Kenya ak Tchad.",
-      fr: "NAGO écrit, dimanche 15 novembre 2026 à 19h27, que la Côte d'Ivoire s'apprête à envoyer 812 militaires en Haïti pour rejoindre la Force de répression des gangs (GSF). Selon des sources proches du dossier, citées par deux médias ivoiriens, une avant-garde d'une centaine de soldats, correspondant à l'état-major du contingent, arriverait à Port-au-Prince à partir du 23 novembre, et le gros des troupes suivrait début décembre, pour une mission initiale de six mois. NAGO précise que le ministère ivoirien de la Défense et l'état-major général des armées n'avaient pas encore communiqué officiellement dimanche, dans l'attente d'une cérémonie de remise du drapeau. Ce sont ces dates que nous relayons, avec cette attribution. Nous ne les tenons pas pour une annonce officielle d'Abidjan.\n\nLe contingent est présenté comme un bataillon mécanisé des Forces armées de Côte d'Ivoire, doté de blindés. L'Organisation internationale de la Francophonie a confirmé une formation achevée le 25 septembre à Abidjan: depuis juin, des formateurs haïtiens envoyés par l'OIF ont initié les soldats au créole, à l'histoire du pays et à ses codes sociaux. UNITAR a ensuite pris le relais pendant six semaines, avec l'appui de la France, sur le combat en milieu urbain, la protection des civils, les droits humains et la prévention des violences sexuelles.\n\nLa GSF, créée par le Conseil de sécurité de l'ONU, est autorisée jusqu'à 5\u00a0500 agents. Son mandat a été prolongé jusqu'au 31 mars 2027. Les soldats ivoiriens y rejoindraient, notamment, des contingents du Kenya et du Tchad.",
+      ht: "NAGO ekri, dimanch 15 novanm 2026 a 19h27, Kòt divwa ap prepare voye 812 militè ann Ayiti pou yo rantre nan Fòs reprezyon gang yo (GSF). Dapre sous ki toupre dosye a, ke de medya ivwaryen sit, yon avangad sou san sòlda, eta-majora kontenjan an, ta rive Pòtoprens apati 23 novanm, epi gwo twoup yo ta swiv nan kòmansman desanm, pou yon misyon inisyal sis mwa. NAGO presize ministè Defans ivwaryen an ak eta-majora jeneral lame yo poko te kominike ofisyèlman dimanch, nan tann yon seremoni remèt drapo. Se dat sa yo n ap relè, ak atribisyon sa a. Nou pa ka trete yo kòm yon anons ofisyèl Abidjan.\n\nKontenjan an prezante kòm yon batayon mekanize Fòs lame Kòt divwa, ak blende. Òganizasyon entènasyonal Frankofoni an te konfime yon fòmasyon ki te fini 25 septanm nan Abidjan: depi jen, fòmatè ayisyen OIF te voye te inisye sòlda yo nan kreyòl, nan istwa peyi a ak nan kòd sosyal li. UNITAR te pran relè pandan sis semèn, ak sipò Frans, sou konba nan vil, pwoteksyon sivil, dwa moun ak prevansyon vyolans seksyèl.\n\nGSF, ke Konsèy Sekirite Nasyonzini te kreye, gen yon plafon 5 500 ajan. Mandat li pwolonje jouk 31 mas 2027. Sòlda ivwaryen yo ta jwenn, pami lòt, kontenjan Kenya ak Tchad.",
+      fr: "NAGO écrit, dimanche 15 novembre 2026 à 19h27, que la Côte d'Ivoire s'apprête à envoyer 812 militaires en Haïti pour rejoindre la Force de répression des gangs (GSF). Selon des sources proches du dossier, citées par deux médias ivoiriens, une avant-garde d'une centaine de soldats, correspondant à l'état-major du contingent, arriverait à Port-au-Prince à partir du 23 novembre, et le gros des troupes suivrait début décembre, pour une mission initiale de six mois. NAGO précise que le ministère ivoirien de la Défense et l'état-major général des armées n'avaient pas encore communiqué officiellement dimanche, dans l'attente d'une cérémonie de remise du drapeau. Ce sont ces dates que nous relayons, avec cette attribution. Nous ne les tenons pas pour une annonce officielle d'Abidjan.\n\nLe contingent est présenté comme un bataillon mécanisé des Forces armées de Côte d'Ivoire, doté de blindés. L'Organisation internationale de la Francophonie a confirmé une formation achevée le 25 septembre à Abidjan: depuis juin, des formateurs haïtiens envoyés par l'OIF ont initié les soldats au créole, à l'histoire du pays et à ses codes sociaux. UNITAR a ensuite pris le relais pendant six semaines, avec l'appui de la France, sur le combat en milieu urbain, la protection des civils, les droits humains et la prévention des violences sexuelles.\n\nLa GSF, créée par le Conseil de sécurité de l'ONU, est autorisée jusqu'à 5 500 agents. Son mandat a été prolongé jusqu'au 31 mars 2027. Les soldats ivoiriens y rejoindraient, notamment, des contingents du Kenya et du Tchad.",
     },
     sources: ["NAGO", "Organisation internationale de la Francophonie"],
     sourceLinks: [
@@ -2150,6 +2290,7 @@ export const STORIES: Story[] = [
     topic: "security",
     publishedAt: "2026-11-14",
     publishedTime: "2026-11-14T20:28:00-05:00",
+    archived: true,
     headline: {
       ht: "FRG nan Fò Dimanch: yon moun mouri, yon atelye zam, 18 fizi sezi",
       fr: "GSF à Fort Dimanche : un mort, un atelier d'armes, 18 fusils saisis",
@@ -2178,6 +2319,7 @@ export const STORIES: Story[] = [
     topic: "justice",
     publishedAt: "2026-11-14",
     publishedTime: "2026-11-14T20:26:00-05:00",
+    archived: true,
     headline: {
       ht: "Misyonè ameriken Thomas Osbeck, 70 an, akize nan Miyami pou sipoze abi sou ti gason ayisyen",
       fr: "Le missionnaire américain Thomas Osbeck, 70 ans, inculpé à Miami pour de présumés abus sur des garçons haïtiens",
@@ -2207,6 +2349,7 @@ export const STORIES: Story[] = [
     topic: "politics",
     publishedAt: "2026-11-14",
     publishedTime: "2026-11-14T20:16:00-05:00",
+    archived: true,
     headline: {
       ht: "CEP lanse sant enskripsyon mobil, epi yon estrateji pou ogmante patisipasyon fanm yo",
       fr: "Le CEP installe des centres d'inscription mobiles et lance une stratégie pour accroître la participation des femmes",
@@ -2237,6 +2380,7 @@ export const STORIES: Story[] = [
     topic: "politics",
     publishedAt: "2026-11-14",
     publishedTime: "2026-11-14T20:14:00-05:00",
+    archived: true,
     headline: {
       ht: "Kenley Jean-Baptiste (GAD) pou Senat Nòdwès; Jean Hector Anacacis pou depite Okay Jakmèl",
       fr: "Kenley Jean-Baptiste (GAD) au Sénat du Nord-Ouest; Jean Hector Anacacis député de Cayes-Jacmel",
@@ -2346,6 +2490,7 @@ export const STORIES: Story[] = [
     topic: "justice",
     publishedAt: "2026-11-14",
     publishedTime: "2026-11-14T20:10:00-05:00",
+    archived: true,
     headline: {
       ht: "Cour de cassation prezante oryantasyon administratif li yo pou 2026-2027",
       fr: "La Cour de cassation présente ses orientations administratives pour 2026-2027",
@@ -2373,6 +2518,7 @@ export const STORIES: Story[] = [
     topic: "society",
     publishedAt: "2026-11-14",
     publishedTime: "2026-11-14T20:08:00-05:00",
+    archived: true,
     headline: {
       ht: "Flatbush: NYPD pibliye non 8 moun ki te mouri nan efondman imèb la, pami yo 2 timoun",
       fr: "Flatbush : la NYPD publie les noms des 8 morts de l'effondrement, dont 2 enfants",
@@ -2401,6 +2547,7 @@ export const STORIES: Story[] = [
     topic: "society",
     publishedAt: "2026-11-14",
     publishedTime: "2026-11-14T20:06:00-05:00",
+    archived: true,
     headline: {
       ht: "Livres Solidaires fèmen 20 novanm nan Petyonvil; Konbit Soup Joumou prepare 8e edisyon li",
       fr: "Livres Solidaires ferme le 20 novembre à Pétion-Ville; Konbit Soup Joumou prépare sa 8e édition",
@@ -2414,8 +2561,8 @@ export const STORIES: Story[] = [
       fr: "Après plus de dix ans, la librairie sociale Livres Solidaires Haïti fermera définitivement le 20 novembre, au 92, rue Grégoire, à Pétion-Ville, écrit NAGO. Dans une autre note, Juno7 relait l'appel de Konbit Soup Joumou pour sa 8e édition, le 1er janvier 2027.",
     },
     body: {
-      ht: "Livres Solidaires Haïti ap fèmen pòt li yo definitivman vandredi 20 novanm 2026, NAGO ekri. Libri a, ki nan 92, ri Grégoire, nan Petyonvil, te vann liv plis souvan ant 75 ak 150 goud. Responsab la, Béa Darline Legros, di: « Pwojè a fini ». Jiska avril 2024, libri a te deja distribye plis pase 600\u00a0000 liv nan peyi a.\n\nDepi 2013, li te resevwa liv okazyon ki soti Bèljik, atravè asosyasyon Livres Solidaires, ak Kanada, atravè asosyasyon ansyen palmantè Kebek yo. Akò ak patnè bèlj la te fini nan desanm 2025, e konpayi ki t ap transòte liv yo soti Kanada sispann aktivite l ann Ayiti, NAGO ekri. Libri a t ap soufri tou pòs peyaj ilegal ak frè douàn ki prèske double. Depi 2022, ak anviwon 60\u00a0000 liv chak ane, li t ap vanse plis pase 1\u00a0000 enstitisyon. Pou vide stock la, yon bradri te kòmanse 5 novanm, ak raba ki ka rive 50 %.\n\nNan yon lòt nòt, Juno7 ekri Konbit Soup Joumou ap prepare 8e edisyon li pou 1e janvye 2027, 223e anivèsè endepandans Ayiti. Òganizatè yo vize 40 sit ann Ayiti ak nan dyaspora, pami yo de nan Kanada, epi yo estime yon bidjè 10 milyon goud. Inisyativ la, te lanse an 2018 pa Nathalie Mondésir ak zanmi, e Gwoup Konbit te reprann an 2019. Ane sa a, koordinasyon an nan men Kemissa Trecil, yo konnen kòm DJ Kemissa. Yo ap chèche kote, materyèl, volontè ak kontribisyon. Yo bay nimewo +509 36 98 0314 pou moun ki vle ede.",
-      fr: "Livres Solidaires Haïti fermera définitivement ses portes vendredi 20 novembre 2026, écrit NAGO. Installée au 92, rue Grégoire, à Pétion-Ville, cette librairie à vocation sociale vendait le plus souvent ses livres entre 75 et 150 gourdes. Sa responsable, Béa Darline Legros, a dit: « Le projet est terminé ». Jusqu'en avril 2024, la librairie avait déjà distribué plus de 600\u00a0000 livres dans le pays.\n\nDepuis 2013, elle recevait des livres d'occasion collectés en Belgique par l'association Livres Solidaires, et au Canada par l'association des ex-parlementaires du Québec. L'accord avec le partenaire belge a pris fin en décembre 2025, et la compagnie qui transportait les livres depuis le Canada a cessé ses activités en Haïti, écrit NAGO. La librairie souffrait aussi des postes de péage illégaux et de frais de douane presque doublés. Depuis 2022, avec environ 60\u00a0000 livres reçus chaque année, elle approvisionnait plus de 1\u00a0000 institutions. Pour écouler le stock, une braderie a commencé le 5 novembre, avec des rabais pouvant atteindre 50 %.\n\nDans une autre note, Juno7 écrit que Konbit Soup Joumou prépare sa 8e édition pour le 1er janvier 2027, 223e anniversaire de l'indépendance d'Haïti. Les organisateurs visent 40 sites en Haïti et dans la diaspora, dont deux au Canada, et évaluent le budget à 10 millions de gourdes. Lancée en 2018 par Nathalie Mondésir et des amis, puis reprise en 2019 par Gwoup Konbit, l'initiative est coordonnée cette année par Kemissa Trecil, connue comme DJ Kemissa. Les organisateurs cherchent des lieux, du matériel, des bénévoles et des contributions. Ils indiquent le numéro +509 36 98 0314 pour celles et ceux qui veulent aider.",
+      ht: "Livres Solidaires Haïti ap fèmen pòt li yo definitivman vandredi 20 novanm 2026, NAGO ekri. Libri a, ki nan 92, ri Grégoire, nan Petyonvil, te vann liv plis souvan ant 75 ak 150 goud. Responsab la, Béa Darline Legros, di: « Pwojè a fini ». Jiska avril 2024, libri a te deja distribye plis pase 600 000 liv nan peyi a.\n\nDepi 2013, li te resevwa liv okazyon ki soti Bèljik, atravè asosyasyon Livres Solidaires, ak Kanada, atravè asosyasyon ansyen palmantè Kebek yo. Akò ak patnè bèlj la te fini nan desanm 2025, e konpayi ki t ap transòte liv yo soti Kanada sispann aktivite l ann Ayiti, NAGO ekri. Libri a t ap soufri tou pòs peyaj ilegal ak frè douàn ki prèske double. Depi 2022, ak anviwon 60 000 liv chak ane, li t ap vanse plis pase 1 000 enstitisyon. Pou vide stock la, yon bradri te kòmanse 5 novanm, ak raba ki ka rive 50 %.\n\nNan yon lòt nòt, Juno7 ekri Konbit Soup Joumou ap prepare 8e edisyon li pou 1e janvye 2027, 223e anivèsè endepandans Ayiti. Òganizatè yo vize 40 sit ann Ayiti ak nan dyaspora, pami yo de nan Kanada, epi yo estime yon bidjè 10 milyon goud. Inisyativ la, te lanse an 2018 pa Nathalie Mondésir ak zanmi, e Gwoup Konbit te reprann an 2019. Ane sa a, koordinasyon an nan men Kemissa Trecil, yo konnen kòm DJ Kemissa. Yo ap chèche kote, materyèl, volontè ak kontribisyon. Yo bay nimewo +509 36 98 0314 pou moun ki vle ede.",
+      fr: "Livres Solidaires Haïti fermera définitivement ses portes vendredi 20 novembre 2026, écrit NAGO. Installée au 92, rue Grégoire, à Pétion-Ville, cette librairie à vocation sociale vendait le plus souvent ses livres entre 75 et 150 gourdes. Sa responsable, Béa Darline Legros, a dit: « Le projet est terminé ». Jusqu'en avril 2024, la librairie avait déjà distribué plus de 600 000 livres dans le pays.\n\nDepuis 2013, elle recevait des livres d'occasion collectés en Belgique par l'association Livres Solidaires, et au Canada par l'association des ex-parlementaires du Québec. L'accord avec le partenaire belge a pris fin en décembre 2025, et la compagnie qui transportait les livres depuis le Canada a cessé ses activités en Haïti, écrit NAGO. La librairie souffrait aussi des postes de péage illégaux et de frais de douane presque doublés. Depuis 2022, avec environ 60 000 livres reçus chaque année, elle approvisionnait plus de 1 000 institutions. Pour écouler le stock, une braderie a commencé le 5 novembre, avec des rabais pouvant atteindre 50 %.\n\nDans une autre note, Juno7 écrit que Konbit Soup Joumou prépare sa 8e édition pour le 1er janvier 2027, 223e anniversaire de l'indépendance d'Haïti. Les organisateurs visent 40 sites en Haïti et dans la diaspora, dont deux au Canada, et évaluent le budget à 10 millions de gourdes. Lancée en 2018 par Nathalie Mondésir et des amis, puis reprise en 2019 par Gwoup Konbit, l'initiative est coordonnée cette année par Kemissa Trecil, connue comme DJ Kemissa. Les organisateurs cherchent des lieux, du matériel, des bénévoles et des contributions. Ils indiquent le numéro +509 36 98 0314 pour celles et ceux qui veulent aider.",
     },
     sources: ["NAGO", "Juno7"],
     sourceLinks: [
@@ -2430,6 +2577,7 @@ export const STORIES: Story[] = [
     topic: "security",
     publishedAt: "2026-11-14",
     publishedTime: "2026-11-14T08:28:00-05:00",
+    archived: true,
     headline: {
       ht: "Pòtay Leyogàn: UDMO entèsepte sipoze kidnape, yon moun mouri dapre PNH; L'Observatoire pale de 4 mò",
       fr: "Portail Léogâne : l'UDMO intercepte de présumés kidnappeurs, un mort selon la PNH ; L'Observatoire fait état de 4 morts",
@@ -2458,6 +2606,7 @@ export const STORIES: Story[] = [
     topic: "politics",
     publishedAt: "2026-11-14",
     publishedTime: "2026-11-14T08:19:00-05:00",
+    archived: true,
     headline: {
       ht: "Jean Ernest Muscadin kòmanse yon vire nan Grand Nò; sipòtè ak manifestan nan Okap",
       fr: "Jean Ernest Muscadin entame une tournée dans le Grand Nord; partisans et contestataires au Cap-Haïtien",
@@ -2485,6 +2634,7 @@ export const STORIES: Story[] = [
     topic: "politics",
     publishedAt: "2026-11-14",
     publishedTime: "2026-11-14T08:18:00-05:00",
+    archived: true,
     headline: {
       ht: "Delphine Pronk fini vizit de jou Inyon Ewopeyen an; li pale de sekirite ak eleksyon",
       fr: "Delphine Pronk achève une visite de deux jours de l'Union européenne; elle insiste sur la sécurité et les élections",
@@ -2514,6 +2664,7 @@ export const STORIES: Story[] = [
     topic: "society",
     publishedAt: "2026-11-14",
     publishedTime: "2026-11-14T08:17:00-05:00",
+    archived: true,
     headline: {
       ht: "MENFP ap distribye lèt nominasyon ak chèk 14yèm mwa, pandan grèv pwofesè yo",
       fr: "Le MENFP distribue des lettres de nomination et des chèques de 14e mois, pendant la grève des enseignants",
@@ -2527,8 +2678,8 @@ export const STORIES: Story[] = [
       fr: "Le ministère de l'Éducation nationale a commencé à distribuer plusieurs centaines de lettres de nomination dans ses dix directions départementales, écrit HaitiLibre, alors que la grève des enseignants se poursuit.",
     },
     body: {
-      ht: "Ministè Edikasyon nasyonal ak Fòmasyon pwofesyonèl (MENFP) te kòmanse distribye plizyè santèn lèt nominasyon nan dis direksyon depatmantal edikasyon yo, HaitiLibre ekri nan yon nòt 13 novanm 2026. Semèn sa a, misyon yo te voye nan Grand Nò ak Grand Sid ap swiv distribisyon chèk prim espesyal, ekivalan a kat peman mansyèl sou kat Ti Kat la, ansanm ak chèk salè 14yèm mwa a, ke jounal la prezante kòm yon lòt konpansasyon, separe de prim òdinè a.\n\nHaitiLibre ekri plis pase 33\u00a0850 ajan konsène, epi plis pase 40\u00a0400 anplwaye ap resevwa 14yèm mwa a. Nòt la pa di si peman sa yo te sispann grèv la, ni ki sendika ki te reyaji.\n\nDistribisyon sa a fèt pandan yon grèv nasyonal pwofesè ki te deja bloke klas nan plizyè vil.",
-      fr: "Le ministère de l'Éducation nationale et de la Formation professionnelle (MENFP) a commencé à distribuer plusieurs centaines de lettres de nomination dans ses dix directions départementales d'éducation, écrit HaitiLibre dans une note du 13 novembre 2026. Cette semaine, des missions envoyées dans le Grand Nord et le Grand Sud suivent la distribution de chèques de prime spéciale, équivalant à quatre versements mensuels sur la carte Ti Kat la, ainsi que des chèques de salaire du 14e mois, présentés par le journal comme une compensation supplémentaire, distincte de la prime habituelle.\n\nHaitiLibre écrit que plus de 33\u00a0850 agents sont concernés, et que plus de 40\u00a0400 employés doivent recevoir le 14e mois. La note ne dit pas si ces paiements ont interrompu la grève, ni quelle réaction syndicale a été enregistrée.\n\nCette distribution intervient pendant une grève nationale des enseignants, qui avait déjà interrompu les cours dans plusieurs villes.",
+      ht: "Ministè Edikasyon nasyonal ak Fòmasyon pwofesyonèl (MENFP) te kòmanse distribye plizyè santèn lèt nominasyon nan dis direksyon depatmantal edikasyon yo, HaitiLibre ekri nan yon nòt 13 novanm 2026. Semèn sa a, misyon yo te voye nan Grand Nò ak Grand Sid ap swiv distribisyon chèk prim espesyal, ekivalan a kat peman mansyèl sou kat Ti Kat la, ansanm ak chèk salè 14yèm mwa a, ke jounal la prezante kòm yon lòt konpansasyon, separe de prim òdinè a.\n\nHaitiLibre ekri plis pase 33 850 ajan konsène, epi plis pase 40 400 anplwaye ap resevwa 14yèm mwa a. Nòt la pa di si peman sa yo te sispann grèv la, ni ki sendika ki te reyaji.\n\nDistribisyon sa a fèt pandan yon grèv nasyonal pwofesè ki te deja bloke klas nan plizyè vil.",
+      fr: "Le ministère de l'Éducation nationale et de la Formation professionnelle (MENFP) a commencé à distribuer plusieurs centaines de lettres de nomination dans ses dix directions départementales d'éducation, écrit HaitiLibre dans une note du 13 novembre 2026. Cette semaine, des missions envoyées dans le Grand Nord et le Grand Sud suivent la distribution de chèques de prime spéciale, équivalant à quatre versements mensuels sur la carte Ti Kat la, ainsi que des chèques de salaire du 14e mois, présentés par le journal comme une compensation supplémentaire, distincte de la prime habituelle.\n\nHaitiLibre écrit que plus de 33 850 agents sont concernés, et que plus de 40 400 employés doivent recevoir le 14e mois. La note ne dit pas si ces paiements ont interrompu la grève, ni quelle réaction syndicale a été enregistrée.\n\nCette distribution intervient pendant une grève nationale des enseignants, qui avait déjà interrompu les cours dans plusieurs villes.",
     },
     sources: ["HaitiLibre"],
     sourceLinks: [
@@ -2541,6 +2692,7 @@ export const STORIES: Story[] = [
     topic: "economy",
     publishedAt: "2026-11-14",
     publishedTime: "2026-11-14T08:16:00-05:00",
+    archived: true,
     headline: {
       ht: "Enteryè, Anviwònman ak FENAMH prezante yon pwojè rezèv forè kominal",
       fr: "L'Intérieur, l'Environnement et la FENAMH présentent un projet de réserves forestières communales",
@@ -2568,6 +2720,7 @@ export const STORIES: Story[] = [
     topic: "security",
     publishedAt: "2026-11-14",
     publishedTime: "2026-11-14T08:15:00-05:00",
+    archived: true,
     headline: {
       ht: "Latibonit: gang yo ap elaji kontwòl yo malgre FRG, jounalis Venes Désir rapòte",
       fr: "Artibonite : les gangs étendent leur emprise malgré la FRG, selon le journaliste Venes Désir",
@@ -2581,8 +2734,8 @@ export const STORIES: Story[] = [
       fr: "Le journaliste Venes Désir, que InfoNation relait le 13 novembre, dit que la sécurité dans l'Artibonite continue de se dégrader, malgré le déploiement de la Force de répression des gangs depuis le 6 août.",
     },
     body: {
-      ht: "Jounalis Venes Désir denonse, nan yon nòt InfoNation pibliye 13 novanm 2026, enèfi presizyon fòs sekirite yo nan Latibonit, malgre FRG te deplwaye nan depatman an depi 6 out 2026, ak yon baz nan Biennac, nan Gonayiv. Se kont li n ap relè. Nou pa ka verifye tout reyalite teren sa yo pou kont nou.\n\nLi ekri, nan Liancourt, aktivite komès ak lekòl rete bloke depi plis pase de zan, sou kontwòl gang Gran Grif. Plizyè wout, tankou sa ki lye Ponsonde ak Mibalè, vin difisil pou sikile. Nan Timachin, li atribiye yon atak 18 oktòb a Kokorat San Ras ak Gran Grif, ki ta fè omwen 15 mò, pami yo kat fi ki ta mouri nan dife kay yo. Li pale tou de vyolans seksyèl ak piyaj. Nan Grand-Saline, li di konfwontasyon ant gang ak gwoup otodifans bò lapèch langi ta fè omwen sèt mò. Li site tou yon masak 28 septanm nan Camas, Gros-Morne, kote omwen 13 moun ta mouri. Se chif li yo, yo poko verifye endepandamman.\n\nLi ajoute, nan Timachin, yon ti mamit diri vann 400 goud, e vwayaj motosiklèt ant Timachin ak Senmak, ki te koute 150 a 250 goud, ka rive 7\u00a0500 goud, menm 10\u00a0000 goud ale-vini. Pou li, prezans FRG a poko bay operasyon gwo sou prensipal baz gang yo.",
-      fr: "Le journaliste Venes Désir dénonce, dans une note d'InfoNation publiée le 13 novembre 2026, l'inefficacité des interventions des forces de sécurité dans l'Artibonite, malgré le déploiement de la FRG dans le département depuis le 6 août 2026, avec une base à Biennac, aux Gonaïves. C'est son récit que nous relayons. Nous n'avons pas pu vérifier de manière indépendante tous ces faits de terrain.\n\nIl écrit qu'à Liancourt, le commerce et l'école restent largement paralysés depuis plus de deux ans, sous le contrôle du gang Gran Grif. Plusieurs axes, notamment celui qui relie Pont-Sondé à Mirebalais, sont devenus difficiles d'accès. À Petite-Rivière de l'Artibonite, il attribue une attaque du 18 octobre aux gangs Kokorat San Ras et Gran Grif, qui aurait fait au moins 15 morts, dont quatre femmes tuées dans l'incendie de leurs maisons. Il parle aussi de violences sexuelles et de pillages. À Grande-Saline, il dit que des affrontements entre groupes armés et groupes d'autodéfense autour de la pêche à l'anguille auraient fait au moins sept morts. Il cite aussi un massacre le 28 septembre à Camas, dans la commune de Gros-Morne, où au moins 13 personnes auraient été tuées. Ce sont ses chiffres, ils n'ont pas été vérifiés de manière indépendante.\n\nIl ajoute qu'à Petite-Rivière, une petite marmite de riz se vend 400 gourdes, et que le trajet en moto entre Petite-Rivière et Saint-Marc, qui coûtait 150 à 250 gourdes, peut atteindre 7\u00a0500 gourdes, voire 10\u00a0000 gourdes aller-retour. Selon lui, la présence de la FRG n'a pas encore donné lieu à des opérations d'envergure contre les principaux foyers de gangs.",
+      ht: "Jounalis Venes Désir denonse, nan yon nòt InfoNation pibliye 13 novanm 2026, enèfi presizyon fòs sekirite yo nan Latibonit, malgre FRG te deplwaye nan depatman an depi 6 out 2026, ak yon baz nan Biennac, nan Gonayiv. Se kont li n ap relè. Nou pa ka verifye tout reyalite teren sa yo pou kont nou.\n\nLi ekri, nan Liancourt, aktivite komès ak lekòl rete bloke depi plis pase de zan, sou kontwòl gang Gran Grif. Plizyè wout, tankou sa ki lye Ponsonde ak Mibalè, vin difisil pou sikile. Nan Timachin, li atribiye yon atak 18 oktòb a Kokorat San Ras ak Gran Grif, ki ta fè omwen 15 mò, pami yo kat fi ki ta mouri nan dife kay yo. Li pale tou de vyolans seksyèl ak piyaj. Nan Grand-Saline, li di konfwontasyon ant gang ak gwoup otodifans bò lapèch langi ta fè omwen sèt mò. Li site tou yon masak 28 septanm nan Camas, Gros-Morne, kote omwen 13 moun ta mouri. Se chif li yo, yo poko verifye endepandamman.\n\nLi ajoute, nan Timachin, yon ti mamit diri vann 400 goud, e vwayaj motosiklèt ant Timachin ak Senmak, ki te koute 150 a 250 goud, ka rive 7 500 goud, menm 10 000 goud ale-vini. Pou li, prezans FRG a poko bay operasyon gwo sou prensipal baz gang yo.",
+      fr: "Le journaliste Venes Désir dénonce, dans une note d'InfoNation publiée le 13 novembre 2026, l'inefficacité des interventions des forces de sécurité dans l'Artibonite, malgré le déploiement de la FRG dans le département depuis le 6 août 2026, avec une base à Biennac, aux Gonaïves. C'est son récit que nous relayons. Nous n'avons pas pu vérifier de manière indépendante tous ces faits de terrain.\n\nIl écrit qu'à Liancourt, le commerce et l'école restent largement paralysés depuis plus de deux ans, sous le contrôle du gang Gran Grif. Plusieurs axes, notamment celui qui relie Pont-Sondé à Mirebalais, sont devenus difficiles d'accès. À Petite-Rivière de l'Artibonite, il attribue une attaque du 18 octobre aux gangs Kokorat San Ras et Gran Grif, qui aurait fait au moins 15 morts, dont quatre femmes tuées dans l'incendie de leurs maisons. Il parle aussi de violences sexuelles et de pillages. À Grande-Saline, il dit que des affrontements entre groupes armés et groupes d'autodéfense autour de la pêche à l'anguille auraient fait au moins sept morts. Il cite aussi un massacre le 28 septembre à Camas, dans la commune de Gros-Morne, où au moins 13 personnes auraient été tuées. Ce sont ses chiffres, ils n'ont pas été vérifiés de manière indépendante.\n\nIl ajoute qu'à Petite-Rivière, une petite marmite de riz se vend 400 gourdes, et que le trajet en moto entre Petite-Rivière et Saint-Marc, qui coûtait 150 à 250 gourdes, peut atteindre 7 500 gourdes, voire 10 000 gourdes aller-retour. Selon lui, la présence de la FRG n'a pas encore donné lieu à des opérations d'envergure contre les principaux foyers de gangs.",
     },
     sources: ["InfoNation", "Venes Désir"],
     sourceLinks: [
@@ -2976,8 +3129,8 @@ export const STORIES: Story[] = [
       fr: "La FAA a levé, vendredi soir vers 20h15, l'interruption nationale des décollages dans les aéroports américains. Le secrétaire aux Transports Sean Duffy dit que les décollages reprendront progressivement, et que des retards sont à prévoir.",
     },
     body: {
-      ht: "Administrasyon federal aviyasyon Etazini (FAA) te leve, vandredi 13 novanm 2026 aswè, sispansyon nasyonal dekòlaj nan ayewopò ameriken yo. Reuters ekri Sekretè Transpò Sean Duffy te di espas aeryen ameriken an relouvri a 20h15, lè Lès. AP presize mezi a te dire anviwon senk èdtan, apre FAA te bay lòd apremidi a pou avyon yo rete atè, poutèt yon pwoblèm kominikasyon nan sant kontwòl wout lè yo.\n\nDuffy di dekòlaj yo ap rekòmanse piti piti, e li avèti: « It's going to be slow. » AP ak Duffy atribiye pann lan a yon chaj twòp sou yon sistèm analog ki granmoun; yo pale de twou kominikasyon ak rada ki t ap parèt tanzantan. Reuters ekri Sekretè Sekirite Enteryè Markwayne Mullin di poko gen prèv se yon atak sou entènèt. Reuters evoke anviwon 15\u00a0000 vòl ki te pran reta oswa ki te anile, e li di li ka pran plizyè jou pou sèvis yo tounen nòmal.\n\nAmerican Airlines, nan yon nòt a 21h25 lè Lès, konfime sispansyon senk èdtan an te leve, men li avèti reta ak anilasyon ap kontinye aswè a ak samdi 14 novanm. Konpayi an, ki fè vòl Miyami–Okap, mande pasaje yo tcheke vòl yo sou aplikasyon an oswa sou aa.com. Nou pa gen, nan moman sa a, yon konfimasyon ofisyèl ke yon vòl American Airlines oswa Sunrise Airways ant Miyami ak Okap te anile presizeman.\n\nSe yon mezi sou tè Etazini. Li pa vle di otorite ayisyen yo te fèmen ayewopò ann Ayiti. Okap rete prensipal pòt entènasyonal peyi a. Restriksyon FAA sou vòl sivil ameriken nan zòn Pòtoprens lan rete an vigè jouk 2 mas 2027.",
-      fr: "L'Administration fédérale de l'aviation des États-Unis (FAA) a levé, vendredi 13 novembre 2026 au soir, l'interruption nationale des décollages depuis les aéroports américains. Reuters écrit que le secrétaire aux Transports Sean Duffy a indiqué que l'espace aérien américain avait rouvert à 20h15, heure de l'Est. L'AP précise que la mesure a duré environ cinq heures, après que la FAA eut ordonné, dans l'après-midi, que les avions restent au sol en raison d'un problème de communication dans les centres de contrôle en route.\n\nDuffy a dit que les décollages reprendraient progressivement, et il a prévenu: « It's going to be slow. » L'AP et Duffy attribuent la panne à une surcharge d'un vieux système analogique; ils parlent de coupures intermittentes des communications et des radars. Reuters écrit que le secrétaire à la Sécurité intérieure, Markwayne Mullin, a indiqué qu'il n'y avait pas de preuve d'une cyberattaque. Reuters évoque environ 15\u00a0000 vols retardés ou annulés, et dit que le retour à la normale pourrait prendre plusieurs jours.\n\nAmerican Airlines, dans une note à 21h25, heure de l'Est, a confirmé la levée de l'interruption de cinq heures, tout en prévenant que des retards et des annulations se poursuivraient dans la soirée et samedi 14 novembre. La compagnie, qui assure la liaison Miami–Cap-Haïtien, demande aux voyageurs de vérifier leurs vols sur l'application ou sur aa.com. Nous n'avons, à cette heure, aucune confirmation officielle qu'un vol d'American Airlines ou de Sunrise Airways entre Miami et le Cap-Haïtien ait été précisément annulé.\n\nIl s'agit d'une mesure prise aux États-Unis. Elle ne signifie pas que les autorités haïtiennes ont fermé les aéroports en Haïti. Le Cap-Haïtien reste la principale porte d'entrée internationale du pays. La restriction de la FAA sur les vols civils américains dans la zone de Port-au-Prince reste en vigueur jusqu'au 2 mars 2027.",
+      ht: "Administrasyon federal aviyasyon Etazini (FAA) te leve, vandredi 13 novanm 2026 aswè, sispansyon nasyonal dekòlaj nan ayewopò ameriken yo. Reuters ekri Sekretè Transpò Sean Duffy te di espas aeryen ameriken an relouvri a 20h15, lè Lès. AP presize mezi a te dire anviwon senk èdtan, apre FAA te bay lòd apremidi a pou avyon yo rete atè, poutèt yon pwoblèm kominikasyon nan sant kontwòl wout lè yo.\n\nDuffy di dekòlaj yo ap rekòmanse piti piti, e li avèti: « It's going to be slow. » AP ak Duffy atribiye pann lan a yon chaj twòp sou yon sistèm analog ki granmoun; yo pale de twou kominikasyon ak rada ki t ap parèt tanzantan. Reuters ekri Sekretè Sekirite Enteryè Markwayne Mullin di poko gen prèv se yon atak sou entènèt. Reuters evoke anviwon 15 000 vòl ki te pran reta oswa ki te anile, e li di li ka pran plizyè jou pou sèvis yo tounen nòmal.\n\nAmerican Airlines, nan yon nòt a 21h25 lè Lès, konfime sispansyon senk èdtan an te leve, men li avèti reta ak anilasyon ap kontinye aswè a ak samdi 14 novanm. Konpayi an, ki fè vòl Miyami–Okap, mande pasaje yo tcheke vòl yo sou aplikasyon an oswa sou aa.com. Nou pa gen, nan moman sa a, yon konfimasyon ofisyèl ke yon vòl American Airlines oswa Sunrise Airways ant Miyami ak Okap te anile presizeman.\n\nSe yon mezi sou tè Etazini. Li pa vle di otorite ayisyen yo te fèmen ayewopò ann Ayiti. Okap rete prensipal pòt entènasyonal peyi a. Restriksyon FAA sou vòl sivil ameriken nan zòn Pòtoprens lan rete an vigè jouk 2 mas 2027.",
+      fr: "L'Administration fédérale de l'aviation des États-Unis (FAA) a levé, vendredi 13 novembre 2026 au soir, l'interruption nationale des décollages depuis les aéroports américains. Reuters écrit que le secrétaire aux Transports Sean Duffy a indiqué que l'espace aérien américain avait rouvert à 20h15, heure de l'Est. L'AP précise que la mesure a duré environ cinq heures, après que la FAA eut ordonné, dans l'après-midi, que les avions restent au sol en raison d'un problème de communication dans les centres de contrôle en route.\n\nDuffy a dit que les décollages reprendraient progressivement, et il a prévenu: « It's going to be slow. » L'AP et Duffy attribuent la panne à une surcharge d'un vieux système analogique; ils parlent de coupures intermittentes des communications et des radars. Reuters écrit que le secrétaire à la Sécurité intérieure, Markwayne Mullin, a indiqué qu'il n'y avait pas de preuve d'une cyberattaque. Reuters évoque environ 15 000 vols retardés ou annulés, et dit que le retour à la normale pourrait prendre plusieurs jours.\n\nAmerican Airlines, dans une note à 21h25, heure de l'Est, a confirmé la levée de l'interruption de cinq heures, tout en prévenant que des retards et des annulations se poursuivraient dans la soirée et samedi 14 novembre. La compagnie, qui assure la liaison Miami–Cap-Haïtien, demande aux voyageurs de vérifier leurs vols sur l'application ou sur aa.com. Nous n'avons, à cette heure, aucune confirmation officielle qu'un vol d'American Airlines ou de Sunrise Airways entre Miami et le Cap-Haïtien ait été précisément annulé.\n\nIl s'agit d'une mesure prise aux États-Unis. Elle ne signifie pas que les autorités haïtiennes ont fermé les aéroports en Haïti. Le Cap-Haïtien reste la principale porte d'entrée internationale du pays. La restriction de la FAA sur les vols civils américains dans la zone de Port-au-Prince reste en vigueur jusqu'au 2 mars 2027.",
     },
     sources: ["AP", "Reuters", "American Airlines", "FAA"],
     sourceLinks: [
@@ -4377,6 +4530,7 @@ export const STORIES: Story[] = [
     topic: "security",
     publishedAt: "2026-11-11",
     publishedTime: "2026-11-11T17:44:00-05:00",
+    archived: true,
     isFollowUp: true,
     headline: {
       ht: "Kafou : lekòl yo fèmen pi bonè apre tire ki tache ak operasyon Matisan an",
@@ -4551,6 +4705,7 @@ export const STORIES: Story[] = [
     topic: "security",
     publishedAt: "2026-11-11",
     publishedTime: "2026-11-14T08:24:00-05:00",
+    archived: true,
     isFollowUp: true,
     headline: {
       ht: "Lanmò Sanjou voye yon dezyèm lèt bay Nasyonzini; CNDDR demanti nenpòt negosyasyon ak chèf gang",
@@ -4646,6 +4801,7 @@ export const STORIES: Story[] = [
     topic: "society",
     publishedAt: "2026-11-11",
     publishedTime: "2026-11-11T17:41:40-05:00",
+    archived: true,
     isFollowUp: true,
     headline: {
       ht: "Grèv pwofesè : elèv licee Philippe Guerrier mache nan Kap, fiskalite meri a bloke nan Pòtoprens",
@@ -5143,6 +5299,7 @@ export const STORIES: Story[] = [
     topic: "governance",
     publishedAt: "2026-11-10",
     publishedTime: "2026-11-10T16:10:50-05:00",
+    archived: true,
     isFollowUp: true,
     headline: {
       ht: "Akò relèvman : prezantasyon nan Kap Ayisyen, premye bilan prevwa pou avril 2027",
@@ -5512,6 +5669,7 @@ export const STORIES: Story[] = [
     topic: "economy",
     publishedAt: "2026-11-10",
     publishedTime: "2026-11-10T15:52:30-05:00",
+    archived: true,
     isFollowUp: true,
     headline: {
       ht: "Jwèt aza : ANJHA kreye pa dekrè 21 out, avi MEF la gen dat 5 oktòb",
@@ -5840,6 +5998,7 @@ export const STORIES: Story[] = [
     topic: "sports",
     publishedAt: "2026-11-11",
     publishedTime: "2026-11-11T17:39:40-05:00",
+    archived: true,
     isFollowUp: true,
     headline: {
       ht: "D1 : Violette bat Juventus 3-0; Don Bosco ak Juventus des Cayes te pwograme mercredi",
@@ -6451,6 +6610,7 @@ export const STORIES: Story[] = [
     topic: "sports",
     publishedAt: "2026-11-11",
     publishedTime: "2026-11-11T07:32:10-05:00",
+    archived: true,
     isFollowUp: true,
     headline: {
       ht: "Lig nasyon yo : Pierrot fòfè kont Etazini, twazyèm gwo absans Grenadye yo",
@@ -6554,6 +6714,7 @@ export const STORIES: Story[] = [
     topic: "politics",
     publishedAt: "2026-11-11",
     publishedTime: "2026-11-11T17:43:20-05:00",
+    archived: true,
     isFollowUp: true,
     headline: {
       ht: "CEP : 22267873 soumisyon aderan yo te rejte paske yo pa t koresponn ak baz referans yo",
@@ -6801,6 +6962,7 @@ export const STORIES: Story[] = [
     topic: "security",
     publishedAt: "2026-11-11",
     publishedTime: "2026-11-11T17:43:40-05:00",
+    archived: true,
     isFollowUp: true,
     headline: {
       ht: "Akayè : 24 moun mouri, 1898 fanmi deplase; majistra a vle yon operasyon nan Trou Forban ak Bercy",
@@ -7810,9 +7972,9 @@ export const FRONT_PAGE_PER_SECTION = 4;
  */
 export const FRONT_PAGE_PIN_IDS = [
   "opinion-cassation-jemley-jean-baptiste-2026-11-16",
+  "ntk-lekens-ambassadeur-france-sanctions-2026-11-22",
   "ntk-soldats-salvadoriens-explosion-camp-2026-11-21",
   "ntk-pnh-martissant-34-ti-lapli-2026-11-20",
-  "ntk-ambassade-usa-alerte-tabarre-cdb-2026-11-20",
 ] as const;
 
 export function frontPageLeads(): Story[] {
