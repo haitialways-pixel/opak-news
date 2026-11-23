@@ -4,7 +4,8 @@ import { SiteFooter } from "../components/SiteFooter";
 import { Masthead } from "../components/Masthead";
 import { StoryCard } from "../components/StoryCard";
 import { useLanguage } from "../context/LanguageContext";
-import { sectionPageStories } from "../data/stories";
+import { sectionPageStories, nextArchiveMs } from "../data/stories";
+import { useLiveNow } from "../hooks/useLiveNow";
 import { homePath, sectionPath, topicBySlug } from "../data/topics";
 import type { Lang } from "../types";
 
@@ -17,6 +18,7 @@ export function SectionPage({ pageLang }: { pageLang: Lang }) {
   }, [pageLang, ctxLang, setLang]);
 
   const lang = pageLang;
+  const now = useLiveNow([nextArchiveMs()].filter((t): t is number => t != null));
   const topic = sectionSlug ? topicBySlug(sectionSlug, lang) : undefined;
 
   if (!topic) {
@@ -36,7 +38,7 @@ export function SectionPage({ pageLang }: { pageLang: Lang }) {
     );
   }
 
-  const stories = sectionPageStories(topic.id);
+  const stories = sectionPageStories(topic.id, now);
   const otherLang: Lang = lang === "ht" ? "fr" : "ht";
 
   return (

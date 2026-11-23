@@ -1,16 +1,18 @@
 import { Link } from "react-router-dom";
-import { frontPageSectionStories } from "../data/stories";
+import { frontPageSectionStories, nextArchiveMs } from "../data/stories";
 import { TOPICS, sectionPath, topicLabel } from "../data/topics";
+import { useLiveNow } from "../hooks/useLiveNow";
 import { useLanguage } from "../context/LanguageContext";
 import type { TopicId } from "../types";
 import { StoryCard } from "./StoryCard";
 
 export function InTheKnow() {
   const { lang, ui } = useLanguage();
+  const now = useLiveNow([nextArchiveMs()].filter((t): t is number => t != null));
 
   const byTopic = TOPICS.map((topic) => ({
     topic: topic.id as TopicId,
-    stories: frontPageSectionStories(topic.id),
+    stories: frontPageSectionStories(topic.id, now),
   })).filter((g) => g.stories.length > 0);
 
   return (

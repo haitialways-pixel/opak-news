@@ -8245,9 +8245,39 @@ export function isBajOpinion(story: Story): boolean {
   return !!story.isOpinion && isBajAuthor(story);
 }
 
-/** Newest non-archived BAJ opinion, by publishedTime. */
-export function newestBajOpinion(): Story | undefined {
-  const list = STORIES.filter((s) => isBajOpinion(s) && !s.archived);
+/** 7 days after publishedTime: the story leaves the front and section lists. */
+export const ARCHIVE_MS = 7 * DAY_MS;
+
+/** Instant a story is auto-archived (7 days after publishedTime). */
+export function storyArchivesAtMs(story: Story): number {
+  return publishMs(story) + ARCHIVE_MS;
+}
+
+/**
+ * Hidden from the front page and section lists.
+ * `archived: true` archives early. Otherwise every story, including BAJ
+ * opinions and current or former pins, archives 7 days after publishedTime.
+ * Computed from the clock so it happens without a redeploy.
+ */
+export function isArchived(story: Story, now = Date.now()): boolean {
+  if (story.archived) return true;
+  return now >= storyArchivesAtMs(story);
+}
+
+/** Soonest future auto-archive among stories not already flagged archived. */
+export function nextArchiveMs(now = Date.now()): number | undefined {
+  let next: number | undefined;
+  for (const s of STORIES) {
+    if (s.archived) continue;
+    const at = storyArchivesAtMs(s);
+    if (at > now && (next == null || at < next)) next = at;
+  }
+  return next;
+}
+
+/** Newest BAJ opinion still within the 7-day window, by publishedTime. */
+export function newestBajOpinion(now = Date.now()): Story | undefined {
+  const list = STORIES.filter((s) => isBajOpinion(s) && !isArchived(s, now));
   return sortByPublishedTime(list)[0];
 }
 
@@ -8264,27 +8294,28 @@ export const FRONT_PAGE_PIN_IDS = [
 ] as const;
 
 /** Lead ids in display order: newest BAJ opinion first, then editorial pins. */
-function frontPageLeadIds(): string[] {
-  const featured = newestBajOpinion();
+function frontPageLeadIds(now = Date.now()): string[] {
+  const featured = newestBajOpinion(now);
   const pins = FRONT_PAGE_PIN_IDS.filter((id) => id !== featured?.id);
   return featured ? [featured.id, ...pins] : [...pins];
 }
 
-export function frontPageLeads(): Story[] {
+export function frontPageLeads(now = Date.now()): Story[] {
   const leads: Story[] = [];
-  for (const id of frontPageLeadIds()) {
+  for (const id of frontPageLeadIds(now)) {
     const story = STORIES.find((s) => s.id === id);
     // Sports stay out of Need to Know unless an editor pins one into the lead group.
-    if (story && !story.archived) leads.push(story);
+    // Pins and opinions still drop off once they are past 7 days.
+    if (story && !isArchived(story, now)) leads.push(story);
   }
   return leads;
 }
 
-export function needToKnowStories(): Story[] {
+export function needToKnowStories(now = Date.now()): Story[] {
   // Standing rule: Sports stories never take top-story (Need to Know) slots; they live only in the Sports section.
-  // The newest BAJ opinion is always #1; remaining pins follow.
-  const list = sortNewestFirst(STORIES.filter((s) => !s.archived && s.tier === "need-to-know" && s.topic !== "sports"));
-  frontPageLeadIds().forEach((id, pos) => {
+  // The newest BAJ opinion is always #1 while it is within 7 days; remaining pins follow.
+  const list = sortNewestFirst(STORIES.filter((s) => !isArchived(s, now) && s.tier === "need-to-know" && s.topic !== "sports"));
+  frontPageLeadIds(now).forEach((id, pos) => {
     const at = list.findIndex((s) => s.id === id);
     if (at > pos) {
       const [item] = list.splice(at, 1);
@@ -8294,8 +8325,8 @@ export function needToKnowStories(): Story[] {
   return list;
 }
 
-export function quickHitStories(): Story[] {
-  return sortNewestFirst(STORIES.filter((s) => !s.archived && (s.tier === "quick-hit" || s.topic === "sports")));
+export function quickHitStories(now = Date.now()): Story[] {
+  return sortNewestFirst(STORIES.filter((s) => !isArchived(s, now) && (s.tier === "quick-hit" || s.topic === "sports")));
 }
 
 /** Newest first by publish time only (the pinned flag is for front-page leads, not section lists). */
@@ -8307,17 +8338,17 @@ function sortByPublishedTime(list: Story[]): Story[] {
 }
 
 /** All non-archived stories in a topic, newest first (for section pages). */
-export function sectionPageStories(topic: TopicId): Story[] {
-  return sortByPublishedTime(STORIES.filter((s) => !s.archived && s.topic === topic));
+export function sectionPageStories(topic: TopicId, now = Date.now()): Story[] {
+  return sortByPublishedTime(STORIES.filter((s) => !isArchived(s, now) && s.topic === topic));
 }
 
 /**
  * Stories for a topic block on the front page: newest first, excluding the
  * current leads (those already sit at the top), capped at FRONT_PAGE_PER_SECTION.
  */
-export function frontPageSectionStories(topic: TopicId, limit = FRONT_PAGE_PER_SECTION): Story[] {
-  const leadIds = new Set(frontPageLeads().map((s) => s.id));
-  return sectionPageStories(topic).filter((s) => !leadIds.has(s.id)).slice(0, limit);
+export function frontPageSectionStories(topic: TopicId, now = Date.now(), limit = FRONT_PAGE_PER_SECTION): Story[] {
+  const leadIds = new Set(frontPageLeads(now).map((s) => s.id));
+  return sectionPageStories(topic, now).filter((s) => !leadIds.has(s.id)).slice(0, limit);
 }
 
 export function breakingExpiresMs(story: Story): number {

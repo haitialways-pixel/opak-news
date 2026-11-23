@@ -55,7 +55,7 @@ export interface Story {
   readMoreLink?: { fr: { before: string; link: string; after: string; href: string }; ht: { before: string; link: string; after: string; href: string } };
   /** Follow-up piece: shows the SUIVI / SWIVI badge (no expiry, not BREAKING). */
   isFollowUp?: boolean;
-  /** Archived: hidden from the front page feeds, still listed on /archives and reachable at its URL. */
+  /** Manual early archive. Stories also leave the front and section lists automatically 7 days after publishedTime (opinions and pins included). Still listed on /archives and reachable at the story URL. */
   archived?: boolean;
   /** Pinned stories always sort first (editor's top story). */
   pinned?: boolean;

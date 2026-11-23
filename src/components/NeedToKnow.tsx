@@ -1,10 +1,12 @@
-import { frontPageLeads } from "../data/stories";
+import { frontPageLeads, nextArchiveMs } from "../data/stories";
+import { useLiveNow } from "../hooks/useLiveNow";
 import { useLanguage } from "../context/LanguageContext";
 import { StoryCard } from "./StoryCard";
 
 export function NeedToKnow() {
   const { ui } = useLanguage();
-  const stories = frontPageLeads();
+  const now = useLiveNow([nextArchiveMs()].filter((t): t is number => t != null));
+  const stories = frontPageLeads(now);
 
   return (
     <section className="section need-to-know" aria-labelledby="ntk-title">
