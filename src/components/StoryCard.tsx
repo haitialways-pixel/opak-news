@@ -1,7 +1,8 @@
 import { storyPath } from "../lib/storyPath";
 import { Link } from "react-router-dom";
 import { ShareBar } from "./ShareBar";
-import { isNewStory, isBreakingActive, isUrgentActive } from "../data/stories";
+import { isNewStory, isBreakingActive, isUrgentActive, newStoryExpiresMs, breakingExpiresMs } from "../data/stories";
+import { useLiveNow } from "../hooks/useLiveNow";
 import { useLanguage } from "../context/LanguageContext";
 import { KeepNumbers } from "../lib/keepNumbers";
 import { cardTeaser } from "../lib/teaser";
@@ -14,19 +15,20 @@ interface Props {
 
 export function StoryCard({ story, variant = "hit" }: Props) {
   const { lang, t, ui } = useLanguage();
+  const now = useLiveNow([newStoryExpiresMs(story), breakingExpiresMs(story)]);
 
   return (
     <article className={`story-card story-card--${variant}`}>
       <div className="story-meta">
         {story.isOpinion && <span className="badge badge-opinion">{ui.opinionBadge}</span>}
-        {isUrgentActive(story) && (
+        {isUrgentActive(story, now) && (
           <span className="badge badge-urgent">{ui.urgentBadge}</span>
         )}
-        {isBreakingActive(story) && (
+        {isBreakingActive(story, now) && (
           <span className="badge badge-breaking">{ui.breakingBadge}</span>
         )}
         {story.isFollowUp && <span className="badge badge-followup">{ui.followUpBadge}</span>}
-        {isNewStory(story) && <span className="badge badge-new">{ui.newBadge}</span>}
+        {isNewStory(story, now) && <span className="badge badge-new">{ui.newBadge}</span>}
         {story.isSample && <span className="badge">{ui.sampleBadge}</span>}
         {story.isManual && <span className="badge badge-manual">{ui.manualBadge}</span>}
       </div>

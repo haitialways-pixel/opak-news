@@ -8215,7 +8215,16 @@ export function sortNewestFirst(list: Story[]): Story[] {
     .map((x) => x.s);
 }
 
-/** "New" = less than 24h since publishedTime (date-only: until end of that day). */
+/** Instant the Nouveau/Nouvo badge expires (24h after publishedTime). */
+export function newStoryExpiresMs(story: Story): number {
+  return publishMs(story) + DAY_MS;
+}
+
+/**
+ * "New" = less than 24h since publishedTime.
+ * Computed at render time from the clock (pass `now` from the browser) so the
+ * badge drops without a redeploy. Date-only stories: 24h from that date at 00:00 Haiti time.
+ */
 export function isNewStory(story: Story, now = Date.now()): boolean {
   if (story.quiet) return false;
   const t = publishMs(story);
@@ -8226,21 +8235,44 @@ export function isNewStory(story: Story, now = Date.now()): boolean {
 /** How many stories each topic shows on the front page (leads excluded). */
 export const FRONT_PAGE_PER_SECTION = 4;
 
+function isBajAuthor(story: Story): boolean {
+  const a = `${story.author?.fr ?? ""} ${story.author?.ht ?? ""}`;
+  return /\bBAJ\b/.test(a) || /Blaise A(?:ntoine)?\.? Joseph/i.test(a);
+}
+
+/** BAJ signed opinion (Opinion/Opinyon), whether or not it is still on the front. */
+export function isBajOpinion(story: Story): boolean {
+  return !!story.isOpinion && isBajAuthor(story);
+}
+
+/** Newest non-archived BAJ opinion, by publishedTime. */
+export function newestBajOpinion(): Story | undefined {
+  const list = STORIES.filter((s) => isBajOpinion(s) && !s.archived);
+  return sortByPublishedTime(list)[0];
+}
+
 /**
- * Front-page leads, in order. These sit above the section blocks and do not
- * count against a section's FRONT_PAGE_PER_SECTION slots.
+ * Extra front-page leads, in order, after the newest BAJ opinion (which is
+ * always #1). These sit above the section blocks and do not count against a
+ * section's FRONT_PAGE_PER_SECTION slots.
  * Sports stories never take a lead slot; they live only in the Sports section.
  */
 export const FRONT_PAGE_PIN_IDS = [
-  "opinion-cassation-jemley-jean-baptiste-2026-11-16",
   "ntk-lekens-ambassadeur-france-sanctions-2026-11-22",
   "ntk-soldats-salvadoriens-explosion-camp-2026-11-21",
   "ntk-pnh-martissant-34-ti-lapli-2026-11-20",
 ] as const;
 
+/** Lead ids in display order: newest BAJ opinion first, then editorial pins. */
+function frontPageLeadIds(): string[] {
+  const featured = newestBajOpinion();
+  const pins = FRONT_PAGE_PIN_IDS.filter((id) => id !== featured?.id);
+  return featured ? [featured.id, ...pins] : [...pins];
+}
+
 export function frontPageLeads(): Story[] {
   const leads: Story[] = [];
-  for (const id of FRONT_PAGE_PIN_IDS) {
+  for (const id of frontPageLeadIds()) {
     const story = STORIES.find((s) => s.id === id);
     // Sports stay out of Need to Know unless an editor pins one into the lead group.
     if (story && !story.archived) leads.push(story);
@@ -8250,9 +8282,9 @@ export function frontPageLeads(): Story[] {
 
 export function needToKnowStories(): Story[] {
   // Standing rule: Sports stories never take top-story (Need to Know) slots; they live only in the Sports section.
-  // 21 Nov 2026: the BAJ Cassation opinion stays at #1, then the Salvadoran camp explosion, the Martissant operation SUIVI, and the U.S. Embassy security alert.
+  // The newest BAJ opinion is always #1; remaining pins follow.
   const list = sortNewestFirst(STORIES.filter((s) => !s.archived && s.tier === "need-to-know" && s.topic !== "sports"));
-  FRONT_PAGE_PIN_IDS.forEach((id, pos) => {
+  frontPageLeadIds().forEach((id, pos) => {
     const at = list.findIndex((s) => s.id === id);
     if (at > pos) {
       const [item] = list.splice(at, 1);
@@ -8298,6 +8330,8 @@ export function isBreakingActive(story: Story, now = Date.now()): boolean {
 }
 
 export function isUrgentActive(story: Story, now = Date.now()): boolean {
+  // Standing rule (23 Nov 2026): BAJ opinions in Justice always show URGENT / IJAN.
+  if (isBajOpinion(story) && story.topic === "justice") return true;
   if (!story.isUrgent) return false;
   if (story.urgentHours == null) return true;
   const t = publishMs(story);

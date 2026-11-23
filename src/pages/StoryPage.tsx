@@ -3,7 +3,8 @@ import { Link, useParams } from "react-router-dom";
 import { AdPlaceholder, OpakChannelPromo, hasActiveBadge } from "../components/AdPlaceholder";
 import { ShareBar } from "../components/ShareBar";
 import { Masthead } from "../components/Masthead";
-import { getStoryById, isNewStory, isBreakingActive, isUrgentActive } from "../data/stories";
+import { getStoryById, isNewStory, isBreakingActive, isUrgentActive, newStoryExpiresMs, breakingExpiresMs } from "../data/stories";
+import { useLiveNow } from "../hooks/useLiveNow";
 import { homePath, sectionPath, topicLabel } from "../data/topics";
 import { useLanguage } from "../context/LanguageContext";
 import { KeepNumbers } from "../lib/keepNumbers";
@@ -22,6 +23,7 @@ export function StoryPage({ pageLang }: { pageLang: Lang }) {
   const ui = ctxUi;
   const t = (x: { fr: string; ht: string }) => x[pageLang];
   const story = id ? getStoryById(id) : undefined;
+  const now = useLiveNow(story ? [newStoryExpiresMs(story), breakingExpiresMs(story)] : []);
 
   if (!story) {
     return (
@@ -57,14 +59,14 @@ export function StoryPage({ pageLang }: { pageLang: Lang }) {
         <div className="story-meta">
           <Link className="topic-chip" to={sectionPath(story.topic, lang)}>{topicLabel(story.topic, lang)}</Link>
           {story.isOpinion && <span className="badge badge-opinion">{ui.opinionBadge}</span>}
-          {isUrgentActive(story) && (
+          {isUrgentActive(story, now) && (
           <span className="badge badge-urgent">{ui.urgentBadge}</span>
         )}
-        {isBreakingActive(story) && (
+        {isBreakingActive(story, now) && (
             <span className="badge badge-breaking">{ui.breakingBadge}</span>
           )}
         {story.isFollowUp && <span className="badge badge-followup">{ui.followUpBadge}</span>}
-        {isNewStory(story) && <span className="badge badge-new">{ui.newBadge}</span>}
+        {isNewStory(story, now) && <span className="badge badge-new">{ui.newBadge}</span>}
           {story.isSample && <span className="badge">{ui.sampleBadge}</span>}
           {story.isManual && (
             <span className="badge badge-manual">{ui.manualBadge}</span>
@@ -149,7 +151,7 @@ export function StoryPage({ pageLang }: { pageLang: Lang }) {
         )}
 
 
-        {hasActiveBadge(story) ? <OpakChannelPromo story={story} /> : <AdPlaceholder />}
+        {hasActiveBadge(story, now) ? <OpakChannelPromo story={story} /> : <AdPlaceholder />}
       </main>
 
       <SiteFooter />

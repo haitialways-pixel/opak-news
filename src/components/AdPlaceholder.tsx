@@ -1,7 +1,8 @@
 import { useEffect, useState, type ReactNode } from "react";
 import { useLanguage } from "../context/LanguageContext";
 import { STORY_PROMOS, OPAK_WA_AD, type PromoAd } from "../data/ads";
-import { isNewStory, isBreakingActive, isUrgentActive } from "../data/stories";
+import { isNewStory, isBreakingActive, isUrgentActive, newStoryExpiresMs, breakingExpiresMs } from "../data/stories";
+import { useLiveNow } from "../hooks/useLiveNow";
 import type { Story } from "../types";
 
 const ROTATE_MS = 8000;
@@ -105,7 +106,8 @@ export function hasActiveBadge(story: Story, now = Date.now()): boolean {
 }
 
 export function OpakChannelPromo({ story }: { story: Story }) {
-  if (!hasActiveBadge(story)) return null;
+  const now = useLiveNow([newStoryExpiresMs(story), breakingExpiresMs(story)]);
+  if (!hasActiveBadge(story, now)) return null;
   return (
     <aside className="ad-slot opak-wa-slot" aria-label="Opak News WhatsApp">
       <OpakWhatsAppBanner ad={OPAK_WA_AD} />
