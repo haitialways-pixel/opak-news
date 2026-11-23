@@ -47,6 +47,59 @@ export const STORIES: Story[] = [
   },
 
   {
+    id: "opinion-cep-liste-electorale-16pct-2026-11-23",
+    tier: "need-to-know",
+    topic: "politics",
+    isOpinion: true,
+    publishedAt: "2026-11-23",
+    publishedTime: "2026-11-23T08:00:00-05:00",
+    headline: {
+      ht: "Eleksyon: 16,4 % moun ki enskri, e premye tou a fikse 18 jiyè 2027",
+      fr: "Élections : 16,4 % d'inscrits, et un premier tour fixé au 18 juillet 2027",
+    },
+    author: { fr: "Par Blaise Antoine Joseph (BAJ)", ht: "Pa Blaise Antoine Joseph (BAJ)" },
+    teaser: {
+      ht: "CEP a montre 962 321 elektè enskri nan 19 novanm, dapre done HaitiLibre relè. Plis pase 80 % moun ki te ka enskri poko ladan l. Èske n ap vote toutbon an jiyè?",
+      fr: "Le CEP affiche 962 321 électeurs inscrits au 19 novembre, selon des données relayées par HaitiLibre. Plus de 80 % des personnes potentiellement éligibles n'y sont pas. On vote vraiment en juillet ?",
+    },
+    brief: {
+      ht: "Nan 19 novanm 2026, CEP konte 962 321 elektè enskri, sètadi 16,4 % moun ki te ka enskri, HaitiLibre relè. Premye tou a fikse 18 jiyè 2027. BAJ mande si dat sa a chita sou yon lis, oswa sou yon swè.",
+      fr: "Au 19 novembre 2026, le CEP compte 962 321 électeurs inscrits, soit 16,4 % des personnes potentiellement en droit de s'inscrire, relaie HaitiLibre. Le premier tour est fixé au 18 juillet 2027. BAJ demande si cette date repose sur une liste, ou sur un souhait.",
+    },
+    body: {
+      ht: "Nan 19 novanm 2026, Konsèy elektoral pwovizwa konte 962 321 elektè enskri, sètadi 16,4 % moun ki te ka enskri nan peyi a, dapre done CEP HaitiLibre relè vandredi. Sa vle di, plis pase 80 % moun ki te ka enskri poko sou lis la.\n\nPremye tou eleksyon prezidansyèl ak lejislatif yo fikse 18 jiyè 2027, nan yon ti kras plis pase sèt mwa. Mwen pa bezwen yon diskou sou « pwosesis la », mwen bezwen yon lis.\n\nSou teren an, toujou dapre chif sa yo, 1 327 sant enskripsyon ouvè sou 1 447 yo te resanse, ak 3 065 operatè aktif. HaitiLibre fè konnen rit la te pi fò nan mwa out ak septanm, anvan li ralanti nan novanm: repè li site yo soti nan yon pik 8 040 nan 9 out, pou rive 1 738 nan 15 novanm. Mwen pa fè previzyon sou koub sa yo, men kesyon an senp: nan rit sa a, èske lis la pral pare an jiyè, oswa èske se yon kalandriye k ap mache san elektè yo deja?\n\nCEP la, pandan tan sa a, pa t rete san fè anyen. Li te ale Kopenhag ak PNUD, 16 rive 19 novanm, pou egzamine echantiyon materyèl elektoral, e dimanch li te resevwa anbasadè Meksik la pou pale de yon komite sipò teknik ak Enstiti nasyonal elektoral meksiken an, yon komite ki poko enstale. Sipò teknik ka itil, li pa ranplase yon lis. Anvan in, bilten ak ekspè, se elektè ki enskri nou bezwen, menm kote gang yo kontwole lari a.\n\nSe pa sèl twou a. Gen fòs politik, tankou GRAND, ki deja refize enskri kandida yo san garanti pou yon vot ki lib e ki kredib. Vandredi, sou Radyo Mega, ansyen senatè Dieupie Chérubin te trete kalandriye a kòm « blòf » e li te mande pou Premye minis Alix Didier Fils-Aimé ak manm CEP yo ale. Se pawòl li, se pa yon konstata, men kesyon sa yo leve a, CEP pral oblije reponn ak chif, se pa ak yon lòt misyon aletranje.\n\nGen yon lòt avètisman tou, ki soti deyò fwa sa a. Nan yon antretyen Haiti Inter, NAGO relè, anbasadè Frans la, Gautier Lekens, di Ayisyen yo « pafètman lib » pou yo deklare elijib moun yo vle, men li avèti chwazi yon kandida Inyon ewopeyen sanksyone « ka gen enplikasyon » pou koperasyon ak Frans. Se pa li ki pou chwazi kandida nou yo. Nou menm non plis, nou pa ka fè kòm si nou pa tande.\n\nMwen pa di nou pa dwe vote an 2027. Mwen di yon dat san lis, san sekirite pou enskri, e san règ ki klè sou kiyès ki ka kandida, se poko yon eleksyon. Si CEP gen yon plan pou ratrape plis pase 80 % enskripsyon ki manke yo, se pou l pibliye l: yon objektif chak mwa, sant ki ouvè toutbon, ak zòn kote enskripsyon pa posib jodi a.\n\nKisa nou panse ?\n• Avèk 16,4 % moun ki enskri nan 19 novanm, èske 18 jiyè 2027 se yon dat, oswa yon swè?\n• Poukisa rit enskripsyon an desann nan novanm, e nan ki depatman sant yo rete fèmen?\n• Èske CEP pral pibliye, chak mwa, kantite moun ki rete pou l enskri pou lis la kredib?\n• Èske nou ka pale de eleksyon toutotan sitwayen pa menm ka enskri kote yo rete?\n\nOu gen yon sijè ou ta renmen mwen bay opinyon m sou li? Ekri m nan chanèl WhatsApp Opak News la.",
+      fr: "Au 19 novembre 2026, le Conseil électoral provisoire compte 962 321 électeurs inscrits, soit 16,4 % des personnes potentiellement en droit de s'inscrire dans le pays, d'après les données du CEP relayées vendredi par HaitiLibre. Autrement dit, plus de 80 % des personnes qui pourraient s'inscrire n'y sont pas encore.\n\nLe premier tour des élections présidentielle et législatives est fixé au 18 juillet 2027, dans un peu plus de sept mois. Je n'ai pas besoin d'un discours sur « le processus », j'ai besoin d'une liste.\n\nSur le terrain, toujours d'après ces chiffres, 1 327 centres d'inscription sont ouverts sur 1 447 recensés, avec 3 065 opérateurs actifs. HaitiLibre relève que le rythme a été plus fort en août et en septembre, avant de ralentir en novembre : les repères qu'elle cite passent d'un pic de 8 040 le 9 août à 1 738 le 15 novembre. Je ne fais pas de prévision à partir de ces courbes, mais la question est simple : à ce rythme, la liste sera-t-elle prête en juillet, ou est-ce déjà un calendrier qui avance sans les électeurs ?\n\nLe CEP, pendant ce temps, n'est pas resté inactif. Il s'est rendu à Copenhague avec le PNUD, du 16 au 19 novembre, pour examiner des échantillons de matériel électoral, et dimanche il a reçu l'ambassadeur du Mexique pour parler d'un comité d'appui technique avec l'Institut national électoral mexicain, un comité qui n'est pas encore installé. L'appui technique peut être utile, il ne remplace pas une liste. Avant les urnes, les bulletins et les experts, il faut des électeurs inscrits, y compris là où les gangs contrôlent la rue.\n\nCe n'est pas le seul trou. Des forces politiques, dont le GRAND, ont déjà refusé d'inscrire leurs candidats sans garanties d'un scrutin libre et crédible. Vendredi, sur Radio Mega, l'ancien sénateur Dieupie Chérubin a traité le calendrier de « bluff » et demandé le départ du Premier ministre Alix Didier Fils-Aimé et des membres du CEP. Ce sont ses propos, pas un constat, mais la question qu'ils soulèvent, le CEP devra y répondre avec des chiffres, pas avec une nouvelle mission à l'étranger.\n\nS'y ajoute un autre avertissement, venu cette fois de l'extérieur. Dans un entretien d'Haiti Inter relaté par NAGO, l'ambassadeur de France, Gautier Lekens, a dit que les Haïtiens sont « parfaitement libres » de déclarer éligible qui ils veulent, tout en prévenant qu'élire un candidat visé par des sanctions de l'Union européenne « peut avoir des implications » pour la coopération avec la France. Il n'a pas à choisir nos candidats. Nous non plus, on ne peut pas faire semblant de n'avoir pas entendu.\n\nJe ne dis pas qu'il ne faut pas voter en 2027. Je dis qu'une date sans liste, sans sécurité pour s'inscrire, et sans règles claires sur qui peut être candidat, n'est pas encore une élection. Si le CEP a un plan pour rattraper plus de 80 % d'inscrits manquants, qu'il le publie : un objectif mensuel, des centres réellement ouverts, et les zones où l'inscription est impossible aujourd'hui.\n\nQu'en pensez-vous ?\n• Avec 16,4 % d'inscrits au 19 novembre, le 18 juillet 2027 est-il une date, ou un souhait ?\n• Pourquoi le rythme des inscriptions a-t-il chuté en novembre, et dans quels départements les centres restent-ils fermés ?\n• Le CEP publiera-t-il, chaque mois, le nombre d'inscrits qu'il lui faut encore pour avoir une liste crédible ?\n• Peut-on parler d'élections tant que des citoyens ne peuvent même pas s'inscrire là où ils habitent ?\n\nVous avez un sujet sur lequel vous aimeriez que je donne mon avis ? Écrivez-moi via la chaîne WhatsApp d'Opak News.",
+    },
+    sources: [
+      "HaitiLibre, données du CEP au 19 novembre 2026",
+      "CEP, calendrier électoral (premier tour le 18 juillet 2027)",
+      "NAGO / iciHaïti, rencontre CEP-Mexique du 22 novembre 2026",
+      "Compte rendu déjà publié sur le site : mission CEP-PNUD à Copenhague, 16-19 novembre",
+      "Compte rendu déjà publié : lettre du GRAND au CEP",
+      "Rezo Nòdwès / Radio Mega : propos de Dieupie Chérubin, 20 novembre 2026",
+      "Haiti Inter via NAGO : entretien de Gautier Lekens, 21-22 novembre 2026"
+],
+    sourceLinks: [
+      {
+            "name": "HaitiLibre, statistiques électorales",
+            "url": "https://www.haitilibre.com/article-48939-haiti-statistiques-electorales-pres-de-1-million-d-electeurs-inscrits.html"
+      },
+      {
+            "name": "NAGO, Lekens",
+            "url": "https://news.nago.tv/en/l-ambassadeur-de-france-gautier-lekens-regrette-une-image-d-haiti-reduite-aux-gangs"
+      },
+      {
+            "name": "iciHaïti / Constant Haïti, CEP-Mexique",
+            "url": "https://constanthaiti.info/le-cep-prepare-avec-le-mexique-un-comite-d-appui-au-processus-electoral"
+      }
+],
+    readMoreLink: {
+      fr: {"before": "Pour lire notre compte rendu sur les inscriptions, ", "link": "cliquez ici", "after": ".", "href": "/story/qh-cep-962321-inscrits-2026-11-21"},
+      ht: {"before": "Pou li kont rann nou sou enskripsyon yo, ", "link": "klike la a", "after": ".", "href": "/ht/story/qh-cep-962321-inscrits-2026-11-21"},
+    },
+  },
+
+  {
     id: "ntk-lekens-ambassadeur-france-sanctions-2026-11-22",
     tier: "need-to-know",
     topic: "politics",
