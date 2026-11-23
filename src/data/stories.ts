@@ -100,6 +100,208 @@ export const STORIES: Story[] = [
   },
 
   {
+    id: "qh-etzer-emile-depot-candidature-soley-2026-11-23",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-23",
+    publishedTime: "2026-11-23T08:40:00-05:00",
+    headline: {
+      ht: "Etzer Émile depoze kandidati l pou prezidans, Solèy aliyen 99 kandida pou Palman an",
+      fr: "Etzer Émile dépose sa candidature à la présidence, Solèy aligne 99 candidats au Parlement",
+    },
+    teaser: {
+      ht: "Li depoze dosye a dimanch nan BED Lwès la, dapre ekip li. Se CEP ki gen dènye mo sou kandidati a.",
+      fr: "Il a déposé son dossier dimanche au BED de l'Ouest, selon son équipe. L'admission reste soumise au CEP.",
+    },
+    brief: {
+      ht: "Etzer Émile, kandida regwoupman Solèy (nimewo 78), depoze dimanch 22 novanm dosye kandidati l pou prezidans nan Biwo elektoral depatmantal (BED) Lwès la, dapre yon kominike ekip li Juno7 relè. Solèy prezante tou 18 kandida pou Sena a ak 81 pou Chanm depite a.",
+      fr: "Etzer Émile, candidat du regroupement Solèy (numéro 78), a déposé dimanche 22 novembre son dossier de candidature à la présidence au Bureau électoral départemental (BED) de l'Ouest, selon un communiqué de son équipe relayé par Juno7. Solèy présente aussi 18 candidats au Sénat et 81 à la Chambre des députés.",
+    },
+    body: {
+      ht: "Etzer Émile, kandida pou prezidans sou banyè regwoupman politik Solèy, depoze dimanch 22 novanm 2026 dosye kandidati l nan Biwo elektoral depatmantal (BED) Lwès la, dapre yon kominike ekip li Juno7 relè. Kominike a di dosye a reponn ak egzijans atik 153 dekrè elektoral 2 jen 2026 la. Li te anonse kandidati l depi 31 oktòb.\n\nDepo dosye a se yon etap nan pwosesis la sèlman: se Konsèy elektoral pwovizwa (CEP) ki pou egzamine l anvan l admèt kandidati a. Solèy, ki gen nimewo 78, prezante tou 18 kandida pou Sena a ak 81 pou Chanm depite a, sètadi 99 kandida pou Palman an.\n\n« Okenn prezidan pa ka reyisi pou kont li san yon Palman ki fò, endepandan e ki egzijan », Etzer Émile di lè l t ap depoze dosye a, dapre kominike a. Ekip li di pwogram li chita sou twa priyorite: sekirite, travay ak jistis sosyal.",
+      fr: "Etzer Émile, candidat à la présidence sous la bannière du regroupement politique Solèy, a déposé dimanche 22 novembre 2026 son dossier de candidature au Bureau électoral départemental (BED) de l'Ouest, selon un communiqué de son équipe relayé par Juno7. Le communiqué affirme que le dossier répond aux exigences de l'article 153 du décret électoral du 2 juin 2026. Il avait annoncé sa candidature le 31 octobre.\n\nLe dépôt n'est qu'une étape: l'admission définitive dépend de l'examen du Conseil électoral provisoire (CEP). Solèy, identifié par le numéro 78, présente aussi 18 candidats au Sénat et 81 à la Chambre des députés, soit 99 candidats au Parlement.\n\n« Aucun président ne peut réussir seul sans un Parlement fort, indépendant et exigeant », a déclaré Etzer Émile lors du dépôt, selon le communiqué. Son équipe dit que son programme repose sur trois priorités: la sécurité, le travail et la justice sociale.",
+    },
+    sources: ["Juno7","Vant Bèf Info"],
+    sourceLinks: [
+      { name: "Juno7", url: "https://www.juno7.ht/etzer-emile-depot-candidature-presidentielle/" },
+      { name: "Amitié FM", url: "https://www.amitiefm.ht/post/etzer-emile-officialise-sa-candidature-au-bed-de-l-ouest" },
+    ],
+  },
+
+  {
+    id: "qh-ayiti-transfome-menfp-dcpj-retards-2026-11-23",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-23",
+    publishedTime: "2026-11-23T08:39:00-05:00",
+    headline: {
+      ht: "Ayiti Transfòme denonse reta nan MENFP ak DCPJ ki ka bloke dosye kandida yo",
+      fr: "Ayiti Transfòme dénonce des retards au MENFP et à la DCPJ qui pourraient bloquer des candidats",
+    },
+    teaser: {
+      ht: "Gwoupman an di gen kandida ki jwenn papye yo vit, gen lòt ki rete ap tann. Li mande CEP entèvni.",
+      fr: "Le groupement dit que certains candidats obtiennent leurs papiers vite, d'autres attendent. Il demande au CEP d'intervenir.",
+    },
+    brief: {
+      ht: "Nan yon kominike vandredi 20 novanm, gwoupman Ayiti Transfòme denonse dezòd ak reta nan MENFP pou lèt mizan disponibilite ak nan DCPJ pou sètifika polis. Li di sa ka anpeche kèk kandida depoze dosye yo alè, Haïti24 relè.",
+      fr: "Dans un communiqué publié vendredi 20 novembre, le groupement Ayiti Transfòme dénonce des lenteurs au MENFP pour les lettres de mise en disponibilité et à la DCPJ pour les certificats de police. Selon lui, cela pourrait empêcher certains candidats de déposer leurs dossiers à temps, relaie Haïti24.",
+    },
+    body: {
+      ht: "Gwoupman politik Ayiti Transfòme pibliye vandredi 20 novanm 2026 yon kominike kote li denonse dezòd ak lantè administratif nan Ministè Edikasyon nasyonal (MENFP) ak nan Direksyon santral polis jidisyè (DCPJ), Haïti24 ak Planet Press relè. Dapre gwoupman an, pwoblèm sa yo ka kraze konstitisyon dosye kandidati pou eleksyon k ap vini yo.\n\nPou MENFP, Ayiti Transfòme di gen diferans nan jan yo trete demann lèt mizan disponibilite: kèk kandida jwenn yon tretman rapid, lòt ap fè fas ak reta li jije san rezon. Li denonse tou reta DCPJ pou bay sètifika polis nan dis depatman yo.\n\nGwoupman an mande MENFP trete tout demann yo menm jan, li mande DCPJ pran mezi ijan pou akselere sètifika yo, e li envite CEP entèvni bò kote enstitisyon sa yo pou tout kandida gen menm chans. Se akizasyon gwoupman an; MENFP ak DCPJ pa t reponn piblikman, dapre sous nou konsilte yo.",
+      fr: "Le groupement politique Ayiti Transfòme a publié vendredi 20 novembre 2026 un communiqué dénonçant des dysfonctionnements et des lenteurs administratives au ministère de l'Éducation nationale (MENFP) et à la Direction centrale de la police judiciaire (DCPJ), relaient Haïti24 et Planet Press. Selon le groupement, ces difficultés risquent de compromettre la constitution des dossiers de candidature aux prochaines élections.\n\nAu MENFP, Ayiti Transfòme signale des disparités dans le traitement des demandes de lettres de mise en disponibilité: certains candidats bénéficieraient d'un traitement accéléré, d'autres feraient face à des retards qu'il juge injustifiés. Il dénonce aussi les délais de délivrance des certificats de police par la DCPJ dans les dix départements.\n\nLe groupement exige un traitement équitable au MENFP, des mesures urgentes à la DCPJ, et invite le CEP à intervenir auprès de ces institutions. Ce sont les accusations du groupement; le MENFP et la DCPJ n'avaient pas répondu publiquement, d'après les sources consultées.",
+    },
+    sources: ["Haïti24","Planet Press","Vant Bèf Info"],
+    sourceLinks: [
+      { name: "Haïti24", url: "https://haiti24.net/ayiti-transfome-alerte-sur-les-retards-du-menfp-et-de-la-dcpj/" },
+      { name: "Planet Press", url: "https://planet-press.com/2026/11/22/ayiti-transfome-denonce-des-inegalites-de-traitement-dans-la-preparation-des-elections/" },
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/elections-ayiti-transfome-denonce-des-lenteurs-administratives-qui-menacent-legalite-des-chances-entre-candidats/" },
+    ],
+  },
+
+  {
+    id: "qh-brh-taux-reference-130-88-2026-11-23",
+    tier: "quick-hit",
+    topic: "economy",
+    publishedAt: "2026-11-23",
+    publishedTime: "2026-11-23T08:38:00-05:00",
+    headline: {
+      ht: "BRH: to referans lan monte a 130,88 goud pou 1 dola lendi",
+      fr: "BRH : le taux de référence grimpe à 130,88 gourdes pour 1 dollar lundi",
+    },
+    teaser: {
+      ht: "Se yon ti ogmantasyon 0,10% sou yon semèn. Sou mache enfòmèl la, dola a vann 136 goud.",
+      fr: "C'est une légère hausse de 0,10 % sur une semaine. Sur le marché informel, le dollar se vend à 136 gourdes.",
+    },
+    brief: {
+      ht: "Bank repiblik d Ayiti (BRH) fikse to referans lendi 23 novanm 2026 a 130,8751 goud pou 1 dola ameriken, 0,04% plis pase jou anvan an e 0,10% plis pase semèn pase. Bank yo achte dola a 130,69 goud e yo vann li 131,78.",
+      fr: "La Banque de la République d'Haïti (BRH) fixe le taux de référence du lundi 23 novembre 2026 à 130,8751 gourdes pour 1 dollar américain, soit 0,04 % de plus que la veille et 0,10 % de plus qu'il y a une semaine. Les banques achètent le dollar à 130,69 gourdes et le vendent à 131,78.",
+    },
+    body: {
+      ht: "Bank repiblik d Ayiti (BRH) fikse to referans lendi 23 novanm 2026 a 130,8751 goud pou 1 dola ameriken, dapre paj « To jou a » li. Se 0,04% plis pase jou anvan an, 0,10% plis pase semèn pase, e 0,15% plis pase ane pase.\n\nSou mache bankè a, bank yo achte dola a 130,69 goud e yo vann li 131,78 goud. Sou mache enfòmèl la, BRH afiche 131,15 goud pou achte ak 136 goud pou vann. Tranzaksyon bankè yo te rive anviwon 24,4 M dola nan acha ak 24,8 M dola nan vant.",
+      fr: "La Banque de la République d'Haïti (BRH) fixe le taux de référence du lundi 23 novembre 2026 à 130,8751 gourdes pour 1 dollar américain, selon sa page « Taux du jour ». C'est 0,04 % de plus que la veille, 0,10 % de plus qu'il y a une semaine et 0,15 % de plus qu'il y a un an.\n\nSur le marché bancaire, les banques achètent le dollar à 130,69 gourdes et le vendent à 131,78 gourdes. Sur le marché informel, la BRH affiche 131,15 gourdes à l'achat et 136 gourdes à la vente. Les transactions bancaires ont atteint environ 24,4 M$ à l'achat et 24,8 M$ à la vente.",
+    },
+    sources: ["BRH"],
+    sourceLinks: [
+      { name: "BRH", url: "https://www.brh.ht/taux-du-jour/" },
+    ],
+  },
+
+  {
+    id: "qh-surin-nouvelliste-routes-recession-2026-11-23",
+    tier: "quick-hit",
+    topic: "economy",
+    publishedAt: "2026-11-23",
+    publishedTime: "2026-11-23T08:37:00-05:00",
+    headline: {
+      ht: "Yon ekonomis kalkile: menm ak wout yo louvri, Ayiti ta bezwen 13 an pou l retounen nan nivo pwodiksyon 2018",
+      fr: "Un économiste calcule : même routes rouvertes, Haïti mettrait 13 ans à retrouver sa production de 2018",
+    },
+    teaser: {
+      ht: "Se kalkil Réginald Surin nan Le Nouvelliste. Ak 3% kwasans chak ane, delè a ta tonbe a 7 an.",
+      fr: "Ce sont les calculs de Réginald Surin dans Le Nouvelliste. Avec 3 % de croissance par an, le délai tomberait à 7 ans.",
+    },
+    brief: {
+      ht: "Nan yon analiz Le Nouvelliste pibliye 20 novanm, ekonomis Réginald Surin ekri relouvèti wout yo ka mete fen ak resesyon an, men retounen nan nivo pwodiksyon 2018 ta pran 13 an, kont 7 an si kwasans lan ta rive 3% pa ane.",
+      fr: "Dans une analyse publiée le 20 novembre par Le Nouvelliste, l'économiste Réginald Surin écrit que la réouverture des routes pourrait mettre fin à la récession, mais que retrouver la production de 2018 prendrait treize ans, contre sept si la croissance atteignait 3 % par an.",
+    },
+    body: {
+      ht: "Nan yon analiz long Le Nouvelliste pibliye 20 novanm 2026, ekonomis Réginald Surin ekri jou baraj yo tonbe e wout yo relouvri, ekonomi ayisyen an ap rekòmanse mache, men a ki vitès, se la kesyon an ye. Dapre kalkil li, retounen nan nivo pwodiksyon 2018 ta pran 13 an, kont 7 an si kwasans lan ta rive 3% pa ane.\n\nSurin di tout bagay ap depann de de chwa: pwodui nan peyi a yon pati nan sa Ayiti achte aletranje, sou koridò ki sekirize pou endistri, e pase ak moun ki gen kapital yo yon vrè kontra pwodiksyon ak obligasyon strik. Se analiz ak kalkil otè a, Le Nouvelliste pibliye.",
+      fr: "Dans une longue analyse publiée le 20 novembre 2026 par Le Nouvelliste, l'économiste Réginald Surin écrit que le jour où les barrages tomberont et où les routes rouvriront, l'économie haïtienne se remettra en marche, la vraie question étant à quelle vitesse. Selon ses calculs, retrouver le niveau de production de 2018 prendrait treize ans, contre sept si la croissance atteignait 3 % par an.\n\nSelon Surin, tout dépendra de deux choix: produire sur place une part de ce que le pays achète à l'étranger, le long de corridors sécurisés dédiés à l'industrie, et passer avec les détenteurs du capital un véritable contrat de production assorti d'obligations strictes. Ce sont l'analyse et les calculs de l'auteur, publiés par Le Nouvelliste.",
+    },
+    sources: ["Le Nouvelliste"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/274102/le-jour-dapres-quand-les-barrages-tomberont-la-vraie-bataille-commencera" },
+    ],
+  },
+
+  {
+    id: "qh-deces-eddy-jackson-alexis-2026-11-23",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-23",
+    publishedTime: "2026-11-23T08:36:00-05:00",
+    headline: {
+      ht: "Jounalis Eddy Jackson Alexis, ansyen sekretè deta Kominikasyon, mouri",
+      fr: "Le journaliste Eddy Jackson Alexis, ancien secrétaire d'État à la Communication, est décédé",
+    },
+    teaser: {
+      ht: "Li mouri vandredi swa 20 novanm. Le Nouvelliste pale de yon malèz kadyak.",
+      fr: "Il est mort vendredi soir 20 novembre. Le Nouvelliste évoque un malaise cardiaque.",
+    },
+    brief: {
+      ht: "Jounalis Eddy Jackson Alexis mouri nan nuit vandredi 20 novanm 2026, Le Nouvelliste ak Juno7 relè. Li te sekretè deta Kominikasyon ak pòtpawòl gouvènman an anba prezidans Jovenel Moïse.",
+      fr: "Le journaliste Eddy Jackson Alexis est mort dans la nuit du vendredi 20 novembre 2026, relaient Le Nouvelliste et Juno7. Il avait été secrétaire d'État à la Communication et porte-parole du gouvernement sous la présidence de Jovenel Moïse.",
+    },
+    body: {
+      ht: "Jounalis Eddy Jackson Alexis mouri nan nuit vandredi 20 novanm 2026. Le Nouvelliste ekri li te fè yon malèz kadyak, yo te kouri avè l lopital, men li pa t chape. Jounal la di li te malad depi kèk tan e li te sibi plizyè operasyon. Juno7 di pa t gen konfimasyon medikal sou kòz lanmò a.\n\nLi te pase plis pase 20 an nan laprès ayisyen, sitou kòm repòtè nan Radyo Kiskeya ak Radyo Solidarite, dapre Le Nouvelliste. Yo te nonmen l sekretè deta Kominikasyon an septanm 2018, anba prezidans Jovenel Moïse, e li te rete nan pòs la plis pase dezan, Juno7 raple. Gouvènman an rann li omaj nan yon nòt samdi.",
+      fr: "Le journaliste Eddy Jackson Alexis est mort dans la nuit du vendredi 20 novembre 2026. Le Nouvelliste écrit qu'il a été victime d'un malaise cardiaque et qu'il n'a pas survécu à son transport d'urgence à l'hôpital. Le journal précise qu'il était souffrant depuis quelque temps et avait subi plusieurs interventions chirurgicales. Juno7 note qu'aucune confirmation médicale n'était disponible sur la cause du décès.\n\nIl a consacré plus de vingt ans à la presse haïtienne, notamment comme reporter à Radio Kiskeya et à Radio Solidarité, selon Le Nouvelliste. Nommé secrétaire d'État à la Communication en septembre 2018, sous la présidence de Jovenel Moïse, il a occupé ce poste pendant plus de deux ans, rappelle Juno7. Le gouvernement lui a rendu hommage dans une note samedi.",
+    },
+    sources: ["Le Nouvelliste","Juno7"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/274140/deces-du-journaliste-eddy-jackson-alexis" },
+      { name: "Juno7", url: "https://www.juno7.ht/deces-eddy-jackson-alexis-journaliste-haiti/" },
+    ],
+  },
+
+  {
+    id: "qh-michael-brun-gta-vi-sniper-la-perle-2026-11-23",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-23",
+    publishedTime: "2026-11-23T08:35:00-05:00",
+    headline: {
+      ht: "GTA VI: Michaël Brun mete mizik ayisyen sou yon radyo sekrè nan jwèt la",
+      fr: "GTA VI : Michaël Brun met la musique haïtienne sur une radio secrète du jeu",
+    },
+    teaser: {
+      ht: "An 2002, Vice City te fè Ayisyen leve kanpe. Fwa sa a, gen konpa, rabòday ak rap kreyòl nan jwèt la.",
+      fr: "En 2002, Vice City avait soulevé la colère des Haïtiens. Cette fois, le jeu diffuse du konpa, du rabòday et du rap kreyòl.",
+    },
+    brief: {
+      ht: "Nan Grand Theft Auto VI, youn nan de radyo sekrè yo, « The Sniper of La Perle », jwe mizik ayisyen ak ayisyen-ameriken. Se Michaël Brun ki fè l, e se Kodak Black ki anime l, Miami Herald ak NAGO relè.",
+      fr: "Dans Grand Theft Auto VI, l'une des deux radios secrètes, « The Sniper of La Perle », diffuse de la musique haïtienne et haïtiano-américaine. Elle a été conçue par Michaël Brun et est animée par Kodak Black, relaient le Miami Herald et NAGO.",
+    },
+    body: {
+      ht: "Nan Grand Theft Auto VI, nouvo gwo vèsyon seri a, jwè yo ka débloke yon radyo sekrè, « The Sniper of La Perle », lè yo jwenn kat afich nan jwèt la, Miami Herald ekri. Se Michaël Brun ki fè lis mizik la, e se Kodak Black ki anime l. Dapre Yo Hit Radio, gen 22 mòso konpa, rabòday ak rap kreyòl, ak atis tankou Carimi, T-Vice, Barikad Crew ak Wyclef Jean.\n\nMiami Herald raple, lè Grand Theft Auto: Vice City te soti an 2002, yon liy nan jwèt la ki t ap pouse touye Ayisyen te pwovoke manifestasyon ak yon pwosè; menm prezidan Jean-Bertrand Aristide te kondane l. Plis pase 20 an apre, kominote a jwenn yon rezon pou l fè fèt.",
+      fr: "Dans Grand Theft Auto VI, le nouvel opus majeur de la série, les joueurs peuvent débloquer une radio secrète, « The Sniper of La Perle », en trouvant quatre affiches dans le jeu, écrit le Miami Herald. La programmation est signée Michaël Brun, et l'animation est assurée par Kodak Black. Selon Yo Hit Radio, elle compte 22 titres de konpa, de rabòday et de rap kreyòl, avec notamment Carimi, T-Vice, Barikad Crew et Wyclef Jean.\n\nLe Miami Herald rappelle qu'à la sortie de Grand Theft Auto: Vice City en 2002, une réplique incitant à tuer des Haïtiens avait provoqué des manifestations et un procès; même le président Jean-Bertrand Aristide l'avait condamnée. Plus de vingt ans après, la communauté y trouve une raison de célébrer.",
+    },
+    sources: ["Miami Herald","NAGO","Yo Hit Radio"],
+    sourceLinks: [
+      { name: "Miami Herald", url: "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article318190321.html" },
+      { name: "NAGO", url: "https://news.nago.tv/la-musique-haitienne-mise-a-l-honneur-dans-gta-vi" },
+      { name: "Yo Hit Radio", url: "https://yohitradio.com/the-sniper-of-la-perle-la-playlist-secrete-de-gta-6-qui-celebre-la-musique-haitienne/" },
+    ],
+  },
+
+  {
+    id: "qh-grenadieres-mexique-concacaf-w-2026-11-23",
+    tier: "quick-hit",
+    topic: "sports",
+    publishedAt: "2026-11-23",
+    publishedTime: "2026-11-23T08:34:00-05:00",
+    headline: {
+      ht: "Grenadyè yo jwe kont Meksik 28 novanm nan Texas, yon match ki konte pou Koup dimonn 2027",
+      fr: "Les Grenadières affrontent le Mexique le 28 novembre au Texas, un match qualificatif pour le Mondial 2027",
+    },
+    teaser: {
+      ht: "Se ka final chanpyona fanm Concacaf la. Concacaf pibliye lis 23 jwè yo.",
+      fr: "C'est un quart de finale du championnat féminin de la Concacaf. La Concacaf a publié la liste des 23 joueuses.",
+    },
+    brief: {
+      ht: "Seleksyon fanm Ayiti a ap jwe kont Meksik 28 novanm 2026 nan Texas Health Mansfield Stadium, nan Mansfield (Texas), nan ka final chanpyona fanm Concacaf la, ki sèvi kòm eliminatwa pou Koup dimonn 2027 nan Brezil, Le Nouvelliste relè.",
+      fr: "La sélection féminine haïtienne affronte le Mexique le 28 novembre 2026 au Texas Health Mansfield Stadium, à Mansfield (Texas), en quart de finale du championnat féminin de la Concacaf, qualificatif pour la Coupe du monde 2027 au Brésil, relaie Le Nouvelliste.",
+    },
+    body: {
+      ht: "Seleksyon fanm Ayiti a ap jwe kont Meksik vandredi 28 novanm 2026 nan Texas Health Mansfield Stadium, nan Mansfield, nan eta Texas, Le Nouvelliste ekri. Se yon match ka final nan chanpyona fanm Concacaf la, ki sèvi kòm eliminatwa pou Koup dimonn 2027 la nan Brezil.\n\nConcacaf pibliye non 23 Grenadyè yo chwazi pou match la. Pami yo gen Melchie Dumornay, Roseline Éloissaint, Nérilia Mondésir, Batcheba Louis ak Kethna Louis, dapre lis medya espò yo relè.",
+      fr: "La sélection féminine haïtienne affronte le Mexique le vendredi 28 novembre 2026 au Texas Health Mansfield Stadium, à Mansfield, au Texas, écrit Le Nouvelliste. Ce quart de finale du championnat féminin de la Concacaf sert de qualification pour la Coupe du monde 2027, au Brésil.\n\nLa Concacaf a dévoilé les noms des 23 Grenadières retenues. On y trouve notamment Melchie Dumornay, Roseline Éloissaint, Nérilia Mondésir, Batcheba Louis et Kethna Louis, selon la liste relayée par la presse sportive.",
+    },
+    sources: ["Le Nouvelliste","iciHaïti"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/274134/haiti-mexique-la-concacaf-devoile-les-23-grenadieres-convoquees" },
+    ],
+  },
+
+  {
     id: "ntk-lekens-ambassadeur-france-sanctions-2026-11-22",
     tier: "need-to-know",
     topic: "politics",
@@ -241,26 +443,29 @@ export const STORIES: Story[] = [
     id: "ntk-soldats-salvadoriens-explosion-camp-2026-11-21",
     tier: "need-to-know",
     topic: "security",
+    isFollowUp: true,
     publishedAt: "2026-11-21",
-    publishedTime: "2026-11-21T14:20:00-05:00",
+    publishedTime: "2026-11-23T08:41:00-05:00",
     headline: {
-      ht: "Twa sòlda salvadoryen mouri nan yon eksplozyon nan yon kan ann Ayiti, yon katriyèm soti danje",
-      fr: "Trois soldats salvadoriens meurent dans l'explosion d'un camp en Haïti, un quatrième est hors de danger",
+      ht: "Bukele bay non twa sòlda salvadoryen ki mouri ann Ayiti yo, li anonse yon fon 1 M$ pou fanmi yo",
+      fr: "Bukele nomme les trois soldats salvadoriens morts en Haïti et annonce un fonds de 1 M$ pour leurs familles",
     },
     teaser: {
-      ht: "Se lame Salvador ki di sa. Li pale de yon eksplozyon aksidan, li pa bay non viktim yo ni kote kan an ye. Pa konfonn yo ak kat teknisyen ki toujou disparèt depi 18 oktòb.",
-      fr: "C'est l'armée salvadorienne qui le dit. Elle parle d'une explosion accidentelle, sans nommer les victimes ni le camp. Il ne faut pas les confondre avec les quatre techniciens toujours disparus depuis le 18 octobre.",
+      ht: "Li rele yo « ewo ». Li di yo te fè pati misyon ki te vin delivre kat militè yo te kidnape.",
+      fr: "Il les appelle des « héros ». Selon lui, ils faisaient partie de la mission venue secourir quatre militaires enlevés.",
     },
     brief: {
-      ht: "Fòs lame Salvador di kat sòlda yo te frape vandredi 20 novanm, pandan yo t ap manyen materyèl eksplozif nan yon kan ann Ayiti ki poko idantifye. Premye bilan an te di de moun mouri ak de blese; nan aswè, lame a di youn nan blese yo mouri nan yon lopital nan Dominikani, sa fè twa mò.",
-      fr: "L'armée salvadorienne dit que quatre de ses soldats ont été touchés vendredi 20 novembre, alors qu'ils manipulaient du matériel explosif dans un camp en Haïti qui n'a pas été identifié. Le premier bilan faisait état de deux morts et deux blessés; dans la soirée, l'armée a dit que l'un des blessés était mort dans un hôpital en République dominicaine, ce qui porte le total à trois morts.",
+      ht: "Prezidan Nayib Bukele idantifye dimanch swa sou X twa militè ki te mouri 20 novanm nan yon eksplozyon aksidan nan yon kan ann Ayiti: lyetnan Cristian Daniel Palacios Santos ak kaporal Emerson Alexander Zepeda Zelada ak Wilber Manuel Serrano Medina, EFE relè. Li anonse yon fon 1 M$ pou fanmi yo, dapre Centroamérica 360.",
+      fr: "Le président Nayib Bukele a identifié dimanche soir sur X les trois militaires morts le 20 novembre dans une explosion accidentelle dans un camp en Haïti: le lieutenant Cristian Daniel Palacios Santos et les caporaux Emerson Alexander Zepeda Zelada et Wilber Manuel Serrano Medina, relaie EFE. Il a annoncé un fonds de 1 M$ pour leurs familles, selon Centroamérica 360.",
     },
     body: {
-      ht: "Fòs lame Salvador (Fuerza Armada) di kat sòlda yo te frape vandredi 20 novanm 2026, pandan yo t ap manyen materyèl eksplozif nan youn nan kan kontenjan yo ann Ayiti. Premye kominike a te pale de de mò ak de blese. Nan aswè vandredi, lame a te ekri sou X youn nan de blese yo te mouri pandan l t ap resevwa swen nan yon lopital nan Repiblik dominikèn, kote yo te evakye l pa avyon. Sa fè twa sòlda mouri. Lame a di lòt sòlda blese a soti danje kounye a. Li prezante kondoleyans li bay fanmi yo.\n\nLame a pale de yon « detonasyon aksidan ». Li pa bay non militè yo, ni kote kan an ye, ni plis detay sou sikonstans yo. Se premye fwa, depi deplwaman an, lame salvadoryen an konfime lanmò sòlda li yo ann Ayiti, BBC, Diario Libre ak Miami Herald relè.\n\nPremye minis Alix Didier Fils-Aimé voye kondoleyans li bay fanmi mò yo ak otorite Salvador yo, NAGO relè. De mò sa yo pa gen rapò ak kat teknisyen avyasyon salvadoryen ki toujou ofisyèlman disparèt depi anbiskad 18 oktòb la nan Kwadèbouke.",
-      fr: "L'armée salvadorienne (Fuerza Armada) dit que quatre de ses soldats ont été touchés vendredi 20 novembre 2026, alors qu'ils manipulaient du matériel explosif dans l'un des camps de leur contingent en Haïti. Un premier communiqué faisait état de deux morts et de deux blessés. Dans la soirée de vendredi, l'armée a écrit sur X que l'un des deux blessés était mort alors qu'il recevait des soins dans un hôpital en République dominicaine, où il avait été évacué par avion. Le bilan s'élève à trois morts. L'armée dit que l'autre soldat blessé est désormais hors de danger. Elle a présenté ses condoléances aux familles.\n\nL'armée parle d'une « détonation accidentelle ». Elle n'a nommé ni les militaires, ni le camp, et n'a pas donné plus de détails sur les circonstances. C'est la première fois, depuis le déploiement, que l'armée salvadorienne confirme la mort de soldats en Haïti, relaient la BBC, Diario Libre et le Miami Herald.\n\nLe Premier ministre Alix Didier Fils-Aimé a adressé ses condoléances aux familles des morts et aux autorités du Salvador, relaie NAGO. Ces décès sont distincts du sort des quatre techniciens de l'aviation salvadorienne toujours officiellement portés disparus depuis l'embuscade du 18 octobre, à Croix-des-Bouquets.",
+      ht: "Mizajou 23 novanm: Nan yon long mesaj sou X dimanch swa 22 novanm, prezidan salvadoryen an, Nayib Bukele, bay non twa militè ki mouri yo: lyetnan Cristian Daniel Palacios Santos, kaporal Emerson Alexander Zepeda Zelada ak kaporal Wilber Manuel Serrano Medina, ajans EFE relè. Li rele yo « ewo salvadoryen » e li di yo te vin ann Ayiti pou delivre kat konpayon yo gang te kidnape. Bukele pale toujou de yon « eksplozyon aksidan ». Dapre sit Centroamérica 360, li anonse yon fon 1 M$ pou fanmi viktim yo.\n\nFòs lame Salvador (Fuerza Armada) di kat sòlda yo te frape vandredi 20 novanm 2026, pandan yo t ap manyen materyèl eksplozif nan youn nan kan kontenjan yo ann Ayiti. Premye kominike a te pale de de mò ak de blese. Nan aswè vandredi, lame a te ekri sou X youn nan de blese yo te mouri pandan l t ap resevwa swen nan yon lopital nan Repiblik dominikèn, kote yo te evakye l pa avyon. Sa fè twa sòlda mouri. Lame a di lòt sòlda blese a soti danje kounye a. Li prezante kondoleyans li bay fanmi yo.\n\nLame a pale de yon « detonasyon aksidan ». Li pa bay non militè yo, ni kote kan an ye, ni plis detay sou sikonstans yo. Se premye fwa, depi deplwaman an, lame salvadoryen an konfime lanmò sòlda li yo ann Ayiti, BBC, Diario Libre ak Miami Herald relè.\n\nPremye minis Alix Didier Fils-Aimé voye kondoleyans li bay fanmi mò yo ak otorite Salvador yo, NAGO relè. De mò sa yo pa gen rapò ak kat teknisyen avyasyon salvadoryen ki toujou ofisyèlman disparèt depi anbiskad 18 oktòb la nan Kwadèbouke.",
+      fr: "Mise à jour du 23 novembre : Dans un long message publié sur X dimanche soir 22 novembre, le président salvadorien Nayib Bukele a nommé les trois militaires morts: le lieutenant Cristian Daniel Palacios Santos, le caporal Emerson Alexander Zepeda Zelada et le caporal Wilber Manuel Serrano Medina, relaie l'agence EFE. Il les a qualifiés de « héros salvadoriens » et a dit qu'ils étaient venus en Haïti pour secourir quatre de leurs camarades enlevés par des gangs. Bukele parle toujours d'une « explosion accidentelle ». Selon le site Centroamérica 360, il a annoncé un fonds de 1 M$ pour les familles des victimes.\n\nL'armée salvadorienne (Fuerza Armada) dit que quatre de ses soldats ont été touchés vendredi 20 novembre 2026, alors qu'ils manipulaient du matériel explosif dans l'un des camps de leur contingent en Haïti. Un premier communiqué faisait état de deux morts et de deux blessés. Dans la soirée de vendredi, l'armée a écrit sur X que l'un des deux blessés était mort alors qu'il recevait des soins dans un hôpital en République dominicaine, où il avait été évacué par avion. Le bilan s'élève à trois morts. L'armée dit que l'autre soldat blessé est désormais hors de danger. Elle a présenté ses condoléances aux familles.\n\nL'armée parle d'une « détonation accidentelle ». Elle n'a nommé ni les militaires, ni le camp, et n'a pas donné plus de détails sur les circonstances. C'est la première fois, depuis le déploiement, que l'armée salvadorienne confirme la mort de soldats en Haïti, relaient la BBC, Diario Libre et le Miami Herald.\n\nLe Premier ministre Alix Didier Fils-Aimé a adressé ses condoléances aux familles des morts et aux autorités du Salvador, relaie NAGO. Ces décès sont distincts du sort des quatre techniciens de l'aviation salvadorienne toujours officiellement portés disparus depuis l'embuscade du 18 octobre, à Croix-des-Bouquets.",
     },
-    sources: ["NAGO", "Miami Herald", "Diario Libre", "BBC", "Le Nouvelliste"],
+    sources: ["NAGO", "Miami Herald", "Diario Libre", "BBC", "Le Nouvelliste", "EFE", "Centroamérica 360"],
     sourceLinks: [
+      { name: "EFE / Infobae", url: "https://www.infobae.com/america/agencias/2026/11/23/presidente-bukele-elogia-la-trayectoria-de-tres-militares-salvadorenos-fallecidos-en-haiti/" },
+      { name: "Centroamérica 360", url: "https://centroamerica360.com/region/bukele-honra-a-tres-militares-salvadorenos-muertos-durante-mision-de-rescate-en-haiti/" },
       { name: "NAGO", url: "https://news.nago.tv/trois-soldats-salvadoriens-morts-dans-une-explosion-en-haiti" },
       { name: "Miami Herald", url: "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article318180232.html" },
       { name: "Diario Libre", url: "https://www.diariolibre.com/mundo/haiti/2026/11/21/muere-un-tercer-militar-salvadoreno-en-haiti-tras-una-detonacion/3727476" },
@@ -497,25 +702,28 @@ export const STORIES: Story[] = [
     topic: "security",
     isFollowUp: true,
     publishedAt: "2026-11-20",
-    publishedTime: "2026-11-21T14:19:00-05:00",
+    publishedTime: "2026-11-23T08:42:00-05:00",
     headline: {
-      ht: "PNH di li touye plis pase 20 lòt sipoze manm gang nan Matisan vandredi, omwen 54 an de jou",
-      fr: "La PNH dit avoir tué plus de 20 autres présumés membres de gang à Martissant vendredi, soit au moins 54 en deux jours",
+      ht: "Matisan: yon ventèn lòt sipoze bandi ta mouri dimanch, dapre medya yo, yon kay chèf gang kraze ak dwòn",
+      fr: "Martissant : une vingtaine d'autres présumés bandits auraient été tués dimanche, selon des médias, une maison de chef de gang détruite par drone",
     },
     teaser: {
-      ht: "Se toujou bilan lapolis la, li poko verifye pou kont li. Operasyon an kontinye nan Matisan 2A, pou relouvri wout sid la, NAGO ak Le Nouvelliste relè.",
-      fr: "C'est toujours le bilan de la police, il n'a pas été vérifié de manière indépendante. L'opération se poursuit à Martissant 2A, pour rouvrir la route du sud, relaient NAGO et Le Nouvelliste.",
+      ht: "PNH pa t bay bilan ofisyèl dimanch. L'Observatoire, FCN ak Alternance Media pale de yon ventèn mò, chif ki poko verifye.",
+      fr: "La PNH n'avait pas publié de bilan officiel dimanche. L'Observatoire, FCN et Alternance Media parlent d'une vingtaine de morts, un chiffre non vérifié.",
     },
     brief: {
-      ht: "Polis nasyonal ayisyen di plis pase 20 lòt sipoze manm gang te mouri vandredi 20 novanm nan Matisan 2A, nan yon kay nan zòn Vilaj, NAGO ak Le Nouvelliste relè. Dapre chif lapolis yo menm, sa fè omwen 54 moun touye an de jou. Chif sa yo poko verifye pou kont yo.",
-      fr: "La Police nationale d'Haïti dit que plus de 20 autres présumés membres de gang sont morts vendredi 20 novembre à Martissant 2A, dans une maison du secteur Vilaj, relaient NAGO et Le Nouvelliste. Selon les chiffres de la police elle-même, cela porte à au moins 54 le nombre de personnes tuées en deux jours. Ces chiffres n'ont pas été vérifiés de manière indépendante.",
+      ht: "Yon nouvo ofansiv PNH ak Task Force la, ki te kòmanse vè 3è dimaten dimanch 22 novanm nan Matisan, ta fè yon ventèn mò nan sipoze manm gang yo, dapre L'Observatoire, FCN ak Alternance Media. Bilan sa yo poko konfime pa sous endepandan.",
+      fr: "Une nouvelle offensive de la PNH et de la Task Force, lancée vers 3 heures du matin dimanche 22 novembre à Martissant, aurait fait une vingtaine de morts parmi les présumés membres de gangs, rapportent L'Observatoire, FCN et Alternance Media. Ces bilans n'ont pas été confirmés de manière indépendante.",
     },
     body: {
-      ht: "Polis nasyonal ayisyen (PNH) di plis pase 20 lòt sipoze manm gang te « blese mortalman » vandredi 20 novanm 2026 nan Matisan 2A, nan yon kay nan zòn Vilaj, NAGO ak Le Nouvelliste relè, sou baz yon nòt lapolis. Dapre chif lapolis yo menm, sa fè omwen 54 moun touye oswa « blese mortalman » an de jou nan Matisan. Chif sa yo poko verifye pou kont yo.\n\nNAGO ekri, nan yon metajou samdi, operasyon an kontinye san pran souf, ak inite SWAT, UTAG, UDMO, selil Task Force, ak yon dizèn blende, pou relouvri wout sid la. Lapolis poko di kilè sikilasyon ka tounen nòmal sou Wout nasyonal 2, yon gwo pati ladan l gang yo kontwole depi 2021. Nou pa atribiye mò vandredi yo a yon lòt gwoup pase sa nòt lapolis yo ak NAGO ak Le Nouvelliste relè.\n\nPolis nasyonal ayisyen (PNH) di li te touye 34 sipoze manm gang jedi 19 novanm 2026, nan yon operasyon nan Matisan, nan sid Pòtoprens, nan « yon gwo baz » Renel Destina, yo konnen kòm Ti Lapli, chèf gang Gran Ravin. NAGO relè videyo PNH te pibliye a, ki vize zòn Matisan 2, 4 ak 23, kote yo wè blende nan lari yo, epi yon kay ki eksploze, sanble yon drone frape l. Se bilan lapolis la; li poko verifye pou kont li. Otorite yo pa di si Ti Lapli te pami moun ki mouri yo.\n\nDapre Associated Press ak Al Jazeera, ki relè Reuters tou, PNH di ofisye li yo te fè operasyon an ak yon task force antigang kote gen manm Vectus Global, yon sosyete sekirite prive. Menm sous yo ekri lapolis di pa te gen lòt viktim, e okenn nan apeprè 2 500 sòlda salvadoryen ki nan peyi a pa t patisipe. Se pawòl lapolis yo. NAGO te presize, nan premye kont rann li, otorite yo pa t di si gen sivil ki te frape.\n\nKatye Matisan an sou yon wout kle ki lye Pòtoprens ak sid ak lwès peyi a. Li anba kontwòl gang yo depi plis pase senk ane, jounal yo ekri.",
-      fr: "La Police nationale d'Haïti (PNH) dit que plus de 20 autres présumés membres de gang ont été « mortellement blessés » vendredi 20 novembre 2026 à Martissant 2A, dans une maison du secteur Vilaj, relaient NAGO et Le Nouvelliste, d'après une note de la police. Selon les chiffres de la police elle-même, cela porte à au moins 54 le nombre de personnes tuées ou « mortellement blessées » en deux jours à Martissant. Ces chiffres n'ont pas été vérifiés de manière indépendante.\n\nNAGO écrit, dans une mise à jour samedi, que l'offensive se poursuit sans pause, avec les unités SWAT, UTAG, UDMO, des cellules de la Task Force et une dizaine de véhicules blindés, dans le but de rouvrir la route du sud. La police n'a pas dit quand la circulation pourrait revenir à la normale sur la route nationale 2, dont une grande partie est sous le contrôle de gangs depuis 2021. Nous n'attribuons pas les morts de vendredi à un autre groupe que ce que relaient la note de police, NAGO et Le Nouvelliste.\n\nLa Police nationale d'Haïti (PNH) dit avoir tué 34 présumés membres de gang jeudi 19 novembre 2026, lors d'une opération à Martissant, au sud de Port-au-Prince, dans « une grande base » de Renel Destina, connu comme Ti Lapli, chef du gang de Grand-Ravine. NAGO relaie la vidéo publiée par la police, qui vise les zones de Martissant 2, 4 et 23: on y voit des blindés avancer dans les rues, puis une maison exploser, apparemment frappée par un drone. Ce bilan est celui de la police; il n'a pas été vérifié de manière indépendante. Les autorités n'ont pas dit si Ti Lapli figurait parmi les morts.\n\nSelon l'Associated Press et Al Jazeera, qui relaient aussi Reuters, la PNH a indiqué que ses officiers ont mené l'opération avec une task force antigang comprenant des membres de Vectus Global, une société de sécurité privée. Les mêmes sources écrivent que la police a dit qu'il n'y avait pas eu d'autres victimes, et qu'aucun des quelque 2 500 soldats salvadoriens présents en Haïti n'avait pris part à l'opération. Ce sont des déclarations de la police. NAGO avait précisé, dans son premier compte rendu, que les autorités n'avaient pas dit si des civils avaient été touchés.\n\nLe quartier de Martissant se trouve sur un axe qui relie Port-au-Prince au sud et à l'ouest du pays. Il est sous le contrôle de gangs depuis plus de cinq ans, écrivent ces journaux.",
+      ht: "Mizajou 23 novanm: PNH, avèk sipò Task Force la, te lanse yon nouvo operasyon nan Matisan vè 3è dimaten dimanch 22 novanm, L'Observatoire ekri. Dapre jounal sa a, FCN ak Alternance Media, yon ventèn sipoze bandi ta mouri. L'Observatoire ak Alternance Media di yo kraze kay nimewo de gang Matisan 23 la, sitou ak dwòn eksplozif; FCN, ki site Corvington Matin ak yon sous ki pre operasyon yo, pale de yon kay yo atribye bay chèf gang Ti Lapli. Lè medya sa yo t ap pibliye, PNH pa t bay okenn bilan ofisyèl, e chif yo poko verifye pou kont yo.\n\nPolis nasyonal ayisyen (PNH) di plis pase 20 lòt sipoze manm gang te « blese mortalman » vandredi 20 novanm 2026 nan Matisan 2A, nan yon kay nan zòn Vilaj, NAGO ak Le Nouvelliste relè, sou baz yon nòt lapolis. Dapre chif lapolis yo menm, sa fè omwen 54 moun touye oswa « blese mortalman » an de jou nan Matisan. Chif sa yo poko verifye pou kont yo.\n\nNAGO ekri, nan yon metajou samdi, operasyon an kontinye san pran souf, ak inite SWAT, UTAG, UDMO, selil Task Force, ak yon dizèn blende, pou relouvri wout sid la. Lapolis poko di kilè sikilasyon ka tounen nòmal sou Wout nasyonal 2, yon gwo pati ladan l gang yo kontwole depi 2021. Nou pa atribiye mò vandredi yo a yon lòt gwoup pase sa nòt lapolis yo ak NAGO ak Le Nouvelliste relè.\n\nPolis nasyonal ayisyen (PNH) di li te touye 34 sipoze manm gang jedi 19 novanm 2026, nan yon operasyon nan Matisan, nan sid Pòtoprens, nan « yon gwo baz » Renel Destina, yo konnen kòm Ti Lapli, chèf gang Gran Ravin. NAGO relè videyo PNH te pibliye a, ki vize zòn Matisan 2, 4 ak 23, kote yo wè blende nan lari yo, epi yon kay ki eksploze, sanble yon drone frape l. Se bilan lapolis la; li poko verifye pou kont li. Otorite yo pa di si Ti Lapli te pami moun ki mouri yo.\n\nDapre Associated Press ak Al Jazeera, ki relè Reuters tou, PNH di ofisye li yo te fè operasyon an ak yon task force antigang kote gen manm Vectus Global, yon sosyete sekirite prive. Menm sous yo ekri lapolis di pa te gen lòt viktim, e okenn nan apeprè 2 500 sòlda salvadoryen ki nan peyi a pa t patisipe. Se pawòl lapolis yo. NAGO te presize, nan premye kont rann li, otorite yo pa t di si gen sivil ki te frape.\n\nKatye Matisan an sou yon wout kle ki lye Pòtoprens ak sid ak lwès peyi a. Li anba kontwòl gang yo depi plis pase senk ane, jounal yo ekri.",
+      fr: "Mise à jour du 23 novembre : La PNH, appuyée par la Task Force, a lancé une nouvelle opération à Martissant vers 3 heures du matin dimanche 22 novembre, écrit L'Observatoire. Selon ce journal, FCN et Alternance Media, une vingtaine de présumés bandits auraient été tués. L'Observatoire et Alternance Media écrivent que la résidence du numéro deux du gang de Martissant 23 a été détruite, notamment par des drones explosifs; FCN, citant Corvington Matin et une source proche des opérations, parle d'une résidence attribuée au chef de gang Ti Lapli. Au moment de ces publications, la PNH n'avait communiqué aucun bilan officiel, et ces chiffres n'ont pas été vérifiés de manière indépendante.\n\nLa Police nationale d'Haïti (PNH) dit que plus de 20 autres présumés membres de gang ont été « mortellement blessés » vendredi 20 novembre 2026 à Martissant 2A, dans une maison du secteur Vilaj, relaient NAGO et Le Nouvelliste, d'après une note de la police. Selon les chiffres de la police elle-même, cela porte à au moins 54 le nombre de personnes tuées ou « mortellement blessées » en deux jours à Martissant. Ces chiffres n'ont pas été vérifiés de manière indépendante.\n\nNAGO écrit, dans une mise à jour samedi, que l'offensive se poursuit sans pause, avec les unités SWAT, UTAG, UDMO, des cellules de la Task Force et une dizaine de véhicules blindés, dans le but de rouvrir la route du sud. La police n'a pas dit quand la circulation pourrait revenir à la normale sur la route nationale 2, dont une grande partie est sous le contrôle de gangs depuis 2021. Nous n'attribuons pas les morts de vendredi à un autre groupe que ce que relaient la note de police, NAGO et Le Nouvelliste.\n\nLa Police nationale d'Haïti (PNH) dit avoir tué 34 présumés membres de gang jeudi 19 novembre 2026, lors d'une opération à Martissant, au sud de Port-au-Prince, dans « une grande base » de Renel Destina, connu comme Ti Lapli, chef du gang de Grand-Ravine. NAGO relaie la vidéo publiée par la police, qui vise les zones de Martissant 2, 4 et 23: on y voit des blindés avancer dans les rues, puis une maison exploser, apparemment frappée par un drone. Ce bilan est celui de la police; il n'a pas été vérifié de manière indépendante. Les autorités n'ont pas dit si Ti Lapli figurait parmi les morts.\n\nSelon l'Associated Press et Al Jazeera, qui relaient aussi Reuters, la PNH a indiqué que ses officiers ont mené l'opération avec une task force antigang comprenant des membres de Vectus Global, une société de sécurité privée. Les mêmes sources écrivent que la police a dit qu'il n'y avait pas eu d'autres victimes, et qu'aucun des quelque 2 500 soldats salvadoriens présents en Haïti n'avait pris part à l'opération. Ce sont des déclarations de la police. NAGO avait précisé, dans son premier compte rendu, que les autorités n'avaient pas dit si des civils avaient été touchés.\n\nLe quartier de Martissant se trouve sur un axe qui relie Port-au-Prince au sud et à l'ouest du pays. Il est sous le contrôle de gangs depuis plus de cinq ans, écrivent ces journaux.",
     },
-    sources: ["NAGO", "Associated Press", "Al Jazeera", "Reuters", "Le Nouvelliste"],
+    sources: ["NAGO", "Associated Press", "Al Jazeera", "Reuters", "Le Nouvelliste", "L'Observatoire", "FCN", "Alternance Media"],
     sourceLinks: [
+      { name: "L'Observatoire", url: "https://www.lobservatoire.info/martissant-pres-de-20-bandits-tues-la-maison-du-numero2-du-gang-detruite/" },
+      { name: "FCN", url: "https://fcnhaiti.com/martissant-une-vingtaine-de-presumes-bandits-tues-lors-doperations-des-forces-de-lordre-plusieurs-maisons-detruites/" },
+      { name: "Alternance Media", url: "https://alternance-media.com/police-justice/port-au-prince-une-vingtaine-de-presumes-bandits-tues-lors-dune-offensive-de-la-pnh-des-drones-explosifs-utilises/" },
       { name: "NAGO", url: "https://news.nago.tv/martissant-la-pnh-dit-avoir-tue-34-membres-de-gang-dans-une-base-de-ti-lapli" },
       { name: "Associated Press", url: "https://apnews.com/article/haiti-martissant-police-el-salvador-pnh-gangs-69cedb174f2b429b2ca0e9d5dadd4acb" },
       { name: "Al Jazeera", url: "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid" },
