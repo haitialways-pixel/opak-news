@@ -8503,7 +8503,7 @@ function publishMs(story: Story): number {
 export function sortNewestFirst(list: Story[]): Story[] {
   return list
     .map((s, i) => ({ s, i, t: publishMs(s) }))
-    .sort((a, b) => (+!!b.s.pinned - +!!a.s.pinned) || (a.t === b.t ? a.i - b.i : b.t - a.t))
+    .sort((a, b) => (a.t === b.t ? a.i - b.i : b.t - a.t))
     .map((x) => x.s);
 }
 
@@ -8574,30 +8574,34 @@ export function newestBajOpinion(now = Date.now()): Story | undefined {
 }
 
 /**
- * Extra front-page leads, in order, after the newest BAJ opinion (which is
- * always #1). These sit above the section blocks and do not count against a
- * section's FRONT_PAGE_PER_SECTION slots.
- * Sports stories never take a lead slot; they live only in the Sports section.
+ * How many stories sit in the Need to Know strip. The newest BAJ opinion,
+ * if one is still within 7 days, is always #1. The remaining slots are the
+ * newest non-archived news stories. No news story may be pinned or held
+ * at the top. Sports never take a lead slot; they live only in the Sports
+ * section. Older BAJ opinions stay in their section, not in this strip.
+ * Leads sit above the section blocks and do not count against
+ * FRONT_PAGE_PER_SECTION.
  */
-export const FRONT_PAGE_PIN_IDS = [
-  "ntk-lekens-ambassadeur-france-sanctions-2026-11-22",
-  "ntk-soldats-salvadoriens-explosion-camp-2026-11-21",
-  "ntk-pnh-martissant-34-ti-lapli-2026-11-20",
-] as const;
+export const FRONT_PAGE_LEAD_COUNT = 4;
 
-/** Lead ids in display order: newest BAJ opinion first, then editorial pins. */
+/** Lead ids in display order: newest BAJ opinion first, then newest news. */
 function frontPageLeadIds(now = Date.now()): string[] {
   const featured = newestBajOpinion(now);
-  const pins = FRONT_PAGE_PIN_IDS.filter((id) => id !== featured?.id);
-  return featured ? [featured.id, ...pins] : [...pins];
+  const ids: string[] = featured ? [featured.id] : [];
+  const rest = sortByPublishedTime(
+    STORIES.filter((s) => !isArchived(s, now) && s.topic !== "sports" && !isBajOpinion(s) && s.id !== featured?.id),
+  );
+  for (const s of rest) {
+    if (ids.length >= FRONT_PAGE_LEAD_COUNT) break;
+    ids.push(s.id);
+  }
+  return ids;
 }
 
 export function frontPageLeads(now = Date.now()): Story[] {
   const leads: Story[] = [];
   for (const id of frontPageLeadIds(now)) {
     const story = STORIES.find((s) => s.id === id);
-    // Sports stay out of Need to Know unless an editor pins one into the lead group.
-    // Pins and opinions still drop off once they are past 7 days.
     if (story && !isArchived(story, now)) leads.push(story);
   }
   return leads;
@@ -8605,7 +8609,7 @@ export function frontPageLeads(now = Date.now()): Story[] {
 
 export function needToKnowStories(now = Date.now()): Story[] {
   // Standing rule: Sports stories never take top-story (Need to Know) slots; they live only in the Sports section.
-  // The newest BAJ opinion is always #1 while it is within 7 days; remaining pins follow.
+  // The newest BAJ opinion is always #1 while it is within 7 days; newest news follows.
   const list = sortNewestFirst(STORIES.filter((s) => !isArchived(s, now) && s.tier === "need-to-know" && s.topic !== "sports"));
   frontPageLeadIds(now).forEach((id, pos) => {
     const at = list.findIndex((s) => s.id === id);
@@ -8621,7 +8625,7 @@ export function quickHitStories(now = Date.now()): Story[] {
   return sortNewestFirst(STORIES.filter((s) => !isArchived(s, now) && (s.tier === "quick-hit" || s.topic === "sports")));
 }
 
-/** Newest first by publish time only (the pinned flag is for front-page leads, not section lists). */
+/** Newest first by publish time only. */
 function sortByPublishedTime(list: Story[]): Story[] {
   return list
     .map((s, i) => ({ s, i, t: publishMs(s) }))

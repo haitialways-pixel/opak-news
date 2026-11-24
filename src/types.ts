@@ -57,7 +57,7 @@ export interface Story {
   isFollowUp?: boolean;
   /** Manual early archive. Stories also leave the front and section lists automatically 7 days after publishedTime (opinions and pins included). Still listed on /archives and reachable at the story URL. */
   archived?: boolean;
-  /** Pinned stories always sort first (editor's top story). */
+  /** Unused for front-page placement: news stories are not held at the top. The newest BAJ opinion is selected in code. */
   pinned?: boolean;
   /** Quiet item: no NOUVEAU badge (and so no promo banner). */
   quiet?: boolean;
