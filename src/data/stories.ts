@@ -100,6 +100,296 @@ export const STORIES: Story[] = [
   },
 
   {
+    id: "qh-frg-tabarre-cite-soleil-pandou-2026-11-24",
+    tier: "quick-hit",
+    topic: "security",
+    publishedAt: "2026-11-24",
+    publishedTime: "2026-11-24T08:39:00-05:00",
+    headline: {
+      ht: "FRG di li touye sis sipoze manm gang nan Tabarre e li sezi dis zam toupre Gwo Mòn",
+      fr: "La FRG dit avoir tué six présumés membres de gang à Tabarre et saisi dix armes près de Gros-Morne",
+    },
+    teaser: {
+      ht: "Operasyon dimanch yo te vize Site Solèy tou. Se fòs la ki bay bilan yo, pèsonn poko verifye yo.",
+      fr: "Les opérations de dimanche ont aussi visé Cité Soleil. Les bilans viennent de la force et n'ont pas été vérifiés de manière indépendante.",
+    },
+    brief: {
+      ht: "Fòs pou reprime gang yo (FRG) di li touye sis sipoze manm gang e li rekipere senk zam gwo kalib dimanch 22 novanm toupre pon Marassa, nan Tabarre. Nan Pandou, nan nò Gwo Mòn, li di li sezi dis zam ak anviwon 110 katouch, NAGO ak Rezo Nòdwès relè.",
+      fr: "La Force de répression des gangs (FRG) dit avoir tué six présumés membres de gang et récupéré cinq armes de gros calibre dimanche 22 novembre près du pont Marassa, à Tabarre. À Pandou, au nord de Gros-Morne, elle affirme avoir saisi dix armes et environ 110 cartouches, relaient NAGO et Rezo Nòdwès.",
+    },
+    body: {
+      ht: "Fòs pou reprime gang yo (FRG) mennen plizyè operasyon an menm tan dimanch 22 novanm 2026 nan zòn Pòtoprens ak nan Latibonit, dapre kominike li yo NAGO, Rezo Nòdwès ak Telepluriel relè. Toupre pon Marassa, nan Tabarre, sis moun fòs la prezante kòm manm gang mouri, e li rekipere senk zam gwo kalib. Telepluriel di se manm gang 400 Mawozo. Fòs la pa bay non moun ki mouri yo, ni kijan konfwontasyon yo te pase egzakteman.\n\nNan Site Solèy, FRG di li antre nan yon bilding li dekri kòm yon kachèt ak yon depo zam gang. Yon sipoze manm gang mouri, yon lòt blese, yo sezi yon zam, yon grenad ak yon telefòn, epi yo kraze bilding lan.\n\nNan nò Gwo Mòn, nan Pandou, twoup fòs la pran bal pandan yo t ap avanse nan bouk la, dapre FRG. Fouy yo fè pèmèt yo rekipere dis zam, anviwon 110 katouch, grenad asoudisan, materyèl kominikasyon ak kèk kat idantite. FRG di li repere plis pase dis machin li sispèk gang yo itilize, ansanm ak yon lòt kote li prezante kòm katye jeneral yon gang. Li pa bay okenn bilan moun pou Pandou.\n\nSe fòs la ki bay chif sa yo, e pèsonn poko verifye yo yon fason endepandan. Yo vin ajoute sou ofansiv PNH nan Matisan, kote plizyè dizèn sipoze manm gang mouri depi semèn pase, dapre lapolis Associated Press site.",
+      fr: "La Force de répression des gangs (FRG) a mené dimanche 22 novembre 2026 plusieurs opérations simultanées dans la région de Port-au-Prince et dans l'Artibonite, d'après ses communiqués relayés par NAGO, Rezo Nòdwès et Telepluriel. Près du pont Marassa, à Tabarre, six personnes présentées comme membres de gang ont été tuées et cinq armes de gros calibre récupérées. Telepluriel les rattache au gang 400 Mawozo. La force n'a donné ni l'identité des morts ni les circonstances exactes des affrontements.\n\nÀ Cité Soleil, la FRG dit être entrée dans un bâtiment qu'elle décrit comme une planque et un dépôt d'armes de gang. Un présumé membre de gang a été tué et un autre blessé; une arme à feu, une grenade et un téléphone ont été saisis, puis le bâtiment a été démoli.\n\nAu nord de Gros-Morne, à Pandou, ses troupes ont essuyé des tirs en progressant dans le village, selon la FRG. Les fouilles ont permis de récupérer dix armes à feu, environ 110 cartouches, des grenades assourdissantes, du matériel de communication et des pièces d'identité. La force dit aussi avoir repéré plus de dix véhicules soupçonnés de servir aux gangs, ainsi qu'un site présenté comme le quartier général d'un gang. Aucun bilan humain n'a été communiqué pour Pandou.\n\nCes chiffres sont ceux de la force et n'ont pas été vérifiés de manière indépendante. Ils s'ajoutent à l'offensive de la PNH à Martissant, où des dizaines de présumés membres de gang ont été tués depuis la semaine dernière, selon la police citée par l'Associated Press.",
+    },
+    sources: ["NAGO","Rezo Nòdwès","Telepluriel","Associated Press"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/gros-morne-la-frg-saisit-dix-armes-a-pandou" },
+      { name: "NAGO", url: "https://news.nago.tv/en/martissant-la-pnh-poursuit-son-operation-pour-rouvrir-la-route-du-sud" },
+      { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/haiti-pres-dune-trentaine-de-membres-de-gangs-tues-a-martissant-tabarre-cite-soleil-et-dans-lartibonite-annoncent-les-forces-de-securite/" },
+      { name: "Telepluriel", url: "https://teleplurielhaiti.com/actualite-a-la-une-du-23-novembre-2026-la-traque-des-groupes-armes-sintensifie-la-phh-appuyee-par-la-task-force-a-mene-hier-dimanche-une-operation-a-martissant-au-cours-de-laquell/" },
+      { name: "Associated Press / Al Jazeera", url: "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention" },
+    ],
+  },
+
+  {
+    id: "qh-dominique-dupuy-depot-candidature-2026-11-24",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-24",
+    publishedTime: "2026-11-24T08:38:00-05:00",
+    headline: {
+      ht: "Dominique Dupuy depoze kandidati l pou prezidans nan BED Lwès 1 la",
+      fr: "Dominique Dupuy dépose sa candidature à la présidence au BED de l'Ouest 1",
+    },
+    teaser: {
+      ht: "Ansyen minis Afè etranjè a kandida sou banyè PVD. CEP la gen pou egzamine dosye a toujou.",
+      fr: "L'ancienne ministre des Affaires étrangères se présente sous la bannière du PVD. Le CEP doit encore examiner son dossier.",
+    },
+    brief: {
+      ht: "Ansyen minis Afè etranjè Dominique Dupuy depoze dokiman kandidati l pou prezidans lendi 23 novanm nan BED Lwès 1 la, sou banyè Pati Vizyon D Ayiti (PVD), NAGO ak Le Concret Info relè. Dènye dat pou depoze dosye yo se 30 novanm.",
+      fr: "L'ancienne ministre des Affaires étrangères Dominique Dupuy a déposé lundi 23 novembre ses pièces de candidature à la présidence au BED de l'Ouest 1, sous la bannière du Parti Vizyon D Ayiti (PVD), relaient NAGO et Le Concret Info. La date limite de dépôt est fixée au 30 novembre.",
+    },
+    body: {
+      ht: "Ansyen minis Afè etranjè Dominique Dupuy depoze lendi 23 novanm 2026 dokiman kandidati l pou prezidans nan Biwo elektoral depatmantal Lwès 1 la (BED-Lwès 1), sou banyè Pati Vizyon D Ayiti (PVD), NAGO ak Le Concret Info relè. Sekretè jeneral pati a, Gesner Céus Joseph, te akonpaye l. Li te enskri sou entènèt depi 11 novanm.\n\nDepo a pa vle di kandidati a admèt: se Konsèy elektoral pwovizwa (CEP) a ki pou egzamine dosye a. CEP fikse 30 novanm kòm dènye dat pou depoze dokiman yo, e li pral analize dosye kandida pou prezidans, Sena ak Chanm depite yo ant 1e ak 15 desanm, dapre Gazette Haiti.\n\nPwogram Dominique Dupuy a rele SEJES, sou senk priyorite: sekirite, edikasyon, jistis, ekonomi ak sante. « Mwen vle gouvène pou fanmi ayisyen yo ka rantre lakay yo san pè, al travay trankil e pote pen lakay », li di, dapre NAGO. Li pwomèt ranfòse Polis nasyonal la ak Fòs ame d Ayiti, e goumen kont koripsyon.",
+      fr: "L'ancienne ministre des Affaires étrangères Dominique Dupuy a déposé lundi 23 novembre 2026 ses pièces de candidature à la présidence au Bureau électoral départemental de l'Ouest 1 (BED-Ouest 1), sous la bannière du Parti Vizyon D Ayiti (PVD), relaient NAGO et Le Concret Info. Elle était accompagnée du secrétaire général du parti, Gesner Céus Joseph. Elle s'était inscrite en ligne le 11 novembre.\n\nLe dépôt ne vaut pas validation: c'est le Conseil électoral provisoire (CEP) qui doit examiner le dossier. Le CEP a fixé au 30 novembre la date limite de dépôt des pièces, et il analysera les dossiers des candidats à la présidence, au Sénat et à la Chambre des députés du 1er au 15 décembre, rappelle Gazette Haiti.\n\nLe programme de Dominique Dupuy s'appelle SEJES et repose sur cinq priorités: la sécurité, l'éducation, la justice, l'économie et la santé. « Je veux gouverner pour que les familles haïtiennes puissent rentrer chez elles sans peur, aller au travail tranquillement et rapporter du pain à la maison », a-t-elle déclaré, selon NAGO. Elle promet de renforcer la Police nationale et les Forces armées d'Haïti, et de lutter contre la corruption.",
+    },
+    sources: ["NAGO","Le Concret Info","Gazette Haiti"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/dominique-dupuy-depose-sa-candidature-a-la-presidence" },
+      { name: "Le Concret Info", url: "https://www.leconcretinfo.com/2026/11/23/haiti-elections-dominique-dupuy-depose-officiellement-sa-candidature-a-la-presidence-et-mise-sur-son-programme-sejes/" },
+      { name: "Gazette Haiti", url: "https://www.gazettehaiti.com/node/14578" },
+    ],
+  },
+
+  {
+    id: "qh-paulemon-budget-elections-80m-2026-11-24",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-24",
+    publishedTime: "2026-11-24T08:37:00-05:00",
+    headline: {
+      ht: "Eleksyon: Ayiti deja vèse plis pase 80 M$ nan fon PNUD jere a, dapre Sandra Paulémon",
+      fr: "Élections : Haïti a déjà versé plus de 80 M$ au fonds géré par le PNUD, selon Sandra Paulémon",
+    },
+    teaser: {
+      ht: "Minis Plan an di bidjè eleksyon an se 120 M$, e se Leta ayisyen ki pou peye tout.",
+      fr: "La ministre de la Planification dit que le budget électoral est de 120 M$, entièrement à la charge de l'État haïtien.",
+    },
+    brief: {
+      ht: "Nan yon entèvyou ak Diario Libre pibliye 24 novanm, minis Plan Sandra Paulémon di bidjè yo dakò pou eleksyon yo se 120 M$, Leta ayisyen ap peye l nèt. Dapre li, Ayiti deja transfere yon ti kras plis pase 80 M$ nan fon PNUD jere a, rès la nan bidjè ane fiskal sa a.",
+      fr: "Dans un entretien avec Diario Libre publié le 24 novembre, la ministre de la Planification Sandra Paulémon affirme que le budget électoral convenu est de 120 M$, entièrement financé par l'État haïtien. Selon elle, un peu plus de 80 M$ ont déjà été transférés au fonds géré par le PNUD, le reste figurant au budget de l'exercice en cours.",
+    },
+    body: {
+      ht: "Minis Plan ak Koperasyon ekstèn, Sandra Paulémon, di bidjè yo dakò pou eleksyon prezidansyèl ak lejislatif yo se 120 M$, e se Leta ayisyen k ap peye tout lajan an, nan yon entèvyou jounal dominiken Diario Libre pibliye madi 24 novanm 2026. Li te pale ak jounal la nan Cap Cana, pandan Dyalòg Somè mondyal gouvènman yo pou Amerik latin ak Karayib la.\n\nDapre minis la, Ayiti deja transfere yon ti kras plis pase 80 M$ nan fon Pwogram Nasyonzini pou devlopman (PNUD) jere a. Li di rès lajan an nan bidjè nasyonal ane fiskal sa a. Se deklarasyon minis la; jounal la pa pibliye dokiman ki montre transfè yo.\n\nPaulémon di tou 33 aspiran pou prezidans ak plis pase 2000 aspiran pou Palman an te enskri lè enskripsyon yo te fèmen. Pou moun vyolans fè kite lakay yo, li di nouvo sistèm enskripsyon an ap pèmèt yo enskri e vote kote yo ye kounye a. Premye tou eleksyon yo fikse pou 18 jiyè 2027.",
+      fr: "La ministre de la Planification et de la Coopération externe, Sandra Paulémon, affirme que le budget convenu pour les élections présidentielle et législatives est de 120 M$, entièrement à la charge de l'État haïtien, dans un entretien publié mardi 24 novembre 2026 par le quotidien dominicain Diario Libre. Elle s'est exprimée à Cap Cana, en marge du Dialogue du Sommet mondial des gouvernements pour l'Amérique latine et les Caraïbes.\n\nSelon la ministre, Haïti a déjà transféré un peu plus de 80 M$ au fonds administré par le Programme des Nations unies pour le développement (PNUD). Le reste est inscrit au budget national de l'exercice en cours, dit-elle. Ce sont ses déclarations; le journal ne publie pas de document sur ces transferts.\n\nPaulémon indique aussi que 33 aspirants à la présidence et plus de 2000 aspirants aux législatives s'étaient inscrits à la clôture. Pour les personnes déplacées par la violence, elle dit que le nouveau système d'inscription leur permettra de s'inscrire et de voter là où elles se trouvent. Le premier tour est fixé au 18 juillet 2027.",
+    },
+    sources: ["Diario Libre"],
+    sourceLinks: [
+      { name: "Diario Libre", url: "https://www.diariolibre.com/mundo/haiti/2026/11/24/ministra-haitiana-explica-por-que-elecciones-en-haiti-tendran-exito/3729341" },
+    ],
+  },
+
+  {
+    id: "qh-guterres-processus-politique-2026-11-24",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-24",
+    publishedTime: "2026-11-24T08:36:00-05:00",
+    headline: {
+      ht: "Guterres mande yon pwosesis politik Ayisyen mennen pou retabli enstitisyon yo pa eleksyon",
+      fr: "Guterres demande un processus politique mené par les Haïtiens pour rétablir les institutions par les élections",
+    },
+    teaser: {
+      ht: "Sekretè jeneral ONU a mande kominote entènasyonal la sipòte pèp ayisyen an. Mesaj la pa di anyen sou gouvènman an.",
+      fr: "Le secrétaire général de l'ONU demande à la communauté internationale de soutenir le peuple haïtien. Son message ne dit rien du gouvernement.",
+    },
+    brief: {
+      ht: "Nan yon mesaj sou X lendi 23 novanm, sekretè jeneral ONU a, António Guterres, di Ayiti bezwen yon pwosesis politik pa l ki retabli enstitisyon demokratik yo pa eleksyon, rebati otorite Leta e bay jèn yo espwa lwen gang yo, Gazette Haiti ak NTN24 relè.",
+      fr: "Dans un message publié sur X lundi 23 novembre, le secrétaire général de l'ONU, António Guterres, a écrit qu'Haïti a besoin d'un processus politique propre, qui restaure les institutions démocratiques par des élections, reconstruise l'autorité de l'État et offre aux jeunes un espoir loin des gangs, relaient Gazette Haiti et NTN24.",
+    },
+    body: {
+      ht: "Sekretè jeneral Nasyonzini an, António Guterres, pibliye yon mesaj sou X lendi 23 novanm 2026 sou Ayiti, Gazette Haiti, NTN24 ak plizyè lòt medya relè. Li ekri pèp ayisyen an sibi vyolans atròs, febli Leta ak plizyè ane san eleksyon nasyonal, e kominote entènasyonal la dwe sipòte l.\n\nDapre Guterres, Ayiti bezwen yon pwosesis politik pa l, ki retabli enstitisyon demokratik yo pa eleksyon, ki rebati otorite Leta, e ki bay jèn yo espwa pi lwen pase gang yo. Mesaj la pa site gouvènman Alix Didier Fils-Aimé, Alternance Media remake nan yon analiz madi.\n\nMesaj la rive nan mitan operasyon fòs salvadoryen yo, e NTN24 di li fè kèk moun kritike l sou rezo sosyal yo. Depo dosye kandida yo nan BED yo ap kontinye jiska 30 novanm, e premye tou eleksyon an fikse pou 18 jiyè 2027.",
+      fr: "Le secrétaire général des Nations unies, António Guterres, a publié lundi 23 novembre 2026 un message sur Haïti sur X, relaient Gazette Haiti, NTN24 et plusieurs autres médias. Il y écrit que le peuple haïtien a subi des violences atroces, l'affaiblissement de l'État et des années sans élections nationales, et que la communauté internationale doit le soutenir.\n\nD'après Guterres, Haïti a besoin d'un processus politique propre, qui restaure les institutions démocratiques par des élections, reconstruise l'autorité de l'État et offre aux jeunes un espoir au-delà de l'emprise des gangs. Le message ne cite pas le gouvernement d'Alix Didier Fils-Aimé, a relevé Alternance Media dans une analyse publiée mardi.\n\nLe message est tombé en pleine opération des forces salvadoriennes, et NTN24 rapporte qu'il a suscité des critiques sur les réseaux sociaux. Le dépôt des dossiers des candidats dans les BED se poursuit jusqu'au 30 novembre, et le premier tour est fixé au 18 juillet 2027.",
+    },
+    sources: ["Gazette Haiti","NTN24","Alternance Media"],
+    sourceLinks: [
+      { name: "Gazette Haiti", url: "https://www.gazettehaiti.com/node/14578" },
+      { name: "NTN24", url: "https://www.ntn24.com/noticias-actualidad/fuertes-criticas-al-secretario-general-de-la-onu-por-mensaje-sobre-la-situacion-de-haiti-donde-bukele-esta-ayudando-668123" },
+      { name: "Alternance Media", url: "https://alternance-media.com/politique/guterres-pointe-les-maux-dhaiti-le-bilan-de-fils-aime-en-ligne-de-mire/" },
+    ],
+  },
+
+  {
+    id: "qh-shaheen-meeks-lettre-elites-gangs-2026-11-24",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-24",
+    publishedTime: "2026-11-24T08:35:00-05:00",
+    headline: {
+      ht: "De eli demokrat akize administrasyon Trump paske li pa sanksyone elit ki finanse gang yo",
+      fr: "Deux élus démocrates reprochent à l'administration Trump de ne pas sanctionner les élites qui financent les gangs",
+    },
+    teaser: {
+      ht: "Jeanne Shaheen ak Gregory Meeks ekri Rubio, Hegseth ak Bessent. Yo mande transparans anvan eleksyon yo.",
+      fr: "Jeanne Shaheen et Gregory Meeks ont écrit à Rubio, Hegseth et Bessent. Ils réclament de la transparence avant les élections.",
+    },
+    brief: {
+      ht: "Senatè Jeanne Shaheen ak depite Gregory Meeks akize administrasyon Trump lendi 23 novanm paske li pa « nonmen e sanksyone elit politik ak ekonomik k ap alimante ensekirite ann Ayiti », nan yon lèt Associated Press site.",
+      fr: "La sénatrice Jeanne Shaheen et le représentant Gregory Meeks ont accusé lundi 23 novembre l'administration Trump de ne pas « nommer et sanctionner l'élite politique et économique qui alimente l'insécurité en Haïti », dans une lettre citée par l'Associated Press.",
+    },
+    body: {
+      ht: "De eli demokrat nan Kongrè ameriken an, senatè New Hampshire Jeanne Shaheen ak depite New York Gregory Meeks, akize administrasyon prezidan Donald Trump lendi 23 novanm 2026 paske li pa « nonmen e sanksyone elit politik ak ekonomik k ap alimante ensekirite ann Ayiti », Associated Press rapòte. Shaheen se manm ki gen plis ansyènte nan opozisyon an nan komisyon Afè etranjè Sena a, Meeks nan komisyon Afè etranjè Chanm reprezantan yo.\n\nLèt la adrese sekretè d Eta Marco Rubio, sekretè Defans Pete Hegseth ak sekretè Trezò Scott Bessent. « Nan yon moman kote pèp ayisyen an ap prepare pou vote pou premye fwa nan plis pase dis ane, Kongrè a, piblik ameriken an ak pèp ayisyen an merite transparans sou nati ak dimansyon kolizyon ant gang yo ak rezo sipò politik ak ekonomik yo », yo ekri, dapre AP.\n\nAP raple kèk kandida pou eleksyon 2027 yo te deja sanksyone pa Etazini ak Kanada. Administrasyon an pa t reponn piblikman, dapre sous nou konsilte yo.",
+      fr: "Deux élus démocrates du Congrès américain, la sénatrice du New Hampshire Jeanne Shaheen et le représentant de New York Gregory Meeks, ont accusé lundi 23 novembre 2026 l'administration du président Donald Trump de ne pas « nommer et sanctionner l'élite politique et économique qui alimente l'insécurité en Haïti », rapporte l'Associated Press. Shaheen est la cheffe de file de l'opposition à la commission des Affaires étrangères du Sénat, Meeks à celle de la Chambre des représentants.\n\nLa lettre est adressée au secrétaire d'État Marco Rubio, au secrétaire à la Défense Pete Hegseth et au secrétaire au Trésor Scott Bessent. « Alors que le peuple haïtien se prépare à voter pour la première fois en plus d'une décennie, le Congrès, le public américain et le peuple haïtien méritent la transparence sur la nature et l'ampleur de la collusion entre les gangs et leurs réseaux de soutien politiques et économiques », écrivent-ils, d'après l'AP.\n\nL'AP rappelle que certains candidats aux élections de 2027 ont déjà été sanctionnés par les États-Unis et le Canada. L'administration n'avait pas répondu publiquement, d'après les sources consultées.",
+    },
+    sources: ["Associated Press","Al Jazeera"],
+    sourceLinks: [
+      { name: "Associated Press / Al Jazeera", url: "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention" },
+    ],
+  },
+
+  {
+    id: "qh-jacmel-detention-preventive-69-liberations-2026-11-24",
+    tier: "quick-hit",
+    topic: "justice",
+    publishedAt: "2026-11-24",
+    publishedTime: "2026-11-24T08:34:00-05:00",
+    headline: {
+      ht: "Detansyon preventif: yon pwojè pilòt lanse Jakmèl; 69 prizonye Pòtoprens deja jwenn yon òdonans liberasyon",
+      fr: "Détention préventive : un projet pilote lancé à Jacmel; 69 détenus de Port-au-Prince ont déjà obtenu une ordonnance de libération",
+    },
+    teaser: {
+      ht: "Pwojè a vize Pòtoprens, Jakmèl ak Okay. Dapre gouvènman an, yon karantèn nan 69 òdonans yo deja egzekite.",
+      fr: "Le projet vise Port-au-Prince, Jacmel et Les Cayes. Selon le gouvernement, une quarantaine des 69 ordonnances ont déjà été exécutées.",
+    },
+    brief: {
+      ht: "Ministè Jistis (MJSP) lanse lendi 23 novanm Jakmèl yon pwojè pilòt pou diminye twòp moun nan prizon ak detansyon preventif ki dire twò lontan. Dapre Primati a, 69 prizonye nan jiridiksyon Pòtoprens deja jwenn òdonans liberasyon, e yon karantèn soti deja, NAGO relè.",
+      fr: "Le ministère de la Justice (MJSP) a lancé lundi 23 novembre à Jacmel un projet pilote contre la surpopulation carcérale et la détention préventive prolongée. Selon la Primature, 69 détenus de la juridiction de Port-au-Prince ont déjà obtenu des ordonnances de libération, dont une quarantaine ont été exécutées, relaie NAGO.",
+    },
+    body: {
+      ht: "Ministè Jistis ak Sekirite piblik (MJSP) lanse lendi 23 novanm 2026 Jakmèl yon pwojè pilòt yo rele « Inisyativ mobil pou diminye twòp moun nan prizon ak detansyon preventif ki dire twò lontan », Primati a anonse, NAGO ak Haiti News relè. Pwojè a dwe akselere tretman dosye yo ak odisyon moun ki nan prizon depi lontan san jijman, sitou sa ki gen yon sitiyasyon ki mande yon entèvansyon imanitè ijan.\n\nDapre gouvènman an, 69 prizonye nan jiridiksyon Pòtoprens deja benefisye òdonans liberasyon, e yo deja egzekite yon karantèn ladan yo. Faz pilòt la kouvri jiridiksyon Pòtoprens, Jakmèl ak Okay. Se chif gouvènman an; li pa pibliye non oswa lis dosye yo.\n\nSe Pwogram Nasyonzini pou devlopman (PNUD) ki finanse pwojè a, atravè pwogram sipò li pou lajistis (PAJLI), e se Sant analiz ak rechèch nan dwa moun (CARDH) ki egzekite l. Yon komite teknik kote MJSP, Biwo pwoteksyon sitwayen (OPC) ak Konsèy siperyè pouvwa jidisyè a (CSPJ) chita kowòdone l.",
+      fr: "Le ministère de la Justice et de la Sécurité publique (MJSP) a lancé lundi 23 novembre 2026 à Jacmel un projet pilote baptisé « Initiative mobile pour la réduction de la surpopulation carcérale et de la détention préventive prolongée », a annoncé la Primature, relaient NAGO et Haiti News. Le projet doit accélérer le traitement des dossiers et l'audition des personnes détenues depuis longtemps sans jugement, en particulier celles dont la situation exige une intervention humanitaire urgente.\n\nSelon le gouvernement, 69 détenus de la juridiction de Port-au-Prince ont déjà bénéficié d'ordonnances de libération, dont une quarantaine ont été exécutées. La phase pilote concerne les juridictions de Port-au-Prince, de Jacmel et des Cayes. Ce sont les chiffres du gouvernement, qui n'a pas publié la liste des dossiers.\n\nLe projet est financé par le Programme des Nations unies pour le développement (PNUD), à travers son programme d'appui à la justice (PAJLI), et mis en œuvre par le Centre d'analyse et de recherche en droits de l'homme (CARDH). Un comité technique réunissant notamment le MJSP, l'Office de la protection du citoyen (OPC) et le Conseil supérieur du pouvoir judiciaire (CSPJ) le coordonne.",
+    },
+    sources: ["NAGO","Haiti News"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/a-jacmel-la-justice-lance-un-projet-contre-la-detention-preventive-prolongee" },
+      { name: "Haiti News", url: "https://haitinews.info/initiative-surpopulation-carcerale-haiti-jacmel/" },
+    ],
+  },
+
+  {
+    id: "qh-irc-femmes-filles-repas-2026-11-24",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-24",
+    publishedTime: "2026-11-24T08:33:00-05:00",
+    headline: {
+      ht: "IRC: uit fanmi sou dis diminye manje yo, fanm ak tifi yo pi ekspoze",
+      fr: "IRC : huit familles sur dix ont réduit leurs repas, les femmes et les filles plus exposées",
+    },
+    teaser: {
+      ht: "Ankèt la fèt nan prèske 1200 fanmi nan Lwès, Latibonit ak Sant. Nan Latibonit, 70% pa konnen okenn sèvis pou viktim vyolans seksyèl.",
+      fr: "L'enquête a porté sur près de 1200 ménages dans l'Ouest, l'Artibonite et le Centre. Dans l'Artibonite, 70 % ne connaissent aucun service pour les victimes de violences sexuelles.",
+    },
+    brief: {
+      ht: "Yon evalyasyon International Rescue Committee (IRC) pibliye 23 novanm montre uit fanmi sou dis diminye kantite repa ak kantite manje yo. Prèske 70% fanmi yo kesyone nan Latibonit pa konnen okenn sèvis pou viktim vyolans ki baze sou sèks.",
+      fr: "Une évaluation de l'International Rescue Committee (IRC) publiée le 23 novembre montre que huit familles sur dix ont réduit le nombre et la taille de leurs repas. Près de 70 % des ménages interrogés dans l'Artibonite ne connaissent aucun service pour les victimes de violences basées sur le genre.",
+    },
+    body: {
+      ht: "International Rescue Committee (IRC) pibliye lendi 23 novanm 2026 yon evalyasyon ki fèt nan prèske 1200 fanmi nan Lwès, Latibonit ak Sant, depatman ki pi frape pa deplasman moun yo. Dapre ONG a, li vin pi difisil pou fanmi yo jwenn sèvis debaz depi ane pase, e se fanm ak tifi yo ki pi peye.\n\nNan Latibonit, prèske 70% fanmi yo kesyone pa konnen okenn sèvis pou viktim vyolans ki baze sou sèks, yon ogmantasyon 32% sou yon ane. Sou sèt sant sante IRC evalye, kat sèlman te ekipe pou bay swen klinik pou viktim vyolans seksyèl, e de sèlman te gen twous konplè pou anpeche VIH apre yon ekspozisyon.\n\nPlis pase 95% fanmi yo di se manje ki pi gwo depans yo, pi plis pase lwaye. Uit sou dis diminye kantite repa ak kantite manje, e de tyè granmoun yo manje mwens pou pitit yo ka manje. Nan kan deplase yo, fanm ki an tèt fanmi gen plis pase 30% plis chans pou yo pa gen ase manje pase fanmi gason an tèt. IRC mande kominote entènasyonal la ogmante sipò li pou plis pase 6,4 milyon moun ki bezwen èd imanitè ann Ayiti.",
+      fr: "L'International Rescue Committee (IRC) a publié lundi 23 novembre 2026 une évaluation menée auprès de près de 1200 ménages dans l'Ouest, l'Artibonite et le Centre, les départements les plus touchés par les déplacements. Selon l'ONG, l'accès aux services de base est devenu plus difficile depuis un an, et ce sont les femmes et les filles qui en paient le prix le plus lourd.\n\nDans l'Artibonite, près de 70 % des ménages interrogés ne connaissent aucun service pour les victimes de violences basées sur le genre, une hausse de 32 % en un an. Sur les sept structures de santé évaluées par l'IRC, quatre seulement étaient équipées pour offrir des soins cliniques aux victimes de violences sexuelles, et deux seulement disposaient de kits complets de prévention du VIH après exposition.\n\nPlus de 95 % des ménages disent que la nourriture est leur première dépense, devant le loyer. Huit familles sur dix ont réduit le nombre et la taille des repas, et deux tiers des adultes mangent moins pour que leurs enfants puissent manger. Dans les camps de déplacés, les ménages dirigés par une femme sont plus de 30 % plus susceptibles de manquer de nourriture que ceux dirigés par un homme. L'IRC demande à la communauté internationale d'augmenter son soutien aux plus de 6,4 millions de personnes ayant besoin d'aide humanitaire en Haïti.",
+    },
+    sources: ["International Rescue Committee"],
+    sourceLinks: [
+      { name: "International Rescue Committee", url: "https://www.rescue.org/press-release/haiti-women-and-girls-bear-brunt-conflict-and-displacement" },
+    ],
+  },
+
+  {
+    id: "qh-clyford-rene-juge-liberation-ice-2026-11-24",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-24",
+    publishedTime: "2026-11-24T08:32:00-05:00",
+    headline: {
+      ht: "Florid: yon jij federal bay lòd libere yon Ayisyen ICE te kenbe san odisyon kosyon",
+      fr: "Floride : une juge fédérale ordonne la libération d'un Haïtien détenu par l'ICE sans audience de caution",
+    },
+    teaser: {
+      ht: "Clyford Rene te rantre Ozetazini avèk parole imanitè an 2022. Jij la bay gouvènman an 24 è pou libere l.",
+      fr: "Clyford Rene était entré aux États-Unis avec le parole humanitaire en 2022. La juge a donné 24 heures au gouvernement pour le libérer.",
+    },
+    brief: {
+      ht: "Jij distri Sheri Polster Chappell bay otorite imigrasyon yo lòd 19 novanm pou yo libere Clyford Rene, yon Ayisyen ki rete West Palm Beach, nan 24 è. Li jije yo vyole dwa Senkyèm amannman an lè yo refize l yon odisyon kosyon, NAGO relè.",
+      fr: "La juge de district Sheri Polster Chappell a ordonné le 19 novembre aux autorités de l'immigration de libérer sous 24 heures Clyford Rene, un Haïtien de West Palm Beach. Elle a jugé que ses droits garantis par le cinquième amendement avaient été violés quand on lui a refusé une audience de caution, relaie NAGO.",
+    },
+    body: {
+      ht: "Yon jij federal bay otorite imigrasyon ameriken yo lòd pou yo libere Clyford Rene, yon Ayisyen ki rete West Palm Beach, Florid, NAGO relè madi 24 novanm 2026. Nan desizyon li te bay 19 novanm, jij distri Sheri Polster Chappell bay gouvènman an 24 è pou l lage l. Tribinal la jije otorite yo vyole dwa li dapre Senkyèm amannman Konstitisyon ameriken an lè yo refize l posiblite pou l mande yon odisyon kosyon.\n\nDapre jij la, gouvènman an te aplike mal yon règ detansyon obligatwa ki fèt pou moun k ap eseye antre sou fwontyè a, pa pou moun ki deja ap viv nan peyi a. Klasman sa a anpeche Rene jwenn yon egzamen endividyèl pou wè si detansyon l nesesè.\n\nClyford Rene te antre Ozetazini 4 oktòb 2022 nan pwogram parole imanitè pou Ayisyen yo. Li pa gen dosye kriminèl e li rete ak fanmi l pandan demann azil li ap trete. ICE te arete l 30 oktòb.",
+      fr: "Une juge fédérale a ordonné aux autorités américaines de l'immigration de libérer Clyford Rene, un Haïtien résidant à West Palm Beach, en Floride, relaie NAGO mardi 24 novembre 2026. Dans sa décision rendue le 19 novembre, la juge de district Sheri Polster Chappell a donné 24 heures au gouvernement pour le remettre en liberté. Le tribunal a estimé que les autorités avaient violé ses droits garantis par le cinquième amendement de la Constitution américaine en lui refusant la possibilité de demander une audience de caution.\n\nSelon la juge, le gouvernement a appliqué à tort une règle de détention obligatoire prévue pour les personnes qui cherchent à entrer à la frontière, et non pour celles qui vivent déjà dans le pays. Ce classement a privé Rene d'un examen individuel sur la nécessité de sa détention.\n\nClyford Rene était entré aux États-Unis le 4 octobre 2022 dans le cadre du programme de parole humanitaire pour les Haïtiens. Il n'a pas de casier judiciaire et vit avec sa famille pendant l'examen de sa demande d'asile. L'ICE l'avait arrêté le 30 octobre.",
+    },
+    sources: ["NAGO"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/federal-judge-orders-release-of-haitian-man-held-without-bond" },
+    ],
+  },
+
+  {
+    id: "qh-brh-taux-reference-130-77-2026-11-24",
+    tier: "quick-hit",
+    topic: "economy",
+    publishedAt: "2026-11-24",
+    publishedTime: "2026-11-24T08:31:00-05:00",
+    headline: {
+      ht: "BRH: to referans lan desann a 130,77 goud pou 1 dola madi",
+      fr: "BRH : le taux de référence recule à 130,77 gourdes pour 1 dollar mardi",
+    },
+    teaser: {
+      ht: "Se yon ti bès 0,08% sou yon jou. Sou mache enfòmèl la, dola a toujou vann 136 goud.",
+      fr: "C'est une légère baisse de 0,08 % sur un jour. Sur le marché informel, le dollar se vend toujours à 136 gourdes.",
+    },
+    brief: {
+      ht: "Bank repiblik d Ayiti (BRH) fikse to referans madi 24 novanm 2026 a 130,7726 goud pou 1 dola ameriken, 0,08% mwens pase jou anvan an e 0,08% plis pase semèn pase. Bank yo achte dola a 130,52 goud e yo vann li 131,82.",
+      fr: "La Banque de la République d'Haïti (BRH) fixe le taux de référence du mardi 24 novembre 2026 à 130,7726 gourdes pour 1 dollar américain, soit 0,08 % de moins que la veille et 0,08 % de plus qu'il y a une semaine. Les banques achètent le dollar à 130,52 gourdes et le vendent à 131,82.",
+    },
+    body: {
+      ht: "Bank repiblik d Ayiti (BRH) fikse to referans madi 24 novanm 2026 a 130,7726 goud pou 1 dola ameriken, dapre paj « To jou a » li. Se 0,08% mwens pase jou anvan an, 0,08% plis pase semèn pase, e 0,12% plis pase ane pase. Lendi, to a te 130,8751 goud.\n\nSou mache bankè a, bank yo achte dola a 130,52 goud e yo vann li 131,82 goud. Sou mache enfòmèl la, BRH afiche toujou 131,15 goud pou achte ak 136 goud pou vann. Tranzaksyon bankè yo te rive anviwon 17,8 M dola nan acha ak 18,2 M dola nan vant, yon bès anviwon 27% sou jou anvan an.",
+      fr: "La Banque de la République d'Haïti (BRH) fixe le taux de référence du mardi 24 novembre 2026 à 130,7726 gourdes pour 1 dollar américain, selon sa page « Taux du jour ». C'est 0,08 % de moins que la veille, 0,08 % de plus qu'il y a une semaine et 0,12 % de plus qu'il y a un an. Lundi, le taux était de 130,8751 gourdes.\n\nSur le marché bancaire, les banques achètent le dollar à 130,52 gourdes et le vendent à 131,82 gourdes. Sur le marché informel, la BRH affiche toujours 131,15 gourdes à l'achat et 136 gourdes à la vente. Les transactions bancaires ont atteint environ 17,8 M$ à l'achat et 18,2 M$ à la vente, en baisse d'environ 27 % par rapport à la veille.",
+    },
+    sources: ["BRH"],
+    sourceLinks: [
+      { name: "BRH", url: "https://www.brh.ht/taux-du-jour/" },
+    ],
+  },
+
+  {
+    id: "qh-d1-4e-journee-violette-real-hope-2026-11-24",
+    tier: "quick-hit",
+    topic: "sports",
+    publishedAt: "2026-11-24",
+    publishedTime: "2026-11-24T08:30:00-05:00",
+    headline: {
+      ht: "D1: Violette AC fè 4 viktwa nan 4 match, Real Hope genyen dèbi Okap la",
+      fr: "D1 : Violette AC signe une 4e victoire en quatre matchs, Real Hope remporte le derby du Cap",
+    },
+    teaser: {
+      ht: "Violette bat Racing Club Haïtien 3-1 e li an tèt gwoup B ak 12 pwen. Real Hope bat FICA 3-0.",
+      fr: "Violette a battu le Racing Club Haïtien 3-1 et mène le groupe B avec 12 points. Real Hope a battu le FICA 3-0.",
+    },
+    brief: {
+      ht: "Nan 4yèm jounen chanpyona D1 a dimanch 22 novanm, Violette AC bat Racing Club Haïtien 3-1 e li rete an tèt gwoup B ak 12 pwen. Nan gwoup A, Real Hope FA bat FICA 3-0 nan dèbi Okap la e li pran premye plas ak 7 pwen, NAGO relè.",
+      fr: "Lors de la 4e journée du championnat de D1, dimanche 22 novembre, Violette AC a battu le Racing Club Haïtien 3-1 et reste en tête du groupe B avec 12 points. Dans le groupe A, Real Hope FA a dominé le FICA 3-0 dans le derby du Cap-Haïtien et prend la première place avec 7 points, relaie NAGO.",
+    },
+    body: {
+      ht: "Violette AC fè katriyèm viktwa li nan kat match dimanch 22 novanm, nan 4yèm jounen chanpyona nasyonal D1 a, lè li bat Racing Club Haïtien 3-1 nan pak Sainte-Thérèse, NAGO relè dapre Haiti Tempo. Chanpyon an tit la te pèdi nan mitan tan an anvan li vire match la. Kelly Clergé, Roberto Jean ak Jean Simon Morisset make pou Violette, Mackenson Rosier pou Racing.\n\nNan gwoup A, Real Hope FA domine FICA 3-0 nan dèbi Okap la, nan pak Saint-Victor, ak gòl Caleb Jean Baptiste ak de gòl Rafa Intervil. Match la te ka jwe apre sendika abit yo (SYNAFH) te jwenn yon antant samdi ak Federasyon an ak Lig la. Lòt rezilta yo: Racing FC des Gonaïves 0-0 Ouanaminthe FC, Tempête FC 0-0 AS Capoise, America FC des Cayes 1-0 Don Bosco PV, Cavaly AS 0-0 Juventus FC.\n\nKlasman: nan gwoup A, Real Hope FA 7 pwen, Racing FC des Gonaïves 5 (yon match mwens), AS Capoise 5. Nan gwoup B, Violette AC 12 pwen, America FC 10, Juventus FC 4.",
+      fr: "Violette AC a signé une quatrième victoire en quatre matchs dimanche 22 novembre, lors de la 4e journée du championnat national de D1, en battant le Racing Club Haïtien 3-1 au parc Sainte-Thérèse, relaie NAGO d'après Haiti Tempo. Mené à la pause, le champion en titre a renversé la rencontre. Kelly Clergé, Roberto Jean et Jean Simon Morisset ont marqué pour Violette, Mackenson Rosier pour le Racing.\n\nDans le groupe A, Real Hope FA a dominé le FICA 3-0 dans le derby du Cap-Haïtien, au parc Saint-Victor, grâce à Caleb Jean Baptiste et à un doublé de Rafa Intervil. Le match a pu se jouer après un accord trouvé samedi entre le syndicat des arbitres (SYNAFH), la Fédération et la Ligue. Les autres résultats: Racing FC des Gonaïves 0-0 Ouanaminthe FC, Tempête FC 0-0 AS Capoise, America FC des Cayes 1-0 Don Bosco PV, Cavaly AS 0-0 Juventus FC.\n\nAu classement, le groupe A est mené par Real Hope FA (7 points), devant le Racing FC des Gonaïves (5, un match de moins) et l'AS Capoise (5). Dans le groupe B, Violette AC (12 points) devance America FC (10) et Juventus FC (4).",
+    },
+    sources: ["NAGO","Haiti Tempo"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/d1-paryaj-lakay-4e-journee-violette-real-hope" },
+      { name: "NAGO", url: "https://news.nago.tv/real-hope-fa-remporte-un-deuxieme-derby-3-0" },
+    ],
+  },
+
+  {
     id: "qh-etzer-emile-depot-candidature-soley-2026-11-23",
     tier: "quick-hit",
     topic: "politics",
@@ -445,25 +735,27 @@ export const STORIES: Story[] = [
     topic: "security",
     isFollowUp: true,
     publishedAt: "2026-11-21",
-    publishedTime: "2026-11-23T08:41:00-05:00",
+    publishedTime: "2026-11-24T08:45:00-05:00",
     headline: {
-      ht: "Bukele bay non twa sòlda salvadoryen ki mouri ann Ayiti yo, li anonse yon fon 1 M$ pou fanmi yo",
-      fr: "Bukele nomme les trois soldats salvadoriens morts en Haïti et annonce un fonds de 1 M$ pour leurs familles",
+      ht: "Bukele di sòlda salvadoryen ki vle kite Ayiti ka ale san represay",
+      fr: "Bukele dit que les soldats salvadoriens qui veulent quitter Haïti peuvent partir sans représailles",
     },
     teaser: {
-      ht: "Li rele yo « ewo ». Li di yo te fè pati misyon ki te vin delivre kat militè yo te kidnape.",
-      fr: "Il les appelle des « héros ». Selon lui, ils faisaient partie de la mission venue secourir quatre militaires enlevés.",
+      ht: "Li montre tou yon videyo omwen 20 machin blende yo voye ann Ayiti, dapre Diario El Salvador.",
+      fr: "Il a aussi montré une vidéo d'au moins 20 véhicules blindés envoyés en Haïti, selon Diario El Salvador.",
     },
     brief: {
-      ht: "Prezidan Nayib Bukele idantifye dimanch swa sou X twa militè ki te mouri 20 novanm nan yon eksplozyon aksidan nan yon kan ann Ayiti: lyetnan Cristian Daniel Palacios Santos ak kaporal Emerson Alexander Zepeda Zelada ak Wilber Manuel Serrano Medina, EFE relè. Li anonse yon fon 1 M$ pou fanmi yo, dapre Centroamérica 360.",
-      fr: "Le président Nayib Bukele a identifié dimanche soir sur X les trois militaires morts le 20 novembre dans une explosion accidentelle dans un camp en Haïti: le lieutenant Cristian Daniel Palacios Santos et les caporaux Emerson Alexander Zepeda Zelada et Wilber Manuel Serrano Medina, relaie EFE. Il a annoncé un fonds de 1 M$ pour leurs familles, selon Centroamérica 360.",
+      ht: "Nan mesaj li sou X dimanch swa, Nayib Bukele pwomèt sòlda salvadoryen ki vle kite Ayiti yo ka fè sa touswit « san yo pa pè represay », paske lòt militè pòte volontè pou ranplase yo, Associated Press rapòte. Lendi, li montre omwen 20 machin blende yo voye an ranfò, dapre Diario El Salvador.",
+      fr: "Dans son message publié sur X dimanche soir, Nayib Bukele a promis que les soldats salvadoriens qui veulent quitter Haïti peuvent le faire immédiatement « sans crainte de représailles », d'autres militaires s'étant portés volontaires pour les relever, rapporte l'Associated Press. Lundi, il a montré au moins 20 blindés envoyés en renfort, selon Diario El Salvador.",
     },
     body: {
-      ht: "Mizajou 23 novanm: Nan yon long mesaj sou X dimanch swa 22 novanm, prezidan salvadoryen an, Nayib Bukele, bay non twa militè ki mouri yo: lyetnan Cristian Daniel Palacios Santos, kaporal Emerson Alexander Zepeda Zelada ak kaporal Wilber Manuel Serrano Medina, ajans EFE relè. Li rele yo « ewo salvadoryen » e li di yo te vin ann Ayiti pou delivre kat konpayon yo gang te kidnape. Bukele pale toujou de yon « eksplozyon aksidan ». Dapre sit Centroamérica 360, li anonse yon fon 1 M$ pou fanmi viktim yo.\n\nFòs lame Salvador (Fuerza Armada) di kat sòlda yo te frape vandredi 20 novanm 2026, pandan yo t ap manyen materyèl eksplozif nan youn nan kan kontenjan yo ann Ayiti. Premye kominike a te pale de de mò ak de blese. Nan aswè vandredi, lame a te ekri sou X youn nan de blese yo te mouri pandan l t ap resevwa swen nan yon lopital nan Repiblik dominikèn, kote yo te evakye l pa avyon. Sa fè twa sòlda mouri. Lame a di lòt sòlda blese a soti danje kounye a. Li prezante kondoleyans li bay fanmi yo.\n\nLame a pale de yon « detonasyon aksidan ». Li pa bay non militè yo, ni kote kan an ye, ni plis detay sou sikonstans yo. Se premye fwa, depi deplwaman an, lame salvadoryen an konfime lanmò sòlda li yo ann Ayiti, BBC, Diario Libre ak Miami Herald relè.\n\nPremye minis Alix Didier Fils-Aimé voye kondoleyans li bay fanmi mò yo ak otorite Salvador yo, NAGO relè. De mò sa yo pa gen rapò ak kat teknisyen avyasyon salvadoryen ki toujou ofisyèlman disparèt depi anbiskad 18 oktòb la nan Kwadèbouke.",
-      fr: "Mise à jour du 23 novembre : Dans un long message publié sur X dimanche soir 22 novembre, le président salvadorien Nayib Bukele a nommé les trois militaires morts: le lieutenant Cristian Daniel Palacios Santos, le caporal Emerson Alexander Zepeda Zelada et le caporal Wilber Manuel Serrano Medina, relaie l'agence EFE. Il les a qualifiés de « héros salvadoriens » et a dit qu'ils étaient venus en Haïti pour secourir quatre de leurs camarades enlevés par des gangs. Bukele parle toujours d'une « explosion accidentelle ». Selon le site Centroamérica 360, il a annoncé un fonds de 1 M$ pour les familles des victimes.\n\nL'armée salvadorienne (Fuerza Armada) dit que quatre de ses soldats ont été touchés vendredi 20 novembre 2026, alors qu'ils manipulaient du matériel explosif dans l'un des camps de leur contingent en Haïti. Un premier communiqué faisait état de deux morts et de deux blessés. Dans la soirée de vendredi, l'armée a écrit sur X que l'un des deux blessés était mort alors qu'il recevait des soins dans un hôpital en République dominicaine, où il avait été évacué par avion. Le bilan s'élève à trois morts. L'armée dit que l'autre soldat blessé est désormais hors de danger. Elle a présenté ses condoléances aux familles.\n\nL'armée parle d'une « détonation accidentelle ». Elle n'a nommé ni les militaires, ni le camp, et n'a pas donné plus de détails sur les circonstances. C'est la première fois, depuis le déploiement, que l'armée salvadorienne confirme la mort de soldats en Haïti, relaient la BBC, Diario Libre et le Miami Herald.\n\nLe Premier ministre Alix Didier Fils-Aimé a adressé ses condoléances aux familles des morts et aux autorités du Salvador, relaie NAGO. Ces décès sont distincts du sort des quatre techniciens de l'aviation salvadorienne toujours officiellement portés disparus depuis l'embuscade du 18 octobre, à Croix-des-Bouquets.",
+      ht: "Mizajou 24 novanm: Nan menm mesaj li te pibliye sou X dimanch swa a, Nayib Bukele pwomèt sòlda salvadoryen ki vle kite Ayiti yo ka fè sa touswit, « san yo pa pè represay », paske anpil nan konpayon yo pòte volontè pou ranplase sa ki vle ale yo, Associated Press rapòte. Li presize chak fanmi twa militè ki mouri yo ap resevwa 200000 dola, anplis yon revni chak mwa. AP korije yon premye vèsyon depèch li a: istwa de kaporal ki te dezamòse yon grenad ki te kole nan yon dwòn nan te pase pandan tès nan Salvador, se pa pandan eksplozyon ann Ayiti a.\n\nLendi 23 novanm, Bukele pibliye yon videyo ki montre omwen 20 machin blende yo voye ann Ayiti pou ranfòse operasyon pou jwenn kat teknisyen avyasyon gang yo te kidnape yo, Diario El Salvador rapòte. Dapre yon analis jounal la site, se ta machin blende Black Mamba konpayi TPS Armoring fabrike. Machin sa yo vin ajoute sou elikoptè li te deja voye yo.\n\nAnviwon 2500 militè salvadoryen deplwaye ann Ayiti depi oktòb, e ekspè ak ONU di yo ap aji yon fason ki lajman inilateral, dapre AP. Akò ant Ayiti ak Salvador pa janm pibliye. Yon rapò NAL Human Rights, yon kabinè ki baze nan Peyiba, pibliye lendi, di « pa gen okenn enfòmasyon sou dimansyon ak limit misyon an, ni sou mekanis responsablite l ».\n\nMizajou 23 novanm: Nan yon long mesaj sou X dimanch swa 22 novanm, prezidan salvadoryen an, Nayib Bukele, bay non twa militè ki mouri yo: lyetnan Cristian Daniel Palacios Santos, kaporal Emerson Alexander Zepeda Zelada ak kaporal Wilber Manuel Serrano Medina, ajans EFE relè. Li rele yo « ewo salvadoryen » e li di yo te vin ann Ayiti pou delivre kat konpayon yo gang te kidnape. Bukele pale toujou de yon « eksplozyon aksidan ». Dapre sit Centroamérica 360, li anonse yon fon 1 M$ pou fanmi viktim yo.\n\nFòs lame Salvador (Fuerza Armada) di kat sòlda yo te frape vandredi 20 novanm 2026, pandan yo t ap manyen materyèl eksplozif nan youn nan kan kontenjan yo ann Ayiti. Premye kominike a te pale de de mò ak de blese. Nan aswè vandredi, lame a te ekri sou X youn nan de blese yo te mouri pandan l t ap resevwa swen nan yon lopital nan Repiblik dominikèn, kote yo te evakye l pa avyon. Sa fè twa sòlda mouri. Lame a di lòt sòlda blese a soti danje kounye a. Li prezante kondoleyans li bay fanmi yo.\n\nLame a pale de yon « detonasyon aksidan ». Li pa bay non militè yo, ni kote kan an ye, ni plis detay sou sikonstans yo. Se premye fwa, depi deplwaman an, lame salvadoryen an konfime lanmò sòlda li yo ann Ayiti, BBC, Diario Libre ak Miami Herald relè.\n\nPremye minis Alix Didier Fils-Aimé voye kondoleyans li bay fanmi mò yo ak otorite Salvador yo, NAGO relè. De mò sa yo pa gen rapò ak kat teknisyen avyasyon salvadoryen ki toujou ofisyèlman disparèt depi anbiskad 18 oktòb la nan Kwadèbouke.",
+      fr: "Mise à jour du 24 novembre : Dans le même message publié sur X dimanche soir, Nayib Bukele a promis que les soldats salvadoriens qui veulent quitter Haïti peuvent le faire immédiatement, « sans crainte de représailles », puisque beaucoup de leurs camarades se sont portés volontaires pour relever ceux qui le souhaitent, rapporte l'Associated Press. Il a précisé que chaque famille des trois militaires morts recevra 200000 dollars, en plus d'un revenu mensuel. L'AP a corrigé une première version de sa dépêche: l'épisode où deux des caporaux ont désamorcé une grenade coincée dans un drone s'est produit lors d'essais au Salvador, et non lors de l'explosion en Haïti.\n\nLundi 23 novembre, Bukele a diffusé une vidéo montrant au moins 20 véhicules blindés envoyés en Haïti pour renforcer l'opération destinée à retrouver les quatre techniciens de l'aviation enlevés par des gangs, rapporte Diario El Salvador. D'après un analyste cité par le journal, il s'agirait de blindés Black Mamba du fabricant TPS Armoring. Ces véhicules s'ajoutent aux hélicoptères déjà envoyés.\n\nQuelque 2500 militaires salvadoriens sont déployés en Haïti depuis octobre, et des experts comme l'ONU notent qu'ils agissent de façon largement unilatérale, selon l'AP. L'accord entre Haïti et le Salvador n'a pas été rendu public. Un rapport publié lundi par NAL Human Rights, un cabinet basé aux Pays-Bas, relève qu'« il n'existe aucune information sur la portée et les limites de sa mission, ni sur ses mécanismes de reddition de comptes ».\n\nMise à jour du 23 novembre : Dans un long message publié sur X dimanche soir 22 novembre, le président salvadorien Nayib Bukele a nommé les trois militaires morts: le lieutenant Cristian Daniel Palacios Santos, le caporal Emerson Alexander Zepeda Zelada et le caporal Wilber Manuel Serrano Medina, relaie l'agence EFE. Il les a qualifiés de « héros salvadoriens » et a dit qu'ils étaient venus en Haïti pour secourir quatre de leurs camarades enlevés par des gangs. Bukele parle toujours d'une « explosion accidentelle ». Selon le site Centroamérica 360, il a annoncé un fonds de 1 M$ pour les familles des victimes.\n\nL'armée salvadorienne (Fuerza Armada) dit que quatre de ses soldats ont été touchés vendredi 20 novembre 2026, alors qu'ils manipulaient du matériel explosif dans l'un des camps de leur contingent en Haïti. Un premier communiqué faisait état de deux morts et de deux blessés. Dans la soirée de vendredi, l'armée a écrit sur X que l'un des deux blessés était mort alors qu'il recevait des soins dans un hôpital en République dominicaine, où il avait été évacué par avion. Le bilan s'élève à trois morts. L'armée dit que l'autre soldat blessé est désormais hors de danger. Elle a présenté ses condoléances aux familles.\n\nL'armée parle d'une « détonation accidentelle ». Elle n'a nommé ni les militaires, ni le camp, et n'a pas donné plus de détails sur les circonstances. C'est la première fois, depuis le déploiement, que l'armée salvadorienne confirme la mort de soldats en Haïti, relaient la BBC, Diario Libre et le Miami Herald.\n\nLe Premier ministre Alix Didier Fils-Aimé a adressé ses condoléances aux familles des morts et aux autorités du Salvador, relaie NAGO. Ces décès sont distincts du sort des quatre techniciens de l'aviation salvadorienne toujours officiellement portés disparus depuis l'embuscade du 18 octobre, à Croix-des-Bouquets.",
     },
-    sources: ["NAGO", "Miami Herald", "Diario Libre", "BBC", "Le Nouvelliste", "EFE", "Centroamérica 360"],
+    sources: ["NAGO", "Miami Herald", "Diario Libre", "BBC", "Le Nouvelliste", "EFE", "Centroamérica 360", "Associated Press", "Al Jazeera", "Diario El Salvador"],
     sourceLinks: [
+      { name: "Associated Press / Al Jazeera", url: "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention" },
+      { name: "Diario El Salvador", url: "https://diarioelsalvador.com/depais/bukele-envia-vehiculos-blindados-a-haiti/879388" },
       { name: "EFE / Infobae", url: "https://www.infobae.com/america/agencias/2026/11/23/presidente-bukele-elogia-la-trayectoria-de-tres-militares-salvadorenos-fallecidos-en-haiti/" },
       { name: "Centroamérica 360", url: "https://centroamerica360.com/region/bukele-honra-a-tres-militares-salvadorenos-muertos-durante-mision-de-rescate-en-haiti/" },
       { name: "NAGO", url: "https://news.nago.tv/trois-soldats-salvadoriens-morts-dans-une-explosion-en-haiti" },
