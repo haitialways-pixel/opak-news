@@ -179,6 +179,43 @@ export const STORIES: Story[] = [
     },
   },
 
+
+  {
+    id: "qh-tam1-sites-atterrissement-cap-haitien-2026-11-25",
+    tier: "quick-hit",
+    topic: "tech",
+    isFollowUp: true,
+    publishedAt: "2026-11-25",
+    publishedTime: "2026-11-25T10:15:00-05:00",
+    headline: {
+      ht: "Okap: yon misyon gade plizyè sit pou kab soumaren TAM-1 la, okenn poko chwazi",
+      fr: "Cap-Haïtien : une mission a examiné des sites pour le câble sous-marin TAM-1, sans choix définitif",
+    },
+    teaser: {
+      ht: "Minis Travay piblik la te patisipe nan misyon 18 rive 20 novanm nan. BID poko apwouve finansman an.",
+      fr: "Le ministre des Travaux publics a participé à la mission du 18 au 20 novembre. La BID n'a pas encore approuvé le financement.",
+    },
+    brief: {
+      ht: "Yon misyon teknik te egzamine, 18 rive 20 novanm, plizyè sit pou ateri kab soumaren TAM-1 nan Kap Ayisyen. Okenn sit definitif poko anonse, Presslakay ak Juno7 relè. BID toujou mete pwojè HA-J0017 nan preparasyon.",
+      fr: "Une mission technique a examiné, du 18 au 20 novembre, plusieurs sites pour l'atterrissement du câble sous-marin TAM-1 au Cap-Haïtien. Aucun site définitif n'a encore été annoncé, relaient Presslakay et Juno7. La BID tient toujours le projet HA-J0017 en préparation.",
+    },
+    body: {
+      ht: "Yon misyon teknik te egzamine, 18 rive 20 novanm 2026, plizyè sit ki ka akeyi enstalasyon kab soumaren TAM-1 nan Kap Ayisyen, dapre ministè Travay piblik, Transpò ak Kominikasyon (MTPTC). Minis Joseph Almathe Pierre Louis te patisipe nan misyon sa a. Okenn sit definitif poko anonse, Presslakay ekri 23 novanm, e Juno7 relè sa tou.\n\nDapre kominike MTPTC ak Primati pibliye lendi 23 novanm, ke Infolive Haïti relè, yon ekip nasyonal ki gen ladan l MTPTC, ministè Ekonomi ak Finans, ministè Anviwònman, ministè Enteryè, Sèvis maritim ak navigasyon Ayiti (SEMANAH) ak Enstiti ayisyen estatistik ak enfòmatik (IHSI) te dokimante sit ki ka akeyi enfrastrikti yo. MTPTC di yo prezewle de a twa opsyon ki make sou kat pou chak travay: chanm plaj la, estasyon ateri a, ak pwen entèkoneksyon yo.\n\n18 novanm, Opak News te deja relè, dapre Le Nouvelliste, seyans travay 2 rive 6 novanm yo nan Washington sou pwojè HA-J0017. Ministè a prezante yon pwogram enfrastrikti dijital estime a 200 milyon dola ameriken sou sis ane, yon montan ki, Juno7 souliye, konsène yon seri entèvansyon, se pa sèlman pri kab la. Fich Bank entèamerikèn devlopman (BID) afiche 70 milyon dola pou HA-J0017, toujou nan preparasyon, san dat apwobasyon. Sou bò pa l, MTPTC pale de yon faz pilòt 55 milyon dola BID, kote kontra finansman an ap finalize toujou, Infolive presize. Faz sa a ta konsène ateri nan Kap Ayisyen ak yon inite branchman, ak yon kapasite inisyal yo anonse 400 Gbps, separe sou twa pwen entèkoneksyon.\n\nNi dat yo pral poze kab la, ni dat li pral antre an sèvis, yo pa presize yo. Kominike yo pa di tou kijan rès pwogram 200 milyon an ta finansè.",
+      fr: "Une mission technique a examiné, du 18 au 20 novembre 2026, plusieurs sites pouvant accueillir les installations du câble sous-marin TAM-1 au Cap-Haïtien, selon le ministère des Travaux publics, Transports et Communications (MTPTC). Le ministre Joseph Almathe Pierre Louis a pris part à cette mission. Aucun site définitif n'a encore été annoncé, relaient Presslakay, dans un article du 23 novembre, et Juno7.\n\nD'après des communiqués du MTPTC et de la Primature publiés lundi 23 novembre, que Infolive Haïti relaie, une équipe nationale réunissant notamment le MTPTC, le ministère de l'Économie et des Finances, le ministère de l'Environnement, le ministère de l'Intérieur, le Service maritime et de navigation d'Haïti (SEMANAH) et l'Institut haïtien de statistique et d'informatique (IHSI) a documenté des sites possibles. Le MTPTC indique que deux à trois options géoréférencées ont été présélectionnées pour chaque ouvrage: la chambre de plage, la station d'atterrissement et les points d'interconnexion.\n\nLe 18 novembre, Opak News a déjà relaté, d'après Le Nouvelliste, les séances de travail tenues du 2 au 6 novembre à Washington autour du projet HA-J0017. Le ministère présente un programme d'infrastructures numériques estimé à 200 millions de dollars américains sur six ans, un montant qui, souligne Juno7, concerne un ensemble d'interventions et ne correspond pas au seul coût du câble. La fiche de la Banque interaméricaine de développement (BID) affiche 70 millions de dollars pour HA-J0017, toujours en préparation, sans date d'approbation. De son côté, le MTPTC évoque une phase pilote de 55 millions de dollars de la BID, dont le contrat de financement est en cours de finalisation, précise Infolive. Cette phase porterait sur l'atterrissement au Cap-Haïtien et une unité de branchement, avec une capacité initiale annoncée de 400 Gbps répartie sur trois points d'interconnexion.\n\nNi la date de pose du câble ni celle de sa mise en service n'ont été précisées. Les communiqués ne disent pas non plus comment le reste du programme de 200 millions serait financé.",
+    },
+    sources: ["Presslakay", "Infolive Haïti", "Juno7", "BID"],
+    sourceLinks: [
+      { name: "Presslakay", url: "https://presslakay.net/?p=68556" },
+      { name: "Infolive Haïti", url: "https://infolivehaiti.com/cap-haitien-mission-prospection-cable-sous-marin-tam-1/" },
+      { name: "Juno7", url: "https://www.juno7.ht/cap-haitien-cable-sous-marin-tam-1-preparatifs/" },
+      { name: "BID", url: "https://www.iadb.org/en/project/HA-J0017" },
+    ],
+    readMoreLink: {
+      fr: {"before": "Pour lire notre article du 18 novembre sur ce projet, ", "link": "cliquez ici", "after": ".", "href": "/story/qh-idb-tam1-cable-cap-haitien-2026-11-18"},
+      ht: {"before": "Pou li atik 18 novanm nou an sou pwojè sa a, ", "link": "klike la a", "after": ".", "href": "/ht/story/qh-idb-tam1-cable-cap-haitien-2026-11-18"},
+    },
+  },
+
   {
     id: "ntk-amnesty-fils-aime-accord-salvador-2026-11-25",
     tier: "need-to-know",
