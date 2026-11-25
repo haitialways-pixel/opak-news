@@ -100,6 +100,322 @@ export const STORIES: Story[] = [
   },
 
   {
+    id: "ntk-amnesty-fils-aime-accord-salvador-2026-11-25",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-25",
+    publishedTime: "2026-11-25T08:58:00-05:00",
+    headline: {
+      ht: "Amnesty International reponn Fils-Aimé e li mande toujou pou yo pibliye akò ak Salvador la",
+      fr: "Amnesty International répond à Fils-Aimé et réclame toujours la publication de l'accord avec le Salvador",
+    },
+    teaser: {
+      ht: "Premye minis la defann akò a sou X mardi. Amnesty di li pa kont fòs Leta itilize, si se nan limit.",
+      fr: "Le Premier ministre a défendu l'accord sur X mardi. Amnesty dit ne pas s'opposer à l'usage proportionné de la force.",
+    },
+    brief: {
+      ht: "Amnesty International reponn premye minis Alix Didier Fils-Aimé mardi swa 24 novanm, kèk èdtan apre li te defann akò sekirite ak Salvador la. Òganizasyon an mande ankò pou yo pibliye tèks akò a, ki poko piblik, NAGO ak Le Quotidien 509 rapòte.",
+      fr: "Amnesty International a répondu mardi soir 24 novembre au Premier ministre Alix Didier Fils-Aimé, quelques heures après qu'il a défendu l'accord de sécurité avec le Salvador. L'organisation réclame de nouveau la publication du texte, toujours confidentiel, rapportent NAGO et Le Quotidien 509.",
+    },
+    body: {
+      ht: "Tout bagay la te kòmanse ak yon mesaj an panyòl seksyon Ajantin Amnesty International pibliye mardi 24 novanm 2026. Òganizasyon an di gouvènman Ayiti ak Salvador dwe garanti deplwaman fòs Nayib Bukele yo respekte dwa moun, e li mande pou yo pibliye akò ant de peyi yo, ansanm ak règ sou itilizasyon fòs ak mekanis kontwòl ak plent yo, dapre NAGO.\n\nAlix Didier Fils-Aimé reponn sou kont X li menm jou a. « Pèp ayisyen an gen tout dwa li pou l gen sekirite, libète ak respè dwa fondamantal li », li ekri. Li raple gang yo kenbe yon gwo pati nan peyi a an otaj depi plizyè ane, epi li di akò ak Salvador la « dwe konsidere nan kontèks ijans sekirite nasyonal la ». Premye minis la rekonèt respè dwa moun ak transparans « dwe akonpaye tout operasyon », men li di yo « pa dwe tounen yon pretèks pou yo inyore dwa Ayisyen genyen pou yo pwoteje yo ».\n\nNan aswè, kont Amnesty International pou Amerik yo reponn an franse. Òganizasyon an di li kontan premye minis la reponn piblikman, li di li pa kont fòs ajan Leta yo itilize « depi li pwopòsyonèl e nesesè pou pwoteje lavi popilasyon an », epi li ekri sekirite ak dwa moun « pa opoze, yo konplemantè ». Li mande garanti tankou transparans nan operasyon yo, « sitou lè yo itilize dwòn », patisipasyon sosyete sivil la, aksè a lajistis ak fen enpinite. Juno7 ak Vant Bèf Info relè tou echanj sa a. Jodi a, tèks akò ant Ayiti ak Salvador la toujou pa piblik.",
+      fr: "Tout est parti d'un message en espagnol publié mardi 24 novembre 2026 par la section argentine d'Amnesty International. L'organisation y affirme que les gouvernements d'Haïti et du Salvador doivent garantir que le déploiement des forces de Nayib Bukele respecte les droits humains, et elle demande la publication de l'accord entre les deux États, des règles sur l'usage de la force et des mécanismes de contrôle et de plainte, selon NAGO.\n\nAlix Didier Fils-Aimé a répondu le jour même sur son compte X. « Le peuple haïtien a pleinement droit à la sécurité, à la liberté et au respect de ses droits fondamentaux », a-t-il écrit. Il a rappelé que des groupes armés tiennent depuis des années une grande partie du pays en otage, et il estime que l'accord avec le Salvador « doit être considéré dans le contexte de l'urgence sécuritaire nationale ». Le chef du gouvernement reconnaît que le respect des droits humains et la transparence « doivent accompagner toute opération », tout en prévenant qu'ils « ne doivent pas devenir un prétexte pour ignorer le droit des Haïtiens à être protégés ».\n\nEn soirée, le compte d'Amnesty International pour les Amériques lui a répondu en français. L'organisation s'est réjouie que le Premier ministre réponde publiquement, a précisé qu'elle ne s'oppose pas à l'usage de la force par les agents de l'État « à condition que celui-ci soit proportionné et nécessaire pour protéger la vie et l'intégrité physique de la population », et a écrit que sécurité et droits humains « ne sont pas opposés, mais complémentaires ». Elle demande des garanties comme la transparence des opérations, « y compris l'utilisation de drones », la participation de la société civile, l'accès à la justice et la fin de l'impunité. Juno7 et Vant Bèf Info ont aussi relayé l'échange. À ce jour, le texte de l'accord entre Haïti et le Salvador n'a toujours pas été rendu public.",
+    },
+    sources: ["NAGO","Le Quotidien 509","Juno7","Vant Bèf Info"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/forces-salvadoriennes-amnesty-international-repond-a-fils-aime-et-reclame-la-publication-de-l-accord" },
+      { name: "NAGO", url: "https://news.nago.tv/fils-aime-repond-a-amnesty-international-sur-le-deploiement-des-forces-salvadoriennes" },
+      { name: "Le Quotidien 509", url: "https://lequotidien509.com/amnesty-international-repond-au-premier-ministre-fils-aime-sur-laccord-avec-le-salvador/" },
+      { name: "Juno7", url: "https://www.juno7.ht/fils-aime-amnesty-forces-salvadoriennes-haiti/" },
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/face-aux-critiques-damnesty-international-alix-didier-fils-aime-justifie-la-cooperation-avec-le-salvador/" },
+    ],
+  },
+
+  {
+    id: "qh-fusion-soutient-privert-2026-11-25",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-25",
+    publishedTime: "2026-11-25T08:54:00-05:00",
+    headline: {
+      ht: "Fizyon pa gen kandida pou prezidans, li di l ap sipòte Jocelerme Privert",
+      fr: "Sans candidat à la présidence, la Fusion soutient Jocelerme Privert",
+    },
+    teaser: {
+      ht: "Edmonde Supplice Beauzile di pati a pa t vle vin « yon nimewo anplis ».",
+      fr: "Edmonde Supplice Beauzile dit que le parti ne voulait pas devenir « un numéro en plus ».",
+    },
+    brief: {
+      ht: "Pati Fizyon sosyal demokrat ayisyen yo ap sipòte kandidati ansyen prezidan pwovizwa Jocelerme Privert pou prezidans lan, Edmonde Supplice Beauzile di sou Magik9 mardi 24 novanm, dapre Le Nouvelliste.",
+      fr: "Le parti Fusion des sociaux-démocrates haïtiens soutient la candidature de l'ancien président provisoire Jocelerme Privert à la présidence, a révélé Edmonde Supplice Beauzile sur Magik9 mardi 24 novembre, selon Le Nouvelliste.",
+    },
+    body: {
+      ht: "Pati Fizyon sosyal demokrat ayisyen yo pa prezante pwòp kandida yo pou prezidans lan, e yo chwazi sipòte Jocelerme Privert, ansyen prezidan pwovizwa (2016-2017), Edmonde Supplice Beauzile anonse sou Magik9 mardi 24 novanm 2026, Le Nouvelliste rapòte.\n\nDapre responsab Fizyon an, desizyon an vini apre yon bon tan diskisyon ak Privert. Li di pati a te eseye pale ak plizyè lòt estrikti politik pou evite twòp kandidati pou prezidans, men sa pa t mache. Fizyon pa vle prezante yon kandida nan kondisyon kounye a, pou l pa vin « yon nimewo anplis », li eksplike.\n\nNan menm entèvyou a, Edmonde Supplice Beauzile di pati a antre plis pase 100000 done pou enskri 30000 manm li yo, toujou dapre Le Nouvelliste. Kandida yo gen jiska 30 novanm pou yo depoze dosye yo nan Konsèy elektoral pwovizwa a.",
+      fr: "Le parti Fusion des sociaux-démocrates haïtiens ne présentera pas de candidat à la présidence et a choisi de soutenir Jocelerme Privert, ancien président provisoire (2016-2017), a annoncé Edmonde Supplice Beauzile sur Magik9 mardi 24 novembre 2026, rapporte Le Nouvelliste.\n\nSelon la responsable de la Fusion, ce choix fait suite à une longue période de discussions avec M. Privert. Le parti a tenté, sans succès, de dialoguer avec plusieurs structures politiques afin d'éviter une multiplication des candidatures présidentielles. La Fusion ne souhaite pas présenter de candidat dans les conditions actuelles, au risque de devenir « un numéro en plus », a-t-elle expliqué.\n\nDans le même entretien, Edmonde Supplice Beauzile a affirmé que le parti a saisi plus de 100000 données pour inscrire ses 30000 adhérents, toujours selon Le Nouvelliste. Les candidats ont jusqu'au 30 novembre pour déposer leurs dossiers au Conseil électoral provisoire.",
+    },
+    sources: ["Le Nouvelliste"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://www.lenouvelliste.com/article/274202/sans-candidat-a-la-presidence-fusion-soutient-la-candidature-de-jocelerme-privert" },
+      { name: "Le Nouvelliste", url: "https://www.lenouvelliste.com/article/274201/le-parti-fusion-a-saisi-plus-de-100-000-donnees-pour-inscrire-ses-30-000-adherents-revele-edmonde-supplice-beauzile" },
+    ],
+  },
+
+  {
+    id: "qh-juge-de-paix-perches-enleve-2026-11-25",
+    tier: "quick-hit",
+    topic: "justice",
+    publishedAt: "2026-11-25",
+    publishedTime: "2026-11-25T08:52:00-05:00",
+    headline: {
+      ht: "Yon jij depè tribinal Perches yo kidnape, sipoze manm gang Gran Grif ta mande ranson",
+      fr: "Un juge de paix du tribunal des Perches enlevé, de présumés membres du gang Gran Grif réclameraient une rançon",
+    },
+    teaser: {
+      ht: "Dieuney Charles t ap retounen lakay li sou moto jedi 19 novanm. APM konfime kidnapin lan.",
+      fr: "Dieuney Charles rentrait du travail à moto le jeudi 19 novembre. L'APM a confirmé l'enlèvement.",
+    },
+    brief: {
+      ht: "Jij depè tribinal Perches yo, Dieuney Charles, te kidnape jedi 19 novanm nan Tè Wouj pandan l t ap retounen lakay li sou moto, Le Quotidien 509 rapòte. Prezidan Asosyasyon pwofesyonèl majistra yo (APM) konfime nouvèl la.",
+      fr: "Le juge de paix du tribunal des Perches, Dieuney Charles, a été enlevé le jeudi 19 novembre à Terre-Rouge alors qu'il rentrait du travail à moto, rapporte Le Quotidien 509. Le président de l'Association professionnelle des magistrats (APM) a confirmé la nouvelle.",
+    },
+    body: {
+      ht: "Jij depè tribinal Perches yo, Dieuney Charles, te kidnape jedi 19 novanm 2026 nan Tè Wouj, dapre Le Quotidien 509. Majistra a t ap sikile sou moto, li t ap soti travay, lè yo te pran l. Jounal la di kidnapè yo se manm gang Gran Grif.\n\nPrezidan Asosyasyon pwofesyonèl majistra yo (APM), Me Marthel Jean-Claude, konfime kidnapin lan. Dapre sous Le Quotidien 509 di yo serye, kidnapè yo ta mande yon gwo kòb pou yo lage l. Lapolis pa t fè okenn deklarasyon piblik sou ka a, e Opak News pa t ka verifye enfòmasyon an nan yon lòt sous.",
+      fr: "Le juge de paix du tribunal des Perches, Dieuney Charles, a été enlevé le jeudi 19 novembre 2026 à Terre-Rouge, selon Le Quotidien 509. Le magistrat circulait à moto et rentrait de son travail au moment de l'enlèvement. Le journal attribue le rapt à des membres du gang Gran Grif.\n\nLe président de l'Association professionnelle des magistrats (APM), Me Marthel Jean-Claude, a confirmé l'enlèvement. D'après des sources jugées dignes de confiance par Le Quotidien 509, les ravisseurs réclameraient une importante somme d'argent en échange de sa libération. La police ne s'est pas exprimée publiquement sur l'affaire, et Opak News n'a pas pu confirmer l'information auprès d'une autre source.",
+    },
+    sources: ["Le Quotidien 509"],
+    sourceLinks: [
+      { name: "Le Quotidien 509", url: "https://lequotidien509.com/haiti-securite-un-juge-de-paix-des-peches-enleve-par-des-membres-du-gang-gran-grif/" },
+    ],
+  },
+
+  {
+    id: "qh-cayes-trois-adolescentes-liberees-2026-11-25",
+    tier: "quick-hit",
+    topic: "security",
+    publishedAt: "2026-11-25",
+    publishedTime: "2026-11-25T08:50:00-05:00",
+    headline: {
+      ht: "Okay: lapolis delivre twa adolesan yo te kidnape depi 13 novanm",
+      fr: "Les Cayes : la police libère trois adolescentes enlevées le 13 novembre",
+    },
+    teaser: {
+      ht: "De nan yo gen 14 an, lòt la 16 an. Lapolis pa di si gen moun ki arete.",
+      fr: "Deux ont 14 ans, la troisième 16 ans. La police n'a pas dit si des arrestations ont eu lieu.",
+    },
+    brief: {
+      ht: "Polis nasyonal la delivre lendi 23 novanm twa adolesan, de 14 an ak youn 16 an, yo te kidnape 13 novanm nan Chapantye, nan komin Okay, Vant Bèf Info ak NAGO rapòte.",
+      fr: "La Police nationale a libéré lundi 23 novembre trois adolescentes de 14, 14 et 16 ans, enlevées le 13 novembre à Charpentier, dans la commune des Cayes, rapportent Vant Bèf Info et NAGO.",
+    },
+    body: {
+      ht: "Polis nasyonal Ayiti (PNH) delivre lendi 23 novanm 2026 twa adolesan yo te kidnape 13 novanm nan Chapantye, nan komin Okay, nan depatman Sid, Vant Bèf Info rapòte. De ladan yo gen 14 an, twazyèm lan 16 an. Yo te pase dis jou nan men kidnapè yo.\n\nDapre lapolis NAGO site, ajan yo jwenn yo nan yon kay kote kidnapè yo te sekestre yo. Lapolis pa di si gen moun ki arete, men Vant Bèf Info di yon ankèt ap fèt pou idantifye moun ki te fè kidnapin lan.",
+      fr: "La Police nationale d'Haïti (PNH) a libéré lundi 23 novembre 2026 trois adolescentes enlevées le 13 novembre à Charpentier, dans la commune des Cayes, dans le Sud, rapporte Vant Bèf Info. Deux d'entre elles ont 14 ans, la troisième 16 ans. Elles sont restées dix jours aux mains de leurs ravisseurs.\n\nSelon la police citée par NAGO, les agents les ont retrouvées dans une maison où leurs ravisseurs les séquestraient. La police n'a pas indiqué si des arrestations ont eu lieu, mais une enquête est en cours pour identifier les auteurs de l'enlèvement, précise Vant Bèf Info.",
+    },
+    sources: ["Vant Bèf Info","NAGO"],
+    sourceLinks: [
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/haiti-securite-la-pnh-libere-trois-adolescentes-kidnappees-dans-le-sud/" },
+      { name: "NAGO", url: "https://nago.tv/flash-info/2026-11-24-15" },
+    ],
+  },
+
+  {
+    id: "qh-frg-patrouilles-saint-marc-2026-11-25",
+    tier: "quick-hit",
+    topic: "security",
+    publishedAt: "2026-11-25",
+    publishedTime: "2026-11-25T08:48:00-05:00",
+    headline: {
+      ht: "FRG di patwouy li yo pral rive jiska Sen Mak, men li admèt li pa ka kouvri tout peyi a an menm tan",
+      fr: "La FRG dit que ses patrouilles iront jusqu'à Saint-Marc, mais admet ne pas pouvoir couvrir tout le pays à la fois",
+    },
+    teaser: {
+      ht: "Pòtpawòl la, Igor Rugwiza, di deplwaman an ap fèt piti piti.",
+      fr: "Son porte-parole, Igor Rugwiza, parle d'un déploiement progressif.",
+    },
+    brief: {
+      ht: "« Patwouy fiks ak mobil nou yo pral rive jiska Sen Mak », pòtpawòl Fòs pou reprime gang yo (FRG), Igor Rugwiza, di sou Radyo Tele Galaxie, dapre Vant Bèf Info. Li presize deplwaman an ap fèt piti piti.",
+      fr: "« Nos patrouilles fixes et mobiles vont s'étendre jusqu'à Saint-Marc », a déclaré sur Radio Télé Galaxie le porte-parole de la Force de répression des gangs (FRG), Igor Rugwiza, selon Vant Bèf Info. Il a précisé que le déploiement se fera progressivement.",
+    },
+    body: {
+      ht: "Pòtpawòl Fòs pou reprime gang yo (FRG), Igor Rugwiza, di sou Radyo Tele Galaxie patwouy fiks ak mobil fòs la pral rive jiska Sen Mak, nan Latibonit, Vant Bèf Info rapòte mardi 24 novanm 2026. Li di deplwaman an ap fèt piti piti, e lefèt FRG voye sòlda nan Gwo Mòn pa vle di lòt zòn yo abandone.\n\nRugwiza rekonèt sepandan misyon an pa gen kapasite pou l entèvni nan tout zòn peyi a an menm tan. Manda FRG a se netralize gwoup ame yo e mennen operasyon, avèk oswa san sipò Polis nasyonal la, li raple. Fòs la te deja anonse operasyon nan Tabarre, Site Solèy ak nan zòn Gwo Mòn semèn sa a.",
+      fr: "Le porte-parole de la Force de répression des gangs (FRG), Igor Rugwiza, a affirmé sur Radio Télé Galaxie que les patrouilles fixes et mobiles de la force vont s'étendre jusqu'à Saint-Marc, dans l'Artibonite, rapporte Vant Bèf Info mardi 24 novembre 2026. Le déploiement se fera progressivement, a-t-il dit, et l'envoi de soldats à Gros-Morne ne signifie pas que les autres localités sont négligées.\n\nIgor Rugwiza a toutefois reconnu que la mission ne dispose pas de la capacité nécessaire pour intervenir simultanément dans toutes les zones du pays. Le mandat de la FRG consiste à neutraliser les groupes armés et à mener des opérations, avec ou sans l'appui de la Police nationale, a-t-il rappelé. La force avait déjà annoncé cette semaine des opérations à Tabarre, à Cité Soleil et dans la zone de Gros-Morne.",
+    },
+    sources: ["Vant Bèf Info"],
+    sourceLinks: [
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/securite-la-frg-annonce-une-extension-progressive-de-ses-operations-jusqua-saint-marc/" },
+    ],
+  },
+
+  {
+    id: "qh-deces-jean-danton-leger-2026-11-25",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-25",
+    publishedTime: "2026-11-25T08:44:00-05:00",
+    headline: {
+      ht: "Ansyen depite Leyogàn ak ansyen komisè gouvènman Pòtoprens Jean Danton Léger mouri",
+      fr: "Décès de Jean Danton Léger, ancien député de Léogâne et ex-commissaire du gouvernement de Port-au-Prince",
+    },
+    teaser: {
+      ht: "Avoka a mouri mardi nan Leyogàn. Li te dirije pakè Pòtoprens ant 2016 ak 2017.",
+      fr: "L'avocat est mort mardi à Léogâne. Il a dirigé le parquet de Port-au-Prince de 2016 à 2017.",
+    },
+    brief: {
+      ht: "Avoka Jean Danton Léger, ansyen depite Leyogàn e ansyen komisè gouvènman Pòtoprens, mouri mardi 24 novanm 2026 nan Leyogàn, Le Nouvelliste, Radyo Tele Karayib ak Scoop FM rapòte, dapre NAGO.",
+      fr: "L'avocat Jean Danton Léger, ancien député de Léogâne et ancien commissaire du gouvernement de Port-au-Prince, est mort mardi 24 novembre 2026 à Léogâne, rapportent Le Nouvelliste, Radio Télévision Caraïbes et Scoop FM, cités par NAGO.",
+    },
+    body: {
+      ht: "Me Jean Danton Léger mouri mardi 24 novanm 2026 nan yon sant lopital nan Leyogàn, lopital Sainte-Croix dapre laprès lokal, NAGO rapòte. Yon moun ki pre l di li te gen pwoblèm pou l respire depi de semèn. Sikonstans lanmò a pa t detaye piblikman.\n\nLi te fèt nan Leyogàn an 1965. Li te etidye dwa ak sosyoloji nan Inivèsite Leta Ayiti, e li te manm ba Ti Gwav. Li te komisè gouvènman nan Jakmèl anvan li te depite Leyogàn pandan 49yèm lejislati a, anba banyè platfòm Ansanm Nou Fò. An avril 2016, sou prezidans pwovizwa Jocelerme Privert, yo te nonmen l komisè gouvènman Pòtoprens, pakè prensipal peyi a. Li te demisyone an mas 2017.\n\nNan Leyogàn, li te fonde kolèj Wesner Ovide, kote li te anseye syans sosyal, e li te pami fondatè ak dirijan Cavaly Football Club.",
+      fr: "Me Jean Danton Léger est décédé mardi 24 novembre 2026 dans un centre hospitalier de Léogâne, l'hôpital Sainte-Croix selon la presse locale, rapporte NAGO. Selon un proche cité par la presse, il souffrait de difficultés respiratoires depuis deux semaines. Les circonstances de sa mort n'ont pas été détaillées publiquement.\n\nNé à Léogâne en 1965, il avait étudié le droit et la sociologie à l'Université d'État d'Haïti et était membre du barreau de Petit-Goâve. Il a d'abord été commissaire du gouvernement à Jacmel, puis député de Léogâne sous la 49e législature, sous la bannière de la plateforme Ansanm Nou Fò. En avril 2016, sous la présidence provisoire de Jocelerme Privert, il a été nommé commissaire du gouvernement de Port-au-Prince, le principal parquet du pays, un poste qu'il a quitté par démission en mars 2017.\n\nÀ Léogâne, il avait aussi fondé le collège Wesner Ovide, où il enseignait les sciences sociales, et il a été l'un des fondateurs et dirigeants du Cavaly Football Club.",
+    },
+    sources: ["NAGO","Rezo Nòdwès","Le Quotidien 509"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/deces-de-me-jean-danton-leger-ancien-depute-de-leogane-et-ex-commissaire-du-gouvernement" },
+      { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/flash-haiti-deces-de-lancien-commissaire-du-gouvernement-me-jean-danton-leger/" },
+      { name: "Le Quotidien 509", url: "https://lequotidien509.com/la-ville-de-leogane-en-deuil-apres-le-deces-de-lancien-depute-jean-danton-leger/" },
+    ],
+  },
+
+  {
+    id: "qh-ihsi-inflation-16-2-octobre-2026-11-25",
+    tier: "quick-hit",
+    topic: "economy",
+    publishedAt: "2026-11-25",
+    publishedTime: "2026-11-25T08:46:00-05:00",
+    headline: {
+      ht: "Enflasyon an kontinye ralanti an oktòb: 16,2 % sou yon ane, dapre IHSI",
+      fr: "L'inflation continue de ralentir en octobre : 16,2 % sur un an, selon l'IHSI",
+    },
+    teaser: {
+      ht: "Men sou yon mwa, pri yo monte 1,4 %, yon ti jan plis pase an septanm.",
+      fr: "Sur un mois, les prix ont toutefois augmenté de 1,4 %, un peu plus qu'en septembre.",
+    },
+    brief: {
+      ht: "Enflasyon sou yon ane rive 16,2 % an oktòb 2026, li kontinye ralanti, dapre done Enstiti ayisyen estatistik ak enfòmatik (IHSI) Le Nouvelliste site. Sou yon mwa, endis pri yo monte 1,4 %, kont 1,3 % an septanm.",
+      fr: "L'inflation sur un an s'est établie à 16,2 % en octobre 2026 et poursuit sa décélération, selon les données de l'Institut haïtien de statistique et d'informatique (IHSI) citées par Le Nouvelliste. Sur un mois, les prix ont progressé de 1,4 %, contre 1,3 % en septembre.",
+    },
+    body: {
+      ht: "Endis pri konsomasyon an (IPC, baz 100 an 2017-2018) pase de 647,6 an septanm a 656,5 an oktòb 2026, sa ki fè yon ogmantasyon 1,4 % sou yon mwa, kont 1,3 % mwa anvan an, dapre rubrik « Le coin de l'IPC » IHSI a, Le Nouvelliste rapòte.\n\nKidonk, pri yo monte yon ti kras pi vit sou yon mwa. Men sou yon ane, enflasyon an kontinye desann pou l rive 16,2 %, dapre menm done yo.",
+      fr: "L'indice des prix à la consommation (IPC, base 100 en 2017-2018) est passé de 647,6 en septembre à 656,5 en octobre 2026, soit une hausse mensuelle de 1,4 %, contre 1,3 % le mois précédent, selon la rubrique « Le coin de l'IPC » de l'IHSI, rapporte Le Nouvelliste.\n\nLe rythme mensuel s'est donc légèrement accéléré. Sur un an, en revanche, l'inflation a poursuivi sa décélération pour s'établir à 16,2 %, d'après les mêmes données.",
+    },
+    sources: ["Le Nouvelliste","IHSI"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://www.lenouvelliste.com/article/274221/162-la-deceleration-de-linflation-haitienne-suit-son-cours-en-octobre-2026" },
+    ],
+  },
+
+  {
+    id: "qh-brh-taux-reference-130-85-2026-11-25",
+    tier: "quick-hit",
+    topic: "economy",
+    publishedAt: "2026-11-25",
+    publishedTime: "2026-11-25T08:40:00-05:00",
+    headline: {
+      ht: "BRH: to referans lan monte a 130,85 goud pou 1 dola mèkredi",
+      fr: "BRH : le taux de référence remonte à 130,85 gourdes pour 1 dollar mercredi",
+    },
+    teaser: {
+      ht: "Se yon ogmantasyon 0,06 % sou yon jou. Sou mache enfòmèl la, dola a toujou vann 136 goud.",
+      fr: "C'est une hausse de 0,06 % sur un jour. Sur le marché informel, le dollar se vend toujours à 136 gourdes.",
+    },
+    brief: {
+      ht: "Bank repiblik Ayiti (BRH) fikse to referans mèkredi 25 novanm 2026 la a 130,8509 goud pou 1 dola ameriken, 0,06 % plis pase jou anvan an. Bank yo achte dola a 130,65 goud e yo vann li 131,77.",
+      fr: "La Banque de la République d'Haïti (BRH) fixe le taux de référence du mercredi 25 novembre 2026 à 130,8509 gourdes pour 1 dollar américain, soit 0,06 % de plus que la veille. Les banques achètent le dollar à 130,65 gourdes et le vendent à 131,77.",
+    },
+    body: {
+      ht: "Bank repiblik Ayiti (BRH) fikse to referans mèkredi 25 novanm 2026 la a 130,8509 goud pou 1 dola ameriken, dapre paj « Taux du jour » li. Se 0,06 % plis pase jou anvan an, 0,07 % plis pase sa gen yon semèn e 0,21 % plis pase sa gen yon ane. Mardi, to a te 130,7726 goud.\n\nSou mache bankè a, bank yo achte dola a 130,65 goud e yo vann li 131,77 goud. Sou mache enfòmèl la, BRH toujou afiche 131,15 goud pou acha ak 136 goud pou vant. Tranzaksyon bankè yo rive anviwon 24,9 M$ pou acha ak 24,6 M$ pou vant, yon ogmantasyon anviwon 40 % ak 35 % konpare ak jou anvan an.",
+      fr: "La Banque de la République d'Haïti (BRH) fixe le taux de référence du mercredi 25 novembre 2026 à 130,8509 gourdes pour 1 dollar américain, selon sa page « Taux du jour ». C'est 0,06 % de plus que la veille, 0,07 % de plus qu'il y a une semaine et 0,21 % de plus qu'il y a un an. Mardi, le taux était de 130,7726 gourdes.\n\nSur le marché bancaire, les banques achètent le dollar à 130,65 gourdes et le vendent à 131,77 gourdes. Sur le marché informel, la BRH affiche toujours 131,15 gourdes à l'achat et 136 gourdes à la vente. Les transactions bancaires ont atteint environ 24,9 M$ à l'achat et 24,6 M$ à la vente, en hausse d'environ 40 % et 35 % par rapport à la veille.",
+    },
+    sources: ["BRH"],
+    sourceLinks: [
+      { name: "BRH", url: "https://www.brh.ht/taux-du-jour/" },
+    ],
+  },
+
+  {
+    id: "qh-toussaint-louverture-programmes-france-2026-11-25",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-25",
+    publishedTime: "2026-11-25T08:38:00-05:00",
+    headline: {
+      ht: "Revolisyon ayisyen an ak Toussaint Louverture ap antre nan pwogram istwa lekòl Lafrans",
+      fr: "La révolution haïtienne et Toussaint Louverture entrent dans les programmes d'histoire en France",
+    },
+    teaser: {
+      ht: "Se elèv klas katriyèm yo k ap etidye l, nan chapit sou Revolisyon fransè a.",
+      fr: "Ce sont les élèves de quatrième qui l'étudieront, dans le chapitre sur la Révolution française.",
+    },
+    brief: {
+      ht: "Revolisyon ayisyen an ak Toussaint Louverture pral nan pwogram istwa kolèj an Frans, nan klas katriyèm, Le Nouvelliste rapòte. Nouvèl la te anonse 18 novanm, jou komemorasyon batay Vètyè.",
+      fr: "La révolution haïtienne et Toussaint Louverture seront enseignés au collège en France, en classe de quatrième, rapporte Le Nouvelliste. L'annonce a été faite le 18 novembre, jour de la commémoration de la bataille de Vertières.",
+    },
+    body: {
+      ht: "Elèv franse yo pral etidye Revolisyon ayisyen an ak Toussaint Louverture nan tèm 3 pwogram istwa klas katriyèm lan, ki konsakre a Revolisyon fransè a, dapre Fondasyon pou memwa esklavaj la Le Nouvelliste site. Se yon premye fwa nan istwa peyi sa a, jounal la ekri.\n\nAnons lan te fèt mèkredi 18 novanm 2026, jou yo te komemore 223yèm anivèsè batay Vètyè, kote lame endijèn lan te bat twoup franse yo an novanm 1803, sa ki te louvri chemen pou endepandans Ayiti 1ye janvye 1804.",
+      fr: "Les collégiens français étudieront la révolution haïtienne et Toussaint Louverture dans le thème 3 du programme d'histoire de quatrième, consacré à la Révolution française, a indiqué la Fondation pour la mémoire de l'esclavage, citée par Le Nouvelliste. Le journal y voit une grande première dans l'histoire de ce pays.\n\nL'annonce a été faite le mercredi 18 novembre 2026, jour de la commémoration du 223e anniversaire de la bataille de Vertières, remportée en novembre 1803 par l'armée indigène contre les troupes françaises, une victoire qui a ouvert la voie à l'indépendance d'Haïti, proclamée le 1er janvier 1804.",
+    },
+    sources: ["Le Nouvelliste"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://www.lenouvelliste.com/article/274232/223-ans-apres-vertieres-toussaint-louverture-entre-dans-les-programmes-scolaires-en-france" },
+    ],
+  },
+
+  {
+    id: "qh-stephane-martelly-prix-alain-grandbois-2026-11-25",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-25",
+    publishedTime: "2026-11-25T08:36:00-05:00",
+    headline: {
+      ht: "Powèt ayisyen Stéphane Martelly genyen pri Alain-Grandbois nan Kebèk",
+      fr: "La poète haïtienne Stéphane Martelly remporte le prix Alain-Grandbois au Québec",
+    },
+    teaser: {
+      ht: "Akademi lèt Kebèk rekonpanse rekèy li « Mourir est beau ».",
+      fr: "L'Académie des lettres du Québec récompense son recueil « Mourir est beau ».",
+    },
+    brief: {
+      ht: "Ekriven ak powèt Stéphane Martelly genyen pri Alain-Grandbois 2026 Akademi lèt Kebèk la pou rekèy li « Mourir est beau », Rezo Nòdwès rapòte. Yo anonse pri a lendi nan Monreyal.",
+      fr: "L'écrivaine et poète Stéphane Martelly a remporté le prix Alain-Grandbois 2026 de l'Académie des lettres du Québec pour son recueil « Mourir est beau », rapporte Rezo Nòdwès. La distinction a été annoncée lundi à Montréal.",
+    },
+    body: {
+      ht: "Stéphane Martelly genyen pri Alain-Grandbois 2026, Akademi lèt Kebèk la bay pou yon rekèy powezi, pou liv « Mourir est beau », ki te parèt an 2025 nan Éditions du Noroît, Rezo Nòdwès rapòte. Akademi an anonse sa lendi 23 novanm nan Monreyal. Nan liv la, otè a reflechi sou lanmò atravè vwa powèt nwa Amerik yo.\n\nStéphane Martelly fèt Pòtoprens an 1974 e li tabli Monreyal depi 2002. Li ekri powezi, esè ak liv pou timoun, li fè la tradiksyon ak travay atistik, e li anseye nan Inivèsite Sherbrooke. Pri a vini ak yon bous 2000 dola, yon zèv atistik ak yon elòj jiri a.",
+      fr: "Stéphane Martelly a remporté le prix Alain-Grandbois 2026, qui distingue chaque année un recueil de poésie, pour « Mourir est beau », paru en 2025 aux Éditions du Noroît, rapporte Rezo Nòdwès. L'Académie des lettres du Québec a annoncé le prix lundi 23 novembre à Montréal. Dans ce livre, l'autrice explore le rapport à la mort à travers les voix des poètes noirs des Amériques.\n\nNée à Port-au-Prince en 1974, Stéphane Martelly vit à Montréal depuis 2002. Elle écrit de la poésie, des essais et des livres jeunesse, pratique la traduction et les arts visuels, et enseigne à l'Université de Sherbrooke. La lauréate reçoit une bourse de 2000 dollars, une œuvre visuelle et un éloge du jury.",
+    },
+    sources: ["Rezo Nòdwès"],
+    sourceLinks: [
+      { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/stephane-martelly-remporte-le-prix-alain-grandbois-au-quebec-pour-mourir-est-beau/" },
+    ],
+  },
+
+  {
+    id: "qh-dumornay-perle-des-caraibes-2026-11-25",
+    tier: "quick-hit",
+    topic: "sports",
+    publishedAt: "2026-11-25",
+    publishedTime: "2026-11-25T08:30:00-05:00",
+    headline: {
+      ht: "Melchie Dumornay lanse « Perle des Caraïbes » pou jèn foutbolè ayisyèn yo",
+      fr: "Melchie Dumornay lance « Perle des Caraïbes » pour les jeunes footballeuses haïtiennes",
+    },
+    teaser: {
+      ht: "Asosyasyon an, ak sipò FIFA, vize tifi 13 a 16 an. Yon tounwa deteksyon prevwa Okap mitan desanm.",
+      fr: "Soutenue par la FIFA, l'association vise les filles de 13 à 16 ans. Un tournoi de détection est prévu au Cap-Haïtien mi-décembre.",
+    },
+    brief: {
+      ht: "Entènasyonal ayisyèn Melchie Dumornay lanse ofisyèlman lendi nan Pari asosyasyon li « Perle des Caraïbes », ak sipò FIFA, pou akonpaye jèn tifi 13 a 16 an ki renmen foutbòl, Juno7 rapòte.",
+      fr: "L'internationale haïtienne Melchie Dumornay a officiellement lancé lundi à Paris son association « Perle des Caraïbes », soutenue par la FIFA, pour accompagner les adolescentes de 13 à 16 ans passionnées de football, rapporte Juno7.",
+    },
+    body: {
+      ht: "Melchie Dumornay lanse ofisyèlman lendi 23 novanm 2026 nan Pari asosyasyon li « Perle des Caraïbes », Juno7 rapòte. Ak sipò FIFA, pwojè a vize tifi ayisyèn 13 a 16 an, pou ba yo yon kote pou yo jwe, fòmasyon, ankadreman ak plis vizibilite andeyò peyi a.\n\n« Sa fè lontan m ap pote pwojè sa a nan kè m », atakant lan di pandan seremoni an, dapre Juno7. Yon premye tounwa deteksyon prevwa Okap nan mitan mwa desanm 2026.",
+      fr: "Melchie Dumornay a officiellement lancé lundi 23 novembre 2026 à Paris son association « Perle des Caraïbes », rapporte Juno7. Soutenu par la FIFA, le projet vise les Haïtiennes de 13 à 16 ans, avec un cadre pour jouer, de la formation, de l'encadrement et plus de visibilité au-delà des frontières.\n\n« Cela fait longtemps que je porte ce projet dans mon cœur », a déclaré l'attaquante lors de la cérémonie, selon Juno7. Un premier tournoi de détection doit se tenir au Cap-Haïtien à la mi-décembre 2026.",
+    },
+    sources: ["Juno7"],
+    sourceLinks: [
+      { name: "Juno7", url: "https://www.juno7.ht/melchie-dumornay-perle-des-caraibes/" },
+    ],
+  },
+
+  {
     id: "qh-frg-tabarre-cite-soleil-pandou-2026-11-24",
     tier: "quick-hit",
     topic: "security",
@@ -223,26 +539,30 @@ export const STORIES: Story[] = [
     id: "qh-shaheen-meeks-lettre-elites-gangs-2026-11-24",
     tier: "quick-hit",
     topic: "politics",
+    isFollowUp: true,
     publishedAt: "2026-11-24",
-    publishedTime: "2026-11-24T08:35:00-05:00",
+    publishedTime: "2026-11-25T08:56:00-05:00",
     headline: {
-      ht: "De eli demokrat akize administrasyon Trump paske li pa sanksyone elit ki finanse gang yo",
-      fr: "Deux élus démocrates reprochent à l'administration Trump de ne pas sanctionner les élites qui financent les gangs",
+      ht: "Lèt Shaheen ak Meeks site Michel Martelly, DEBLOKE mande eksplikasyon",
+      fr: "Lettre de Shaheen et Meeks : Michel Martelly nommément cité, DEBLOKE demande des clarifications",
     },
     teaser: {
-      ht: "Jeanne Shaheen ak Gregory Meeks ekri Rubio, Hegseth ak Bessent. Yo mande transparans anvan eleksyon yo.",
-      fr: "Jeanne Shaheen et Gregory Meeks ont écrit à Rubio, Hegseth et Bessent. Ils réclament de la transparence avant les élections.",
+      ht: "Pati kandida a di yon lèt palmantè pa yon desizyon tribinal ni yon desizyon sou kandidati.",
+      fr: "Le groupement du candidat rappelle qu'une lettre parlementaire n'est ni une décision judiciaire ni une décision d'inéligibilité.",
     },
     brief: {
-      ht: "Senatè Jeanne Shaheen ak depite Gregory Meeks akize administrasyon Trump lendi 23 novanm paske li pa « nonmen e sanksyone elit politik ak ekonomik k ap alimante ensekirite ann Ayiti », nan yon lèt Associated Press site.",
-      fr: "La sénatrice Jeanne Shaheen et le représentant Gregory Meeks ont accusé lundi 23 novembre l'administration Trump de ne pas « nommer et sanctionner l'élite politique et économique qui alimente l'insécurité en Haïti », dans une lettre citée par l'Associated Press.",
+      ht: "Gwoupman politik DEBLOKE mande eksplikasyon mardi 24 novanm apre de eli demokrat ameriken, Jeanne Shaheen ak Gregory Meeks, te site Michel Martelly, kandida li pou prezidans, nan yon lèt sou elit ki sipòte gang yo, Juno7 rapòte.",
+      fr: "Le groupement politique DEBLOKE a demandé des clarifications mardi 24 novembre après que deux élus démocrates américains, Jeanne Shaheen et Gregory Meeks, ont nommément cité Michel Martelly, son candidat à la présidence, dans une lettre sur les élites soutenant les gangs, rapporte Juno7.",
     },
     body: {
-      ht: "De eli demokrat nan Kongrè ameriken an, senatè New Hampshire Jeanne Shaheen ak depite New York Gregory Meeks, akize administrasyon prezidan Donald Trump lendi 23 novanm 2026 paske li pa « nonmen e sanksyone elit politik ak ekonomik k ap alimante ensekirite ann Ayiti », Associated Press rapòte. Shaheen se manm ki gen plis ansyènte nan opozisyon an nan komisyon Afè etranjè Sena a, Meeks nan komisyon Afè etranjè Chanm reprezantan yo.\n\nLèt la adrese sekretè d Eta Marco Rubio, sekretè Defans Pete Hegseth ak sekretè Trezò Scott Bessent. « Nan yon moman kote pèp ayisyen an ap prepare pou vote pou premye fwa nan plis pase dis ane, Kongrè a, piblik ameriken an ak pèp ayisyen an merite transparans sou nati ak dimansyon kolizyon ant gang yo ak rezo sipò politik ak ekonomik yo », yo ekri, dapre AP.\n\nAP raple kèk kandida pou eleksyon 2027 yo te deja sanksyone pa Etazini ak Kanada. Administrasyon an pa t reponn piblikman, dapre sous nou konsilte yo.",
-      fr: "Deux élus démocrates du Congrès américain, la sénatrice du New Hampshire Jeanne Shaheen et le représentant de New York Gregory Meeks, ont accusé lundi 23 novembre 2026 l'administration du président Donald Trump de ne pas « nommer et sanctionner l'élite politique et économique qui alimente l'insécurité en Haïti », rapporte l'Associated Press. Shaheen est la cheffe de file de l'opposition à la commission des Affaires étrangères du Sénat, Meeks à celle de la Chambre des représentants.\n\nLa lettre est adressée au secrétaire d'État Marco Rubio, au secrétaire à la Défense Pete Hegseth et au secrétaire au Trésor Scott Bessent. « Alors que le peuple haïtien se prépare à voter pour la première fois en plus d'une décennie, le Congrès, le public américain et le peuple haïtien méritent la transparence sur la nature et l'ampleur de la collusion entre les gangs et leurs réseaux de soutien politiques et économiques », écrivent-ils, d'après l'AP.\n\nL'AP rappelle que certains candidats aux élections de 2027 ont déjà été sanctionnés par les États-Unis et le Canada. L'administration n'avait pas répondu publiquement, d'après les sources consultées.",
+      ht: "SWIVI, 25 novanm: Nan lèt yo a, Jeanne Shaheen ak Gregory Meeks site non Michel Martelly, yo atribiye l lyen ak plizyè gang e yo enkyete pou kandidati li pou prezidans, Juno7 rapòte. Martelly te deja sanksyone pa Trezò ameriken 20 out 2024. Mardi 24 novanm, gwoupman DEBLOKE reyaji nan yon nòt pou laprès: li di li sipòte ankèt sou rezo ki finanse gang yo, men li mande pou akizasyon yo chita sou fè presi ki ka verifye, e li anonse li vle ekri de eli yo pou yo bay plis presizyon. DEBLOKE di yon lèt palmantè pa yon desizyon tribinal, ni yon nouvo sanksyon, ni yon desizyon sou inelijibilite, e se enstitisyon ayisyen yo ki pou egzamine kandidati yo.\n\nDe eli demokrat nan Kongrè ameriken an, senatè New Hampshire Jeanne Shaheen ak depite New York Gregory Meeks, akize administrasyon prezidan Donald Trump lendi 23 novanm 2026 paske li pa « nonmen e sanksyone elit politik ak ekonomik k ap alimante ensekirite ann Ayiti », Associated Press rapòte. Shaheen se manm ki gen plis ansyènte nan opozisyon an nan komisyon Afè etranjè Sena a, Meeks nan komisyon Afè etranjè Chanm reprezantan yo.\n\nLèt la adrese sekretè d Eta Marco Rubio, sekretè Defans Pete Hegseth ak sekretè Trezò Scott Bessent. « Nan yon moman kote pèp ayisyen an ap prepare pou vote pou premye fwa nan plis pase dis ane, Kongrè a, piblik ameriken an ak pèp ayisyen an merite transparans sou nati ak dimansyon kolizyon ant gang yo ak rezo sipò politik ak ekonomik yo », yo ekri, dapre AP.\n\nAP raple kèk kandida pou eleksyon 2027 yo te deja sanksyone pa Etazini ak Kanada. Administrasyon an pa t reponn piblikman, dapre sous nou konsilte yo.",
+      fr: "SUIVI, 25 novembre : dans leur lettre, Jeanne Shaheen et Gregory Meeks citent nommément Michel Martelly, auquel ils attribuent des liens avec plusieurs gangs, et s'inquiètent de sa candidature à la présidence, rapporte Juno7. L'ancien président est sous sanctions du Trésor américain depuis le 20 août 2024. Mardi 24 novembre, le groupement DEBLOKE a réagi dans une note de presse : il dit soutenir les enquêtes sur les réseaux qui financent les gangs, mais demande que les accusations reposent sur des faits précis et vérifiables, et annonce vouloir saisir les deux élus pour obtenir des précisions. Selon DEBLOKE, une correspondance parlementaire ne constitue ni une décision judiciaire, ni une nouvelle sanction, ni une décision d'inéligibilité, et l'examen des candidatures relève des institutions haïtiennes.\n\nDeux élus démocrates du Congrès américain, la sénatrice du New Hampshire Jeanne Shaheen et le représentant de New York Gregory Meeks, ont accusé lundi 23 novembre 2026 l'administration du président Donald Trump de ne pas « nommer et sanctionner l'élite politique et économique qui alimente l'insécurité en Haïti », rapporte l'Associated Press. Shaheen est la cheffe de file de l'opposition à la commission des Affaires étrangères du Sénat, Meeks à celle de la Chambre des représentants.\n\nLa lettre est adressée au secrétaire d'État Marco Rubio, au secrétaire à la Défense Pete Hegseth et au secrétaire au Trésor Scott Bessent. « Alors que le peuple haïtien se prépare à voter pour la première fois en plus d'une décennie, le Congrès, le public américain et le peuple haïtien méritent la transparence sur la nature et l'ampleur de la collusion entre les gangs et leurs réseaux de soutien politiques et économiques », écrivent-ils, d'après l'AP.\n\nL'AP rappelle que certains candidats aux élections de 2027 ont déjà été sanctionnés par les États-Unis et le Canada. L'administration n'avait pas répondu publiquement, d'après les sources consultées.",
     },
-    sources: ["Associated Press","Al Jazeera"],
+    sources: ["Associated Press","Al Jazeera", "Juno7", "Vant Bèf Info"],
     sourceLinks: [
+      { name: "Juno7", url: "https://www.juno7.ht/michel-martelly-cite-par-deux-elus-americains-debloke-demande-des-clarifications/" },
+      { name: "Juno7", url: "https://www.juno7.ht/haiti-sanctions-soutiens-gangs-martelly-shaheen-meeks/" },
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/haiti-debloke-reclame-des-explications-aux-elus-americains-apres-les-accusations-visant-michel-martelly/" },
       { name: "Associated Press / Al Jazeera", url: "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention" },
     ],
   },
@@ -796,26 +1116,29 @@ export const STORIES: Story[] = [
     id: "qh-cep-962321-inscrits-2026-11-21",
     tier: "quick-hit",
     topic: "politics",
+    isFollowUp: true,
     publishedAt: "2026-11-21",
-    publishedTime: "2026-11-21T14:17:00-05:00",
+    publishedTime: "2026-11-25T08:42:00-05:00",
     headline: {
-      ht: "CEP konte 962 321 elektè enskri nan 19 novanm, anviwon 16,4% moun ki ka enskri",
-      fr: "Le CEP compte 962 321 électeurs inscrits au 19 novembre, soit environ 16,4 % des personnes éligibles",
+      ht: "CEP depase 1 milyon elektè enskri sou lis elektoral yo",
+      fr: "Le CEP dépasse le million d'électeurs inscrits",
     },
     teaser: {
-      ht: "Se chif HaitiLibre relè, dapre done CEP. Rit enskripsyon an ralanti nan novanm, apre yon peryòd pi fò nan mwa out ak septanm.",
-      fr: "Ce sont les chiffres relayés par HaitiLibre, d'après les données du CEP. Le rythme des inscriptions a ralenti en novembre, après une période plus forte en août et en septembre.",
+      ht: "1001081 moun enskri ant 20 jiyè ak 23 novanm, dapre CEP. Objektif la te 4 milyon.",
+      fr: "1001081 personnes inscrites entre le 20 juillet et le 23 novembre, selon le CEP. L'objectif était de 4 millions.",
     },
     brief: {
-      ht: "Dapre done Konsèy Elektoral Pwovizwa nan 19 novanm 2026, te gen 962 321 elektè enskri, sètadi 16,4% moun ki te ka enskri, HaitiLibre relè. Te gen 3 065 operatè aktif, ak 1 327 sant enskripsyon ouvè sou 1 447 yo te resanse.",
-      fr: "Selon les données du Conseil électoral provisoire en date du 19 novembre 2026, il y avait 962 321 électeurs inscrits, soit 16,4 % des personnes potentiellement en droit de s'inscrire, relaie HaitiLibre. L'opération comptait 3 065 opérateurs actifs, et 1 327 centres d'inscription ouverts sur 1 447 recensés.",
+      ht: "Konsèy elektoral pwovizwa a (CEP) enskri 1001081 elektè ant 20 jiyè ak 23 novanm 2026, nan 126 jou operasyon, NAGO rapòte dapre chif CEP. Ritm lan rete dousman konpare ak objektif 4 milyon elektè yo te anonse an septanm.",
+      fr: "Le Conseil électoral provisoire (CEP) a enregistré 1001081 électeurs entre le 20 juillet et le 23 novembre 2026, en 126 jours d'opérations, rapporte NAGO d'après les chiffres du CEP. Le rythme reste lent au regard de l'objectif de 4 millions annoncé en septembre.",
     },
     body: {
-      ht: "Konsèy Elektoral Pwovizwa (CEP) te konte, nan 19 novanm 2026, 962 321 elektè enskri, sètadi 16,4% moun ki te ka enskri nan peyi a, HaitiLibre relè vandredi 20 novanm. Sou teren an, operasyon an te apiye sou 3 065 operatè aktif. Nan 1 447 sant enskripsyon yo te resanse, 1 327 te ouvè.\n\nDapre menm chif yo, te gen yon ti majorite fanm nan moun ki enskri: 490 396 fanm, kont 471 925 gason. HaitiLibre ekri rit la te pi fò nan mwa out ak septanm, epi li ralanti nan novanm. Se done CEP, jan HaitiLibre relè yo.",
-      fr: "Le Conseil électoral provisoire (CEP) comptait, au 19 novembre 2026, 962 321 électeurs inscrits, soit 16,4 % des personnes potentiellement en droit de s'inscrire dans le pays, relaie HaitiLibre vendredi 20 novembre. Sur le terrain, l'opération s'appuyait sur 3 065 opérateurs actifs. Sur 1 447 centres d'inscription recensés, 1 327 étaient ouverts.\n\nSelon les mêmes chiffres, les femmes sont légèrement majoritaires parmi les inscrits: 490 396 femmes, contre 471 925 hommes. HaitiLibre écrit que le rythme avait été plus fort en août et en septembre, puis qu'il a ralenti en novembre. Ce sont les données du CEP, telles que HaitiLibre les relaie.",
+      ht: "SWIVI, 25 novanm: Lis elektoral la depase 1 milyon moun. CEP fè konnen li enskri 1001081 elektè ant 20 jiyè ak 23 novanm 2026, nan 126 jou, NAGO rapòte. HaitiLibre bay yon chif 1031480 enskri jiska 24 novanm, sa ki ta reprezante anviwon 17 % moun ki ka vote. Pou akselere enskripsyon yo, CEP te anonse mitan novanm li pral mete sant mobil, an plis sant fiks yo. Premye tou eleksyon yo fikse pou 18 jiyè 2027.\n\nKonsèy Elektoral Pwovizwa (CEP) te konte, nan 19 novanm 2026, 962 321 elektè enskri, sètadi 16,4% moun ki te ka enskri nan peyi a, HaitiLibre relè vandredi 20 novanm. Sou teren an, operasyon an te apiye sou 3 065 operatè aktif. Nan 1 447 sant enskripsyon yo te resanse, 1 327 te ouvè.\n\nDapre menm chif yo, te gen yon ti majorite fanm nan moun ki enskri: 490 396 fanm, kont 471 925 gason. HaitiLibre ekri rit la te pi fò nan mwa out ak septanm, epi li ralanti nan novanm. Se done CEP, jan HaitiLibre relè yo.",
+      fr: "SUIVI, 25 novembre : la liste électorale a franchi le million. Le CEP fait état de 1001081 électeurs enregistrés entre le 20 juillet et le 23 novembre 2026, en 126 jours, rapporte NAGO. HaitiLibre avance pour sa part le chiffre de 1031480 inscrits au 24 novembre, soit environ 17 % des électeurs potentiels. Pour accélérer les inscriptions, le CEP a annoncé à la mi-novembre des centres mobiles, en plus des centres fixes. Le premier tour des élections est fixé au 18 juillet 2027.\n\nLe Conseil électoral provisoire (CEP) comptait, au 19 novembre 2026, 962 321 électeurs inscrits, soit 16,4 % des personnes potentiellement en droit de s'inscrire dans le pays, relaie HaitiLibre vendredi 20 novembre. Sur le terrain, l'opération s'appuyait sur 3 065 opérateurs actifs. Sur 1 447 centres d'inscription recensés, 1 327 étaient ouverts.\n\nSelon les mêmes chiffres, les femmes sont légèrement majoritaires parmi les inscrits: 490 396 femmes, contre 471 925 hommes. HaitiLibre écrit que le rythme avait été plus fort en août et en septembre, puis qu'il a ralenti en novembre. Ce sont les données du CEP, telles que HaitiLibre les relaie.",
     },
-    sources: ["HaitiLibre", "CEP"],
+    sources: ["HaitiLibre", "CEP", "NAGO"],
     sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/elections-le-cep-depasse-le-million-d-electeurs-inscrits" },
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48968-haiti-actualite-zapping.html" },
       { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48939-haiti-statistiques-electorales-pres-de-1-million-d-electeurs-inscrits.html" },
     ],
   },
@@ -994,25 +1317,27 @@ export const STORIES: Story[] = [
     topic: "security",
     isFollowUp: true,
     publishedAt: "2026-11-20",
-    publishedTime: "2026-11-23T08:42:00-05:00",
+    publishedTime: "2026-11-25T08:32:00-05:00",
     headline: {
-      ht: "Matisan: yon ventèn lòt sipoze bandi ta mouri dimanch, dapre medya yo, yon kay chèf gang kraze ak dwòn",
-      fr: "Martissant : une vingtaine d'autres présumés bandits auraient été tués dimanche, selon des médias, une maison de chef de gang détruite par drone",
+      ht: "Martissant: RNDDH di plis pase 100 sipoze manm gang ta mouri ant 19 ak 22 novanm, bilan ofisyèl la rete 54",
+      fr: "Martissant : le RNDDH évoque plus de 100 présumés membres de gangs tués du 19 au 22 novembre, le bilan officiel reste de 54",
     },
     teaser: {
-      ht: "PNH pa t bay bilan ofisyèl dimanch. L'Observatoire, FCN ak Alternance Media pale de yon ventèn mò, chif ki poko verifye.",
-      fr: "La PNH n'avait pas publié de bilan officiel dimanche. L'Observatoire, FCN et Alternance Media parlent d'une vingtaine de morts, un chiffre non vérifié.",
+      ht: "Pierre Espérance bay chif la, okenn otorite poko konfime l. PNH te bay 54 mò pou 19 ak 20 novanm.",
+      fr: "Le chiffre vient de Pierre Espérance et n'a été confirmé par aucune autorité. La PNH a annoncé 54 morts pour les 19 et 20 novembre.",
     },
     brief: {
-      ht: "Yon nouvo ofansiv PNH ak Task Force la, ki te kòmanse vè 3è dimaten dimanch 22 novanm nan Matisan, ta fè yon ventèn mò nan sipoze manm gang yo, dapre L'Observatoire, FCN ak Alternance Media. Bilan sa yo poko konfime pa sous endepandan.",
-      fr: "Une nouvelle offensive de la PNH et de la Task Force, lancée vers 3 heures du matin dimanche 22 novembre à Martissant, aurait fait une vingtaine de morts parmi les présumés membres de gangs, rapportent L'Observatoire, FCN et Alternance Media. Ces bilans n'ont pas été confirmés de manière indépendante.",
+      ht: "Dapre direktè egzekitif RNDDH, Pierre Espérance, plis pase 100 sipoze manm gang ta mouri ant 19 ak 22 novanm nan operasyon nan Matisan, Vilaj Dye ak Site Solèy, HaitiLibre rapòte. Okenn otorite poko konfime chif sa a. Bilan ofisyèl PNH a se 54 mò pou 19 ak 20 novanm.",
+      fr: "Selon le directeur exécutif du RNDDH, Pierre Espérance, plus d'une centaine de présumés membres de gangs auraient été tués entre le 19 et le 22 novembre lors d'opérations à Martissant, au Village-de-Dieu et à Cité Soleil, rapporte HaitiLibre. Aucune autorité n'a confirmé ce chiffre. Le bilan officiel de la PNH est de 54 morts pour les 19 et 20 novembre.",
     },
     body: {
-      ht: "Mizajou 23 novanm: PNH, avèk sipò Task Force la, te lanse yon nouvo operasyon nan Matisan vè 3è dimaten dimanch 22 novanm, L'Observatoire ekri. Dapre jounal sa a, FCN ak Alternance Media, yon ventèn sipoze bandi ta mouri. L'Observatoire ak Alternance Media di yo kraze kay nimewo de gang Matisan 23 la, sitou ak dwòn eksplozif; FCN, ki site Corvington Matin ak yon sous ki pre operasyon yo, pale de yon kay yo atribye bay chèf gang Ti Lapli. Lè medya sa yo t ap pibliye, PNH pa t bay okenn bilan ofisyèl, e chif yo poko verifye pou kont yo.\n\nPolis nasyonal ayisyen (PNH) di plis pase 20 lòt sipoze manm gang te « blese mortalman » vandredi 20 novanm 2026 nan Matisan 2A, nan yon kay nan zòn Vilaj, NAGO ak Le Nouvelliste relè, sou baz yon nòt lapolis. Dapre chif lapolis yo menm, sa fè omwen 54 moun touye oswa « blese mortalman » an de jou nan Matisan. Chif sa yo poko verifye pou kont yo.\n\nNAGO ekri, nan yon metajou samdi, operasyon an kontinye san pran souf, ak inite SWAT, UTAG, UDMO, selil Task Force, ak yon dizèn blende, pou relouvri wout sid la. Lapolis poko di kilè sikilasyon ka tounen nòmal sou Wout nasyonal 2, yon gwo pati ladan l gang yo kontwole depi 2021. Nou pa atribiye mò vandredi yo a yon lòt gwoup pase sa nòt lapolis yo ak NAGO ak Le Nouvelliste relè.\n\nPolis nasyonal ayisyen (PNH) di li te touye 34 sipoze manm gang jedi 19 novanm 2026, nan yon operasyon nan Matisan, nan sid Pòtoprens, nan « yon gwo baz » Renel Destina, yo konnen kòm Ti Lapli, chèf gang Gran Ravin. NAGO relè videyo PNH te pibliye a, ki vize zòn Matisan 2, 4 ak 23, kote yo wè blende nan lari yo, epi yon kay ki eksploze, sanble yon drone frape l. Se bilan lapolis la; li poko verifye pou kont li. Otorite yo pa di si Ti Lapli te pami moun ki mouri yo.\n\nDapre Associated Press ak Al Jazeera, ki relè Reuters tou, PNH di ofisye li yo te fè operasyon an ak yon task force antigang kote gen manm Vectus Global, yon sosyete sekirite prive. Menm sous yo ekri lapolis di pa te gen lòt viktim, e okenn nan apeprè 2 500 sòlda salvadoryen ki nan peyi a pa t patisipe. Se pawòl lapolis yo. NAGO te presize, nan premye kont rann li, otorite yo pa t di si gen sivil ki te frape.\n\nKatye Matisan an sou yon wout kle ki lye Pòtoprens ak sid ak lwès peyi a. Li anba kontwòl gang yo depi plis pase senk ane, jounal yo ekri.",
-      fr: "Mise à jour du 23 novembre : La PNH, appuyée par la Task Force, a lancé une nouvelle opération à Martissant vers 3 heures du matin dimanche 22 novembre, écrit L'Observatoire. Selon ce journal, FCN et Alternance Media, une vingtaine de présumés bandits auraient été tués. L'Observatoire et Alternance Media écrivent que la résidence du numéro deux du gang de Martissant 23 a été détruite, notamment par des drones explosifs; FCN, citant Corvington Matin et une source proche des opérations, parle d'une résidence attribuée au chef de gang Ti Lapli. Au moment de ces publications, la PNH n'avait communiqué aucun bilan officiel, et ces chiffres n'ont pas été vérifiés de manière indépendante.\n\nLa Police nationale d'Haïti (PNH) dit que plus de 20 autres présumés membres de gang ont été « mortellement blessés » vendredi 20 novembre 2026 à Martissant 2A, dans une maison du secteur Vilaj, relaient NAGO et Le Nouvelliste, d'après une note de la police. Selon les chiffres de la police elle-même, cela porte à au moins 54 le nombre de personnes tuées ou « mortellement blessées » en deux jours à Martissant. Ces chiffres n'ont pas été vérifiés de manière indépendante.\n\nNAGO écrit, dans une mise à jour samedi, que l'offensive se poursuit sans pause, avec les unités SWAT, UTAG, UDMO, des cellules de la Task Force et une dizaine de véhicules blindés, dans le but de rouvrir la route du sud. La police n'a pas dit quand la circulation pourrait revenir à la normale sur la route nationale 2, dont une grande partie est sous le contrôle de gangs depuis 2021. Nous n'attribuons pas les morts de vendredi à un autre groupe que ce que relaient la note de police, NAGO et Le Nouvelliste.\n\nLa Police nationale d'Haïti (PNH) dit avoir tué 34 présumés membres de gang jeudi 19 novembre 2026, lors d'une opération à Martissant, au sud de Port-au-Prince, dans « une grande base » de Renel Destina, connu comme Ti Lapli, chef du gang de Grand-Ravine. NAGO relaie la vidéo publiée par la police, qui vise les zones de Martissant 2, 4 et 23: on y voit des blindés avancer dans les rues, puis une maison exploser, apparemment frappée par un drone. Ce bilan est celui de la police; il n'a pas été vérifié de manière indépendante. Les autorités n'ont pas dit si Ti Lapli figurait parmi les morts.\n\nSelon l'Associated Press et Al Jazeera, qui relaient aussi Reuters, la PNH a indiqué que ses officiers ont mené l'opération avec une task force antigang comprenant des membres de Vectus Global, une société de sécurité privée. Les mêmes sources écrivent que la police a dit qu'il n'y avait pas eu d'autres victimes, et qu'aucun des quelque 2 500 soldats salvadoriens présents en Haïti n'avait pris part à l'opération. Ce sont des déclarations de la police. NAGO avait précisé, dans son premier compte rendu, que les autorités n'avaient pas dit si des civils avaient été touchés.\n\nLe quartier de Martissant se trouve sur un axe qui relie Port-au-Prince au sud et à l'ouest du pays. Il est sous le contrôle de gangs depuis plus de cinq ans, écrivent ces journaux.",
+      ht: "SWIVI, 25 novanm: Direktè egzekitif Rezo nasyonal defans dwa moun (RNDDH), Pierre Espérance, di plis pase 100 sipoze manm gang ta mouri ant 19 ak 22 novanm 2026 nan operasyon fòs sekirite yo nan Matisan, Vilaj Dye ak Site Solèy, HaitiLibre rapòte. Okenn otorite ofisyèl poko konfime bilan sa a. Pou pati pa l, PNH di li touye omwen 54 sipoze manm gang nan de jou, 34 jedi 19 novanm ak 20 vandredi 20 novanm, e operasyon yo ap kontinye pou relouvri wout nasyonal 2, Haitian Times rapòte. Lapolis pa di si gen ajan ki mouri oswa ki blese, ni ki zòn li reprann.\n\nMizajou 23 novanm: PNH, avèk sipò Task Force la, te lanse yon nouvo operasyon nan Matisan vè 3è dimaten dimanch 22 novanm, L'Observatoire ekri. Dapre jounal sa a, FCN ak Alternance Media, yon ventèn sipoze bandi ta mouri. L'Observatoire ak Alternance Media di yo kraze kay nimewo de gang Matisan 23 la, sitou ak dwòn eksplozif; FCN, ki site Corvington Matin ak yon sous ki pre operasyon yo, pale de yon kay yo atribye bay chèf gang Ti Lapli. Lè medya sa yo t ap pibliye, PNH pa t bay okenn bilan ofisyèl, e chif yo poko verifye pou kont yo.\n\nPolis nasyonal ayisyen (PNH) di plis pase 20 lòt sipoze manm gang te « blese mortalman » vandredi 20 novanm 2026 nan Matisan 2A, nan yon kay nan zòn Vilaj, NAGO ak Le Nouvelliste relè, sou baz yon nòt lapolis. Dapre chif lapolis yo menm, sa fè omwen 54 moun touye oswa « blese mortalman » an de jou nan Matisan. Chif sa yo poko verifye pou kont yo.\n\nNAGO ekri, nan yon metajou samdi, operasyon an kontinye san pran souf, ak inite SWAT, UTAG, UDMO, selil Task Force, ak yon dizèn blende, pou relouvri wout sid la. Lapolis poko di kilè sikilasyon ka tounen nòmal sou Wout nasyonal 2, yon gwo pati ladan l gang yo kontwole depi 2021. Nou pa atribiye mò vandredi yo a yon lòt gwoup pase sa nòt lapolis yo ak NAGO ak Le Nouvelliste relè.\n\nPolis nasyonal ayisyen (PNH) di li te touye 34 sipoze manm gang jedi 19 novanm 2026, nan yon operasyon nan Matisan, nan sid Pòtoprens, nan « yon gwo baz » Renel Destina, yo konnen kòm Ti Lapli, chèf gang Gran Ravin. NAGO relè videyo PNH te pibliye a, ki vize zòn Matisan 2, 4 ak 23, kote yo wè blende nan lari yo, epi yon kay ki eksploze, sanble yon drone frape l. Se bilan lapolis la; li poko verifye pou kont li. Otorite yo pa di si Ti Lapli te pami moun ki mouri yo.\n\nDapre Associated Press ak Al Jazeera, ki relè Reuters tou, PNH di ofisye li yo te fè operasyon an ak yon task force antigang kote gen manm Vectus Global, yon sosyete sekirite prive. Menm sous yo ekri lapolis di pa te gen lòt viktim, e okenn nan apeprè 2 500 sòlda salvadoryen ki nan peyi a pa t patisipe. Se pawòl lapolis yo. NAGO te presize, nan premye kont rann li, otorite yo pa t di si gen sivil ki te frape.\n\nKatye Matisan an sou yon wout kle ki lye Pòtoprens ak sid ak lwès peyi a. Li anba kontwòl gang yo depi plis pase senk ane, jounal yo ekri.",
+      fr: "SUIVI, 25 novembre : le directeur exécutif du Réseau national de défense des droits humains (RNDDH), Pierre Espérance, affirme que plus d'une centaine de présumés membres de gangs auraient été tués entre le 19 et le 22 novembre 2026 lors des opérations des forces de sécurité à Martissant, au Village-de-Dieu et à Cité Soleil, rapporte HaitiLibre. Ce bilan n'a été confirmé par aucune autorité officielle. De son côté, la PNH dit avoir tué au moins 54 présumés membres de gangs en deux jours, 34 le jeudi 19 novembre et 20 le vendredi 20 novembre, et poursuit ses opérations pour rouvrir la route nationale 2, rapporte The Haitian Times. La police n'a signalé aucun agent tué ou blessé et n'a pas précisé quelles zones ont été reprises.\n\nMise à jour du 23 novembre : La PNH, appuyée par la Task Force, a lancé une nouvelle opération à Martissant vers 3 heures du matin dimanche 22 novembre, écrit L'Observatoire. Selon ce journal, FCN et Alternance Media, une vingtaine de présumés bandits auraient été tués. L'Observatoire et Alternance Media écrivent que la résidence du numéro deux du gang de Martissant 23 a été détruite, notamment par des drones explosifs; FCN, citant Corvington Matin et une source proche des opérations, parle d'une résidence attribuée au chef de gang Ti Lapli. Au moment de ces publications, la PNH n'avait communiqué aucun bilan officiel, et ces chiffres n'ont pas été vérifiés de manière indépendante.\n\nLa Police nationale d'Haïti (PNH) dit que plus de 20 autres présumés membres de gang ont été « mortellement blessés » vendredi 20 novembre 2026 à Martissant 2A, dans une maison du secteur Vilaj, relaient NAGO et Le Nouvelliste, d'après une note de la police. Selon les chiffres de la police elle-même, cela porte à au moins 54 le nombre de personnes tuées ou « mortellement blessées » en deux jours à Martissant. Ces chiffres n'ont pas été vérifiés de manière indépendante.\n\nNAGO écrit, dans une mise à jour samedi, que l'offensive se poursuit sans pause, avec les unités SWAT, UTAG, UDMO, des cellules de la Task Force et une dizaine de véhicules blindés, dans le but de rouvrir la route du sud. La police n'a pas dit quand la circulation pourrait revenir à la normale sur la route nationale 2, dont une grande partie est sous le contrôle de gangs depuis 2021. Nous n'attribuons pas les morts de vendredi à un autre groupe que ce que relaient la note de police, NAGO et Le Nouvelliste.\n\nLa Police nationale d'Haïti (PNH) dit avoir tué 34 présumés membres de gang jeudi 19 novembre 2026, lors d'une opération à Martissant, au sud de Port-au-Prince, dans « une grande base » de Renel Destina, connu comme Ti Lapli, chef du gang de Grand-Ravine. NAGO relaie la vidéo publiée par la police, qui vise les zones de Martissant 2, 4 et 23: on y voit des blindés avancer dans les rues, puis une maison exploser, apparemment frappée par un drone. Ce bilan est celui de la police; il n'a pas été vérifié de manière indépendante. Les autorités n'ont pas dit si Ti Lapli figurait parmi les morts.\n\nSelon l'Associated Press et Al Jazeera, qui relaient aussi Reuters, la PNH a indiqué que ses officiers ont mené l'opération avec une task force antigang comprenant des membres de Vectus Global, une société de sécurité privée. Les mêmes sources écrivent que la police a dit qu'il n'y avait pas eu d'autres victimes, et qu'aucun des quelque 2 500 soldats salvadoriens présents en Haïti n'avait pris part à l'opération. Ce sont des déclarations de la police. NAGO avait précisé, dans son premier compte rendu, que les autorités n'avaient pas dit si des civils avaient été touchés.\n\nLe quartier de Martissant se trouve sur un axe qui relie Port-au-Prince au sud et à l'ouest du pays. Il est sous le contrôle de gangs depuis plus de cinq ans, écrivent ces journaux.",
     },
-    sources: ["NAGO", "Associated Press", "Al Jazeera", "Reuters", "Le Nouvelliste", "L'Observatoire", "FCN", "Alternance Media"],
+    sources: ["NAGO", "Associated Press", "Al Jazeera", "Reuters", "Le Nouvelliste", "L'Observatoire", "FCN", "Alternance Media", "HaitiLibre", "The Haitian Times"],
     sourceLinks: [
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48968-haiti-actualite-zapping.html" },
+      { name: "The Haitian Times", url: "https://haitiantimes.com/2026/11/24/haiti-police-kill-50-gang-members-martissant-operations/" },
       { name: "L'Observatoire", url: "https://www.lobservatoire.info/martissant-pres-de-20-bandits-tues-la-maison-du-numero2-du-gang-detruite/" },
       { name: "FCN", url: "https://fcnhaiti.com/martissant-une-vingtaine-de-presumes-bandits-tues-lors-doperations-des-forces-de-lordre-plusieurs-maisons-detruites/" },
       { name: "Alternance Media", url: "https://alternance-media.com/police-justice/port-au-prince-une-vingtaine-de-presumes-bandits-tues-lors-dune-offensive-de-la-pnh-des-drones-explosifs-utilises/" },
@@ -6308,26 +6633,29 @@ export const STORIES: Story[] = [
     archived: true,
     tier: "need-to-know",
     topic: "economy",
+    isFollowUp: true,
     publishedAt: "2026-11-05",
-    publishedTime: "2026-11-05T13:35:11-05:00",
+    publishedTime: "2026-11-25T08:34:00-05:00",
     headline: {
-      ht: "BRANA (Heineken) sispann aktivite li yo tanporèman poutèt ensekirite a",
-      fr: "BRANA (Heineken) suspend temporairement ses activités face à l'insécurité",
+      ht: "BRANA: Heineken pwomèt relanse aktivite yo anvan fèt fen ane yo",
+      fr: "BRANA : Heineken s'engage à relancer ses activités avant les fêtes de fin d'année",
     },
     teaser: {
-      ht: "Nan yon nòt entèn 4 novanm, brasri a mande anplwaye yo rete lakay yo. Gen aktivite esansyèl ki ka kontinye ak mwens moun. Pa gen dat repriz.",
-      fr: "Dans une note interne du 4 novembre, la brasserie demande à son personnel de rester chez lui. Des opérations essentielles pourraient continuer avec un effectif réduit. Aucune date de reprise.",
+      ht: "Angajman an vini apre yon reyinyon ak minis Ekonomi ak Finans lendi. Poko gen dat presi.",
+      fr: "L'engagement suit une réunion avec le ministre de l'Économie et des Finances lundi. Aucune date précise.",
     },
     brief: {
-      ht: "Dapre Vant Bèf Info ak HaitiLibre, Brasri nasyonal Ayiti (BRANA), ki fè pati gwoup Heineken, sispann aktivite li yo tanporèman pou pwoteje anplwaye yo. Pa gen dat repriz.",
-      fr: "Selon Vant Bèf Info et HaitiLibre, la Brasserie nationale d'Haïti (BRANA), filiale du groupe Heineken, a suspendu temporairement ses activités pour protéger son personnel. Aucune date de reprise n'est annoncée.",
+      ht: "Gwoup Heineken ak BRANA angaje yo pou relanse operasyon yo ann Ayiti « nan pi bon delè », sitou pou fèt fen ane yo, apre yon reyinyon ak gouvènman an lendi 23 novanm, dapre yon kominike ministè Ekonomi ak Finans Vant Bèf Info ak Le Nouvelliste relè.",
+      fr: "Le groupe Heineken et la BRANA se sont engagés à relancer leurs opérations en Haïti « dans les meilleurs délais », notamment pour les fêtes de fin d'année, après une réunion avec le gouvernement lundi 23 novembre, selon un communiqué du ministère de l'Économie et des Finances relayé par Vant Bèf Info et Le Nouvelliste.",
     },
     body: {
-      ht: "Dapre Vant Bèf Info (4 novanm) ak HaitiLibre (zapping 5 novanm), Brasri nasyonal Ayiti (BRANA), ki fè pati gwoup Heineken, deside sispann aktivite li yo tanporèman poutèt ensekirite a k ap vin pi grav.\n\nNan yon nòt entèn bay anplwaye yo, jan Vant Bèf Info ak HaitiLibre rapòte l, direksyon an mande yo rete lakay yo jiskaske gen lòt lòd, epi swiv sa sèvis sekirite a di. Li mande yo rete sou telefòn oswa imèl tou, pou yo ka resevwa nenpòt nouvo mesaj.\n\nGen kèk aktivite ki esansyèl ki ka kontinye, selon jan sekirite a ap mache, ak mwens anplwaye. Nan rapò de medya sa yo, pa gen dat repriz.\n\nKesyon pou lektè yo :\n\n• Konbyen tan yon brasri tankou BRANA ka rete fèmen anvan gen mank nan mache a ?\n\n• Kiyès ki asire sekirite anplwaye ki toujou ap fè aktivite esansyèl yo ?",
-      fr: "Selon Vant Bèf Info (4 novembre) et HaitiLibre (zapping du 5 novembre), la Brasserie nationale d'Haïti (BRANA), filiale du groupe Heineken, a décidé de suspendre temporairement ses activités en raison de la dégradation de la situation sécuritaire.\n\nDans une note interne adressée aux employés, telle que Vant Bèf Info et HaitiLibre la rapportent, la direction leur demande de rester chez eux jusqu'à nouvel ordre et de suivre les consignes du service de sécurité. Elle leur recommande aussi de rester joignables, par téléphone ou par courriel, pour toute nouvelle communication.\n\nCertaines activités jugées essentielles pourraient toutefois être maintenues, selon l'évolution de la sécurité et avec un effectif réduit. Aucune date de reprise n'est annoncée.\n\nQuestions aux lecteurs :\n\n• Combien de temps une brasserie comme la BRANA peut-elle rester à l'arrêt avant une rupture de stock ?\n\n• Qui assure la sécurité du personnel encore mobilisé pour les opérations essentielles ?",
+      ht: "SWIVI, 25 novanm: Minis Ekonomi ak Finans lan rankontre responsab Heineken yo pa videyo lendi 23 novanm 2026, dapre yon kominike ministè a Vant Bèf Info relè. Yo egzamine kat kalite difikilte k ap bloke BRANA: sekirite, administrasyon, ladwàn ak lojistik. Apre reyinyon an, Heineken ak BRANA angaje yo pou relanse operasyon yo nan pi bon delè, pou pwodwi yo disponib sou mache a pandan fèt fen ane yo. Ministè a di l ap swiv mezi yo te dakò sou yo. Pa gen okenn dat presi ki anonse.\n\nDapre Vant Bèf Info (4 novanm) ak HaitiLibre (zapping 5 novanm), Brasri nasyonal Ayiti (BRANA), ki fè pati gwoup Heineken, deside sispann aktivite li yo tanporèman poutèt ensekirite a k ap vin pi grav.\n\nNan yon nòt entèn bay anplwaye yo, jan Vant Bèf Info ak HaitiLibre rapòte l, direksyon an mande yo rete lakay yo jiskaske gen lòt lòd, epi swiv sa sèvis sekirite a di. Li mande yo rete sou telefòn oswa imèl tou, pou yo ka resevwa nenpòt nouvo mesaj.\n\nGen kèk aktivite ki esansyèl ki ka kontinye, selon jan sekirite a ap mache, ak mwens anplwaye. Nan rapò de medya sa yo, pa gen dat repriz.\n\nKesyon pou lektè yo :\n\n• Konbyen tan yon brasri tankou BRANA ka rete fèmen anvan gen mank nan mache a ?\n\n• Kiyès ki asire sekirite anplwaye ki toujou ap fè aktivite esansyèl yo ?",
+      fr: "SUIVI, 25 novembre : le ministre de l'Économie et des Finances a rencontré par visioconférence les responsables de Heineken le lundi 23 novembre 2026, selon un communiqué du ministère relayé par Vant Bèf Info. Les discussions ont porté sur quatre catégories de difficultés qui freinent la BRANA : sécuritaires, administratives, douanières et logistiques. À l'issue de la réunion, Heineken et la BRANA se sont engagés à relancer leurs opérations dans les meilleurs délais, afin de rendre leurs produits disponibles pendant les fêtes de fin d'année. Le ministère assure que les mesures convenues feront l'objet d'un suivi. Aucune date précise n'a été annoncée.\n\nSelon Vant Bèf Info (4 novembre) et HaitiLibre (zapping du 5 novembre), la Brasserie nationale d'Haïti (BRANA), filiale du groupe Heineken, a décidé de suspendre temporairement ses activités en raison de la dégradation de la situation sécuritaire.\n\nDans une note interne adressée aux employés, telle que Vant Bèf Info et HaitiLibre la rapportent, la direction leur demande de rester chez eux jusqu'à nouvel ordre et de suivre les consignes du service de sécurité. Elle leur recommande aussi de rester joignables, par téléphone ou par courriel, pour toute nouvelle communication.\n\nCertaines activités jugées essentielles pourraient toutefois être maintenues, selon l'évolution de la sécurité et avec un effectif réduit. Aucune date de reprise n'est annoncée.\n\nQuestions aux lecteurs :\n\n• Combien de temps une brasserie comme la BRANA peut-elle rester à l'arrêt avant une rupture de stock ?\n\n• Qui assure la sécurité du personnel encore mobilisé pour les opérations essentielles ?",
     },
-    sources: ["Vant Bèf Info", "HaitiLibre"],
+    sources: ["Vant Bèf Info", "HaitiLibre", "Vant Bèf Info", "Le Nouvelliste"],
     sourceLinks: [
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/haiti-heineken-sengage-a-relancer-les-activites-de-la-brana-avant-les-fetes-de-fin-dannee/" },
+      { name: "Le Nouvelliste", url: "https://www.lenouvelliste.com/article/274204/vers-la-reprise-des-activites-de-la-brana-apres-des-echanges-entre-heineken-et-le-gouvernement" },
       { name: "Vant Bèf Info", url: "https://vantbefinfo.com/haiti-la-brana-contrainte-de-mettre-ses-activites-a-larret-face-a-linsecurite/" },
       { name: "HaitiLibre (zapping)", url: "https://www.haitilibre.com/article-48829-haiti-flash-zapping.html" },
     ],
