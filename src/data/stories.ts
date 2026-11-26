@@ -217,6 +217,354 @@ export const STORIES: Story[] = [
   },
 
   {
+    id: "ntk-kenscoff-bongars-attaque-marche-2026-11-26",
+    tier: "need-to-know",
+    topic: "security",
+    publishedAt: "2026-11-26",
+    publishedTime: "2026-11-26T08:45:00-05:00",
+    headline: {
+      ht: "Kenscoff: omwen 10 moun mouri ak 7 blese nan yon atak gang sou yon mache nan Bongars",
+      fr: "Kenscoff : au moins 10 morts et 7 blessés dans une attaque de gang contre un marché de Bongars",
+    },
+    teaser: {
+      ht: "Atak la fèt anviwon 4 è nan maten mèkredi. PNH di li lanse yon operasyon ak elikoptè nan Bongars ak Klemanso.",
+      fr: "L'attaque a eu lieu vers 4 heures mercredi matin. La PNH dit avoir lancé une opération appuyée par des hélicoptères à Bongars et à Clémenceau.",
+    },
+    brief: {
+      ht: "Gang ame atake peyizan ki te nan yon mache enfòmèl nan Bongars, nan komin Kenscoff, mèkredi 25 novanm 2026. Omwen 10 moun mouri e 7 lòt blese pa bal ak kout machèt, dapre PNH ki site CASEC zòn nan.",
+      fr: "Des hommes armés ont attaqué des paysans réunis sur un marché informel à Bongars, dans la commune de Kenscoff, mercredi 25 novembre 2026. Au moins 10 personnes ont été tuées et 7 blessées par balles et à coups de machette, selon la PNH, qui cite le CASEC de la zone.",
+    },
+    body: {
+      ht: "Atak la fèt anviwon 4 è nan maten mèkredi 25 novanm 2026, nan dezyèm seksyon kominal Kenscoff, dapre yon nòt Direksyon kominikasyon Lapolis (DICOP) Le Quotidien 509 relè. Moun ame yo te soti Klemanso, yon lokalite ki lwen sant komin nan. Le Nouvelliste ekri yo te kache Klemanso, yo kontounen Belot epi yo pase Chauffard pou yo tonbe sou moun ki te nan mache a. Bilan 10 mò ak 7 blese a soti nan CASEC Bongars, Renold Vertus, e PNH pibliye l. Se yon bilan pwovizwa. Le Quotidien 509, nan yon rezime an kreyòl, pale de 11 mò ak 9 blese, men chif ofisyèl la rete 10 mò.\n\nPNH di li mobilize inite li yo ak Task Force la pou yon operasyon nan Bongars ak Klemanso, ak sipò elikoptè, pou lokalize e neutralize moun ame yo. NAGO presize Task Force sa a se yon ekip sekirite prive sosyete ameriken Vectus Global ki travay pou gouvènman an. Lapolis poko bay okenn bilan sou moun ki te atake yo. Wo kòmandman PNH a di li bay chèf inite espesyalize yo ak direktè depatmantal yo lòd pou yo ranfòse operasyon rechèch nan seksyon kominal yo ak nan tout depatman yo.\n\nMeri Kenscoff la pibliye yon nòt (ref. MK/BM-1842) menm jou a, kote li pale de yon atak sou mache Bolosse, nan seksyon Bongars. Li di « enyèm atak mòtèl » sa a montre jan dispozitif sekirite a fèb toujou e jan travay konsolidasyon teritwa a pa ase. Meri a mande pou yo pwoteje mache piblik yo e pou yo kenbe zòn yo reprann yo, dapre Le Quotidien 509.\n\nVant Bèf Info raple atak la fèt anviwon 15 jou apre premye minis Alix Didier Fils-Aimé te distribye entran agrikòl nan Kenscoff e te ankouraje moun ki te deplase yo retounen lakay yo. Li vini tou yon jou apre PNH ak Fòs represyon gang yo (FRG) te anonse senk baz operasyonèl avanse, youn ladan yo nan Kenscoff. EFE, Diario Libre relè, rapòte menm bilan an.",
+      fr: "L'attaque a eu lieu vers 4 heures du matin, mercredi 25 novembre 2026, dans la deuxième section communale de Kenscoff, selon un communiqué de la Direction de la communication de la police (DICOP) relayé par Le Quotidien 509. Les assaillants venaient de Clémenceau, une localité éloignée du centre de la commune. D'après Le Nouvelliste, ils se sont cachés à Clémenceau, ont contourné Belot et sont passés par Chauffard avant de s'en prendre aux personnes présentes sur le marché. Le bilan de 10 morts et 7 blessés vient du CASEC de Bongars, Renold Vertus, et la PNH l'a repris. Il reste provisoire. Le Quotidien 509, dans un résumé en créole, a avancé 11 morts et 9 blessés, mais le chiffre officiel est toujours de 10 morts.\n\nLa PNH dit avoir mobilisé ses unités, avec la Task Force, pour une opération à Bongars et à Clémenceau, appuyée par des hélicoptères, afin de localiser et de neutraliser les hommes armés. NAGO précise que cette Task Force est une équipe de sécurité privée de la société américaine Vectus Global, qui travaille pour le gouvernement. La police n'a communiqué aucun bilan du côté des assaillants. Son haut commandement dit avoir ordonné aux chefs des unités spécialisées et aux directeurs départementaux de renforcer les opérations de recherche dans les sections communales et dans tous les départements.\n\nLa mairie de Kenscoff a publié le même jour une note (réf. MK/BM-1842), où elle parle d'une attaque contre le marché de Bolosse, dans la section de Bongars. Elle y voit une « énième offensive meurtrière » qui montre la fragilité du dispositif de sécurisation et l'insuffisance de la consolidation territoriale. La mairie demande de protéger les marchés publics et de tenir durablement les zones reprises, rapporte Le Quotidien 509.\n\nVant Bèf Info rappelle que l'attaque est survenue une quinzaine de jours après une distribution d'intrants agricoles à Kenscoff, au cours de laquelle le Premier ministre Alix Didier Fils-Aimé avait encouragé les déplacés à rentrer chez eux. Elle est aussi venue au lendemain de l'annonce, par la PNH et la Force de répression des gangs (FRG), de cinq bases opérationnelles avancées, dont une à Kenscoff. L'agence EFE, reprise par Diario Libre, a fait état du même bilan.",
+    },
+    sources: ["PNH","Le Nouvelliste","Le Quotidien 509","NAGO","Vant Bèf Info","EFE / Diario Libre"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/274288/10-dead-and-7-injured-in-kenscoff-police-announce-the-hunt-for-the-terrorists-behind-this-attack" },
+      { name: "Le Quotidien 509, bilan de la PNH", url: "https://lequotidien509.com/nouvelle-attaque-a-kenscoff-le-bilan-salourdit-la-police-annonce-le-lancement-dune-operation/" },
+      { name: "Le Quotidien 509, note de la mairie", url: "https://lequotidien509.com/kenscoff-la-mairie-denonce-une-nouvelle-attaque-meurtriere-au-marche-de-bolosse/" },
+      { name: "NAGO", url: "https://news.nago.tv/kenscoff-au-moins-dix-morts-dans-une-attaque-de-gang-a-bongard-la-pnh-lance-une-operation" },
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/kenscoff-plusieurs-morts-dans-une-attaque-de-gangs-a-bongars/" },
+    ],
+  },
+
+  {
+    id: "ntk-deputes-francais-rancon-1825-commission-2026-11-26",
+    tier: "need-to-know",
+    topic: "politics",
+    publishedAt: "2026-11-26",
+    publishedTime: "2026-11-26T08:44:00-05:00",
+    headline: {
+      ht: "Depite fransè yo louvri pòt pou yo evalye e remèt Ayiti « ranson » 1825 la",
+      fr: "Rançon de 1825 : des députés français ouvrent la voie à une évaluation des sommes dues à Haïti",
+    },
+    teaser: {
+      ht: "Komisyon lwa Asanble nasyonal la vote tèks Steevy Gustave a mèkredi. Deba nan sal la fikse pou 3 desanm.",
+      fr: "La commission des lois de l'Assemblée nationale a adopté mercredi le texte de Steevy Gustave. Le débat en séance est prévu le 3 décembre.",
+    },
+    brief: {
+      ht: "Komisyon lwa Asanble nasyonal Lafrans adopte mèkredi 25 novanm 2026 yon pwopozisyon lwa sou reparasyon trèt ak esklavaj. Atik 2 li a kreye yon komite fransè ak ayisyen pou evalye sa Lafrans dwe Ayiti pou ranson 150 milyon fran-lò 1825 la, Le Nouvelliste ak sit Asanble a montre.",
+      fr: "La commission des lois de l'Assemblée nationale française a adopté mercredi 25 novembre 2026 une proposition de loi sur la réparation de la traite et de l'esclavage. Son article 2 crée un comité franco-haïtien chargé d'évaluer ce que la France doit à Haïti au titre de la rançon de 150 millions de francs-or de 1825, selon Le Nouvelliste et le site de l'Assemblée.",
+    },
+    body: {
+      ht: "Se depite ekolojis Steevy Gustave, nan gwoup Écologiste et social, ki pote pwopozisyon lwa « pou reparasyon prejidis ki soti nan trèt ak esklavaj » la. Li te depoze l 9 jen 2026 ak 35 lòt depite. Mèkredi 25 novanm, komisyon lwa a adopte tèks la, ak twa amandman, dapre sit Asanble nasyonal la. Le Nouvelliste ekri tèks la ap pase nan deba nan sal pleyen an 3 desanm.\n\nDapre tèks komisyon an pibliye a, atik 2 a kreye yon komite pèsonalite fransè ak ayisyen ki pral « evalye lajan Lafrans dwe Ayiti » pou ranson 150 milyon fran-lò yo te enpoze 1825 pou rekonèt endepandans lan, epi etidye kijan Lafrans ta ka remèt pèp ayisyen an lajan sa a. Travay komite a dwe chita sou rekòmandasyon komisyon mikstè istoryen fransè ak ayisyen an, ki te kreye an 2025. Se yon dekrè ki pral fikse kijan komite a ap konpoze ak kijan l ap fonksyone.\n\nAtik 1 lan kreye yon lòt komite pou evalye domaj patisipasyon Lafrans nan trèt ak esklavaj te koze, e li dwe remèt yon rapò piblik nan 18 mwa apre lwa a pwomilge. Pou kounye a, se yon vòt komisyon sèlman: tèks la poko vote nan sal la, ni pa Sena a, e li poko lwa.",
+      fr: "La proposition de loi « visant à la réparation des préjudices résultant de la traite et de l'esclavage » est portée par le député Steevy Gustave, du groupe Écologiste et social. Il l'a déposée le 9 juin 2026 avec 35 cosignataires. Mercredi 25 novembre, la commission des lois l'a adoptée, avec trois amendements, d'après le site de l'Assemblée nationale. Le texte sera débattu dans l'hémicycle le 3 décembre, précise Le Nouvelliste.\n\nSelon le texte adopté en commission, l'article 2 institue un comité de personnalités qualifiées françaises et haïtiennes chargé « d'évaluer les sommes dues par la France à Haïti » au titre de la rançon de 150 millions de francs-or imposée en 1825 pour la reconnaissance de l'indépendance, et d'étudier les modalités possibles de leur restitution au peuple haïtien. Ses travaux doivent s'appuyer sur les recommandations de la commission mixte franco-haïtienne d'historiens, constituée en 2025. Sa composition et son fonctionnement seront fixés par décret.\n\nL'article 1er crée un autre comité, chargé d'évaluer les préjudices liés à la participation de la France à la traite et à l'esclavage, avec un rapport public dans les 18 mois suivant la promulgation. À ce stade, il s'agit d'un vote en commission : le texte n'a été adopté ni en séance ni par le Sénat, et il n'a pas force de loi.",
+    },
+    sources: ["Le Nouvelliste","Assemblée nationale"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/274279/les-deputes-francais-ouvrent-la-porte-a-une-restitution-de-la-rancon-dhaiti" },
+      { name: "Assemblée nationale, texte de la commission n° 3526", url: "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTC3526.html" },
+      { name: "Assemblée nationale, amendement CL9", url: "https://www.assemblee-nationale.fr/dyn/17/amendements/2895/CION_LOIS/CL9" },
+    ],
+  },
+
+  {
+    id: "qh-secteur-prive-candidats-sanctionnes-retrait-2026-11-26",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-26",
+    publishedTime: "2026-11-26T08:42:00-05:00",
+    headline: {
+      ht: "Kat òganizasyon sektè prive mande kandida ki anba sanksyon yo pou yo retire kò yo",
+      fr: "Quatre organisations du secteur privé invitent les candidats sanctionnés à se retirer",
+    },
+    teaser: {
+      ht: "CCIO, ADIH, CCIHC ak Enstiti Macaya pa site okenn non. DEBLOKE reponn yon sanksyon yon peyi etranje pa ase pou elimine yon kandida.",
+      fr: "La CCIO, l'ADIH, la CCIHC et l'Institut Macaya ne citent aucun nom. DEBLOKE répond qu'une sanction d'un État étranger ne suffit pas à écarter un candidat.",
+    },
+    brief: {
+      ht: "Nan yon nòt mèkredi 25 novanm 2026, kat òganizasyon sektè prive envite moun ki anba sanksyon entènasyonal yo pou yo panse retire kandidati yo, e yo mande CEP pou l egzamine dosye yo san konplezans, Juno7, Le Nouvelliste ak Le Quotidien 509 rapòte.",
+      fr: "Dans une note publiée mercredi 25 novembre 2026, quatre organisations du secteur privé invitent les personnes visées par des sanctions internationales à envisager de retirer leur candidature et demandent au CEP un examen des dossiers sans complaisance, rapportent Juno7, Le Nouvelliste et Le Quotidien 509.",
+    },
+    body: {
+      ht: "Siyatè yo se Chanm komès ak endistri Lwès la (CCIO, Ralph Edmond), Enstiti Macaya (Jean Paul Faubert), Chanm komès ak endistri ayisyano-kanadyen an (CCIHC, Gérard Laborde) ak Asosyasyon endistri Ayiti (ADIH, David Coles), dapre Le Quotidien 509. Yo eksprime « gwo enkyetid » devan kandidati moun ki anba sanksyon entènasyonal oswa moun fè dokimante mete entegrite yo an kesyon. Nòt la pa site okenn non. Yo di yon retrè volontè ta ka kalme klima elektoral la e remete deba a sou pwogram yo.\n\nYo mande CEP pou l konsilte òganis kontwòl Leta yo ak enstans jidisyè yo anvan l deside, e pou administrasyon ki bay oswa verifye papye kandida yo fè travay yo ak rigè. « Pa dwe gen okenn konplezans, okenn entèvansyon pati politik ak okenn favè » nan egzamen dosye yo, yo ekri, dapre Juno7. Yo pwomèt tou yo pral ankouraje manm yo pou yo sipòte sèlman kandida ki entèg, ni ak lajan ni lòt jan.\n\nMenm jou a, gwoupman DEBLOKE, ki pote kandidati Michel Martelly, mande CEP pou l respekte dekrè elektoral la. Li di atik 76, 84, 95, 107, 113 ak 119 dekrè a pale de sanksyon Konsèy sekirite Nasyonzini, e yon sanksyon yon peyi etranje pran pa ase pou kont li pou yo elimine yon kandida, Vant Bèf Info rapòte. Dapre DEBLOKE, se elektè yo ki pou deside nan biwo vòt yo.",
+      fr: "Les signataires sont la Chambre de commerce et d'industrie de l'Ouest (CCIO, Ralph Edmond), l'Institut Macaya (Jean Paul Faubert), la Chambre de commerce et d'industrie haïtiano-canadienne (CCIHC, Gérard Laborde) et l'Association des industries d'Haïti (ADIH, David Coles), selon Le Quotidien 509. Ils expriment leur « vive préoccupation » face aux candidatures de personnes sanctionnées à l'international ou dont l'intégrité est mise en cause par des faits documentés. La note ne cite personne. Un retrait volontaire, estiment-ils, apaiserait le climat électoral et recentrerait le débat sur les programmes.\n\nIls demandent au CEP de consulter les organes de contrôle de l'État et les instances judiciaires avant de statuer, et aux administrations qui délivrent ou vérifient les pièces des candidats d'agir avec rigueur. « Aucune complaisance, aucune intervention partisane et aucun traitement de faveur ne doivent entacher l'examen des dossiers », écrivent-ils, d'après Juno7. Ils s'engagent aussi à encourager leurs membres à ne soutenir, financièrement ou autrement, que des candidats intègres.\n\nLe même jour, le groupement DEBLOKE, qui porte la candidature de Michel Martelly, a demandé au CEP de s'en tenir au décret électoral. Selon lui, les articles 76, 84, 95, 107, 113 et 119 du décret visent les sanctions du Conseil de sécurité de l'ONU, et une sanction prise par un État étranger ne suffit pas, à elle seule, à écarter une candidature, rapporte Vant Bèf Info. Pour DEBLOKE, c'est aux électeurs de trancher dans les urnes.",
+    },
+    sources: ["Juno7","Le Nouvelliste","Le Quotidien 509","Vant Bèf Info"],
+    sourceLinks: [
+      { name: "Juno7", url: "https://www.juno7.ht/haiti-candidats-sanctions-internationales-appel-retrait/" },
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/274291/business-associations-call-on-sanctioned-candidates-to-withdraw-from-the-electoral-race" },
+      { name: "Le Quotidien 509", url: "https://lequotidien509.com/elections-en-haiti-le-secteur-prive-appelle-les-candidats-sanctionnes-a-se-retirer/" },
+      { name: "Vant Bèf Info, réponse de DEBLOKE", url: "https://vantbefinfo.com/elections-debloke-rappelle-au-cep-que-la-loi-electorale-doit-guider-lexamen-des-candidatures/" },
+    ],
+  },
+
+  {
+    id: "qh-pnh-frg-cinq-bases-avancees-ouest-2026-11-26",
+    tier: "quick-hit",
+    topic: "security",
+    publishedAt: "2026-11-26",
+    publishedTime: "2026-11-26T08:40:00-05:00",
+    headline: {
+      ht: "PNH ak FRG anonse senk baz avanse nan Lwès: Kenscoff, Taba, Kwadèboukè, Gresye ak Pòtoprens",
+      fr: "La PNH et la FRG annoncent cinq bases avancées dans l'Ouest : Kenscoff, Tabarre, Croix-des-Bouquets, Gressier et Port-au-Prince",
+    },
+    teaser: {
+      ht: "Inyon Ewopeyen an ak OEA ap finanse yo. DICOP pa bay ni dat ni kantite pèsonèl.",
+      fr: "L'Union européenne et l'OEA financent le projet. La DICOP ne donne ni calendrier ni effectifs.",
+    },
+    brief: {
+      ht: "Polis nasyonal la ak Fòs represyon gang yo (FRG) prevwa enstale senk baz operasyonèl avanse nan depatman Lwès la pou kenbe zòn yo reprann anba men gang yo, DICOP anonse mèkredi 25 novanm 2026, Vant Bèf Info rapòte.",
+      fr: "La Police nationale et la Force de répression des gangs (FRG) prévoient d'installer cinq bases opérationnelles avancées dans l'Ouest pour tenir les zones reprises aux gangs, a annoncé la DICOP mercredi 25 novembre 2026, rapporte Vant Bèf Info.",
+    },
+    body: {
+      ht: "Dapre Direksyon kominikasyon Lapolis (DICOP), baz yo ap chita nan Kenscoff, Taba, Kwadèboukè, Gresye ak Pòtoprens. Yo dwe amelyore mobilite ak kowòdinasyon ant PNH ak FRG, e anpeche gang yo reprann zòn yo pèdi. Inyon Ewopeyen an ak Òganizasyon Eta ameriken yo (OEA) ap finanse inisyativ la. Kominike a pa di kilè baz yo ap enstale, ni konbyen moun ak ekipman ki prevwa, Vant Bèf Info note.\n\nMenm jou a, pòtpawòl FRG a, Igor Rugwiza, di nan emisyon Panel Magik fòs la ap resevwa plis pèsonèl ak ekipman pakapak, an atandan li rive nan efektif konplè li, Le Nouvelliste rapòte. HaitiLibre ekri pou pati pa l Salvador prevwa de nouvo baz militè avanse nan Kafou ak Gresye, an plis sa ki deja nan estad Sylvio Cator la. Gouvènman an poko konfime enfòmasyon sa a.",
+      fr: "Selon la Direction de la communication de la police (DICOP), les bases seront installées à Kenscoff, Tabarre, Croix-des-Bouquets, Gressier et Port-au-Prince. Elles doivent améliorer la mobilité et la coordination entre la PNH et la FRG, et empêcher les gangs de reprendre les zones perdues. L'Union européenne et l'Organisation des États américains (OEA) financent l'initiative. Le communiqué ne précise ni le calendrier d'installation ni les moyens humains et matériels prévus, relève Vant Bèf Info.\n\nLe même jour, le porte-parole de la FRG, Igor Rugwiza, a annoncé sur Panel Magik une hausse progressive des effectifs et des équipements de la force, en attendant qu'elle atteigne son plein effectif, rapporte Le Nouvelliste. HaitiLibre écrit de son côté que le Salvador prévoit deux nouvelles bases militaires avancées, à Carrefour et à Gressier, en plus de celle du stade Sylvio Cator. Le gouvernement n'a pas confirmé cette information.",
+    },
+    sources: ["Vant Bèf Info","Le Nouvelliste","HaitiLibre","DICOP"],
+    sourceLinks: [
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/haiti-cinq-bases-operationnelles-de-la-pnh-et-de-la-gsf-prevues-dans-louest/" },
+      { name: "Le Nouvelliste, FRG", url: "https://lenouvelliste.com/article/274263/the-gangs-suppression-force-frg-awaits-new-staff-and-equipment-reinforcements" },
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48975-haiti-actualite-zapping.html" },
+    ],
+  },
+
+  {
+    id: "qh-hueh-hopital-general-reouverture-2026-11-26",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-26",
+    publishedTime: "2026-11-26T08:38:00-05:00",
+    headline: {
+      ht: "Minis Sante a anonse Lopital jeneral la pral relouvri, menm si se a 50 oswa 60 %",
+      fr: "Le ministre de la Santé annonce la réouverture de l'Hôpital général, même « à 50 ou 60 % »",
+    },
+    teaser: {
+      ht: "Vant Bèf Info bay dat 2 desanm. NAGO ekri minis la pa bay okenn dat egzak. Lopital la fèmen depi fevriye 2024.",
+      fr: "Vant Bèf Info avance la date du 2 décembre. Selon NAGO, le ministre n'a pas donné de date précise. L'hôpital est fermé depuis février 2024.",
+    },
+    brief: {
+      ht: "Minis Sante piblik la, Dr Sinal Bertrand, anonse mèkredi 25 novanm 2026 Lopital Inivèsite Leta d Ayiti (HUEH) pral relouvri byento, apre prèske de an nèf mwa fèmen akoz atak gang nan sant vil Pòtoprens.",
+      fr: "Le ministre de la Santé publique, le Dr Sinal Bertrand, a annoncé mercredi 25 novembre 2026 la réouverture prochaine de l'Hôpital de l'Université d'État d'Haïti (HUEH), fermé depuis près de deux ans et neuf mois à cause des attaques de gangs au centre-ville de Port-au-Prince.",
+    },
+    body: {
+      ht: "Minis la pale nan yon pwen pou laprès mèkredi swa nan otèl Karibe, ansanm ak direktè jeneral Òganizasyon mondyal lasante (OMS), Dr Tedros Adhanom Ghebreyesus, ki an Ayiti. Vant Bèf Info ekri lopital la ap rekòmanse travay apati 2 desanm 2026. NAGO, li menm, ekri minis la di lopital la ap relouvri « trè byento » e li pa bay dat egzak. Li rekonèt lopital la p ap fonksyone a plen kapasite touswit: menm si se a « 50 % oswa 60 % », se « yon bon pa », li di.\n\nDr Bertrand mete delè a sou kont amelyorasyon sekirite nan zòn nan, e li di li antre andedan lopital la pou l wè eta l. Lopital la te fèmen apre atak gang 29 fevriye 2024 yo. Lendi 23 novanm, yon delegasyon gouvènman an, kote minis la te ye, te vizite sant vil la, pandan PNH ak FAd'H, ak sipò fòs etranje, ap reprann katye a, NAGO ekri. An janvye 2026, ministè a te anonse prèske 15 milyon goud pou lwe e amenaje yon lokal pwovizwa, men pwojè sa a pa janm fini, e etidyan Fakilte medsin ak famasi yo ap denonse pwomès ki pa kenbe depi plizyè mwa.",
+      fr: "Le ministre s'est exprimé mercredi soir lors d'un point de presse à l'hôtel Karibe, aux côtés du directeur général de l'Organisation mondiale de la santé (OMS), le Dr Tedros Adhanom Ghebreyesus, en visite en Haïti. Vant Bèf Info écrit que l'hôpital reprendra ses activités à partir du 2 décembre 2026. NAGO rapporte de son côté que le ministre a parlé d'une réouverture « très prochaine », sans date précise. Il a reconnu que l'établissement ne fonctionnera pas tout de suite à plein régime : même à « 50 % ou 60 % », ce sera « un bon pas », a-t-il dit.\n\nLe Dr Bertrand a justifié cette échéance par une amélioration de la sécurité dans le secteur et a dit être entré dans l'hôpital pour constater son état. L'établissement a fermé après les attaques de gangs du 29 février 2024. Lundi 23 novembre, une délégation gouvernementale dont il faisait partie a visité le centre-ville, que la PNH et les FAd'H, appuyées par des contingents étrangers, commencent à reprendre, écrit NAGO. En janvier 2026, le ministère avait annoncé près de 15 millions de gourdes pour louer et aménager un local provisoire, mais cette relocalisation est restée inachevée, et les étudiants de la Faculté de médecine et de pharmacie dénoncent depuis des mois des promesses non tenues.",
+    },
+    sources: ["Vant Bèf Info","NAGO"],
+    sourceLinks: [
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/haiti-sante-lhopital-general-rouvrira-ses-portes-le-2-decembre-annonce-le-ministre-sinal-bertrand/" },
+      { name: "NAGO", url: "https://news.nago.tv/hopital-general-le-ministre-sinal-bertrand-annonce-une-reouverture-prochaine-meme-a-50-ou-60" },
+    ],
+  },
+
+  {
+    id: "qh-msf-5635-survivantes-violences-sexuelles-2026-11-26",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-26",
+    publishedTime: "2026-11-26T08:37:00-05:00",
+    headline: {
+      ht: "MSF resevwa 5635 sivivan vyolans seksyèl nan Pòtoprens ant janvye ak oktòb 2026",
+      fr: "MSF a reçu 5635 survivantes de violences sexuelles à Port-au-Prince de janvier à octobre 2026",
+    },
+    teaser: {
+      ht: "804 nan mwa jiyè sèlman. Plis pase 70 % rive lopital apre premye 120 èdtan yo.",
+      fr: "Dont 804 en juillet seulement. Plus de 70 % arrivent après les 120 premières heures.",
+    },
+    brief: {
+      ht: "Medsen san fwontyè (MSF) resevwa 5635 sivivan vyolans seksyèl nan sant li yo nan Pòtoprens ant janvye ak oktòb 2026, dapre yon kominike li pibliye 25 novanm, Jounen entènasyonal kont vyolans sou fanm, Vant Bèf Info rapòte.",
+      fr: "Médecins sans frontières (MSF) a reçu 5635 survivantes de violences sexuelles dans ses structures de Port-au-Prince entre janvier et octobre 2026, selon un communiqué publié le 25 novembre, Journée internationale contre les violences faites aux femmes, rapporte Vant Bèf Info.",
+    },
+    body: {
+      ht: "Nan kantite sa a, 804 te vini nan mwa jiyè sèlman. Chif yo kouvri sitou pasyan lopital MSF nan Site Solèy ak klinik Pran Men'm resevwa. MSF presize chif sa yo pa reprezante tout viktim yo, paske anpil fanm pa rive denonse agresyon an oswa jwenn swen.\n\nAnt janvye ak jiyè 2026, plis pase 70 % sivivan MSF resevwa yo te rive apre premye 120 èdtan apre agresyon an, sa ki diminye chans pou yo jwenn kèk tretman ijans. Òganizasyon an mande plis aksè a swen ak plis kote moun ka loje an sekirite.",
+      fr: "Parmi elles, 804 ont été accueillies au seul mois de juillet. Ces chiffres concernent notamment les patientes de l'hôpital de MSF à Cité Soleil et de la clinique Pran Men'm. MSF précise qu'ils ne représentent pas l'ensemble des victimes, puisque beaucoup de femmes ne parviennent ni à signaler l'agression ni à accéder aux soins.\n\nEntre janvier et juillet 2026, plus de 70 % des survivantes reçues par MSF sont arrivées après les 120 premières heures suivant l'agression, ce qui réduit leur accès à certains traitements d'urgence. L'organisation alerte sur les difficultés d'accès aux soins et à des hébergements sécurisés.",
+    },
+    sources: ["MSF","Vant Bèf Info"],
+    sourceLinks: [
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/port-au-prince-msf-a-accueilli-5-635-survivantes-de-violences-sexuelles-entre-janvier-et-octobre-2026/" },
+    ],
+  },
+
+  {
+    id: "qh-cep-30-novembre-collectivites-pieces-2026-11-26",
+    tier: "quick-hit",
+    topic: "politics",
+    publishedAt: "2026-11-26",
+    publishedTime: "2026-11-26T08:36:00-05:00",
+    headline: {
+      ht: "CEP fèmen enskripsyon anliy kandida pou kolektivite yo 30 novanm, men nòt li a bay de dat pou depo papye yo",
+      fr: "Le CEP clôt le 30 novembre l'inscription en ligne aux collectivités, mais sa note donne deux dates pour le dépôt des pièces",
+    },
+    teaser: {
+      ht: "Nòt la pale de 30 novanm, epi de 30 desanm, pou kandida prezidans ak lejislatif yo.",
+      fr: "La note évoque le 30 novembre, puis le 30 décembre, pour les candidats à la présidence et aux législatives.",
+    },
+    brief: {
+      ht: "Konsèy elektoral pwovizwa a (CEP) anonse mèkredi 25 novanm 2026 enskripsyon anliy kandida pou kolektivite teritoryal yo ap fèmen 30 novanm a minwi. Nòt la bay de dat diferan pou depo papye kandida prezidans ak lejislatif yo, Rezo Nòdwès note.",
+      fr: "Le Conseil électoral provisoire (CEP) a annoncé mercredi 25 novembre 2026 la clôture, le 30 novembre à minuit, de l'inscription en ligne des candidats aux collectivités territoriales. Sa note donne deux dates différentes pour le dépôt des pièces des candidats à la présidence et aux législatives, relève Rezo Nòdwès.",
+    },
+    body: {
+      ht: "Nan nòt pou laprès la, CEP mande pati, gwoupman ak kandida yo pou yo respekte delè yo e konplete fòmalite administratif yo. Pou kandida prezidans ak lejislatif yo, nòt la di an premye delè pou depo papye yo fini menm jou ak enskripsyon kolektivite yo, sa vle di 30 novanm. Apre sa, li di peryòd depo papye sa yo ap fini 30 desanm 2026. Rezo Nòdwès di kontradiksyon sa a kite yon dout sou dat limit la, e CEP poko klarifye.\n\nLe Nouvelliste rapòte tou pati Fusion mande CEP pou l ranvwaye dat depo papye kandida yo. Premye tou eleksyon yo fikse pou 18 jiyè 2027.",
+      fr: "Dans sa note de presse, le CEP appelle les partis, groupements et candidats à respecter les délais et à compléter les formalités administratives. Pour les candidats à la présidence et aux législatives, la note indique d'abord que le délai de dépôt des pièces expire à la même date que l'inscription aux collectivités, soit le 30 novembre. Elle précise ensuite que la période de dépôt de ces documents prendra fin le 30 décembre 2026. Pour Rezo Nòdwès, cette contradiction laisse planer un doute sur la date limite, et le CEP ne l'a pas encore clarifiée.\n\nLe Nouvelliste rapporte par ailleurs que le parti Fusion demande au CEP de repousser la date de dépôt des pièces des candidats. Le premier tour des élections est fixé au 18 juillet 2027.",
+    },
+    sources: ["CEP","Rezo Nòdwès","Le Nouvelliste"],
+    sourceLinks: [
+      { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/haiti-le-cep-fixe-au-30-novembre-la-fin-des-inscriptions-en-ligne-pour-les-collectivites-territoriales/" },
+    ],
+  },
+
+  {
+    id: "qh-belize-soldats-frg-fonseca-2026-11-26",
+    tier: "quick-hit",
+    topic: "security",
+    publishedAt: "2026-11-26",
+    publishedTime: "2026-11-26T08:35:00-05:00",
+    headline: {
+      ht: "Belize di li toujou angaje pou l voye sòlda nan FRG la, san okenn nouvo dat",
+      fr: "Le Belize se dit toujours engagé à envoyer des soldats dans la FRG, sans nouveau calendrier",
+    },
+    teaser: {
+      ht: "Belize te pwomèt jiska 50 militè depi 2023. Yo pa janm deplwaye.",
+      fr: "Le Belize avait promis jusqu'à 50 militaires dès 2023. Ils n'ont jamais été déployés.",
+    },
+    brief: {
+      ht: "Minis Afè etranjè Belize, Francis Fonseca, di madi 24 novanm 2026 sou chèn News5 peyi l angaje pou l voye twoup nan Fòs represyon gang yo (FRG), NAGO rapòte. Li pa bay okenn dat.",
+      fr: "Le ministre bélizien des Affaires étrangères, Francis Fonseca, a affirmé mardi 24 novembre 2026 sur la chaîne News5 que son pays restait engagé à envoyer des troupes dans la Force de répression des gangs (FRG), rapporte NAGO. Il n'a donné aucune date.",
+    },
+    body: {
+      ht: "« Belize angaje pou l voye twoup nou yo patisipe nan Fòs represyon gang yo. Se yon bagay ki trè serye », Francis Fonseca di. Peyi Amerik santral sa a, ki manm CARICOM, te pwomèt depi 2023 jiska 50 militè pou Ayiti, men deplwaman an pa janm fèt.\n\nLè yo poze l kesyon sou plis pase 2000 sòlda salvadoryen ki an Ayiti depi fen oktòb, andeyò fòs Nasyonzini otorize a, minis la rekonèt rejyon an pa vrèman pale de sa. « Nou pa t gen okenn diskisyon serye sou dènye aksyon gouvènman salvadoryen an an Ayiti », li di, dapre NAGO.",
+      fr: "« Le Belize s'est engagé à envoyer nos troupes pour participer à la Force de répression des gangs. C'est une affaire très sérieuse », a déclaré Francis Fonseca. Ce pays d'Amérique centrale, membre de la CARICOM, avait promis dès 2023 jusqu'à 50 militaires pour Haïti, mais leur déploiement n'a jamais eu lieu.\n\nInterrogé sur les plus de 2000 soldats salvadoriens présents en Haïti depuis la fin octobre, hors de la force autorisée par l'ONU, le ministre a reconnu que la région n'en avait pas vraiment discuté. « Nous n'avons eu aucune discussion sérieuse sur les dernières actions du gouvernement salvadorien en Haïti », a-t-il dit, selon NAGO.",
+    },
+    sources: ["NAGO","News5 Belize"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/le-belize-toujours-engage-a-envoyer-des-soldats-en-haiti-assure-son-ministre-des-affaires-etrangeres" },
+    ],
+  },
+
+  {
+    id: "qh-fafa-picault-quitte-atlanta-united-2026-11-26",
+    tier: "quick-hit",
+    topic: "sports",
+    publishedAt: "2026-11-26",
+    publishedTime: "2026-11-26T08:33:00-05:00",
+    headline: {
+      ht: "MLS: Atlanta United pa kenbe Fafà Picault, entènasyonal ayisyen an kite klib la",
+      fr: "MLS : Atlanta United ne lève pas l'option de Fafà Picault, l'international haïtien quitte le club",
+    },
+    teaser: {
+      ht: "Ayilye a, 35 an, make 4 gòl sezon sa a. Li lib pou l siyen kote li vle.",
+      fr: "L'ailier de 35 ans a marqué quatre buts cette saison. Il est libre de signer où il veut.",
+    },
+    brief: {
+      ht: "Atlanta United anonse mèkredi 25 novanm 2026 li pa leve opsyon kontra ayilye ayisyen Fafà Picault, ki kite klib la konsa, NAGO rapòte.",
+      fr: "Atlanta United a annoncé mercredi 25 novembre 2026 ne pas lever l'option du contrat de l'ailier haïtien Fafà Picault, qui quitte donc le club, rapporte NAGO.",
+    },
+    body: {
+      ht: "Picault te siyen 17 fevriye 2026 yon kontra pou sezon 2026 la, ak yon opsyon jiska 30 jen 2027. Li make kat gòl ak Atlanta sezon sa a. Klib la remèsye l sou Instagram ak mesaj « Forever a part of Atlanta ».\n\nFafà Picault fèt New York, pitit paran ayisyen. Li gen nèf sezon nan MLS, e li te genyen Kòp MLS la ak Inter Miami an desanm 2025. Apre de seleksyon ak Etazini, li chwazi Ayiti an 2023, e li gen 22 seleksyon ak de gòl ak Grenadye yo.",
+      fr: "Picault avait signé le 17 février 2026 un contrat couvrant la saison 2026, avec une option jusqu'au 30 juin 2027. Il a marqué quatre buts avec Atlanta cette saison. Le club l'a salué sur Instagram d'un « Forever a part of Atlanta ».\n\nNé à New York de parents haïtiens, Fafà Picault compte neuf saisons en MLS et a remporté la Coupe MLS avec l'Inter Miami en décembre 2025. Après deux sélections avec les États-Unis, il a choisi Haïti en 2023 et totalise 22 sélections et deux buts avec les Grenadiers.",
+    },
+    sources: ["NAGO","Atlanta United"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/mls-atlanta-united-ne-leve-pas-l-option-de-fafa-picault-l-international-haitien-quitte-le-club" },
+    ],
+  },
+
+  {
+    id: "qh-pierre-michel-jean-unesco-exposition-2026-11-26",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-26",
+    publishedTime: "2026-11-26T08:32:00-05:00",
+    headline: {
+      ht: "Fotograf ayisyen Pierre-Michel Jean nan ekspozisyon « Haïti, terre des dieux et des arts » nan UNESCO, Pari",
+      fr: "Le photographe haïtien Pierre-Michel Jean à l'affiche de l'exposition « Haïti, terre des dieux et des arts » à l'UNESCO",
+    },
+    teaser: {
+      ht: "Ekspozisyon an ap fèt 9 rive 17 desanm nan Mezon UNESCO, Pari.",
+      fr: "L'exposition se tiendra du 9 au 17 décembre à la Maison de l'UNESCO, à Paris.",
+    },
+    brief: {
+      ht: "Fotograf dokimantè ak reyalizatè ayisyen Pierre-Michel Jean nan lis atis ekspozisyon « Haïti, terre des dieux et des arts » ap prezante, 9 rive 17 desanm 2026, nan Mezon UNESCO a Pari, NAGO rapòte.",
+      fr: "Le photographe documentaire et réalisateur haïtien Pierre-Michel Jean figure parmi les artistes de l'exposition « Haïti, terre des dieux et des arts », du 9 au 17 décembre 2026 à la Maison de l'UNESCO, à Paris, rapporte NAGO.",
+    },
+    body: {
+      ht: "Se Delegasyon pèmanan Ayiti nan UNESCO ki anonse sa mèkredi 25 novanm. Ekspozisyon an ap fèt nan sal Miró, sou inisyativ anbasadè Lilas Desquiron. Travay Pierre-Michel Jean pale de reyalite sosyal, rezistans popilè ak lavi kominote ki majinalize yo. Li se ko-fondatè Kolektif 2 Dimansyon (K2D), yon kolektif fotograf ayisyen.\n\nEkspozisyon an reyini plizyè atis, e li bay yon plas a sakre nan imajinè ayisyen an, tankou vèvè. Antre a ak lè yo poko anonse.",
+      fr: "C'est la Délégation permanente d'Haïti auprès de l'UNESCO qui l'a annoncé mercredi 25 novembre. L'exposition se tiendra dans la salle Miró, à l'initiative de l'ambassadrice Lilas Desquiron. Le travail de Pierre-Michel Jean porte sur les réalités sociales, les résistances populaires et le parcours des communautés marginalisées. Il est cofondateur du Kolektif 2 Dimansyon (K2D), un collectif haïtien de photographes.\n\nL'exposition réunit plusieurs artistes et fait une place au sacré dans l'imaginaire haïtien, notamment aux vèvè. L'entrée et les horaires n'ont pas encore été précisés.",
+    },
+    sources: ["NAGO","Délégation permanente d'Haïti auprès de l'UNESCO"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://news.nago.tv/unesco-le-photographe-haitien-pierre-michel-jean-a-l-affiche-de-l-exposition-haiti-terre-des-dieux-et-des-arts" },
+    ],
+  },
+
+  {
+    id: "qh-evolta-solax-stockage-batterie-15mw-2026-11-26",
+    tier: "quick-hit",
+    topic: "tech",
+    publishedAt: "2026-11-26",
+    publishedTime: "2026-11-26T08:31:00-05:00",
+    headline: {
+      ht: "Evolta Energy ak SolaX siyen pou yon pwojè batri 15 MW/30 MWh sou yon sit endistriyèl nan Pòtoprens",
+      fr: "Evolta Energy et SolaX s'associent pour un stockage par batterie de 15 MW/30 MWh sur un site industriel de Port-au-Prince",
+    },
+    teaser: {
+      ht: "Batri yo ap mache ak enèji solè sou plas. Konpayi yo di se pi gwo pwojè kalite sa a yo anonse an Ayiti.",
+      fr: "Les batteries seront couplées à du solaire sur site. Les entreprises parlent du plus grand projet de ce type annoncé en Haïti.",
+    },
+    brief: {
+      ht: "Konpayi ayisyen Evolta Energy ak fabrikan chinwa SolaX Power siyen yon akò pou yon sistèm estokaj enèji pa batri 15 MW/30 MWh sou yon sit endistriyèl nan Pòtoprens, HaitiLibre rapòte.",
+      fr: "L'entreprise haïtienne Evolta Energy et le fabricant chinois SolaX Power ont signé un accord pour un système de stockage d'énergie par batterie de 15 MW/30 MWh sur un site industriel de Port-au-Prince, rapporte HaitiLibre.",
+    },
+    body: {
+      ht: "SolaX ap bay sistèm estokaj « tout-an-youn » li a, e Evolta ap fè konsepsyon, enstalasyon, mizanmach, operasyon ak antretyen. Sistèm nan ap kontwole e estabilize yon mikwo-rezo, ansanm ak yon enstalasyon solè sou sit la ak lòt sous pwodiksyon. « Yon enèji ou ka konte sou li esansyèl pou itilizatè endistriyèl yo », direktè jeneral Evolta Energy, Bernhard Celestin, di.\n\nDapre de konpayi yo, se t ap pi gwo pwojè estokaj pa batri yo anonse piblikman an Ayiti. Yo pa site non sit la, ni kantite lajan, ni dat pou l kòmanse fonksyone.",
+      fr: "SolaX fournira son système de stockage « tout-en-un », et Evolta prendra en charge la conception, l'installation, la mise en service, l'exploitation et la maintenance. Le système pilotera et stabilisera un micro-réseau, couplé à une installation solaire sur site et à d'autres sources de production. « Une énergie fiable est essentielle pour les utilisateurs industriels », a déclaré le directeur général d'Evolta Energy, Bernhard Celestin.\n\nSelon les deux entreprises, ce serait le plus grand projet de stockage par batterie annoncé publiquement en Haïti. Elles n'ont précisé ni le site, ni le montant, ni la date de mise en service.",
+    },
+    sources: ["HaitiLibre"],
+    sourceLinks: [
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48973-haiti-energie-solaire-le-plus-grand-projet-de-micro-reseau-industriel-en-haiti.html" },
+    ],
+  },
+
+  {
+    id: "qh-brh-taux-reference-130-89-2026-11-26",
+    tier: "quick-hit",
+    topic: "economy",
+    publishedAt: "2026-11-26",
+    publishedTime: "2026-11-26T08:30:00-05:00",
+    headline: {
+      ht: "BRH: to referans lan monte a 130,89 goud pou 1 dola jedi",
+      fr: "BRH : le taux de référence monte à 130,89 gourdes pour 1 dollar jeudi",
+    },
+    teaser: {
+      ht: "Bank yo achte dola a 130,72 goud e yo vann li 131,69. Tranzaksyon yo bese plis pase 15 %.",
+      fr: "Les banques achètent le dollar à 130,72 gourdes et le vendent à 131,69. Les transactions reculent de plus de 15 %.",
+    },
+    brief: {
+      ht: "Bank repiblik Ayiti (BRH) fikse to referans jedi 26 novanm 2026 la a 130,8901 goud pou 1 dola ameriken, 0,03 % plis pase jou anvan an.",
+      fr: "La Banque de la République d'Haïti (BRH) fixe le taux de référence du jeudi 26 novembre 2026 à 130,8901 gourdes pour 1 dollar américain, soit 0,03 % de plus que la veille.",
+    },
+    body: {
+      ht: "Bank repiblik Ayiti (BRH) fikse to referans jedi 26 novanm 2026 la a 130,8901 goud pou 1 dola ameriken, dapre paj « Taux du jour » li. Se 0,03 % plis pase jou anvan an, 0,10 % plis pase sa gen yon semèn e 0,17 % plis pase sa gen yon ane. Mèkredi, to a te 130,8509 goud.\n\nSou mache bankè a, bank yo achte dola a 130,7168 goud e yo vann li 131,6878 goud. Sou mache enfòmèl la, BRH toujou afiche 131,15 goud pou acha ak 136 goud pou vant. Tranzaksyon bankè yo rive anviwon 20,4 M$ pou acha ak 20,8 M$ pou vant, yon bès 17,92 % ak 15,24 % konpare ak jou anvan an.",
+      fr: "La Banque de la République d'Haïti (BRH) fixe le taux de référence du jeudi 26 novembre 2026 à 130,8901 gourdes pour 1 dollar américain, selon sa page « Taux du jour ». C'est 0,03 % de plus que la veille, 0,10 % de plus qu'il y a une semaine et 0,17 % de plus qu'il y a un an. Mercredi, le taux était de 130,8509 gourdes.\n\nSur le marché bancaire, les banques achètent le dollar à 130,7168 gourdes et le vendent à 131,6878 gourdes. Sur le marché informel, la BRH affiche toujours 131,15 gourdes à l'achat et 136 gourdes à la vente. Les transactions bancaires ont atteint environ 20,4 M$ à l'achat et 20,8 M$ à la vente, en baisse de 17,92 % et 15,24 % par rapport à la veille.",
+    },
+    sources: ["BRH"],
+    sourceLinks: [
+      { name: "BRH", url: "https://www.brh.ht/taux-du-jour/" },
+    ],
+  },
+
+  {
     id: "ntk-amnesty-fils-aime-accord-salvador-2026-11-25",
     tier: "need-to-know",
     topic: "security",
@@ -658,25 +1006,27 @@ export const STORIES: Story[] = [
     topic: "politics",
     isFollowUp: true,
     publishedAt: "2026-11-24",
-    publishedTime: "2026-11-25T08:56:00-05:00",
+    publishedTime: "2026-11-26T08:41:00-05:00",
     headline: {
-      ht: "Lèt Shaheen ak Meeks site Michel Martelly, DEBLOKE mande eksplikasyon",
-      fr: "Lettre de Shaheen et Meeks : Michel Martelly nommément cité, DEBLOKE demande des clarifications",
+      ht: "Michel Martelly ekri Marco Rubio pou l mande yon « echanj dirèk » sou sanksyon yo",
+      fr: "Michel Martelly a écrit à Marco Rubio pour demander un « échange direct » sur ses sanctions",
     },
     teaser: {
-      ht: "Pati kandida a di yon lèt palmantè pa yon desizyon tribinal ni yon desizyon sou kandidati.",
-      fr: "Le groupement du candidat rappelle qu'une lettre parlementaire n'est ni une décision judiciaire ni une décision d'inéligibilité.",
+      ht: "Lèt la date 22 oktòb. Ansyen prezidan an di sanksyon 2024 yo chita sou akizasyon san prèv.",
+      fr: "La lettre est datée du 22 octobre. L'ancien président y qualifie les sanctions de 2024 d'allégations sans preuve.",
     },
     brief: {
-      ht: "Gwoupman politik DEBLOKE mande eksplikasyon mardi 24 novanm apre de eli demokrat ameriken, Jeanne Shaheen ak Gregory Meeks, te site Michel Martelly, kandida li pou prezidans, nan yon lèt sou elit ki sipòte gang yo, Juno7 rapòte.",
-      fr: "Le groupement politique DEBLOKE a demandé des clarifications mardi 24 novembre après que deux élus démocrates américains, Jeanne Shaheen et Gregory Meeks, ont nommément cité Michel Martelly, son candidat à la présidence, dans une lettre sur les élites soutenant les gangs, rapporte Juno7.",
+      ht: "Nan yon lèt dat 22 oktòb 2026, ansyen prezidan Michel Martelly mande sekretè Deta Marco Rubio yon rankont pou l bay vèsyon pa l sou sanksyon ameriken yo, Le Nouvelliste ak Le Quotidien 509 rapòte, pandan lèt Shaheen ak Meeks la ap site non l.",
+      fr: "Dans une lettre datée du 22 octobre 2026, l'ancien président Michel Martelly demande au secrétaire d'État Marco Rubio une rencontre pour exposer sa version des sanctions américaines, rapportent Le Nouvelliste et Le Quotidien 509, alors que la lettre de Shaheen et Meeks le cite nommément.",
     },
     body: {
-      ht: "SWIVI, 25 novanm: Nan lèt yo a, Jeanne Shaheen ak Gregory Meeks site non Michel Martelly, yo atribiye l lyen ak plizyè gang e yo enkyete pou kandidati li pou prezidans, Juno7 rapòte. Martelly te deja sanksyone pa Trezò ameriken 20 out 2024. Mardi 24 novanm, gwoupman DEBLOKE reyaji nan yon nòt pou laprès: li di li sipòte ankèt sou rezo ki finanse gang yo, men li mande pou akizasyon yo chita sou fè presi ki ka verifye, e li anonse li vle ekri de eli yo pou yo bay plis presizyon. DEBLOKE di yon lèt palmantè pa yon desizyon tribinal, ni yon nouvo sanksyon, ni yon desizyon sou inelijibilite, e se enstitisyon ayisyen yo ki pou egzamine kandidati yo.\n\nDe eli demokrat nan Kongrè ameriken an, senatè New Hampshire Jeanne Shaheen ak depite New York Gregory Meeks, akize administrasyon prezidan Donald Trump lendi 23 novanm 2026 paske li pa « nonmen e sanksyone elit politik ak ekonomik k ap alimante ensekirite ann Ayiti », Associated Press rapòte. Shaheen se manm ki gen plis ansyènte nan opozisyon an nan komisyon Afè etranjè Sena a, Meeks nan komisyon Afè etranjè Chanm reprezantan yo.\n\nLèt la adrese sekretè d Eta Marco Rubio, sekretè Defans Pete Hegseth ak sekretè Trezò Scott Bessent. « Nan yon moman kote pèp ayisyen an ap prepare pou vote pou premye fwa nan plis pase dis ane, Kongrè a, piblik ameriken an ak pèp ayisyen an merite transparans sou nati ak dimansyon kolizyon ant gang yo ak rezo sipò politik ak ekonomik yo », yo ekri, dapre AP.\n\nAP raple kèk kandida pou eleksyon 2027 yo te deja sanksyone pa Etazini ak Kanada. Administrasyon an pa t reponn piblikman, dapre sous nou konsilte yo.",
-      fr: "SUIVI, 25 novembre : dans leur lettre, Jeanne Shaheen et Gregory Meeks citent nommément Michel Martelly, auquel ils attribuent des liens avec plusieurs gangs, et s'inquiètent de sa candidature à la présidence, rapporte Juno7. L'ancien président est sous sanctions du Trésor américain depuis le 20 août 2024. Mardi 24 novembre, le groupement DEBLOKE a réagi dans une note de presse : il dit soutenir les enquêtes sur les réseaux qui financent les gangs, mais demande que les accusations reposent sur des faits précis et vérifiables, et annonce vouloir saisir les deux élus pour obtenir des précisions. Selon DEBLOKE, une correspondance parlementaire ne constitue ni une décision judiciaire, ni une nouvelle sanction, ni une décision d'inéligibilité, et l'examen des candidatures relève des institutions haïtiennes.\n\nDeux élus démocrates du Congrès américain, la sénatrice du New Hampshire Jeanne Shaheen et le représentant de New York Gregory Meeks, ont accusé lundi 23 novembre 2026 l'administration du président Donald Trump de ne pas « nommer et sanctionner l'élite politique et économique qui alimente l'insécurité en Haïti », rapporte l'Associated Press. Shaheen est la cheffe de file de l'opposition à la commission des Affaires étrangères du Sénat, Meeks à celle de la Chambre des représentants.\n\nLa lettre est adressée au secrétaire d'État Marco Rubio, au secrétaire à la Défense Pete Hegseth et au secrétaire au Trésor Scott Bessent. « Alors que le peuple haïtien se prépare à voter pour la première fois en plus d'une décennie, le Congrès, le public américain et le peuple haïtien méritent la transparence sur la nature et l'ampleur de la collusion entre les gangs et leurs réseaux de soutien politiques et économiques », écrivent-ils, d'après l'AP.\n\nL'AP rappelle que certains candidats aux élections de 2027 ont déjà été sanctionnés par les États-Unis et le Canada. L'administration n'avait pas répondu publiquement, d'après les sources consultées.",
+      ht: "SWIVI, 26 novanm: Le Nouvelliste revele Michel Martelly te ekri sekretè Deta Marco Rubio 22 oktòb 2026 pou l mande yon « echanj dirèk », pou l bay vèsyon pa l, bay kontèks e reponn kesyon, de an apre sanksyon administrasyon Biden lan. Dapre jounal la, li di sanksyon sa yo chita sou « akizasyon ki pa gen okenn fondman ni prèv ». Se sekretè Trezò Janet Yellen ki te sanksyone l 20 out 2024. Le Quotidien 509 relè lèt la tou, ansanm ak repons DEBLOKE bay Shaheen ak Meeks. Depatman Deta pa reponn piblikman, dapre sous nou konsilte yo.\n\nSWIVI, 25 novanm: Nan lèt yo a, Jeanne Shaheen ak Gregory Meeks site non Michel Martelly, yo atribiye l lyen ak plizyè gang e yo enkyete pou kandidati li pou prezidans, Juno7 rapòte. Martelly te deja sanksyone pa Trezò ameriken 20 out 2024. Mardi 24 novanm, gwoupman DEBLOKE reyaji nan yon nòt pou laprès: li di li sipòte ankèt sou rezo ki finanse gang yo, men li mande pou akizasyon yo chita sou fè presi ki ka verifye, e li anonse li vle ekri de eli yo pou yo bay plis presizyon. DEBLOKE di yon lèt palmantè pa yon desizyon tribinal, ni yon nouvo sanksyon, ni yon desizyon sou inelijibilite, e se enstitisyon ayisyen yo ki pou egzamine kandidati yo.\n\nDe eli demokrat nan Kongrè ameriken an, senatè New Hampshire Jeanne Shaheen ak depite New York Gregory Meeks, akize administrasyon prezidan Donald Trump lendi 23 novanm 2026 paske li pa « nonmen e sanksyone elit politik ak ekonomik k ap alimante ensekirite ann Ayiti », Associated Press rapòte. Shaheen se manm ki gen plis ansyènte nan opozisyon an nan komisyon Afè etranjè Sena a, Meeks nan komisyon Afè etranjè Chanm reprezantan yo.\n\nLèt la adrese sekretè d Eta Marco Rubio, sekretè Defans Pete Hegseth ak sekretè Trezò Scott Bessent. « Nan yon moman kote pèp ayisyen an ap prepare pou vote pou premye fwa nan plis pase dis ane, Kongrè a, piblik ameriken an ak pèp ayisyen an merite transparans sou nati ak dimansyon kolizyon ant gang yo ak rezo sipò politik ak ekonomik yo », yo ekri, dapre AP.\n\nAP raple kèk kandida pou eleksyon 2027 yo te deja sanksyone pa Etazini ak Kanada. Administrasyon an pa t reponn piblikman, dapre sous nou konsilte yo.",
+      fr: "SUIVI, 26 novembre : Le Nouvelliste révèle que Michel Martelly a écrit le 22 octobre 2026 au secrétaire d'État Marco Rubio pour lui demander un « échange direct », afin d'exposer sa version, d'apporter du contexte et de répondre à d'éventuelles questions, deux ans après les sanctions de l'administration Biden. Selon le journal, il qualifie ces sanctions de « fondées sur des allégations dénuées de tout fondement ou preuve ». C'est la secrétaire au Trésor Janet Yellen qui l'a sanctionné le 20 août 2024. Le Quotidien 509 a aussi fait état de cette lettre, avec la riposte de DEBLOKE à Shaheen et Meeks. Le Département d'État n'a pas répondu publiquement, d'après les sources consultées.\n\nSUIVI, 25 novembre : dans leur lettre, Jeanne Shaheen et Gregory Meeks citent nommément Michel Martelly, auquel ils attribuent des liens avec plusieurs gangs, et s'inquiètent de sa candidature à la présidence, rapporte Juno7. L'ancien président est sous sanctions du Trésor américain depuis le 20 août 2024. Mardi 24 novembre, le groupement DEBLOKE a réagi dans une note de presse : il dit soutenir les enquêtes sur les réseaux qui financent les gangs, mais demande que les accusations reposent sur des faits précis et vérifiables, et annonce vouloir saisir les deux élus pour obtenir des précisions. Selon DEBLOKE, une correspondance parlementaire ne constitue ni une décision judiciaire, ni une nouvelle sanction, ni une décision d'inéligibilité, et l'examen des candidatures relève des institutions haïtiennes.\n\nDeux élus démocrates du Congrès américain, la sénatrice du New Hampshire Jeanne Shaheen et le représentant de New York Gregory Meeks, ont accusé lundi 23 novembre 2026 l'administration du président Donald Trump de ne pas « nommer et sanctionner l'élite politique et économique qui alimente l'insécurité en Haïti », rapporte l'Associated Press. Shaheen est la cheffe de file de l'opposition à la commission des Affaires étrangères du Sénat, Meeks à celle de la Chambre des représentants.\n\nLa lettre est adressée au secrétaire d'État Marco Rubio, au secrétaire à la Défense Pete Hegseth et au secrétaire au Trésor Scott Bessent. « Alors que le peuple haïtien se prépare à voter pour la première fois en plus d'une décennie, le Congrès, le public américain et le peuple haïtien méritent la transparence sur la nature et l'ampleur de la collusion entre les gangs et leurs réseaux de soutien politiques et économiques », écrivent-ils, d'après l'AP.\n\nL'AP rappelle que certains candidats aux élections de 2027 ont déjà été sanctionnés par les États-Unis et le Canada. L'administration n'avait pas répondu publiquement, d'après les sources consultées.",
     },
-    sources: ["Associated Press","Al Jazeera", "Juno7", "Vant Bèf Info"],
+    sources: ["Associated Press","Al Jazeera", "Juno7", "Vant Bèf Info", "Le Nouvelliste", "Le Quotidien 509"],
     sourceLinks: [
+      { name: "Le Nouvelliste, lettre de Martelly à Rubio", url: "https://lenouvelliste.com/article/274276/sanction-michel-martelly-asks-secretary-of-state-marco-rubio-for-a-direct-exchange-to-present-his-version" },
+      { name: "Le Quotidien 509", url: "https://lequotidien509.com/haiti-sanctions-americaines-lettre-de-martelly-a-rubio-et-riposte-de-debloke/" },
       { name: "Juno7", url: "https://www.juno7.ht/michel-martelly-cite-par-deux-elus-americains-debloke-demande-des-clarifications/" },
       { name: "Juno7", url: "https://www.juno7.ht/haiti-sanctions-soutiens-gangs-martelly-shaheen-meeks/" },
       { name: "Vant Bèf Info", url: "https://vantbefinfo.com/haiti-debloke-reclame-des-explications-aux-elus-americains-apres-les-accusations-visant-michel-martelly/" },
@@ -1434,25 +1784,26 @@ export const STORIES: Story[] = [
     topic: "security",
     isFollowUp: true,
     publishedAt: "2026-11-20",
-    publishedTime: "2026-11-25T08:32:00-05:00",
+    publishedTime: "2026-11-26T08:39:00-05:00",
     headline: {
-      ht: "Martissant: RNDDH di plis pase 100 sipoze manm gang ta mouri ant 19 ak 22 novanm, bilan ofisyèl la rete 54",
-      fr: "Martissant : le RNDDH évoque plus de 100 présumés membres de gangs tués du 19 au 22 novembre, le bilan officiel reste de 54",
+      ht: "Matisan 2B: PNH di li detwi kachèt chèf gang Tchèchèye nan nwit 25 pou 26 novanm",
+      fr: "Martissant 2B : la PNH dit avoir détruit le repaire du chef de gang Tchèchèye dans la nuit du 25 au 26 novembre",
     },
     teaser: {
-      ht: "Pierre Espérance bay chif la, okenn otorite poko konfime l. PNH te bay 54 mò pou 19 ak 20 novanm.",
-      fr: "Le chiffre vient de Pierre Espérance et n'a été confirmé par aucune autorité. La PNH a annoncé 54 morts pour les 19 et 20 novembre.",
+      ht: "Plizyè moun ame ta mouri, men okenn bilan poko bay. Bilan ofisyèl 19 ak 20 novanm lan rete 54 mò.",
+      fr: "Plusieurs hommes armés auraient été tués, sans bilan précis. Le bilan officiel des 19 et 20 novembre reste de 54 morts.",
     },
     brief: {
-      ht: "Dapre direktè egzekitif RNDDH, Pierre Espérance, plis pase 100 sipoze manm gang ta mouri ant 19 ak 22 novanm nan operasyon nan Matisan, Vilaj Dye ak Site Solèy, HaitiLibre rapòte. Okenn otorite poko konfime chif sa a. Bilan ofisyèl PNH a se 54 mò pou 19 ak 20 novanm.",
-      fr: "Selon le directeur exécutif du RNDDH, Pierre Espérance, plus d'une centaine de présumés membres de gangs auraient été tués entre le 19 et le 22 novembre lors d'opérations à Martissant, au Village-de-Dieu et à Cité Soleil, rapporte HaitiLibre. Aucune autorité n'a confirmé ce chiffre. Le bilan officiel de la PNH est de 54 morts pour les 19 et 20 novembre.",
+      ht: "Polis nasyonal la, ak Task Force la, mennen yon operasyon nan nwit 25 pou 26 novanm 2026 nan Matisan 2B, kote kay chèf gang yo rele Tchèchèye a ta detwi, Vant Bèf Info rapòte.",
+      fr: "La Police nationale, avec la Task Force, a mené une opération dans la nuit du 25 au 26 novembre 2026 à Martissant 2B, où la résidence du chef de gang surnommé Tchèchèye aurait été détruite, rapporte Vant Bèf Info.",
     },
     body: {
-      ht: "SWIVI, 25 novanm: Direktè egzekitif Rezo nasyonal defans dwa moun (RNDDH), Pierre Espérance, di plis pase 100 sipoze manm gang ta mouri ant 19 ak 22 novanm 2026 nan operasyon fòs sekirite yo nan Matisan, Vilaj Dye ak Site Solèy, HaitiLibre rapòte. Okenn otorite ofisyèl poko konfime bilan sa a. Pou pati pa l, PNH di li touye omwen 54 sipoze manm gang nan de jou, 34 jedi 19 novanm ak 20 vandredi 20 novanm, e operasyon yo ap kontinye pou relouvri wout nasyonal 2, Haitian Times rapòte. Lapolis pa di si gen ajan ki mouri oswa ki blese, ni ki zòn li reprann.\n\nMizajou 23 novanm: PNH, avèk sipò Task Force la, te lanse yon nouvo operasyon nan Matisan vè 3è dimaten dimanch 22 novanm, L'Observatoire ekri. Dapre jounal sa a, FCN ak Alternance Media, yon ventèn sipoze bandi ta mouri. L'Observatoire ak Alternance Media di yo kraze kay nimewo de gang Matisan 23 la, sitou ak dwòn eksplozif; FCN, ki site Corvington Matin ak yon sous ki pre operasyon yo, pale de yon kay yo atribye bay chèf gang Ti Lapli. Lè medya sa yo t ap pibliye, PNH pa t bay okenn bilan ofisyèl, e chif yo poko verifye pou kont yo.\n\nPolis nasyonal ayisyen (PNH) di plis pase 20 lòt sipoze manm gang te « blese mortalman » vandredi 20 novanm 2026 nan Matisan 2A, nan yon kay nan zòn Vilaj, NAGO ak Le Nouvelliste relè, sou baz yon nòt lapolis. Dapre chif lapolis yo menm, sa fè omwen 54 moun touye oswa « blese mortalman » an de jou nan Matisan. Chif sa yo poko verifye pou kont yo.\n\nNAGO ekri, nan yon metajou samdi, operasyon an kontinye san pran souf, ak inite SWAT, UTAG, UDMO, selil Task Force, ak yon dizèn blende, pou relouvri wout sid la. Lapolis poko di kilè sikilasyon ka tounen nòmal sou Wout nasyonal 2, yon gwo pati ladan l gang yo kontwole depi 2021. Nou pa atribiye mò vandredi yo a yon lòt gwoup pase sa nòt lapolis yo ak NAGO ak Le Nouvelliste relè.\n\nPolis nasyonal ayisyen (PNH) di li te touye 34 sipoze manm gang jedi 19 novanm 2026, nan yon operasyon nan Matisan, nan sid Pòtoprens, nan « yon gwo baz » Renel Destina, yo konnen kòm Ti Lapli, chèf gang Gran Ravin. NAGO relè videyo PNH te pibliye a, ki vize zòn Matisan 2, 4 ak 23, kote yo wè blende nan lari yo, epi yon kay ki eksploze, sanble yon drone frape l. Se bilan lapolis la; li poko verifye pou kont li. Otorite yo pa di si Ti Lapli te pami moun ki mouri yo.\n\nDapre Associated Press ak Al Jazeera, ki relè Reuters tou, PNH di ofisye li yo te fè operasyon an ak yon task force antigang kote gen manm Vectus Global, yon sosyete sekirite prive. Menm sous yo ekri lapolis di pa te gen lòt viktim, e okenn nan apeprè 2 500 sòlda salvadoryen ki nan peyi a pa t patisipe. Se pawòl lapolis yo. NAGO te presize, nan premye kont rann li, otorite yo pa t di si gen sivil ki te frape.\n\nKatye Matisan an sou yon wout kle ki lye Pòtoprens ak sid ak lwès peyi a. Li anba kontwòl gang yo depi plis pase senk ane, jounal yo ekri.",
-      fr: "SUIVI, 25 novembre : le directeur exécutif du Réseau national de défense des droits humains (RNDDH), Pierre Espérance, affirme que plus d'une centaine de présumés membres de gangs auraient été tués entre le 19 et le 22 novembre 2026 lors des opérations des forces de sécurité à Martissant, au Village-de-Dieu et à Cité Soleil, rapporte HaitiLibre. Ce bilan n'a été confirmé par aucune autorité officielle. De son côté, la PNH dit avoir tué au moins 54 présumés membres de gangs en deux jours, 34 le jeudi 19 novembre et 20 le vendredi 20 novembre, et poursuit ses opérations pour rouvrir la route nationale 2, rapporte The Haitian Times. La police n'a signalé aucun agent tué ou blessé et n'a pas précisé quelles zones ont été reprises.\n\nMise à jour du 23 novembre : La PNH, appuyée par la Task Force, a lancé une nouvelle opération à Martissant vers 3 heures du matin dimanche 22 novembre, écrit L'Observatoire. Selon ce journal, FCN et Alternance Media, une vingtaine de présumés bandits auraient été tués. L'Observatoire et Alternance Media écrivent que la résidence du numéro deux du gang de Martissant 23 a été détruite, notamment par des drones explosifs; FCN, citant Corvington Matin et une source proche des opérations, parle d'une résidence attribuée au chef de gang Ti Lapli. Au moment de ces publications, la PNH n'avait communiqué aucun bilan officiel, et ces chiffres n'ont pas été vérifiés de manière indépendante.\n\nLa Police nationale d'Haïti (PNH) dit que plus de 20 autres présumés membres de gang ont été « mortellement blessés » vendredi 20 novembre 2026 à Martissant 2A, dans une maison du secteur Vilaj, relaient NAGO et Le Nouvelliste, d'après une note de la police. Selon les chiffres de la police elle-même, cela porte à au moins 54 le nombre de personnes tuées ou « mortellement blessées » en deux jours à Martissant. Ces chiffres n'ont pas été vérifiés de manière indépendante.\n\nNAGO écrit, dans une mise à jour samedi, que l'offensive se poursuit sans pause, avec les unités SWAT, UTAG, UDMO, des cellules de la Task Force et une dizaine de véhicules blindés, dans le but de rouvrir la route du sud. La police n'a pas dit quand la circulation pourrait revenir à la normale sur la route nationale 2, dont une grande partie est sous le contrôle de gangs depuis 2021. Nous n'attribuons pas les morts de vendredi à un autre groupe que ce que relaient la note de police, NAGO et Le Nouvelliste.\n\nLa Police nationale d'Haïti (PNH) dit avoir tué 34 présumés membres de gang jeudi 19 novembre 2026, lors d'une opération à Martissant, au sud de Port-au-Prince, dans « une grande base » de Renel Destina, connu comme Ti Lapli, chef du gang de Grand-Ravine. NAGO relaie la vidéo publiée par la police, qui vise les zones de Martissant 2, 4 et 23: on y voit des blindés avancer dans les rues, puis une maison exploser, apparemment frappée par un drone. Ce bilan est celui de la police; il n'a pas été vérifié de manière indépendante. Les autorités n'ont pas dit si Ti Lapli figurait parmi les morts.\n\nSelon l'Associated Press et Al Jazeera, qui relaient aussi Reuters, la PNH a indiqué que ses officiers ont mené l'opération avec une task force antigang comprenant des membres de Vectus Global, une société de sécurité privée. Les mêmes sources écrivent que la police a dit qu'il n'y avait pas eu d'autres victimes, et qu'aucun des quelque 2 500 soldats salvadoriens présents en Haïti n'avait pris part à l'opération. Ce sont des déclarations de la police. NAGO avait précisé, dans son premier compte rendu, que les autorités n'avaient pas dit si des civils avaient été touchés.\n\nLe quartier de Martissant se trouve sur un axe qui relie Port-au-Prince au sud et à l'ouest du pays. Il est sous le contrôle de gangs depuis plus de cinq ans, écrivent ces journaux.",
+      ht: "SWIVI, 26 novanm: PNH ak Task Force la mennen yon operasyon nan nwit 25 pou 26 novanm 2026 nan Matisan 2B. Operasyon an te vize sitou kay chèf gang yo rele Tchèchèye a, e kay la ta detwi, Vant Bèf Info rapòte dapre enfòmasyon otorite yo bay. Plizyè moun ame ki te sou plas ta mouri tou, men okenn bilan egzak poko bay. Operasyon sa yo vize louvri wout nasyonal 2 a, Wout Sid la. Se yon sèl sous ki rapòte sa pou kounye a.\n\nSWIVI, 25 novanm: Direktè egzekitif Rezo nasyonal defans dwa moun (RNDDH), Pierre Espérance, di plis pase 100 sipoze manm gang ta mouri ant 19 ak 22 novanm 2026 nan operasyon fòs sekirite yo nan Matisan, Vilaj Dye ak Site Solèy, HaitiLibre rapòte. Okenn otorite ofisyèl poko konfime bilan sa a. Pou pati pa l, PNH di li touye omwen 54 sipoze manm gang nan de jou, 34 jedi 19 novanm ak 20 vandredi 20 novanm, e operasyon yo ap kontinye pou relouvri wout nasyonal 2, Haitian Times rapòte. Lapolis pa di si gen ajan ki mouri oswa ki blese, ni ki zòn li reprann.\n\nMizajou 23 novanm: PNH, avèk sipò Task Force la, te lanse yon nouvo operasyon nan Matisan vè 3è dimaten dimanch 22 novanm, L'Observatoire ekri. Dapre jounal sa a, FCN ak Alternance Media, yon ventèn sipoze bandi ta mouri. L'Observatoire ak Alternance Media di yo kraze kay nimewo de gang Matisan 23 la, sitou ak dwòn eksplozif; FCN, ki site Corvington Matin ak yon sous ki pre operasyon yo, pale de yon kay yo atribye bay chèf gang Ti Lapli. Lè medya sa yo t ap pibliye, PNH pa t bay okenn bilan ofisyèl, e chif yo poko verifye pou kont yo.\n\nPolis nasyonal ayisyen (PNH) di plis pase 20 lòt sipoze manm gang te « blese mortalman » vandredi 20 novanm 2026 nan Matisan 2A, nan yon kay nan zòn Vilaj, NAGO ak Le Nouvelliste relè, sou baz yon nòt lapolis. Dapre chif lapolis yo menm, sa fè omwen 54 moun touye oswa « blese mortalman » an de jou nan Matisan. Chif sa yo poko verifye pou kont yo.\n\nNAGO ekri, nan yon metajou samdi, operasyon an kontinye san pran souf, ak inite SWAT, UTAG, UDMO, selil Task Force, ak yon dizèn blende, pou relouvri wout sid la. Lapolis poko di kilè sikilasyon ka tounen nòmal sou Wout nasyonal 2, yon gwo pati ladan l gang yo kontwole depi 2021. Nou pa atribiye mò vandredi yo a yon lòt gwoup pase sa nòt lapolis yo ak NAGO ak Le Nouvelliste relè.\n\nPolis nasyonal ayisyen (PNH) di li te touye 34 sipoze manm gang jedi 19 novanm 2026, nan yon operasyon nan Matisan, nan sid Pòtoprens, nan « yon gwo baz » Renel Destina, yo konnen kòm Ti Lapli, chèf gang Gran Ravin. NAGO relè videyo PNH te pibliye a, ki vize zòn Matisan 2, 4 ak 23, kote yo wè blende nan lari yo, epi yon kay ki eksploze, sanble yon drone frape l. Se bilan lapolis la; li poko verifye pou kont li. Otorite yo pa di si Ti Lapli te pami moun ki mouri yo.\n\nDapre Associated Press ak Al Jazeera, ki relè Reuters tou, PNH di ofisye li yo te fè operasyon an ak yon task force antigang kote gen manm Vectus Global, yon sosyete sekirite prive. Menm sous yo ekri lapolis di pa te gen lòt viktim, e okenn nan apeprè 2 500 sòlda salvadoryen ki nan peyi a pa t patisipe. Se pawòl lapolis yo. NAGO te presize, nan premye kont rann li, otorite yo pa t di si gen sivil ki te frape.\n\nKatye Matisan an sou yon wout kle ki lye Pòtoprens ak sid ak lwès peyi a. Li anba kontwòl gang yo depi plis pase senk ane, jounal yo ekri.",
+      fr: "SUIVI, 26 novembre : la PNH et la Task Force ont mené une opération dans la nuit du 25 au 26 novembre 2026 à Martissant 2B. Elle visait notamment la résidence du chef de gang surnommé Tchèchèye, qui aurait été détruite, rapporte Vant Bèf Info d'après les informations des autorités. Plusieurs individus armés auraient aussi été tués, mais aucun bilan précis n'a été communiqué. Ces opérations visent à rouvrir la route nationale 2, la route du Sud. Une seule source rapporte ces faits pour l'instant.\n\nSUIVI, 25 novembre : le directeur exécutif du Réseau national de défense des droits humains (RNDDH), Pierre Espérance, affirme que plus d'une centaine de présumés membres de gangs auraient été tués entre le 19 et le 22 novembre 2026 lors des opérations des forces de sécurité à Martissant, au Village-de-Dieu et à Cité Soleil, rapporte HaitiLibre. Ce bilan n'a été confirmé par aucune autorité officielle. De son côté, la PNH dit avoir tué au moins 54 présumés membres de gangs en deux jours, 34 le jeudi 19 novembre et 20 le vendredi 20 novembre, et poursuit ses opérations pour rouvrir la route nationale 2, rapporte The Haitian Times. La police n'a signalé aucun agent tué ou blessé et n'a pas précisé quelles zones ont été reprises.\n\nMise à jour du 23 novembre : La PNH, appuyée par la Task Force, a lancé une nouvelle opération à Martissant vers 3 heures du matin dimanche 22 novembre, écrit L'Observatoire. Selon ce journal, FCN et Alternance Media, une vingtaine de présumés bandits auraient été tués. L'Observatoire et Alternance Media écrivent que la résidence du numéro deux du gang de Martissant 23 a été détruite, notamment par des drones explosifs; FCN, citant Corvington Matin et une source proche des opérations, parle d'une résidence attribuée au chef de gang Ti Lapli. Au moment de ces publications, la PNH n'avait communiqué aucun bilan officiel, et ces chiffres n'ont pas été vérifiés de manière indépendante.\n\nLa Police nationale d'Haïti (PNH) dit que plus de 20 autres présumés membres de gang ont été « mortellement blessés » vendredi 20 novembre 2026 à Martissant 2A, dans une maison du secteur Vilaj, relaient NAGO et Le Nouvelliste, d'après une note de la police. Selon les chiffres de la police elle-même, cela porte à au moins 54 le nombre de personnes tuées ou « mortellement blessées » en deux jours à Martissant. Ces chiffres n'ont pas été vérifiés de manière indépendante.\n\nNAGO écrit, dans une mise à jour samedi, que l'offensive se poursuit sans pause, avec les unités SWAT, UTAG, UDMO, des cellules de la Task Force et une dizaine de véhicules blindés, dans le but de rouvrir la route du sud. La police n'a pas dit quand la circulation pourrait revenir à la normale sur la route nationale 2, dont une grande partie est sous le contrôle de gangs depuis 2021. Nous n'attribuons pas les morts de vendredi à un autre groupe que ce que relaient la note de police, NAGO et Le Nouvelliste.\n\nLa Police nationale d'Haïti (PNH) dit avoir tué 34 présumés membres de gang jeudi 19 novembre 2026, lors d'une opération à Martissant, au sud de Port-au-Prince, dans « une grande base » de Renel Destina, connu comme Ti Lapli, chef du gang de Grand-Ravine. NAGO relaie la vidéo publiée par la police, qui vise les zones de Martissant 2, 4 et 23: on y voit des blindés avancer dans les rues, puis une maison exploser, apparemment frappée par un drone. Ce bilan est celui de la police; il n'a pas été vérifié de manière indépendante. Les autorités n'ont pas dit si Ti Lapli figurait parmi les morts.\n\nSelon l'Associated Press et Al Jazeera, qui relaient aussi Reuters, la PNH a indiqué que ses officiers ont mené l'opération avec une task force antigang comprenant des membres de Vectus Global, une société de sécurité privée. Les mêmes sources écrivent que la police a dit qu'il n'y avait pas eu d'autres victimes, et qu'aucun des quelque 2 500 soldats salvadoriens présents en Haïti n'avait pris part à l'opération. Ce sont des déclarations de la police. NAGO avait précisé, dans son premier compte rendu, que les autorités n'avaient pas dit si des civils avaient été touchés.\n\nLe quartier de Martissant se trouve sur un axe qui relie Port-au-Prince au sud et à l'ouest du pays. Il est sous le contrôle de gangs depuis plus de cinq ans, écrivent ces journaux.",
     },
-    sources: ["NAGO", "Associated Press", "Al Jazeera", "Reuters", "Le Nouvelliste", "L'Observatoire", "FCN", "Alternance Media", "HaitiLibre", "The Haitian Times"],
+    sources: ["NAGO", "Associated Press", "Al Jazeera", "Reuters", "Le Nouvelliste", "L'Observatoire", "FCN", "Alternance Media", "HaitiLibre", "The Haitian Times", "Vant Bèf Info"],
     sourceLinks: [
+      { name: "Vant Bèf Info, Martissant 2B", url: "https://vantbefinfo.com/matisan-2b-la-pnh-annonce-la-destruction-du-repaire-du-chef-de-gang-tchecheye/" },
       { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48968-haiti-actualite-zapping.html" },
       { name: "The Haitian Times", url: "https://haitiantimes.com/2026/11/24/haiti-police-kill-50-gang-members-martissant-operations/" },
       { name: "L'Observatoire", url: "https://www.lobservatoire.info/martissant-pres-de-20-bandits-tues-la-maison-du-numero2-du-gang-detruite/" },
@@ -2236,25 +2587,28 @@ export const STORIES: Story[] = [
     topic: "sports",
     isFollowUp: true,
     publishedAt: "2026-11-18",
-    publishedTime: "2026-11-20T08:01:00-05:00",
+    publishedTime: "2026-11-26T08:34:00-05:00",
     headline: {
-      ht: "Mondyal U-17: Lafrans bat Ayiti 3-1, Prophète Macenat sove lonè a nan 88e minit",
-      fr: "Mondial U-17: la France bat Haïti 3-1, Prophète Macenat sauve l'honneur à la 88e",
+      ht: "Mondyal U-17: Ayiti elimine apre 2-1 kont Arabi Saoudit, twa defèt nan twa match",
+      fr: "Mondial U-17 : Haïti éliminée après une défaite 2-1 contre l'Arabie saoudite, trois revers en trois matchs",
     },
     teaser: {
-      ht: "Loan Merrifield te make nan 4e ak 41e minit, Noha Tiehi nan 47e. Apre sa, Irigwe dimanch, Arabi Sawoudit mèkredi.",
-      fr: "Loan Merrifield a marqué aux 4e et 41e minutes, Noha Tiehi à la 47e. Viennent ensuite l'Uruguay dimanche et l'Arabie saoudite mercredi.",
+      ht: "Kiki Ramos te ouvri skò a nan 28e minit. Saoudyen yo vire match la nan dezyèm mitan an.",
+      fr: "Kiki Ramos avait ouvert le score à la 28e minute. Les Saoudiens ont renversé le match en seconde période.",
     },
     brief: {
-      ht: "Lafrans te bat Ayiti 3-1 jedi 19 novanm, nan ouvèti Koup di Mond U-17 FIFA a, nan Aspire Zone, nan Doha, Katar. Prophète Macenat te redwi ekaw a nan 88e minit, FIFA ak NAGO relè.",
-      fr: "La France a battu Haïti 3-1 jeudi 19 novembre, à l'ouverture de la Coupe du monde U-17 de la FIFA, à l'Aspire Zone, à Doha, au Qatar. Prophète Macenat a réduit l'écart à la 88e minute, relaient la FIFA et NAGO.",
+      ht: "Arabi Saoudit bat Ayiti 2-1 mèkredi 25 novanm 2026 nan Doha. Jèn Grenadye yo fini dènye nan gwoup D a ak zewo pwen, apre defèt kont Lafrans (3-1) ak Irigwe (4-1), dapre FIFA.",
+      fr: "L'Arabie saoudite a battu Haïti 2-1 mercredi 25 novembre 2026 à Doha. Les jeunes Grenadiers terminent derniers du groupe D sans le moindre point, après leurs défaites contre la France (3-1) et l'Uruguay (4-1), selon la FIFA.",
     },
     body: {
-      ht: "Lafrans te bat Ayiti 3-1 jedi 19 novanm 2026, nan ouvèti Koup di Mond U-17 FIFA a, nan Aspire Zone (Pitch 9), nan Doha, Katar. Loan Merrifield te make nan 4e ak 41e minit, Noha Tiehi nan 47e, epi Prophète Macenat te redwi ekaw a nan 88e, dapre FIFA ak NAGO. Match la te kòmanse a 8è, lè Ayiti. Grenadye yo jwe Irigwe dimanch 22 novanm, epi Arabi Sawoudit mèkredi 25 novanm.\n\nSeleksyon ayisyen mwens 17 ane a rive Katar, apre preparasyon li nan Brezil, Federasyon ayisyen foutbòl (FHF) te anonse dimanch 15 novanm 2026, NAGO relè. Grenadye yo louvri Koup di Mond U-17 FIFA a jedi 19 novanm, a 8è, lè Ayiti, kont Lafrans, nan Aspire Zone, nan Doha. Apre sa, yo jwe Irigwe dimanch 22 novanm a 10è 30, epi Arabi Sawoudit mèkredi 25 novanm a 8è 30, toujou nan Aspire Zone, dapre kalandriye konpetisyon an.\n\nTounwa a rasanble 48 ekip, 19 novanm rive 13 desanm. De premye chak gwoup, ak uit pi bon twazyèm, ale nan faz eliminasyon. NAGO raple Ayiti poko janm genyen yon match nan Koup di Mond U-17: sèl pwen li te fè, se 1-1 kont Lafrans, an 2007 nan Kore di Sid. Ane pase, tou nan Katar, ti Grenadye yo te elimine apre twa defèt.",
-      fr: "La France a battu Haïti 3-1 jeudi 19 novembre 2026, à l'ouverture de la Coupe du monde U-17 de la FIFA, à l'Aspire Zone (Pitch 9), à Doha, au Qatar. Loan Merrifield a marqué à la 4e et à la 41e minute, Noha Tiehi à la 47e, et Prophète Macenat a réduit l'écart à la 88e, selon la FIFA et NAGO. Le match a commencé à 8 h, heure d'Haïti. Les Grenadiers jouent ensuite l'Uruguay dimanche 22 novembre, puis l'Arabie saoudite mercredi 25 novembre.\n\nLa sélection haïtienne des moins de 17 ans est arrivée au Qatar, après sa préparation au Brésil, a annoncé la Fédération haïtienne de football (FHF) dimanche 15 novembre 2026, relaie NAGO. Les Grenadiers ouvriront la Coupe du monde U-17 de la FIFA jeudi 19 novembre, à 8 h, heure d'Haïti, contre la France, à l'Aspire Zone, à Doha. Ils joueront ensuite l'Uruguay le dimanche 22 novembre à 10 h 30, puis l'Arabie saoudite le mercredi 25 novembre à 8 h 30, toujours à l'Aspire Zone, selon le calendrier de la compétition.\n\nLe tournoi réunit 48 sélections, du 19 novembre au 13 décembre. Les deux premiers de chaque groupe et les huit meilleurs troisièmes se qualifient pour la phase à élimination directe. NAGO rappelle qu'Haïti n'a encore jamais gagné un match de Coupe du monde U-17: son seul point dans la compétition a été obtenu contre la France, en 2007 en Corée du Sud (1-1). L'an dernier, également au Qatar, les jeunes Grenadiers avaient été éliminés après trois défaites.",
+      ht: "SWIVI, 26 novanm: Arabi Saoudit bat Ayiti 2-1 mèkredi 25 novanm 2026, nan Aspire Zone (teren 1), nan Doha, nan twazyèm e dènye match gwoup D a. Stephen « Kiki » Ramos te bay Ayiti avantaj la nan 28e minit, yon gòl VAR te valide, dapre HaitiLibre. Abdullah Al-Dawsari egalize nan 53e minit, epi Zaid Al-Buri make gòl viktwa a nan 78e minit, dapre FIFA. Ayiti tire 21 fwa, men sèlman 3 nan kad la, HaitiLibre ekri. Jèn Grenadye Kowsky Sainvil yo fini ak twa defèt, kont Lafrans (3-1), Irigwe (4-1) ak Arabi Saoudit (2-1), e yo kite konpetisyon an.\n\nLafrans te bat Ayiti 3-1 jedi 19 novanm 2026, nan ouvèti Koup di Mond U-17 FIFA a, nan Aspire Zone (Pitch 9), nan Doha, Katar. Loan Merrifield te make nan 4e ak 41e minit, Noha Tiehi nan 47e, epi Prophète Macenat te redwi ekaw a nan 88e, dapre FIFA ak NAGO. Match la te kòmanse a 8è, lè Ayiti. Grenadye yo jwe Irigwe dimanch 22 novanm, epi Arabi Sawoudit mèkredi 25 novanm.\n\nSeleksyon ayisyen mwens 17 ane a rive Katar, apre preparasyon li nan Brezil, Federasyon ayisyen foutbòl (FHF) te anonse dimanch 15 novanm 2026, NAGO relè. Grenadye yo louvri Koup di Mond U-17 FIFA a jedi 19 novanm, a 8è, lè Ayiti, kont Lafrans, nan Aspire Zone, nan Doha. Apre sa, yo jwe Irigwe dimanch 22 novanm a 10è 30, epi Arabi Sawoudit mèkredi 25 novanm a 8è 30, toujou nan Aspire Zone, dapre kalandriye konpetisyon an.\n\nTounwa a rasanble 48 ekip, 19 novanm rive 13 desanm. De premye chak gwoup, ak uit pi bon twazyèm, ale nan faz eliminasyon. NAGO raple Ayiti poko janm genyen yon match nan Koup di Mond U-17: sèl pwen li te fè, se 1-1 kont Lafrans, an 2007 nan Kore di Sid. Ane pase, tou nan Katar, ti Grenadye yo te elimine apre twa defèt.",
+      fr: "SUIVI, 26 novembre : l'Arabie saoudite a battu Haïti 2-1 mercredi 25 novembre 2026 à l'Aspire Zone (terrain 1), à Doha, lors du troisième et dernier match du groupe D. Stephen « Kiki » Ramos avait donné l'avantage à Haïti à la 28e minute, un but validé après recours à la VAR, selon HaitiLibre. Abdullah Al-Dawsari a égalisé à la 53e et Zaid Al-Buri a inscrit le but de la victoire à la 78e, d'après la FIFA. Haïti a tenté 21 tirs, dont 3 cadrés, relève HaitiLibre. Les jeunes Grenadiers de Kowsky Sainvil terminent avec trois défaites, contre la France (3-1), l'Uruguay (4-1) et l'Arabie saoudite (2-1), et quittent la compétition.\n\nLa France a battu Haïti 3-1 jeudi 19 novembre 2026, à l'ouverture de la Coupe du monde U-17 de la FIFA, à l'Aspire Zone (Pitch 9), à Doha, au Qatar. Loan Merrifield a marqué à la 4e et à la 41e minute, Noha Tiehi à la 47e, et Prophète Macenat a réduit l'écart à la 88e, selon la FIFA et NAGO. Le match a commencé à 8 h, heure d'Haïti. Les Grenadiers jouent ensuite l'Uruguay dimanche 22 novembre, puis l'Arabie saoudite mercredi 25 novembre.\n\nLa sélection haïtienne des moins de 17 ans est arrivée au Qatar, après sa préparation au Brésil, a annoncé la Fédération haïtienne de football (FHF) dimanche 15 novembre 2026, relaie NAGO. Les Grenadiers ouvriront la Coupe du monde U-17 de la FIFA jeudi 19 novembre, à 8 h, heure d'Haïti, contre la France, à l'Aspire Zone, à Doha. Ils joueront ensuite l'Uruguay le dimanche 22 novembre à 10 h 30, puis l'Arabie saoudite le mercredi 25 novembre à 8 h 30, toujours à l'Aspire Zone, selon le calendrier de la compétition.\n\nLe tournoi réunit 48 sélections, du 19 novembre au 13 décembre. Les deux premiers de chaque groupe et les huit meilleurs troisièmes se qualifient pour la phase à élimination directe. NAGO rappelle qu'Haïti n'a encore jamais gagné un match de Coupe du monde U-17: son seul point dans la compétition a été obtenu contre la France, en 2007 en Corée du Sud (1-1). L'an dernier, également au Qatar, les jeunes Grenadiers avaient été éliminés après trois défaites.",
     },
-    sources: ["NAGO", "FHF", "FIFA"],
+    sources: ["NAGO", "FHF", "FIFA", "HaitiLibre", "Le Nouvelliste"],
     sourceLinks: [
+      { name: "FIFA, Haïti - Arabie saoudite", url: "https://www.fifa.com/en/match-centre/match/102/292937/292938/400022609" },
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48977-haiti-coupe-du-monde-u-17-qatar-2026-haiti-elimine-par-l-arabie-saoudite-[2-1].html" },
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/274267/the-haitian-u17-team-eliminated-from-the-2026-world-cup" },
       { name: "NAGO", url: "https://news.nago.tv/mondial-u17-les-grenadiers-sont-arrives-au-qatar-la-france-jeudi-en-ouverture" },
       { name: "FIFA", url: "https://www.fifa.com/en/match-centre/match/102/292937/292938/400022607" },
       { name: "NAGO", url: "https://news.nago.tv/mondial-u17-haiti-battue-3-1-par-la-france-prophete-macenat-sauve-l-honneur" },
@@ -3140,26 +3494,31 @@ export const STORIES: Story[] = [
     id: "ntk-martine-moise-candidature-gad-2026-11-16",
     tier: "need-to-know",
     topic: "politics",
+    isFollowUp: true,
     publishedAt: "2026-11-16",
-    publishedTime: "2026-11-16T11:06:00-05:00",
+    publishedTime: "2026-11-26T08:43:00-05:00",
     headline: {
-      ht: "Martine Moïse enskri pou prezidans 2027 la, sou banyè GAD",
-      fr: "Martine Moïse s'inscrit à la présidentielle de 2027, sous la bannière du GAD",
+      ht: "Martine Moïse retounen an Ayiti pa Okap pou l fin prepare kandidati l",
+      fr: "Martine Moïse rentre en Haïti par le Cap-Haïtien pour finaliser sa candidature",
     },
     teaser: {
-      ht: "Li se twazyèm fanm sou 33 enskripsyon preliminè. Enskripsyon an pa vle di dosye a deja valide.",
-      fr: "Elle est la troisième femme parmi 33 inscriptions préliminaires. Cette inscription ne signifie pas que le dossier est déjà validé.",
+      ht: "Ansyen premye dam nan rive mèkredi sou yon vòl American Airlines. Le Quotidien 509 pale de kèk dizèn patizan.",
+      fr: "L'ancienne Première dame est arrivée mercredi sur un vol d'American Airlines. Le Quotidien 509 parle de quelques dizaines de partisans.",
     },
     brief: {
-      ht: "Ansyen premye dam Marie Étienne Martine Joseph Moïse, vèv prezidan Jovenel Moïse, te enskri sou platfòm CEP la dimanch 15 novanm, kèk èdtan anvan fèmen minwi a, sou banyè Gwoupman Angaje pou Demokrasi (GAD).",
-      fr: "L'ancienne première dame Marie Étienne Martine Joseph Moïse, veuve du président Jovenel Moïse, s'est inscrite sur la plateforme du CEP dimanche 15 novembre, quelques heures avant la clôture de minuit, sous la bannière du Gwoupman Angaje pou Demokrasi (GAD).",
+      ht: "Martine Moïse rive nan ayewopò entènasyonal Okap mèkredi 25 novanm 2026, premye fwa depi asasina mari l an 2021, pou l fin fè demach kandidati li pou prezidans, Le Nouvelliste, NAGO, Vant Bèf Info ak Le Quotidien 509 rapòte.",
+      fr: "Martine Moïse est arrivée mercredi 25 novembre 2026 à l'aéroport international du Cap-Haïtien, son premier retour depuis l'assassinat de son mari en 2021, pour finaliser les démarches de sa candidature à la présidence, rapportent Le Nouvelliste, NAGO, Vant Bèf Info et Le Quotidien 509.",
     },
     body: {
-      ht: "Martine Moïse te fè enskripsyon l sou platfòm anliy CEP la dimanch 15 novanm 2026, kèk èdtan anvan delè minwi a, The Haitian Times, NAGO ak Al Jazeera ekri. Li parèt sou banyè Gwoupman Angaje pou Demokrasi (GAD), yon òganizasyon Pierre Frantz Pompilus kowòdone. Sou tablo ofisyèl CEP la, li se twazyèm fanm pami 33 enskripsyon preliminè pou prezidans lan, ansanm ak Dominique Dupuy ak Anne Savannah Hadid Savary.\n\nEnskripsyon an liy se yon premye etap. Li pa vle di dosye a konplè, ni ke CEP valide kandidati a. Depo pyès yo fèmen 30 novanm. The Haitian Times ekri lis preliminè kandida aksepte yo dwe soti 31 desanm, epi lis definitif la 11 janvye, apre dosye yo verifye.\n\nJounal la presize Martine Moïse poko pale an piblik sou kandidati sa a. Pompilus te ekri sou X, dimanch, « Youth at the helm to continue Jovenel Moïse's vision », ak « GAD at your service ». Li te blese grav nan atak 7 jiyè 2021 la, kote mari l te asasinen, epi li te evakye Miyami. The Haitian Times raple non l te parèt nan yon akizasyon jij ayisyen an fevriye 2024; li te demanti nenpòt patisipasyon. Se yon akizasyon, li prezime inosan. Li te temwaye plizyè fwa nan pwosè federal Miyami a sou asasina a, dènye fwa a nan septanm, nan dosye Christian Emmanuel Sanon.",
-      fr: "Martine Moïse a fait son inscription sur la plateforme en ligne du CEP dimanche 15 novembre 2026, quelques heures avant l'échéance de minuit, écrivent The Haitian Times, NAGO et Al Jazeera. Elle figure sous la bannière du Gwoupman Angaje pou Demokrasi (GAD), une organisation coordonnée par Pierre Frantz Pompilus. Sur le tableau officiel du CEP, elle est la troisième femme parmi 33 inscriptions préliminaires à la présidence, aux côtés de Dominique Dupuy et d'Anne Savannah Hadid Savary.\n\nL'inscription en ligne est une première étape. Elle ne signifie pas que le dossier est complet, ni que le CEP valide la candidature. Le dépôt des pièces se ferme le 30 novembre. The Haitian Times écrit que la liste préliminaire des candidatures acceptées doit paraître le 31 décembre, et la liste définitive le 11 janvier, après vérification des dossiers.\n\nLe journal précise que Martine Moïse ne s'est pas encore exprimée publiquement sur cette candidature. Pompilus a écrit sur X, dimanche, « Youth at the helm to continue Jovenel Moïse's vision », et « GAD at your service ». Elle avait été gravement blessée dans l'attaque du 7 juillet 2021, au cours de laquelle son mari a été assassiné, et évacuée à Miami. The Haitian Times rappelle que son nom a figuré dans une inculpation d'un juge haïtien en février 2024; elle a démenti toute implication. Il s'agit d'une inculpation, elle est présumée innocente. Elle a témoigné à plusieurs reprises dans le procès fédéral de Miami sur l'assassinat, la dernière fois en septembre, dans le dossier de Christian Emmanuel Sanon.",
+      ht: "SWIVI, 26 novanm: Martine Moïse rive Okap mèkredi 25 novanm 2026 sou yon vòl komèsyal American Airlines, Le Nouvelliste rapòte. Fanmi, patizan ak ansyen dirijan ki te alye Jovenel Moïse te la pou resevwa l. Dapre jounal la, li repete angajman l pou lajistis e li plede pou yon dyalòg nasyonal. NAGO, ki te pibliye pi bonè nan jounen an, te ekri li pa t fè okenn deklarasyon piblik lè l te rive. Le Quotidien 509 pale de kèk dizèn patizan nan salon diplomatik ayewopò a, yon mobilizasyon ki rete modès, e li mande si l ap al sou tonm mari l nan Okap. Vant Bèf Info ekri li vin fè demach administratif pou l depoze dosye kandidati l. CEP poko valide kandidati a. Martine Moïse toujou rejte akizasyon yo te fè kont li nan dosye asasina a, e li gen prezonpsyon inosans.\n\nMartine Moïse te fè enskripsyon l sou platfòm anliy CEP la dimanch 15 novanm 2026, kèk èdtan anvan delè minwi a, The Haitian Times, NAGO ak Al Jazeera ekri. Li parèt sou banyè Gwoupman Angaje pou Demokrasi (GAD), yon òganizasyon Pierre Frantz Pompilus kowòdone. Sou tablo ofisyèl CEP la, li se twazyèm fanm pami 33 enskripsyon preliminè pou prezidans lan, ansanm ak Dominique Dupuy ak Anne Savannah Hadid Savary.\n\nEnskripsyon an liy se yon premye etap. Li pa vle di dosye a konplè, ni ke CEP valide kandidati a. Depo pyès yo fèmen 30 novanm. The Haitian Times ekri lis preliminè kandida aksepte yo dwe soti 31 desanm, epi lis definitif la 11 janvye, apre dosye yo verifye.\n\nJounal la presize Martine Moïse poko pale an piblik sou kandidati sa a. Pompilus te ekri sou X, dimanch, « Youth at the helm to continue Jovenel Moïse's vision », ak « GAD at your service ». Li te blese grav nan atak 7 jiyè 2021 la, kote mari l te asasinen, epi li te evakye Miyami. The Haitian Times raple non l te parèt nan yon akizasyon jij ayisyen an fevriye 2024; li te demanti nenpòt patisipasyon. Se yon akizasyon, li prezime inosan. Li te temwaye plizyè fwa nan pwosè federal Miyami a sou asasina a, dènye fwa a nan septanm, nan dosye Christian Emmanuel Sanon.",
+      fr: "SUIVI, 26 novembre : Martine Moïse est arrivée au Cap-Haïtien mercredi 25 novembre 2026 à bord d'un vol commercial d'American Airlines, rapporte Le Nouvelliste. Des proches, des partisans et d'anciens dirigeants alliés de Jovenel Moïse l'ont accueillie. Selon le journal, elle a réitéré son engagement en faveur de la justice et plaidé pour un dialogue national. NAGO, qui a publié plus tôt dans la journée, écrivait qu'elle n'avait fait aucune déclaration publique à son arrivée. Le Quotidien 509 a décrit quelques dizaines de partisans au salon diplomatique de l'aéroport, une mobilisation encore modeste, et s'est demandé si elle irait se recueillir sur la tombe de son mari au Cap-Haïtien. Vant Bèf Info écrit qu'elle vient faire les démarches administratives pour déposer son dossier. Le CEP n'a pas encore validé sa candidature. Martine Moïse a toujours rejeté les accusations portées contre elle dans le dossier de l'assassinat et bénéficie de la présomption d'innocence.\n\nMartine Moïse a fait son inscription sur la plateforme en ligne du CEP dimanche 15 novembre 2026, quelques heures avant l'échéance de minuit, écrivent The Haitian Times, NAGO et Al Jazeera. Elle figure sous la bannière du Gwoupman Angaje pou Demokrasi (GAD), une organisation coordonnée par Pierre Frantz Pompilus. Sur le tableau officiel du CEP, elle est la troisième femme parmi 33 inscriptions préliminaires à la présidence, aux côtés de Dominique Dupuy et d'Anne Savannah Hadid Savary.\n\nL'inscription en ligne est une première étape. Elle ne signifie pas que le dossier est complet, ni que le CEP valide la candidature. Le dépôt des pièces se ferme le 30 novembre. The Haitian Times écrit que la liste préliminaire des candidatures acceptées doit paraître le 31 décembre, et la liste définitive le 11 janvier, après vérification des dossiers.\n\nLe journal précise que Martine Moïse ne s'est pas encore exprimée publiquement sur cette candidature. Pompilus a écrit sur X, dimanche, « Youth at the helm to continue Jovenel Moïse's vision », et « GAD at your service ». Elle avait été gravement blessée dans l'attaque du 7 juillet 2021, au cours de laquelle son mari a été assassiné, et évacuée à Miami. The Haitian Times rappelle que son nom a figuré dans une inculpation d'un juge haïtien en février 2024; elle a démenti toute implication. Il s'agit d'une inculpation, elle est présumée innocente. Elle a témoigné à plusieurs reprises dans le procès fédéral de Miami sur l'assassinat, la dernière fois en septembre, dans le dossier de Christian Emmanuel Sanon.",
     },
-    sources: ["The Haitian Times", "NAGO", "Al Jazeera", "CEP"],
+    sources: ["The Haitian Times", "NAGO", "Al Jazeera", "CEP", "Le Nouvelliste", "Vant Bèf Info", "Le Quotidien 509"],
     sourceLinks: [
+      { name: "Le Nouvelliste, retour au Cap-Haïtien", url: "https://lenouvelliste.com/article/274290/back-in-haiti-martine-moise-presidential-candidate-calls-for-justice-and-change" },
+      { name: "NAGO, retour en Haïti", url: "https://news.nago.tv/presidentielle-martine-moise-de-retour-en-haiti-pour-finaliser-sa-candidature" },
+      { name: "Le Quotidien 509", url: "https://lequotidien509.com/martine-moise-au-cap-haitien-quelques-dizaines-de-partisans-laccueillent-le-recueillement-sur-la-tombe-de-jovenel-en-question/" },
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/martine-moise-rentre-au-pays-et-envisage-de-briguer-la-presidence/" },
       { name: "The Haitian Times", url: "https://haitiantimes.com/2026/11/16/martine-moise-haiti-presidential-bid/" },
       { name: "NAGO", url: "https://news.nago.tv/presidentielle-martine-moise-veuve-de-jovenel-moise-sinscrit-sous-la-banniere-du-gad" },
       { name: "Al Jazeera", url: "https://www.aljazeera.com/news/2026/11/16/widow-of-haitis-slain-leader-moise-to-contest-presidential-vote" },
