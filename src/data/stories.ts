@@ -217,29 +217,378 @@ export const STORIES: Story[] = [
   },
 
   {
+    id: "ntk-aan-reprise-vols-toussaint-louverture-decembre-2026-11-27",
+    tier: "need-to-know",
+    topic: "economy",
+    publishedAt: "2026-11-27",
+    publishedTime: "2026-11-27T08:50:00-05:00",
+    headline: {
+      ht: "Ayewopò Toussaint-Louverture: AAN anonse vòl komèsyal yo ka rekòmanse piti piti apati desanm",
+      fr: "Aéroport Toussaint-Louverture : l'AAN annonce une reprise graduelle des vols commerciaux dès décembre",
+    },
+    teaser: {
+      ht: "Direktè AAN an, José Bernard Mathias Schettini, pa bay dat egzak. Entèdiksyon FAA a sou zòn Pòtoprens lan la toujou jiska 2 mas 2027.",
+      fr: "Le directeur de l'AAN, José Bernard Mathias Schettini, n'a pas donné de date précise. L'interdiction de la FAA sur la zone de Port-au-Prince court toujours jusqu'au 2 mars 2027.",
+    },
+    brief: {
+      ht: "Direktè jeneral Otorite ayewopòtyè nasyonal (AAN), José Bernard Mathias Schettini, di jedi 26 novanm 2026 vòl komèsyal yo ta ka rekòmanse piti piti apati mwa desanm nan ayewopò entènasyonal Toussaint-Louverture, nan Pòtoprens. Li pa bay okenn dat egzak.",
+      fr: "Le directeur général de l'Autorité aéroportuaire nationale (AAN), José Bernard Mathias Schettini, a annoncé jeudi 26 novembre 2026 que les vols commerciaux pourraient reprendre progressivement dès décembre à l'aéroport international Toussaint-Louverture de Port-au-Prince. Il n'a pas avancé de date précise.",
+    },
+    body: {
+      ht: "José Bernard Mathias Schettini te pale jedi 26 novanm 2026 nan « État des lieux », randevou chak semèn gouvènman an fè ak laprès nan Vila dakèy, dapre Le Nouvelliste. Dapre repòtaj RTG Ayiti ak plizyè medya sou X (Passion Info Plus, Lentille Info, Basen Verite), li di vòl komèsyal yo ta ka rekòmanse piti piti nan ayewopò Toussaint-Louverture apati mwa desanm. Passion Info Plus ajoute premye operasyon yo ta ka fèt ak konpayi avyasyon ki gen yon lisans ameriken. Pyès nan medya sa yo pa site yon dat oswa non yon konpayi.\n\nDirektè a di ayewopò a pa t janm fèmen, men aktivite yo te ralanti akoz restriksyon sou kèk vòl ak pwoblèm asirans, Lentille Info rapòte. Dapre Basen Verite, li di enfrastrikti a pa gen okenn pwoblèm teknik, e restriksyon yo gen pou wè ak sekirite bò ayewopò a ak kontrent Administrasyon federal avyasyon ameriken an (FAA).\n\nSchettini bay kèk chif tou. Anviwon 141 000 pasaje te konn pase nan Toussaint-Louverture chak ane anvan avyon yo te pran bal an 2024. Kantite a te tonbe a 40 405, epi li remonte a anviwon 96 119 an 2026, sitou gras a vòl pou Brezil yo, dapre Le Nouvelliste. Basen Verite site tou operasyon imanitè ak militè yo.\n\nAAN an vle tou retounen biwo administratif li yo bò plas Hugo Chávez, agrandi espas pou avyon yo pake, epi kontinye kraze kay ki bò ayewopò a. Diskisyon ap fèt ak ministè Travay piblik ak ministè Ekonomi ak Finans pou yo kontinye dedomaje moun yo, dapre Lentille Info.\n\nPou konpayi ameriken yo, FAA a toujou entèdi yo vole anba 10 000 pye sou zòn Pòtoprens lan, dapre NOTAM A0046/26 ki valab soti 1e septanm 2026 rive 2 mas 2027, RHINEWS ak NAGO rapòte. Konpayi ameriken yo sispann vole Pòtoprens depi novanm 2024, lè bal gang te frape plizyè avyon. American Airlines rekòmanse vole Miami-Okap depi 1e novanm 2026, men pa Pòtoprens.",
+      fr: "José Bernard Mathias Schettini s'est exprimé jeudi 26 novembre 2026 lors d'« État des lieux », le rendez-vous hebdomadaire du gouvernement avec la presse à la Villa d'accueil, rapporte Le Nouvelliste. D'après un reportage de la RTG relayé sur X et les comptes rendus de Passion Info Plus, Lentille Info et Basen Verite, il a indiqué que les vols commerciaux pourraient reprendre graduellement à Toussaint-Louverture dès le mois de décembre. Passion Info Plus précise que les premières opérations pourraient être assurées par des compagnies disposant d'une licence américaine. Aucun de ces comptes rendus ne cite de date ni de compagnie.\n\nLe directeur a assuré que l'aéroport n'a jamais été fermé, mais que ses activités ont ralenti à cause des restrictions imposées à certains vols et de difficultés liées aux assurances, selon Lentille Info. Il a ajouté, d'après Basen Verite, que l'infrastructure ne présente aucun problème technique et que les restrictions tiennent à la sécurité autour de l'aéroport et aux contraintes de l'Administration fédérale de l'aviation américaine (FAA).\n\nM. Schettini a aussi avancé des chiffres. Environ 141 000 passagers fréquentaient Toussaint-Louverture chaque année avant les tirs qui ont touché des avions en 2024. Ce nombre est tombé à 40 405, puis il est remonté à environ 96 119 en 2026, notamment grâce à la reprise des vols vers le Brésil, rapporte Le Nouvelliste. Basen Verite cite aussi les opérations humanitaires et militaires.\n\nL'AAN prévoit par ailleurs de réinstaller ses bureaux administratifs près de la place Hugo Chávez, d'agrandir l'aire de stationnement des avions et de poursuivre la démolition de maisons aux abords de l'aéroport. Des discussions sont en cours avec les ministères des Travaux publics et de l'Économie et des Finances pour poursuivre le dédommagement des personnes concernées, selon Lentille Info.\n\nCôté américain, la FAA interdit toujours aux opérateurs concernés de voler sous 10 000 pieds au-dessus de la zone de Port-au-Prince, en vertu du NOTAM A0046/26 en vigueur du 1er septembre 2026 au 2 mars 2027, comme l'ont rapporté RHINEWS et NAGO. Les compagnies américaines ont suspendu leurs vols vers la capitale en novembre 2024, après des tirs de gangs contre plusieurs avions. American Airlines a repris le 1er novembre 2026 une liaison quotidienne Miami-Cap-Haïtien, mais pas vers Port-au-Prince.",
+    },
+    sources: ["AAN","Le Nouvelliste","RTG Haïti","Passion Info Plus","Lentille Info","Basen Verite","RHINEWS","NAGO"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/274321/le-directeur-general-de-laan-jose-b-m-schettini-annonce-de-grands-chantiers" },
+      { name: "RTG Haïti, via Artibonito Infos (X)", url: "https://x.com/ArtibonitoInfos/status/2126114793291419752" },
+      { name: "Passion Info Plus (X)", url: "https://x.com/passioninfoplus/status/2126271538055790956" },
+      { name: "Lentille Info (X)", url: "https://x.com/LentilleInfo/status/2126116747874893912" },
+      { name: "Basen Verite (X)", url: "https://x.com/BasenVerite/status/2126298823374807335" },
+      { name: "RHINEWS, NOTAM de la FAA", url: "https://www.rhinews.com/actualites/american-airlines-reprend-ses-vols-miami-cap-haitien-apres-six-ans-dabsence-port-au-prince-reste-soumis-aux-restrictions-de-la-faa/" },
+      { name: "NAGO", url: "https://nago.tv/news/vols-etats-unis-american-cap-haitien-1er-novembre-port-au-prince-ferme" },
+    ],
+  },
+
+  {
+    id: "ntk-capital-bank-fuite-donnees-100000-clients-2026-11-27",
+    tier: "need-to-know",
+    topic: "economy",
+    publishedAt: "2026-11-27",
+    publishedTime: "2026-11-27T08:48:00-05:00",
+    headline: {
+      ht: "Capital Bank: done plis pase 100 000 kliyan parèt sou yon sit fwit, dapre The Haitian Times",
+      fr: "Capital Bank : les données de plus de 100 000 clients exposées sur un site de fuite, selon The Haitian Times",
+    },
+    teaser: {
+      ht: "Non, nimewo kont, dat ak montan tranzaksyon. Bank lan pa reponn jounal la.",
+      fr: "Noms, numéros de compte, dates et montants de transactions. La banque n'a pas répondu au journal.",
+    },
+    brief: {
+      ht: "The Haitian Times di li jwenn sou yon sit fwit done ki sanble soti nan Capital Bank: enfòmasyon sou kont omwen 100 000 kliyan ak tranzaksyon yo, apre yon swadizan atak sibènetik an oktòb. Bank lan pa reponn kesyon jounal la.",
+      fr: "The Haitian Times affirme avoir trouvé sur un site de fuite des données qui semblent provenir de Capital Bank : des informations sur les comptes d'au moins 100 000 clients et sur leurs transactions, après une présumée cyberattaque en octobre. La banque n'a pas répondu au journal.",
+    },
+    body: {
+      ht: "The Haitian Times pibliye jedi 26 novanm 2026 yon ankèt ki di done ki sanble yo te vòlè nan Capital Bank pandan yon atak sibènetik toujou disponib sou yon sit fwit. Jounal la di li egzamine yon pati nan fichye yo: li jwenn enfòmasyon sou kont omwen 100 000 kliyan, ak non, nimewo kont, depo, transfè, dat ak montan tranzaksyon, rive nan jou pann lan. Jounal la pa bay non sit la pou pwoteje kliyan yo.\n\nCapital Bank pa reponn apèl, imèl ak lèt jounal la te voye ba li mèkredi. Bank lan pa janm konfime piblikman te gen yon demann ranson. Dapre yon sous toupre bank lan, pirat yo te mande plizyè milyon dola pou yo pa pibliye done yo. Yon lòt sous di bank lan refize peye e li envesti anpil nan sekirite, The Haitian Times rapòte.\n\nNan kòmansman oktòb, yon swadizan atak sibènetik te bloke kèk sèvis nimerik bank lan. Dapre jounal la, bank lan te di kliyan yo se te yon pwoblèm teknik. Le 19 oktòb, BRH te pibliye yon avi ki di enstitisyon finansye yo pa otorize negosye ak kriminèl sibènetik k ap mande ranson.\n\nCapital Bank se katriyèm pi gwo bank komèsyal nan peyi a pa kantite aktif, ak anviwon 53 milya goud (400 milyon dola) ak 27 sikisal, dapre The Haitian Times. Yon kliyan ki pale san non l parèt di li choke e li fache paske bank lan pa t di kliyan yo laverite.",
+      fr: "The Haitian Times a publié jeudi 26 novembre 2026 une enquête selon laquelle des données présumément volées à Capital Bank lors d'une cyberattaque restent accessibles sur un site de fuite. Le journal dit avoir examiné une partie des fichiers : ils contiennent des informations sur les comptes d'au moins 100 000 clients, avec noms, numéros de compte, dépôts, transferts, dates et montants des transactions, jusqu'aux jours de la panne. Il ne nomme pas le site, par prudence pour les clients.\n\nCapital Bank n'a répondu ni aux appels, ni aux courriels, ni à la lettre que le journal lui a adressée mercredi. La banque n'a jamais confirmé publiquement une demande de rançon. D'après une source proche de l'établissement citée par The Haitian Times, les pirates ont réclamé plusieurs millions de dollars pour ne pas publier les données. Une autre source affirme que la banque a refusé de payer et a beaucoup investi dans sa sécurité.\n\nDébut octobre, une présumée cyberattaque avait paralysé une partie des services numériques de la banque, qui aurait parlé à ses clients d'un problème technique. Le 19 octobre, la BRH a rappelé dans un avis que les institutions financières ne sont pas autorisées à négocier avec des cybercriminels qui réclament une rançon.\n\nCapital Bank est la quatrième banque commerciale du pays par ses actifs, avec environ 53 milliards de gourdes (400 millions de dollars) et 27 succursales, selon le journal. Une cliente, qui a requis l'anonymat, s'est dite choquée et en colère contre une banque qui, selon elle, n'a pas été franche avec ses clients.",
+    },
+    sources: ["The Haitian Times"],
+    sourceLinks: [
+      { name: "The Haitian Times", url: "https://haitiantimes.com/2026/11/26/more-than-100000-capital-bank-customers-data-appear-in-leak-haitian-times-finds-exclusive/" },
+    ],
+  },
+
+  {
+    id: "qh-cassation-dessaisit-juge-dimanche-lamothe-2026-11-27",
+    tier: "quick-hit",
+    topic: "justice",
+    publishedAt: "2026-11-27",
+    publishedTime: "2026-11-27T08:46:00-05:00",
+    headline: {
+      ht: "Kasasyon retire dosye Laurent Lamothe nan men jij enstriksyon Al Duniel Dimanche",
+      fr: "La Cour de cassation dessaisit le juge Al Duniel Dimanche du dossier Laurent Lamothe",
+    },
+    teaser: {
+      ht: "Se yon lòt jij enstriksyon, dwayen tribinal Pòtoprens lan ap chwazi, ki pral pran dosye koripsyon an.",
+      fr: "Un autre juge d'instruction, désigné par le doyen du tribunal de Port-au-Prince, reprendra ce dossier de corruption.",
+    },
+    brief: {
+      ht: "Dezyèm seksyon Kou kasasyon an retire jij enstriksyon Al Duniel Dimanche nan dosye koripsyon ak trafik enfliyans ki gen ansyen Premye minis Laurent Lamothe ladan l, nan yon arè mardi 24 novanm 2026, dapre Le Nouvelliste.",
+      fr: "La deuxième section de la Cour de cassation a dessaisi le juge d'instruction Al Duniel Dimanche du dossier de corruption et de trafic d'influence visant l'ancien Premier ministre Laurent Lamothe, par un arrêt du mardi 24 novembre 2026, rapporte Le Nouvelliste.",
+    },
+    body: {
+      ht: "Nan arè li bay mardi 24 novanm 2026, dezyèm seksyon Kou kasasyon an mande pou yo konfye dosye a bay yon lòt majistra enstriktè, dwayen tribinal premye enstans Pòtoprens lan ap deziyen, Le Nouvelliste rapòte. Desizyon an fèt apre yon demann pou retire dosye a nan men jij la, Laurent Lamothe te depoze atravè avoka l.\n\nDosye a gen pou wè ak koripsyon ak trafik enfliyans. Le Nouvelliste pa bay rezon Kou a sou fon dosye a nan pati atik la ki disponib pou tout moun.",
+      fr: "Par son arrêt du mardi 24 novembre 2026, la deuxième section de la Cour de cassation a ordonné de confier l'affaire à un autre magistrat instructeur, qui sera désigné par le doyen du tribunal de première instance de Port-au-Prince, écrit Le Nouvelliste. La décision fait suite à une requête en dessaisissement introduite par Laurent Lamothe, par l'intermédiaire de son avocat.\n\nLe dossier porte sur des faits présumés de corruption et de trafic d'influence. La partie de l'article accessible au public ne détaille pas les motifs retenus par la Cour.",
+    },
+    sources: ["Le Nouvelliste"],
+    sourceLinks: [
+      { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/274313/the-court-of-cassation-removes-judge-al-duniel-dimanche-from-the-case-involving-former-prime-minister-laurent-lamothe" },
+    ],
+  },
+
+  {
+    id: "qh-apm-ministre-justice-prison-jacmel-2026-11-27",
+    tier: "quick-hit",
+    topic: "justice",
+    publishedAt: "2026-11-27",
+    publishedTime: "2026-11-27T08:44:00-05:00",
+    headline: {
+      ht: "APM akize minis Jistis la mele nan travay jij yo nan prizon Jakmèl",
+      fr: "L'APM accuse le ministre de la Justice d'ingérence à la prison civile de Jacmel",
+    },
+    teaser: {
+      ht: "Yon videyo ta montre minis la k ap bay lòd pou yo lage yon prizonye. Majistra yo pale de separasyon pouvwa.",
+      fr: "Une vidéo montrerait le ministre ordonnant la libération d'un détenu. Les magistrats invoquent la séparation des pouvoirs.",
+    },
+    brief: {
+      ht: "Asosyasyon pwofesyonèl majistra yo (APM) denonse, nan yon kominike 25 novanm 2026, yon entèvansyon minis Jistis ak Sekirite piblik la nan prizon sivil Jakmèl, kote li ta bay lòd pou yo lage yon detni ki anba otorite jistis depè a, dapre Juno7.",
+      fr: "L'Association professionnelle des magistrats (APM) a dénoncé, dans un communiqué du 25 novembre 2026, une intervention du ministre de la Justice et de la Sécurité publique à la prison civile de Jacmel, où il aurait ordonné la libération d'un détenu placé sous l'autorité de la justice de paix, rapporte Juno7.",
+    },
+    body: {
+      ht: "APM di li wè yon videyo k ap sikile sou rezo sosyal yo, kote minis la ta pale dirèkteman ak yon moun ki nan prizon sivil Jakmèl epi li bay enstriksyon pou yo lage l, Juno7 rapòte. Pou asosyasyon an, sa depase sa lalwa pèmèt yon manm egzekitif fè, e se yon atak kont separasyon pouvwa ak endepandans jistis la.\n\nAPM raple se jij abeyas kòpis la sèl ki ka egzamine si yon detansyon legal epi bay lòd pou yo lage yon moun. Minis la gen pou l defini ak aplike politik penal gouvènman an e li gen otorite sou komisè gouvènman yo, men li pa ka ranplase majistra yo, dapre kominike a. Juno7 pa site non detni a, e minis la pa t reponn piblikman nan atik la.",
+      fr: "L'APM dit avoir pris connaissance d'une vidéo diffusée sur les réseaux sociaux, qui montrerait le ministre intervenant directement auprès d'une personne détenue à la prison civile de Jacmel et donnant des instructions en vue de sa libération, selon Juno7. Pour l'association, ce geste dépasse les attributions légales d'un membre de l'exécutif et porte atteinte à la séparation des pouvoirs et à l'indépendance de la justice.\n\nL'APM rappelle que seul le juge de l'habeas corpus peut examiner la légalité d'une détention et, le cas échéant, ordonner une remise en liberté. Le ministre définit et met en œuvre la politique pénale du gouvernement et exerce l'autorité hiérarchique prévue sur les commissaires du gouvernement, mais il ne peut pas se substituer aux magistrats, souligne le communiqué. Juno7 ne précise pas l'identité du détenu, et l'article ne fait état d'aucune réaction publique du ministre.",
+    },
+    sources: ["APM","Juno7"],
+    sourceLinks: [
+      { name: "Juno7", url: "https://www.juno7.ht/apm-denonce-intervention-ministre-justice-jacmel/" },
+    ],
+  },
+
+  {
+    id: "qh-gran-grif-drouet-quatre-morts-spvda-2026-11-27",
+    tier: "quick-hit",
+    topic: "security",
+    publishedAt: "2026-11-27",
+    publishedTime: "2026-11-27T08:42:00-05:00",
+    headline: {
+      ht: "Ba Latibonit: omwen 4 moun mouri, ladan yo yon timoun, nan yon atak Gran Grif nan Mòdwe, dapre SPVDA",
+      fr: "Bas-Artibonite : au moins 4 morts, dont un enfant, dans une attaque de Gran Grif à Drouet, selon le SPVDA",
+    },
+    teaser: {
+      ht: "Bilan sendika peyizan an poko konfime pa otorite yo. Li mande FRG a mete baz nan vale a.",
+      fr: "Le bilan du syndicat paysan n'a pas été confirmé par les autorités. Il réclame des bases de la FRG dans la vallée.",
+    },
+    brief: {
+      ht: "Omwen 4 moun, ladan yo yon timoun, mouri anba bal jedi maten 26 novanm 2026 nan Mòdwe (Drouet), nan yon atak gang Gran Grif, dapre René Charles, prezidan Sendika plantè vizyonè pou devlopman Latibonit (SPVDA), Rezo Nòdwès rapòte. Otorite yo poko konfime bilan an.",
+      fr: "Au moins quatre personnes, dont un enfant, ont été tuées par balle jeudi matin 26 novembre 2026 à Mòdwe (Drouet), lors d'une attaque du gang Gran Grif, selon René Charles, président du Syndicat des planteurs visionnaires pour le développement de l'Artibonite (SPVDA), cité par Rezo Nòdwès. Les autorités n'ont pas confirmé ce bilan.",
+    },
+    body: {
+      ht: "Dapre René Charles, plizyè lòt moun blese, youn ladan yo grav. Atakan yo ta tire sou moun pou yo kraze yon barikad popilasyon an te monte pou anpeche gang lan avanse, li di Rezo Nòdwès.\n\nSendikalis la mande poukisa Fòs pou kraze gang yo (FRG) poko deplwaye nan Ba Latibonit, malgre moun zòn nan ap mande l e malgre fòs la prezan nan lòt kote nan depatman an. Li mande Polis nasyonal la ak kòmandman FRG a pou yo etabli baz operasyon nan vale Latibonit la san pèdi tan. Bilan li bay la poko konfime pa okenn otorite.",
+      fr: "D'après René Charles, plusieurs autres personnes ont été blessées, dont une grièvement. Les assaillants auraient ouvert le feu sur des habitants pour démanteler une barricade dressée par la population afin de freiner la progression du gang, a-t-il expliqué à Rezo Nòdwès.\n\nLe syndicaliste s'interroge sur l'absence de déploiement de la Force de répression des gangs (FRG) dans le Bas-Artibonite, malgré les appels des habitants et la présence de cette force dans d'autres secteurs du département. Il demande à la PNH et au commandement de la FRG d'installer sans délai des bases opérationnelles dans la vallée de l'Artibonite. Son bilan n'a été confirmé par aucune autorité.",
+    },
+    sources: ["SPVDA","Rezo Nòdwès"],
+    sourceLinks: [
+      { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/haiti-bas-artibonite-quatre-morts-dont-un-enfant-dans-une-nouvelle-attaque-du-gang-gran-grif-selon-le-spvda/" },
+    ],
+  },
+
+  {
+    id: "qh-oms-moitie-etablissements-sante-capitale-hors-service-2026-11-27",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-27",
+    publishedTime: "2026-11-27T08:40:00-05:00",
+    headline: {
+      ht: "OMS: prèske mwatye etablisman sante nan kapital la pa fonksyone",
+      fr: "OMS : près de la moitié des établissements de santé de la capitale hors service",
+    },
+    teaser: {
+      ht: "Tedros Adhanom Ghebreyesus anonse 1 milyon dola pou Lopital inivèsitè La Pè, sèl gwo lopital piblik ki rete nan kapital la.",
+      fr: "Tedros Adhanom Ghebreyesus a annoncé 1 million de dollars pour l'Hôpital universitaire La Paix, seul hôpital public de référence encore ouvert dans la capitale.",
+    },
+    brief: {
+      ht: "Prèske mwatye etablisman sante nan Pòtoprens pa fonksyone ankò e 12 % mache yon ti kras sèlman, dapre Òganizasyon mondyal lasante (OMS), ki te bay bilan sa a mèkredi 25 novanm 2026 pandan vizit direktè jeneral li an Ayiti.",
+      fr: "Près de la moitié des établissements de santé de Port-au-Prince ne fonctionnent plus et 12 % ne sont que partiellement opérationnels, selon l'Organisation mondiale de la santé (OMS), qui a dressé ce bilan mercredi 25 novembre 2026 lors de la visite de son directeur général en Haïti.",
+    },
+    body: {
+      ht: "Sou tout peyi a, prèske yon ka nan estrikti sante yo fèmen, e anviwon 4,9 milyon moun bezwen èd medikal an 2026, dapre OMS, Rezo Nòdwès rapòte. « Etablisman sante oblije fèmen pòt yo e twòp fanmi pa ka jwenn sèvis sante debaz », Tedros Adhanom Ghebreyesus di nan yon konferans pou laprès.\n\nNan vizit li nan Lopital inivèsitè La Pè, nan Dèlma 33, direktè OMS la anonse yon èd 1 milyon dola pou achte yon eskanè ak ekipe 4 sal operasyon. Depi janvye, lopital sa a resevwa plis pase 19 575 pasyan nan ijans, ladan yo 291 moun ki pran bal, li fè 3 086 operasyon e li okipe 1 442 akouchman ki gen gwo risk.\n\nMiami Herald di OMS pale tou de vyolans, deplasman moun ak finansman entènasyonal ki diminye. Minis Sante a te anonse deja Lopital jeneral (HUEH) ap relouvri 2 desanm.",
+      fr: "À l'échelle du pays, près d'un quart des structures sanitaires sont hors service et quelque 4,9 millions de personnes ont besoin d'une assistance médicale en 2026, d'après l'OMS, citée par Rezo Nòdwès. « Des établissements de santé ont été contraints de fermer leurs portes et trop de familles ne peuvent accéder aux services sanitaires les plus élémentaires », a déclaré Tedros Adhanom Ghebreyesus en conférence de presse.\n\nEn visite à l'Hôpital universitaire La Paix, à Delmas 33, le directeur de l'OMS a annoncé une aide d'un million de dollars pour l'achat d'un scanner et l'équipement de quatre salles d'opération. Depuis janvier, cet hôpital a reçu plus de 19 575 patients aux urgences, dont 291 blessés par balle, réalisé 3 086 interventions chirurgicales et pris en charge 1 442 accouchements à haut risque.\n\nLe Miami Herald relève que l'OMS a mis en cause les violences armées, les déplacements de population et la baisse des financements internationaux. Le ministre de la Santé avait déjà annoncé la réouverture de l'Hôpital général (HUEH) pour le 2 décembre.",
+    },
+    sources: ["OMS","Rezo Nòdwès","Miami Herald"],
+    sourceLinks: [
+      { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/haiti-pres-de-la-moitie-des-etablissements-sanitaires-de-la-capitale-hors-service-alerte-loms/" },
+      { name: "Miami Herald", url: "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article318268211.html" },
+    ],
+  },
+
+  {
+    id: "qh-site-dcpj-message-piratage-2026-11-27",
+    tier: "quick-hit",
+    topic: "tech",
+    publishedAt: "2026-11-27",
+    publishedTime: "2026-11-27T08:38:00-05:00",
+    headline: {
+      ht: "Sit entènèt DCPJ a afiche yon mesaj ki di li pirate",
+      fr: "Le site de la DCPJ affiche un message affirmant qu'il a été piraté",
+    },
+    teaser: {
+      ht: "« Hacked by Gothic Panda » te parèt jedi. Lis moun polis ap chèche yo pa t ka chaje pandan kèk èdtan.",
+      fr: "« Hacked by Gothic Panda » est apparu jeudi. La liste des personnes recherchées n'a pas pu s'afficher pendant quelques heures.",
+    },
+    brief: {
+      ht: "Yon mesaj « Hacked by Gothic Panda » parèt jedi 26 novanm 2026 sou paj dakèy sit Direksyon santral polis jidisyè a (DCPJ). Kèk èdtan apre, avi moun polis ap chèche yo pa t ka chaje, anvan sit la te retabli nan aswè, dapre The Haitian Times.",
+      fr: "Un message « Hacked by Gothic Panda » est apparu jeudi 26 novembre 2026 sur la page d'accueil du site de la Direction centrale de la police judiciaire (DCPJ). Quelques heures plus tard, les avis de recherche ne s'affichaient plus, avant que le site ne soit rétabli en soirée, rapporte The Haitian Times.",
+    },
+    body: {
+      ht: "Yon itilizatè X te siyale mesaj la a 1 è 26 apremidi, e li te tag Polis nasyonal la, dapre The Haitian Times. Mesaj la te parèt anlè logo PNH a. Lè jounal la tcheke sit la ta nan apremidi a, avi moun polis ap chèche yo ak nouvèl yo pa t ka chaje.\n\nJounal la di li pa klè ki moun ki mete mesaj la, si li gen rapò ak pann lan, ni si yon moun te rive nan dosye polis yo. DCPJ te lanse sit la an novanm 2025 pou piblik la ka chèche moun polis ap chèche, tankou prizonye ki sove. PNH pa t fè okenn deklarasyon piblik sou sa nan atik la. Ensidan an rive menm lè The Haitian Times pibliye yon ankèt sou yon fwit done kliyan Capital Bank.",
+      fr: "Un internaute a signalé le message sur X à 13 h 26 en mentionnant la Police nationale, selon The Haitian Times. Le message s'affichait au-dessus du bandeau de la PNH. Lorsque le journal a consulté le site en fin d'après-midi, les avis de recherche et les actualités ne se chargeaient plus.\n\nOn ignore qui a publié ce message, s'il est lié à la panne et si des dossiers de police ont été consultés, précise le journal. La DCPJ a lancé ce site en novembre 2025 pour permettre au public de rechercher, par nom ou par surnom, des personnes recherchées, dont des évadés. L'article ne fait état d'aucune déclaration de la PNH. L'incident survient alors que The Haitian Times a aussi révélé une fuite de données de clients de Capital Bank.",
+    },
+    sources: ["The Haitian Times"],
+    sourceLinks: [
+      { name: "The Haitian Times", url: "https://haitiantimes.com/2026/11/26/haitis-judicial-police-website-displays-claim-it-was-hacked-breaking-news/" },
+    ],
+  },
+
+  {
+    id: "qh-conatel-signature-electronique-qualifiee-2026-11-27",
+    tier: "quick-hit",
+    topic: "tech",
+    publishedAt: "2026-11-27",
+    publishedTime: "2026-11-27T08:36:00-05:00",
+    headline: {
+      ht: "Siyati elektwonik: CONATEL pibliye nòm teknik pou prestatè sèvis konfyans yo",
+      fr: "Signature électronique : le CONATEL publie les normes techniques des prestataires de services de confiance",
+    },
+    teaser: {
+      ht: "Sikilè a parèt nan Le Moniteur 20 novanm. Li louvri chemen pou siyati elektwonik kalifye a.",
+      fr: "La circulaire a paru au Moniteur du 20 novembre. Elle ouvre la voie à la signature électronique qualifiée.",
+    },
+    brief: {
+      ht: "Konsèy nasyonal telekominikasyon (CONATEL) di yon sikilè ki fikse nòm teknik ak fason pou prestatè sèvis konfyans yo travay parèt nan jounal ofisyèl Le Moniteur 20 novanm 2026, HaitiLibre ak Rezo Nòdwès rapòte.",
+      fr: "Le Conseil national des télécommunications (CONATEL) indique que la circulaire fixant les normes techniques et les modalités opérationnelles des prestataires de services de confiance a paru au journal officiel Le Moniteur du 20 novembre 2026, rapportent HaitiLibre et Rezo Nòdwès.",
+    },
+    body: {
+      ht: "Lwa ayisyen an rekonèt deja siyati elektwonik senp ak avanse yo, dapre CONATEL. Nouvo sikilè a mete kondisyon teknik ak operasyonèl pou siyati elektwonik kalifye a, nivo ki pi sekirize a.\n\nTèks la di ki egzijans teknik, òganizasyonèl ak operasyonèl prestatè sèvis konfyans yo dwe respekte. Se antite sa yo ki pral bay sèvis ak enfrastrikti pou sètifye siyati yo, HaitiLibre rapòte. CONATEL pa bay dat pou premye prestatè yo kòmanse travay.",
+      fr: "Le cadre juridique haïtien reconnaît déjà les signatures électroniques simple et avancée, rappelle le CONATEL. La nouvelle circulaire fixe les conditions techniques et opérationnelles de la signature électronique qualifiée, le niveau le plus élevé de sécurité.\n\nLe texte précise les exigences techniques, organisationnelles et opérationnelles que devront remplir les prestataires de services de confiance, chargés de fournir les services et les infrastructures de certification, selon HaitiLibre. Le CONATEL n'a pas indiqué quand les premiers prestataires pourraient entrer en activité.",
+    },
+    sources: ["CONATEL","HaitiLibre","Rezo Nòdwès"],
+    sourceLinks: [
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48985-haiti-technologie-signature-electronique-une-etape-majeure-vient-d-etre-franchie.html" },
+      { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/haiti-le-conatel-franchit-une-nouvelle-etape-vers-la-generalisation-de-la-signature-electronique/" },
+    ],
+  },
+
+  {
+    id: "qh-digicel-perturbations-route-nationale-1-2026-11-27",
+    tier: "quick-hit",
+    topic: "tech",
+    publishedAt: "2026-11-27",
+    publishedTime: "2026-11-27T08:34:00-05:00",
+    headline: {
+      ht: "Wout nasyonal 1: Digicel anonse nouvo pèturbasyon akoz domaj sou enfrastrikti l",
+      fr: "Route nationale 1 : Digicel annonce de nouvelles perturbations après des dégâts sur ses installations",
+    },
+    teaser: {
+      ht: "Teknisyen yo jwenn zòn nan men tire nan sektè a anpeche yo rive repare.",
+      fr: "Les techniciens ont localisé la zone touchée, mais des tirs dans le secteur compliquent l'accès.",
+    },
+    brief: {
+      ht: "PDG Digicel, Jean Philippe Brun, avèti kliyan yo jedi 26 novanm 2026 sou nouvo pèturbasyon sèvis sou Wout nasyonal 1 apati 11 è, akoz lòt domaj sou enfrastrikti konpayi a, Vant Bèf Info rapòte.",
+      fr: "Le PDG de Digicel, Jean Philippe Brun, a prévenu jeudi 26 novembre 2026 de nouvelles perturbations des services sur la Route nationale 1 à partir de 11 heures, à la suite de nouveaux dégâts sur les infrastructures de la compagnie, rapporte Vant Bèf Info.",
+    },
+    body: {
+      ht: "Nan yon mesaj sou rezo sosyal yo, Jean Philippe Brun di teknisyen yo jwenn zòn ki touche a, men tire yo siyale nan zòn nan ap konplike travay reparasyon an, dapre Vant Bèf Info. Ekip yo ap evalye ki jan pou yo rive la san yo pa mete pèsonèl la an danje.\n\nDigicel pa di konbyen tan pèturbasyon yo ap dire ni ki sèvis ki touche.",
+      fr: "Dans un message publié sur les réseaux sociaux, Jean Philippe Brun a indiqué que les techniciens ont localisé la zone touchée, mais que des tirs signalés dans le secteur compliquent les réparations, selon Vant Bèf Info. Les équipes évaluent les possibilités d'accès sans exposer le personnel.\n\nDigicel n'a précisé ni la durée des perturbations ni les services concernés.",
+    },
+    sources: ["Digicel","Vant Bèf Info"],
+    sourceLinks: [
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/route-nationale-no-1-digicel-annonce-de-nouvelles-perturbations-de-ses-services/" },
+    ],
+  },
+
+  {
+    id: "qh-brh-taux-reference-130-84-2026-11-27",
+    tier: "quick-hit",
+    topic: "economy",
+    publishedAt: "2026-11-27",
+    publishedTime: "2026-11-27T08:32:00-05:00",
+    headline: {
+      ht: "BRH: to referans lan desann a 130,84 goud pou 1 dola vandredi",
+      fr: "BRH : le taux de référence recule à 130,84 gourdes pour 1 dollar vendredi",
+    },
+    teaser: {
+      ht: "Yon ti bès 0,04 % sou jou anvan an. Tranzaksyon bank yo bese plis pase 20 %.",
+      fr: "Un léger recul de 0,04 % sur la veille. Les transactions bancaires baissent de plus de 20 %.",
+    },
+    brief: {
+      ht: "Bank repiblik Ayiti (BRH) fikse to referans vandredi 27 novanm 2026 la a 130,8352 goud pou 1 dola ameriken, 0,04 % mwens pase jou anvan an.",
+      fr: "La Banque de la République d'Haïti (BRH) a fixé le taux de référence du vendredi 27 novembre 2026 à 130,8352 gourdes pour 1 dollar américain, soit 0,04 % de moins que la veille.",
+    },
+    body: {
+      ht: "Bank repiblik Ayiti (BRH) fikse to referans vandredi 27 novanm 2026 la a 130,8352 goud pou 1 dola ameriken, dapre paj « Taux du jour » li. Se 0,04 % mwens pase jou anvan an, 0,01 % plis pase sa gen yon semèn e 0,10 % plis pase sa gen yon ane. Jedi, to a te 130,8901 goud.\n\nTo mwayen akizisyon (TMA) a rive 131,7932 goud. Tranzaksyon bank yo te rive anviwon 15,92 milyon dola nan acha ak 15,83 milyon nan vant, yon bès 22 % ak 24 % sou jou anvan an, dapre BRH.",
+      fr: "La Banque de la République d'Haïti (BRH) a fixé le taux de référence du vendredi 27 novembre 2026 à 130,8352 gourdes pour 1 dollar américain, selon sa page « Taux du jour ». C'est 0,04 % de moins que la veille, 0,01 % de plus qu'il y a une semaine et 0,10 % de plus qu'il y a un an. Jeudi, le taux était de 130,8901 gourdes.\n\nLe taux moyen d'acquisition (TMA) s'établit à 131,7932 gourdes. Les transactions bancaires ont atteint environ 15,92 millions de dollars à l'achat et 15,83 millions à la vente, en baisse de 22 % et de 24 % sur la veille, selon la BRH.",
+    },
+    sources: ["BRH","Vant Bèf Info"],
+    sourceLinks: [
+      { name: "BRH", url: "https://www.brh.ht/taux-du-jour/" },
+      { name: "Vant Bèf Info", url: "https://vantbefinfo.com/taux-de-reference-de-la-brh-pour-le-27-novembre-2026/" },
+    ],
+  },
+
+  {
+    id: "qh-adiff-new-york-trois-films-haitiens-2026-11-27",
+    tier: "quick-hit",
+    topic: "society",
+    publishedAt: "2026-11-27",
+    publishedTime: "2026-11-27T08:30:00-05:00",
+    headline: {
+      ht: "Nouyòk: twa fim ki gen lyen ak Ayiti nan festival fim dyaspora afriken an (ADIFF)",
+      fr: "New York : trois films liés à Haïti au festival du film de la diaspora africaine (ADIFF)",
+    },
+    teaser: {
+      ht: "« Marie Madeleine » Gessica Généus, « The Last Meal » Maryse Legagneur ak « Melodrama » ak Jimmy Jean-Louis, soti 27 novanm rive 13 desanm.",
+      fr: "« Marie Madeleine » de Gessica Généus, « The Last Meal » de Maryse Legagneur et « Melodrama » avec Jimmy Jean-Louis, du 27 novembre au 13 décembre.",
+    },
+    brief: {
+      ht: "Twa fim ki gen lyen ak Ayiti ap pase nan 34yèm Festival entènasyonal fim dyaspora afriken an (ADIFF), nan Nouyòk, soti 27 novanm rive 13 desanm 2026, The Haitian Times rapòte.",
+      fr: "Trois films liés à Haïti figurent au programme du 34e Festival international du film de la diaspora africaine (ADIFF), à New York, du 27 novembre au 13 décembre 2026, rapporte The Haitian Times.",
+    },
+    body: {
+      ht: "Festival la ap montre « Marie Madeleine », fim reyalizatris ayisyen Gessica Généus; « The Last Meal », yon koprodiksyon Kanada-Ayiti Maryse Legagneur reyalize; ak « Melodrama », yon fim dominiken ak aktè ayisyen Jimmy Jean-Louis, dapre The Haitian Times.\n\nFim yo pale de lafwa, egzil, prejije rasyal, idantite ak relasyon ant moun de bò fwontyè a. « Istwa sa yo bay eksperyans ayisyen an yon figi moun », òganizatè festival la di jounal la. The Haitian Times note tou fim sa yo gen difikilte pou jwenn distribitè Ozetazini.",
+      fr: "Le festival présente « Marie Madeleine », de la réalisatrice haïtienne Gessica Généus, « The Last Meal », une coproduction Canada-Haïti réalisée par Maryse Legagneur, et « Melodrama », un film dominicain avec l'acteur haïtien Jimmy Jean-Louis, selon The Haitian Times.\n\nLes trois films abordent la foi, l'exil, les préjugés raciaux, l'identité et les relations de part et d'autre de la frontière. « Ces histoires humanisent l'expérience haïtienne », ont dit les organisateurs au journal, qui relève aussi la difficulté de ces œuvres à trouver un distributeur aux États-Unis.",
+    },
+    sources: ["The Haitian Times"],
+    sourceLinks: [
+      { name: "The Haitian Times", url: "https://haitiantimes.com/2026/11/27/haitian-films-african-diaspora-film-festival-2026/" },
+    ],
+  },
+
+  {
+    id: "qh-u14-grenadiers-battent-rc-lens-2-0-2026-11-27",
+    tier: "quick-hit",
+    topic: "sports",
+    publishedAt: "2026-11-27",
+    publishedTime: "2026-11-27T08:28:00-05:00",
+    headline: {
+      ht: "U14: jèn Grenadye yo bat RC Lens 2-0 epi yo rete san pèdi an Frans",
+      fr: "U14 : les jeunes Grenadiers battent le RC Lens 2-0 et restent invaincus en France",
+    },
+    teaser: {
+      ht: "Twazyèm match estaj la. Rolando Calixte ak Ronelson Pelé Janvier make gòl yo.",
+      fr: "Troisième match du stage. Rolando Calixte et Ronelson Pelé Janvier ont marqué.",
+    },
+    brief: {
+      ht: "Seleksyon ayisyen U14 la bat ekip U14 RC Lens la 2-0 jedi 26 novanm 2026, nan twazyèm match estaj li nan nò Lafrans, dapre Federasyon ayisyen foutbòl (FHF), NAGO rapòte.",
+      fr: "La sélection haïtienne des moins de 14 ans a battu l'équipe U14 du RC Lens 2-0 jeudi 26 novembre 2026, lors de son troisième match de stage dans le nord de la France, selon la Fédération haïtienne de football (FHF), citée par NAGO.",
+    },
+    body: {
+      ht: "Rolando Calixte, yo rele « Ti Loulou », ak Ronelson Pelé Janvier make de gòl yo, dapre federasyon an. Apre twa match, ekip la poko pèdi: 1-1 kont Olympique Liévin U14, 8-0 kont Zulte Waregem U14, epi 2-0 kont klib ki resevwa l la. Se Jean Marc Alexandre ak Charles Hérold Jr. ki antrenè ekip la.",
+      fr: "Rolando Calixte, surnommé « Ti Loulou », et Ronelson Pelé Janvier ont marqué les deux buts, selon la fédération. Après trois rencontres, les jeunes Grenadiers restent invaincus : 1-1 contre l'Olympique Liévin U14, 8-0 contre Zulte Waregem U14, puis 2-0 face au club qui les accueille. Le groupe est dirigé par Jean Marc Alexandre et Charles Hérold Jr.",
+    },
+    sources: ["FHF","NAGO"],
+    sourceLinks: [
+      { name: "NAGO", url: "https://nago.tv/news/u14-les-jeunes-grenadiers-battent-le-rc-lens-2-0-et-restent-invaincus-en-france" },
+    ],
+  },
+
+  {
     id: "ntk-kenscoff-bongars-attaque-marche-2026-11-26",
     tier: "need-to-know",
     topic: "security",
+    isFollowUp: true,
     publishedAt: "2026-11-26",
-    publishedTime: "2026-11-26T08:45:00-05:00",
+    publishedTime: "2026-11-27T08:52:00-05:00",
     headline: {
-      ht: "Kenscoff: omwen 10 moun mouri ak 7 blese nan yon atak gang sou yon mache nan Bongars",
-      fr: "Kenscoff : au moins 10 morts et 7 blessés dans une attaque de gang contre un marché de Bongars",
+      ht: "Kenscoff: bilan atak sou mache Bongars la monte a 11 mò, dapre majistra a",
+      fr: "Kenscoff : le bilan de l'attaque du marché de Bongars passe à 11 morts, selon le maire",
     },
     teaser: {
-      ht: "Atak la fèt anviwon 4 è nan maten mèkredi. PNH di li lanse yon operasyon ak elikoptè nan Bongars ak Klemanso.",
-      fr: "L'attaque a eu lieu vers 4 heures mercredi matin. La PNH dit avoir lancé une opération appuyée par des hélicoptères à Bongars et à Clémenceau.",
+      ht: "Majistra Jean Max Duvivier di bandi yo tire sou moun yo a bout pòtan. Rechèch ap kontinye pou moun ki disparèt.",
+      fr: "Le maire Jean Max Duvivier dit que les bandits ont tiré à bout portant. Les recherches continuent pour retrouver des disparus.",
     },
     brief: {
-      ht: "Gang ame atake peyizan ki te nan yon mache enfòmèl nan Bongars, nan komin Kenscoff, mèkredi 25 novanm 2026. Omwen 10 moun mouri e 7 lòt blese pa bal ak kout machèt, dapre PNH ki site CASEC zòn nan.",
-      fr: "Des hommes armés ont attaqué des paysans réunis sur un marché informel à Bongars, dans la commune de Kenscoff, mercredi 25 novembre 2026. Au moins 10 personnes ont été tuées et 7 blessées par balles et à coups de machette, selon la PNH, qui cite le CASEC de la zone.",
+      ht: "Majistra Kenscoff, Jean Max Duvivier, di jedi 26 novanm 2026 atak gang mèkredi a sou mache Bòlòs, nan Bongars, fè 11 mò ak plizyè blese. PNH te bay yon premye bilan 10 mò ak 7 blese.",
+      fr: "Le maire de Kenscoff, Jean Max Duvivier, a fait état jeudi 26 novembre 2026 de 11 morts et de plusieurs blessés dans l'attaque de gang de mercredi contre le marché Bòlòs, à Bongars. La PNH avait d'abord annoncé 10 morts et 7 blessés.",
     },
     body: {
-      ht: "Atak la fèt anviwon 4 è nan maten mèkredi 25 novanm 2026, nan dezyèm seksyon kominal Kenscoff, dapre yon nòt Direksyon kominikasyon Lapolis (DICOP) Le Quotidien 509 relè. Moun ame yo te soti Klemanso, yon lokalite ki lwen sant komin nan. Le Nouvelliste ekri yo te kache Klemanso, yo kontounen Belot epi yo pase Chauffard pou yo tonbe sou moun ki te nan mache a. Bilan 10 mò ak 7 blese a soti nan CASEC Bongars, Renold Vertus, e PNH pibliye l. Se yon bilan pwovizwa. Le Quotidien 509, nan yon rezime an kreyòl, pale de 11 mò ak 9 blese, men chif ofisyèl la rete 10 mò.\n\nPNH di li mobilize inite li yo ak Task Force la pou yon operasyon nan Bongars ak Klemanso, ak sipò elikoptè, pou lokalize e neutralize moun ame yo. NAGO presize Task Force sa a se yon ekip sekirite prive sosyete ameriken Vectus Global ki travay pou gouvènman an. Lapolis poko bay okenn bilan sou moun ki te atake yo. Wo kòmandman PNH a di li bay chèf inite espesyalize yo ak direktè depatmantal yo lòd pou yo ranfòse operasyon rechèch nan seksyon kominal yo ak nan tout depatman yo.\n\nMeri Kenscoff la pibliye yon nòt (ref. MK/BM-1842) menm jou a, kote li pale de yon atak sou mache Bolosse, nan seksyon Bongars. Li di « enyèm atak mòtèl » sa a montre jan dispozitif sekirite a fèb toujou e jan travay konsolidasyon teritwa a pa ase. Meri a mande pou yo pwoteje mache piblik yo e pou yo kenbe zòn yo reprann yo, dapre Le Quotidien 509.\n\nVant Bèf Info raple atak la fèt anviwon 15 jou apre premye minis Alix Didier Fils-Aimé te distribye entran agrikòl nan Kenscoff e te ankouraje moun ki te deplase yo retounen lakay yo. Li vini tou yon jou apre PNH ak Fòs represyon gang yo (FRG) te anonse senk baz operasyonèl avanse, youn ladan yo nan Kenscoff. EFE, Diario Libre relè, rapòte menm bilan an.",
-      fr: "L'attaque a eu lieu vers 4 heures du matin, mercredi 25 novembre 2026, dans la deuxième section communale de Kenscoff, selon un communiqué de la Direction de la communication de la police (DICOP) relayé par Le Quotidien 509. Les assaillants venaient de Clémenceau, une localité éloignée du centre de la commune. D'après Le Nouvelliste, ils se sont cachés à Clémenceau, ont contourné Belot et sont passés par Chauffard avant de s'en prendre aux personnes présentes sur le marché. Le bilan de 10 morts et 7 blessés vient du CASEC de Bongars, Renold Vertus, et la PNH l'a repris. Il reste provisoire. Le Quotidien 509, dans un résumé en créole, a avancé 11 morts et 9 blessés, mais le chiffre officiel est toujours de 10 morts.\n\nLa PNH dit avoir mobilisé ses unités, avec la Task Force, pour une opération à Bongars et à Clémenceau, appuyée par des hélicoptères, afin de localiser et de neutraliser les hommes armés. NAGO précise que cette Task Force est une équipe de sécurité privée de la société américaine Vectus Global, qui travaille pour le gouvernement. La police n'a communiqué aucun bilan du côté des assaillants. Son haut commandement dit avoir ordonné aux chefs des unités spécialisées et aux directeurs départementaux de renforcer les opérations de recherche dans les sections communales et dans tous les départements.\n\nLa mairie de Kenscoff a publié le même jour une note (réf. MK/BM-1842), où elle parle d'une attaque contre le marché de Bolosse, dans la section de Bongars. Elle y voit une « énième offensive meurtrière » qui montre la fragilité du dispositif de sécurisation et l'insuffisance de la consolidation territoriale. La mairie demande de protéger les marchés publics et de tenir durablement les zones reprises, rapporte Le Quotidien 509.\n\nVant Bèf Info rappelle que l'attaque est survenue une quinzaine de jours après une distribution d'intrants agricoles à Kenscoff, au cours de laquelle le Premier ministre Alix Didier Fils-Aimé avait encouragé les déplacés à rentrer chez eux. Elle est aussi venue au lendemain de l'annonce, par la PNH et la Force de répression des gangs (FRG), de cinq bases opérationnelles avancées, dont une à Kenscoff. L'agence EFE, reprise par Diario Libre, a fait état du même bilan.",
+      ht: "SWIVI, 27 novanm: Majistra Kenscoff, Jean Max Duvivier, di sou Magik9 jedi 26 novanm 2026 atak la fè 11 mò ak plizyè blese, Le Nouvelliste rapòte. « Se yon mache. Pa t gen echanj tire. Bandi yo debake epi yo tire sou moun yo a bout pòtan », li di. Rechèch ap kontinye pou jwenn lòt moun ki disparèt, e majistra a mande popilasyon an veye zo l. HaitiLibre pale de omwen 17 viktim, mò ak blese ansanm.\n\nAtak la fèt anviwon 4 è nan maten mèkredi 25 novanm 2026, nan dezyèm seksyon kominal Kenscoff, dapre yon nòt Direksyon kominikasyon Lapolis (DICOP) Le Quotidien 509 relè. Moun ame yo te soti Klemanso, yon lokalite ki lwen sant komin nan. Le Nouvelliste ekri yo te kache Klemanso, yo kontounen Belot epi yo pase Chauffard pou yo tonbe sou moun ki te nan mache a. Bilan 10 mò ak 7 blese a soti nan CASEC Bongars, Renold Vertus, e PNH pibliye l. Se yon bilan pwovizwa. Le Quotidien 509, nan yon rezime an kreyòl, pale de 11 mò ak 9 blese, men chif ofisyèl la rete 10 mò.\n\nPNH di li mobilize inite li yo ak Task Force la pou yon operasyon nan Bongars ak Klemanso, ak sipò elikoptè, pou lokalize e neutralize moun ame yo. NAGO presize Task Force sa a se yon ekip sekirite prive sosyete ameriken Vectus Global ki travay pou gouvènman an. Lapolis poko bay okenn bilan sou moun ki te atake yo. Wo kòmandman PNH a di li bay chèf inite espesyalize yo ak direktè depatmantal yo lòd pou yo ranfòse operasyon rechèch nan seksyon kominal yo ak nan tout depatman yo.\n\nMeri Kenscoff la pibliye yon nòt (ref. MK/BM-1842) menm jou a, kote li pale de yon atak sou mache Bolosse, nan seksyon Bongars. Li di « enyèm atak mòtèl » sa a montre jan dispozitif sekirite a fèb toujou e jan travay konsolidasyon teritwa a pa ase. Meri a mande pou yo pwoteje mache piblik yo e pou yo kenbe zòn yo reprann yo, dapre Le Quotidien 509.\n\nVant Bèf Info raple atak la fèt anviwon 15 jou apre premye minis Alix Didier Fils-Aimé te distribye entran agrikòl nan Kenscoff e te ankouraje moun ki te deplase yo retounen lakay yo. Li vini tou yon jou apre PNH ak Fòs represyon gang yo (FRG) te anonse senk baz operasyonèl avanse, youn ladan yo nan Kenscoff. EFE, Diario Libre relè, rapòte menm bilan an.",
+      fr: "SUIVI, 27 novembre : le maire de Kenscoff, Jean Max Duvivier, a déclaré jeudi 26 novembre 2026 sur Magik9 que l'attaque a fait 11 morts et plusieurs blessés, rapporte Le Nouvelliste. « C'est un marché. Il n'y a pas eu d'échanges de tirs. Les bandits ont fait irruption et ont tiré sur les gens à bout portant », a-t-il déploré. Les recherches se poursuivent pour retrouver d'autres personnes portées disparues, et le maire a appelé la population à la vigilance. HaitiLibre fait état d'au moins 17 victimes, morts et blessés confondus.\n\nL'attaque a eu lieu vers 4 heures du matin, mercredi 25 novembre 2026, dans la deuxième section communale de Kenscoff, selon un communiqué de la Direction de la communication de la police (DICOP) relayé par Le Quotidien 509. Les assaillants venaient de Clémenceau, une localité éloignée du centre de la commune. D'après Le Nouvelliste, ils se sont cachés à Clémenceau, ont contourné Belot et sont passés par Chauffard avant de s'en prendre aux personnes présentes sur le marché. Le bilan de 10 morts et 7 blessés vient du CASEC de Bongars, Renold Vertus, et la PNH l'a repris. Il reste provisoire. Le Quotidien 509, dans un résumé en créole, a avancé 11 morts et 9 blessés, mais le chiffre officiel est toujours de 10 morts.\n\nLa PNH dit avoir mobilisé ses unités, avec la Task Force, pour une opération à Bongars et à Clémenceau, appuyée par des hélicoptères, afin de localiser et de neutraliser les hommes armés. NAGO précise que cette Task Force est une équipe de sécurité privée de la société américaine Vectus Global, qui travaille pour le gouvernement. La police n'a communiqué aucun bilan du côté des assaillants. Son haut commandement dit avoir ordonné aux chefs des unités spécialisées et aux directeurs départementaux de renforcer les opérations de recherche dans les sections communales et dans tous les départements.\n\nLa mairie de Kenscoff a publié le même jour une note (réf. MK/BM-1842), où elle parle d'une attaque contre le marché de Bolosse, dans la section de Bongars. Elle y voit une « énième offensive meurtrière » qui montre la fragilité du dispositif de sécurisation et l'insuffisance de la consolidation territoriale. La mairie demande de protéger les marchés publics et de tenir durablement les zones reprises, rapporte Le Quotidien 509.\n\nVant Bèf Info rappelle que l'attaque est survenue une quinzaine de jours après une distribution d'intrants agricoles à Kenscoff, au cours de laquelle le Premier ministre Alix Didier Fils-Aimé avait encouragé les déplacés à rentrer chez eux. Elle est aussi venue au lendemain de l'annonce, par la PNH et la Force de répression des gangs (FRG), de cinq bases opérationnelles avancées, dont une à Kenscoff. L'agence EFE, reprise par Diario Libre, a fait état du même bilan.",
     },
-    sources: ["PNH","Le Nouvelliste","Le Quotidien 509","NAGO","Vant Bèf Info","EFE / Diario Libre"],
+    sources: ["PNH","Le Nouvelliste","Le Quotidien 509","NAGO","Vant Bèf Info","EFE / Diario Libre", "Mairie de Kenscoff (Magik9)", "HaitiLibre", "Rezo Nòdwès"],
     sourceLinks: [
+      { name: "Le Nouvelliste, bilan du maire", url: "https://lenouvelliste.com/article/274301/11-dead-and-several-injured-in-kenscoff-jean-max-duvivier-calls-for-vigilance-among-the-population" },
+      { name: "HaitiLibre", url: "https://www.haitilibre.com/article-48979-haiti-flash-attaque-armee-a-kenscoff-au-marche-de-bolosse-au-moins-17-victimes.html" },
+      { name: "Rezo Nòdwès", url: "https://rezonodwes.com/2026/11/massacre-a-kenscoff-le-bilan-des-victimes-a-bongars-repart-a-la-hausse/" },
       { name: "Le Nouvelliste", url: "https://lenouvelliste.com/article/274288/10-dead-and-7-injured-in-kenscoff-police-announce-the-hunt-for-the-terrorists-behind-this-attack" },
       { name: "Le Quotidien 509, bilan de la PNH", url: "https://lequotidien509.com/nouvelle-attaque-a-kenscoff-le-bilan-salourdit-la-police-annonce-le-lancement-dune-operation/" },
       { name: "Le Quotidien 509, note de la mairie", url: "https://lequotidien509.com/kenscoff-la-mairie-denonce-une-nouvelle-attaque-meurtriere-au-marche-de-bolosse/" },
