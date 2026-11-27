@@ -567,7 +567,7 @@ export const STORIES: Story[] = [
     topic: "security",
     isFollowUp: true,
     publishedAt: "2026-11-26",
-    publishedTime: "2026-11-27T08:52:00-05:00",
+    publishedTime: "2026-11-27T08:47:00-05:00",
     headline: {
       ht: "Kenscoff: bilan atak sou mache Bongars la monte a 11 mò, dapre majistra a",
       fr: "Kenscoff : le bilan de l'attaque du marché de Bongars passe à 11 morts, selon le maire",
